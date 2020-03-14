@@ -5,21 +5,28 @@ fields:
 - type: text
   name: title
   label: titre
-  description: Titre du post
 - name: publishDate
   default: Now
   label: Date
   hidden: true
   type: datetime
-- name: Categories
-  default: []
-  label: Categories
+- type: text
+  name: description
+  label: description
+# - name: Categories
+#   default: []
+#   label: Categories
+#   hidden: false
+#   type: list
+- name: Association
+  type: boolean
+  label: Association
+  description: Ce post est-il en rapport direct avec l'association ?
+  default: false
   hidden: false
-  type: list
 - type: select
   name: category
-  label: Category
-  description: Select a category for this page
+  label: Catégorie
   hidden: false
   required: true
   config:
@@ -36,14 +43,4 @@ fields:
         - "Poste"
         - "Rapport"
         - "Autre"
-- name: Association
-  type: boolean
-  label: Association
-  description: Ce post est-il en rapport direct avec l'association ?
-  default: false
-  hidden: false
-- type: text
-  name: description
-  label: description
-pages:
-- contentSite/content/blog/test-date.md
+

@@ -6,7 +6,14 @@
     <div class="container">
           <h1>{{.Title}}</h3>
           <p id="date">Publié le {{ .PublishDate.Format "Jan 02, 2006" }}</span></p>
-          <div class="description">{{.Description }}</div>
+          <div class="category-container">
+            <!-- <p class="group">
+              {{ if eq .Params.category ""}}
+              {{ end }}
+            </p> -->
+            <p class="category">{{ .Params.category }}</p>
+          </div>
+          <div class="description"><p>{{.Description }}</p></div>
           <div class="content">
             {{.Content }}
           </div>
