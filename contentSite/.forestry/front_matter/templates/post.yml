@@ -27,15 +27,13 @@ fields:
       type: custom
     options:
         - "Appel à communication"
-        - "Évènement"
-          - "Soutenance de thèse"
-          - "Journée d'étude"
-          - "Conférence"
-          - "Colloque"
-        - "Opportunité"
-          - "Bourse de thèse"
-          - "Post Doc"
-          - "Poste"
+        - "Soutenance de thèse"
+        - "Journée d'étude"
+        - "Conférence"
+        - "Colloque"
+        - "Bourse de thèse"
+        - "Post Doc"
+        - "Poste"
         - "Rapport"
         - "Autre"
 - name: Association
