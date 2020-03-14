@@ -5,42 +5,42 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: exampleSite/content/people
+  path: contentSite/content/people
   label: People
   create: documents
   match: "*"
   templates:
   - peoplz
 - type: directory
-  path: exampleSite/content/blog
+  path: contentSite/content/blog
   label: Post
   create: documents
   match: "*"
   templates:
   - post
 - type: directory
-  path: exampleSite/content/about
+  path: contentSite/content/about
   label: About
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/data
+  path: contentSite/data
   label: Data
   create: documents
   match: "*"
   new_doc_ext: yml
 - type: directory
-  path: exampleSite/content/contact
+  path: contentSite/content/contact
   label: Contact
   create: none
   match: "*"
 - type: directory
-  path: exampleSite
+  path: contentSite
   label: Configuration
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: exampleSite/static/images
+upload_dir: contentSite/static/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false

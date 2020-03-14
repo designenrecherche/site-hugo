@@ -1,7 +1,7 @@
 # portfolio item
 item:
   - image : "images/portfolio/item-1.png"
-    project_url : "http://examplesite.com"
+    project_url : "http://contentSite.com"
     category: "design"
       
   - image : "images/portfolio/item-2.png"
@@ -9,7 +9,7 @@ item:
     category: "branding"
       
   - image : "images/portfolio/item-3.png"
-    project_url : "http://examplesite.com"
+    project_url : "http://contentSite.com"
     category: "illustration"
       
   - image : "images/portfolio/item-5.png"
@@ -17,7 +17,7 @@ item:
     category: "design"
       
   - image : "images/portfolio/item-8.png"
-    project_url : "http://examplesite.com"
+    project_url : "http://contentSite.com"
     category: "illustration"
       
   - image : "images/portfolio/item-6.png"
@@ -25,7 +25,7 @@ item:
     category: "design"
       
   - image : "images/portfolio/item-1.png"
-    project_url : "http://examplesite.com"
+    project_url : "http://contentSite.com"
     category: "branding"
       
   - image : "images/portfolio/item-3.png"
@@ -33,7 +33,7 @@ item:
     category: "illustration"
       
   - image : "images/portfolio/item-7.png"
-    project_url : "http://examplesite.com"
+    project_url : "http://contentSite.com"
     category: "branding"
 
 
