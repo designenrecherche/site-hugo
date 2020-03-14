@@ -13,11 +13,6 @@ fields:
 - type: text
   name: description
   label: description
-# - name: Categories
-#   default: []
-#   label: Categories
-#   hidden: false
-#   type: list
 - name: Association
   type: boolean
   label: Association
@@ -33,14 +28,16 @@ fields:
     source:
       type: custom
     options:
-        - "Appel à communication"
-        - "Soutenance de thèse"
-        - "Journée d'étude"
-        - "Conférence"
-        - "Colloque"
-        - "Bourse de thèse"
-        - "Post Doc"
-        - "Poste"
-        - "Rapport"
-        - "Autre"
-
+    - Appel à communication
+    - Soutenance de thèse
+    - Journée d'étude
+    - Conférence
+    - Colloque
+    - Bourse de thèse
+    - Post Doc
+    - Poste
+    - Rapport
+    - Autre
+pages:
+- contentSite/content/blog/test-date.md
+- contentSite/content/blog/test-programme.md
