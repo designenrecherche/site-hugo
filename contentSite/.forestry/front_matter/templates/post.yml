@@ -8,9 +8,19 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: publishDate
+  default: ''
+  label: Date
+  hidden: false
+  type: datetime
 - type: file
   name: image
   label: image
+- name: Categories
+  default: []
+  label: Categories
+  hidden: false
+  type: list
 - type: text
   name: description
   label: description

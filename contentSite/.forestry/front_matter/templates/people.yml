@@ -1,0 +1,16 @@
+---
+label: People
+hide_body: false
+fields:
+- type: text
+  name: name
+  label: mane
+- type: datetime
+  name: dateInscriptionThese
+  label: date
+- type: file
+  name: photo
+  label: image
+- type: text
+  name: description
+  label: description

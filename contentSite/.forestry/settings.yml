@@ -10,6 +10,13 @@ sections:
   create: none
   match: "*"
 - type: directory
+  path: exampleSite/content/people
+  label: People
+  create: documents
+  match: "*"
+  templates:
+  - peoplz
+- type: directory
   path: exampleSite/content/blog
   label: Post
   create: documents
