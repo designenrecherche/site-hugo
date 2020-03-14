@@ -5,8 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: exampleSite/content/portfolio
-  label: Portfolio
+  path: exampleSite/content/people
+  label: People
   create: none
   match: "*"
 - type: directory
