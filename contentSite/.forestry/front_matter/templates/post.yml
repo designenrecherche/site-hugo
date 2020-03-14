@@ -3,24 +3,28 @@ label: Post
 hide_body: false
 fields:
 - type: text
-  name: title
+  name: titre
   label: title
-- type: datetime
-  name: date
-  label: date
 - name: publishDate
   default: ''
   label: Date
-  hidden: false
+  hidden: true
   type: datetime
-- type: file
-  name: image
-  label: image
+# - type: file
+#   name: image
+#   label: image
 - name: Categories
   default: []
   label: Categories
   hidden: false
   type: list
+- name: Association
+  type: boolean
+  label: Association
+  description: Ce post est-il en rapport direct avec l'association ? 
+  default: false
+  hidden: false
 - type: text
   name: description
   label: description
+
