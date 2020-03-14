@@ -5,6 +5,7 @@ fields:
 - type: text
   name: titre
   label: title
+  description: "Titre du post"
 - name: publishDate
   default: ''
   label: Date
