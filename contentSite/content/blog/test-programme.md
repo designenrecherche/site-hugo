@@ -6,6 +6,7 @@ publishDate = 2020-03-14T14:20:34Z
 title = "Test programme"
 
 +++
+Design en recherche organise une journée d'étude sur le thème...
 
 ### Programme
 
