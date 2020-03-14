@@ -7,7 +7,7 @@ fields:
   label: title
   description: "Titre du post"
 - name: publishDate
-  default: ''
+  default: 'Now'
   label: Date
   hidden: true
   type: datetime
