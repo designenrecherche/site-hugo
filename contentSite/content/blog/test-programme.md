@@ -2,7 +2,6 @@
 Association = false
 category = "Conférence"
 description = "Ceci est la description de mon programme"
-draft = true
 publishDate = 2020-03-14T14:20:34Z
 title = "Test programme"
 
