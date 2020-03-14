@@ -21,13 +21,23 @@ fields:
   label: Category
   description: Select a category for this page
   hidden: false
+  required: true
   config:
     source:
       type: custom
     options:
-        - "Rouge"
-        - "Vert"
-        - "Bleu"
+        - "Appel à communication"
+        - "Évènement"
+          - "Soutenance de thèse"
+          - "Journée d'étude"
+          - "Conférence"
+          - "Colloque"
+        - "Opportunité"
+          - "Bourse de thèse"
+          - "Post Doc"
+          - "Poste"
+        - "Rapport"
+        - "Autre"
 - name: Association
   type: boolean
   label: Association
