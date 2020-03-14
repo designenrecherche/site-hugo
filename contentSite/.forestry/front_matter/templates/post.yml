@@ -3,8 +3,8 @@ label: Post
 hide_body: false
 fields:
 - type: text
-  name: titre
-  label: title
+  name: title
+  label: titre
   description: Titre du post
 - name: publishDate
   default: Now
@@ -16,6 +16,18 @@ fields:
   label: Categories
   hidden: false
   type: list
+- type: select
+  name: category
+  label: Category
+  description: Select a category for this page
+  hidden: false
+  config:
+    source:
+      type: custom
+    options:
+        - "Rouge"
+        - "Vert"
+        - "Bleu"
 - name: Association
   type: boolean
   label: Association
