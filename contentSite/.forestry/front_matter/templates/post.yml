@@ -5,15 +5,12 @@ fields:
 - type: text
   name: titre
   label: title
-  description: "Titre du post"
+  description: Titre du post
 - name: publishDate
-  default: 'Now'
+  default: Now
   label: Date
   hidden: true
   type: datetime
-# - type: file
-#   name: image
-#   label: image
 - name: Categories
   default: []
   label: Categories
@@ -22,10 +19,11 @@ fields:
 - name: Association
   type: boolean
   label: Association
-  description: Ce post est-il en rapport direct avec l'association ? 
+  description: Ce post est-il en rapport direct avec l'association ?
   default: false
   hidden: false
 - type: text
   name: description
   label: description
-
+pages:
+- contentSite/content/blog/test-date.md
