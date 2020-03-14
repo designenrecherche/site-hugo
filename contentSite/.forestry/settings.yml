@@ -7,11 +7,6 @@ sections:
 - type: directory
   path: exampleSite/content/people
   label: People
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/people
-  label: People
   create: documents
   match: "*"
   templates:
