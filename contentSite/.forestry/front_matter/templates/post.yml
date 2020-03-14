@@ -24,5 +24,3 @@ fields:
 - type: text
   name: description
   label: description
-pages:
-- exampleSite/content/blog/ceci-est-le-titre-du-post.md
