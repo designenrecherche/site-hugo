@@ -1,5 +1,5 @@
 +++
-Categories = ["vert", "rouge"]
+Categories = ["Opportunités", "Résidence instagram", "Journées d'études et colloques", "Évènements", "Appels à communication"]
 date = ""
 description = ""
 image = ""
