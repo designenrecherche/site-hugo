@@ -97,6 +97,23 @@
   {{ end }}
 
 
+  {{ if .Site.Data.homepage.breves.enable }}
+  <!-- blog -->
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h2 class="section-title">{{.Site.Data.homepage.breves.title | markdownify }}</h2>
+        </div>
+        {{ range first 3 .Site.RegularPages }}
+        {{ .Render "post" }}
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <!-- /blog -->
+  {{ end }}
+
   
 
 
@@ -178,22 +195,7 @@
   <!-- /client logo slider -->
   {{ end }}
 
-  {{ if .Site.Data.homepage.blog.enable }}
-  <!-- blog -->
-  <section class="section">
-    <div class="container">
-      <div class="row">
-        <div class="col-12 text-center">
-          <h2 class="section-title">{{.Site.Data.homepage.blog.title | markdownify }}</h2>
-        </div>
-        {{ range first 3 .Site.RegularPages }}
-        {{ .Render "post" }}
-        {{ end }}
-      </div>
-    </div>
-  </section>
-  <!-- /blog -->
-  {{ end }}
+
 
 
 {{ end }}
