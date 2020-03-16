@@ -92,6 +92,9 @@ fields:
     min: 
     max: 
     step: 
+- name: these_soutenue
+  type: boolean
+  label: Thèse soutenue
 - name: these-end
   type: number
   label: Date de soutenance de thèse
