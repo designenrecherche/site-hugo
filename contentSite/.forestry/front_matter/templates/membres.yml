@@ -1,4 +1,102 @@
 ---
 label: membres
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Prénom Nom
+- name: etablissement_s___laboratoire_s_
+  type: text
+  config:
+    required: false
+  label: Établissement(s), laboratoire(s)
+- name: discipline
+  type: select
+  default: ''
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Discipline d'inscription
+- name: these-start
+  type: number
+  label: Date d'inscription en thèse
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: these-end
+  type: number
+  label: Date de soutenance de thèse
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: tags
+  type: tag_list
+  default: []
+  label: Mots-clés
+  description: Quelques mots-clés pour décrire ta thèse
+- name: contact
+  type: field_group
+  config: {}
+  fields:
+  - name: mail
+    type: text
+    config:
+      required: false
+    label: mail
+  - name: site
+    type: text
+    config:
+      required: false
+    label: site perso
+  - name: telephone
+    type: number
+    label: Téléphone
+    description: ''
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+  - name: twitter
+    type: text
+    config:
+      required: false
+    label: Twitter
+  - name: linkedin
+    type: text
+    config:
+      required: false
+    label: Linkedin
+  - name: instagram
+    type: text
+    config:
+      required: false
+    label: Instagram
+  - name: facebook
+    type: text
+    config:
+      required: false
+    label: Facebook
+  label: Contact
+  description: Mail, site perso, réseaux sociaux, téléphone... (à toi de choisir)
+- name: url_thesesfr
+  type: text
+  config:
+    required: false
+  label: URL theses.fr
