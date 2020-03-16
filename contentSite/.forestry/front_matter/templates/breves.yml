@@ -15,6 +15,7 @@ fields:
   label: Catégorie
   hidden: false
   required: true
+  default: Appel à communication
   config:
     source:
       type: custom
@@ -57,13 +58,27 @@ fields:
   - type: text
     name: lieu
     label: Lieu de l'évènement
+  - type: select
+    name: type
+    label: Type d'évènement
+    hidden: false
+    required: true
+    default: Conférence
+    config:
+      source:
+        type: custom
+      options:
+      - Conférence
+      - Journée d'étude
+      - Colloque
+      - Autre
 - type: text
   name: url
   label: URL
   description: URL de redirection vers site de l'évènement, l'appel à communication, la proposition, etc.
-- type: text
-  name: description
-  label: description
+#- type: text
+#  name: description
+#  label: description
 - type: image_gallery
   name: documents
   label: Documents
