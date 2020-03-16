@@ -37,12 +37,12 @@ fields:
     hidden: false
     config:
       date_format: MM/DD/YYYY
-      time_format: "h:mm A Z"
+      time_format: h:mm A Z
       display_utc: false
-      export_format: "YYYY-MM-DDThh:mm:ssZ"
+      export_format: YYYY-MM-DDThh:mm:ssZ
 - type: field_group
   name: evenement
-  label: "Évènement"
+  label: Évènement
   description: Si c'est un évènement, cliquer pour remplir les champs
   hidden: false
   fields:
@@ -52,9 +52,9 @@ fields:
     hidden: false
     config:
       date_format: MM/DD/YYYY
-      time_format: "h:mm A Z"
+      time_format: h:mm A Z
       display_utc: false
-      export_format: "YYYY-MM-DDThh:mm:ssZ"
+      export_format: YYYY-MM-DDThh:mm:ssZ
   - type: text
     name: lieu
     label: Lieu de l'évènement
@@ -75,14 +75,12 @@ fields:
 - type: text
   name: url
   label: URL
-  description: URL de redirection vers site de l'évènement, l'appel à communication, la proposition, etc.
-#- type: text
-#  name: description
-#  label: description
+  description: URL de redirection vers site de l'évènement, l'appel à communication,
+    la proposition, etc.
 - type: image_gallery
   name: documents
   label: Documents
   description: Programme, appel ou tout autre document utile
-
 pages:
 - contentSite/content/breves/ceci-est-une-brève.md
+- contentSite/content/breves/sciences-du-design-12-varia.md
