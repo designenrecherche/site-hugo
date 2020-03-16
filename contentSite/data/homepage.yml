@@ -172,4 +172,8 @@ breves:
 twitter_feed:
   enable : true
   title : "Twitter"
-  # blog post comes from "content/breves" folder
+
+# Instagram
+instagram_feed:
+  enable : true
+  title : "Instagram"

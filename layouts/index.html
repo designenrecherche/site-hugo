@@ -175,13 +175,18 @@
   {{ end }}
 
   {{ if .Site.Data.homepage.twitter_feed.enable }}
-  <a class="twitter-timeline" data-width="300" data-theme="light" href="https://twitter.com/DesignRecherche?ref_src=twsrc%5Etfw">Tweets by DesignRecherche</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <aside id="feed-tweeter">
+  <a class="twitter-timeline" data-width="300" data-theme="light" href="https://twitter.com/DesignRecherche?ref_src=twsrc%5Etfw">Tweets by DesignRecherche</a> 
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </aside>
   {{ end }}
 
+  {{ if .Site.Data.homepage.instagram_feed.enable }}
   <aside id="feed-instagram">
   <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-b981103c-80e2-4e3c-95ab-ea871a26ce00"></div>
 </aside>
+{{ end }}
 
   {{ if .Site.Data.homepage.testimonial.enable }}
   {{ with .Site.Data.homepage.testimonial }}
