@@ -3,7 +3,7 @@ category = "Appel à communication"
 documents = []
 publishDate = 2020-03-16T15:42:14Z
 title = "Sciences du Design — 12 — Varia"
-url = "http://www.sciences-du-design.org/index.php/sdd/announcement/view/7"
+externallink = "http://www.sciences-du-design.org/index.php/sdd/announcement/view/7"
 [appel]
 date-appel = "2020-02-14T11:00:00+00:00"
 [evenement]

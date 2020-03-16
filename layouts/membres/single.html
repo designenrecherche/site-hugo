@@ -1,0 +1,21 @@
+
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<section class="section" id="section-breve-single">
+  <div class="container">
+       <p>TEMPLATE MEMBRES</p>
+        <h1>{{.Title}}</h3>
+          {{ if .Params.section_cnu }}<p class="section-cnu">{{ .Params.section_cnu }}</p>{{ end }}
+        
+        <div class="description"><p>{{.Description }}</p></div>
+        <div class="content">
+          {{.Content }}
+        </div>
+  </div>
+</section>
+
+{{ end }}
+
+

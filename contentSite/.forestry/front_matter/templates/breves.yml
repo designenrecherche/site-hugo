@@ -77,7 +77,7 @@ fields:
       - Colloque
       - Autre
 - type: text
-  name: url
+  name: external-link
   label: URL
   description: URL de redirection vers site de l'évènement, l'appel à communication,
     la proposition, etc.
