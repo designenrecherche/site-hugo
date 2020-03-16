@@ -7,6 +7,7 @@ section_cnu = "18 Arts appliqués"
 tags = ["design", " poïétique", "expérience", "tactique", "interdisciplinarité", "éthique"]
 these-end = 2014
 these-start = 2010
+these_soutenue = true
 title = " Estelle Berger"
 url_thesesfr = "https://theses.fr/2014TOU20044"
 [contact]
