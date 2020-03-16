@@ -1,7 +1,7 @@
 ---
 label: Breves
 hide_body: false
-fields: []
+fields:
 - type: text
   name: title
   label: titre
