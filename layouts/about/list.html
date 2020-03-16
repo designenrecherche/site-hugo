@@ -20,21 +20,9 @@
 <!-- /page title -->
 
 <!-- about -->
-<section class="section pt-5">
+<section>
   <div class="container">
-    <div class="row">
-      <div class="col-md-8">
         {{ .Content }}
-      </div>
-      <div class="col-md-4 text-center drag-lg-top">
-        <div class="shadow-down mb-4">
-          <img src="{{.Params.author_image | absURL }}" alt="author"
-            class="img-fluid w-100 rounded-lg border-thick border-white">
-        </div>
-        <img src="{{.Params.author_signature | absURL }}" alt="signature" class="img-fluid">
-        <h4>{{ .Site.Params.Author }}</h4>
-      </div>
-    </div>
   </div>
 </section>
 <!-- /about -->
@@ -89,17 +77,6 @@
 {{ end }}
 <!-- /team -->
 
-{{ if .Site.Data.about.clients_logo_slider.enable }}
-<section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h2 class="section-title">{{ .Site.Data.about.clients_logo_slider.title | markdownify }}</h2>
-      </div>
-    </div>
-    {{ partial "client-slider.html" . }}
-  </div>
-</section>
-{{ end }}
+
 
 {{ end }}
