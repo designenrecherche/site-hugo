@@ -159,6 +159,11 @@ fields:
     config:
       required: false
     label: Facebook
+  - name: hypotheses
+    type: text
+    config:
+      required: false
+    label: Carnet Hypothèses
   label: Contact
   description: Mail, site perso, réseaux sociaux, téléphone... (à toi de choisir)
 - name: url_thesesfr
