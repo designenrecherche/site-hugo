@@ -19,13 +19,6 @@ sections:
   templates:
   - post
 - type: directory
-  path: contentSite/content/breves
-  label: Breves
-  create: documents
-  match: "*"
-  templates:
-  - breves
-- type: directory
   path: contentSite/content/about
   label: About
   create: none
