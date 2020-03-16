@@ -1,7 +1,7 @@
 +++
 description = "Formée au design de produit à l’ENSAAMA - Olivier de Serres, j’ai progressivement glissé vers le numérique pour me spécialiser dans le design d’interaction. Les détours de mon parcours m’amènent à utiliser la donnée comme une matière première et à lui donner du sens avec les méthodes du design.\n\nTravaille à Paris, Nîmes."
 etablissement = "Unîmes, groupe Projekt. Orange Labs, Sense."
-photo = "/uploads/2017/12/31/placeholder.jpg"
+photo = "/images/dumesny-rose.png"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["tangible", "représentation des données", "design", "perception sensible", "usages"]
 these-end = 2019
