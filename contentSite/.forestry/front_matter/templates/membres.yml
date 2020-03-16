@@ -10,7 +10,6 @@ fields:
 - type: file
   name: photo
   label: Photo de profil
-  # description: Provide a banner image for this post
   hidden: false
   default: "/uploads/2017/12/31/placeholder.jpg"
 - name: etablissement

@@ -54,3 +54,5 @@ fields:
   label: Documents
   description: Programme, appel ou tout autre document utile
   hidden: false
+pages:
+- contentSites/content/association/situations-graphiques.md
