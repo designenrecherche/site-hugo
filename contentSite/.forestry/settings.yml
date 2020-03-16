@@ -10,7 +10,7 @@ sections:
   create: documents
   match: "*"
   templates:
-  - peoplz
+  - people
 - type: directory
   path: contentSite/content/blog
   label: Post
@@ -18,6 +18,13 @@ sections:
   match: "*"
   templates:
   - post
+- type: directory
+  path: contentSite/content/breves
+  label: Breves
+  create: documents
+  match: "*"
+  templates:
+  - breves
 - type: directory
   path: contentSite/content/about
   label: About
