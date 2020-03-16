@@ -5,6 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: contentSites/content/association
+  label: Asso (RDV, évènements...)
+  create: all
+  match: "**/*"
+  templates:
+  - association
+- type: directory
   path: contentSite/content/membres
   label: Membres
   create: all
