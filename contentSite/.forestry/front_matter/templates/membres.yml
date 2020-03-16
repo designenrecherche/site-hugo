@@ -87,6 +87,17 @@ fields:
     - 73 Cultures et langues régionales
     - 74 Sciences et techniques des activités physiques et sportives
   label: Section CNU
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+    max: '1000'
+  label: Présentation
+  description: Champ libre pour te présenter (1000 signes maximum)
 - name: these-start
   type: number
   label: Date d'inscription en thèse
@@ -181,17 +192,6 @@ fields:
   config:
     required: false
   label: URL theses.fr
-- name: description
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-    max: '1000'
-  label: Présentation
-  description: Champ libre pour te présenter (1000 signes maximum)
 pages:
 - contentSite/content/membres/estelle-berger.md
 - contentSite/content/membres/rose-dumesny.md
