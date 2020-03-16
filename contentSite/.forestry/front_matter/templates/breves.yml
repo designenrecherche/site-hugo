@@ -5,6 +5,10 @@ fields:
 - type: text
   name: title
   label: titre
+- type: text
+  name: description
+  label: description
+  description: Court texte de description
 - name: publishDate
   default: Now
   label: Date
