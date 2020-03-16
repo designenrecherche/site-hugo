@@ -26,3 +26,5 @@ fields:
     - Publications
     - Opportunités
     - Autre
+pages:
+- contentSite/content/breves/ceci-est-une-brève.md
