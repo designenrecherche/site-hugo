@@ -111,3 +111,5 @@ fields:
     max: '1000'
   label: Présentation
   description: Champ libre pour te présenter (1000 signes maximum)
+pages:
+- contentSite/content/membres/estelle-berger.md
