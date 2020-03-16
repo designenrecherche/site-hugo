@@ -2,3 +2,27 @@
 label: Breves
 hide_body: false
 fields: []
+- type: text
+  name: title
+  label: titre
+- name: publishDate
+  default: Now
+  label: Date
+  hidden: true
+  type: datetime
+- type: text
+  name: description
+  label: description
+- type: select
+  name: category
+  label: Catégorie
+  hidden: false
+  required: true
+  config:
+    source:
+      type: custom
+    options:
+    - Évènements
+    - Publications
+    - Opportunités
+    - Autre
