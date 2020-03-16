@@ -3,6 +3,7 @@ description = "Cette recherche, menée par un designer-chercheur en immersion da
 discipline = ""
 etablissement = "Toulouse Jean Jaurès, LARA - Laboratoire de Recherche en Arts"
 etablissement_s___laboratoire_s_ = "Toulouse Jean Jaurès, LARA - Laboratoire de Recherche en Arts"
+photo = "/images/berger-estelle.png"
 section_cnu = "18 Arts appliqués"
 tags = ["design", " poïétique", "expérience", "tactique", "interdisciplinarité", "éthique"]
 these-end = 2014
@@ -12,6 +13,9 @@ title = " Estelle Berger"
 url_thesesfr = "https://theses.fr/2014TOU20044"
 [contact]
 facebook = ""
+github = ""
+gitlab = ""
+hypotheses = ""
 instagram = ""
 linkedin = ""
 mail = ""
