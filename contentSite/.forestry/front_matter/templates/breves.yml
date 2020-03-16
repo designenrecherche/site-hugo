@@ -31,14 +31,14 @@ fields:
   hidden: false
   fields:
   - type: datetime
-  name: date-appel
-  label: Deadline de l'appel
-  hidden: false
-  config:
-    date_format: MM/DD/YYYY
-    time_format: "h:mm A Z"
-    display_utc: false
-    export_format: "YYYY-MM-DDThh:mm:ssZ"
+    name: date-appel
+    label: Deadline de l'appel
+    hidden: false
+    config:
+      date_format: MM/DD/YYYY
+      time_format: "h:mm A Z"
+      display_utc: false
+      export_format: "YYYY-MM-DDThh:mm:ssZ"
 - type: field_group
   name: evenement
   label: "Évènement"
@@ -46,14 +46,14 @@ fields:
   hidden: false
   fields:
   - type: datetime
-  name: date-event
-  label: Date de l'évènement
-  hidden: false
-  config:
-    date_format: MM/DD/YYYY
-    time_format: "h:mm A Z"
-    display_utc: false
-    export_format: "YYYY-MM-DDThh:mm:ssZ"
+    name: date-event
+    label: Date de l'évènement
+    hidden: false
+    config:
+      date_format: MM/DD/YYYY
+      time_format: "h:mm A Z"
+      display_utc: false
+      export_format: "YYYY-MM-DDThh:mm:ssZ"
   - type: text
     name: lieu
     label: Lieu de l'évènement
