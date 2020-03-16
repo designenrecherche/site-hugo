@@ -7,23 +7,79 @@ fields:
   config:
     required: true
   label: Prénom Nom
-- name: etablissement_s___laboratoire_s_
+- name: etablissement
   type: text
   config:
     required: false
   label: Établissement(s), laboratoire(s)
-- name: discipline
+- name: section_cnu
   type: select
   default: ''
   config:
-    required: false
-    options: []
     source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Discipline d'inscription
+      type: custom
+    options:
+    - "71 Sciences de l'information et de la communication"
+    - "18 Architecture"
+    - "18 Arts appliqués"
+    - "18 Arts plastiques"
+    - "18 Arts du spectacle"
+    - "18 Épistémologie des enseignements artistiques" 
+    - "18 Esthétique"
+    - "18 Musicologie, musique"
+    - "18 Sciences de l'art"
+    - "04 Science politique"
+    - "05 Sciences économiques"
+    - "06 Sciences de gestion"
+    - "07 Sciences du langage : linguistique et phonétique générales"
+    - "08 Langues et littératures anciennes"
+    - "09 Langue et littérature françaises"
+    - "10 Littératures comparées"
+    - "11 Langues et littératures anglaises et anglo-saxonnes"
+    - "12 Langues et littératures germaniques et scandinaves"
+    - "13 Langues et littératures slaves"
+    - "14 Langues et littératures romanes : espagnol, italien, portugais, autres langues romanes"
+    - "15 Langues et littératures arabes, chinoises, japonaises, hébraïques, d'autres domaines"
+    - "linguistiques"
+    - "16 Psychologie"
+    - "16 Psychologie, Ergonomie"
+    - "17 Philosophie"
+    - "19 Sociologie"
+    - "20 Anthropologie"
+    - "20 Ethnologie"
+    - "21 Histoire, civilisation, archéologie et art des mondes anciens et médiévaux"
+    - "22 Histoire des mondes modernes"
+    - "22 Histoire du monde contemporain"
+    - "22 Histoire de l'art"
+    - "22 Histoirede la musique"
+    - "23 Géographie physique, humaine, économique et régionale"
+    - "24 Aménagement de l'espace, urbanisme"
+    - "25 Mathématiques"
+    - "26 Mathématiques appliquées et applications des mathématiques"
+    - "27 Informatique"
+    - "28 Milieux denses et matériaux"
+    - "29 Constituants élémentaires"
+    - "30 Milieux dilués et optique"
+    - "31 Chimie théorique, physique, analytique"
+    - "32 Chimie organique, minérale, industrielle"
+    - "33 Chimie des matériaux"
+    - "34 Astronomie, astrophysique"
+    - "35 Structure et évolution de la Terre et des autres planètes"
+    - "36 Terre solide : géodynamique des enveloppes supérieures, paléo-biosphère"
+    - "60 Mécanique, génie mécanique, génie civil"
+    - "61 Génie informatique, automatique et traitement du signal"
+    - "62 Energétique, génie des procédés"
+    - "63 Génie électrique, électronique, photonique et systèmes"
+    - "64 Biochimie et biologie moléculaire"
+    - "65 Biologie cellulaire"
+    - "67 Biologie des populations et écologie"
+    - "68 Biologie des organismes"
+    - "69 Neurosciences"
+    - "70 Sciences de l'éducation"
+    - "72 Epistémologie, histoire des sciences et des techniques"
+    - "73 Cultures et langues régionales"
+    - "74 Sciences et techniques des activités physiques et sportives"
+  label: Section CNU
 - name: these-start
   type: number
   label: Date d'inscription en thèse
