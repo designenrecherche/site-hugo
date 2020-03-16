@@ -164,6 +164,16 @@ fields:
     config:
       required: false
     label: Carnet Hypothèses
+  - name: github
+    type: text
+    config:
+      required: false
+    label: Github
+  - name: gitlab
+    type: text
+    config:
+      required: false
+    label: Gitlab
   label: Contact
   description: Mail, site perso, réseaux sociaux, téléphone... (à toi de choisir)
 - name: url_thesesfr
