@@ -7,3 +7,50 @@ fields:
   config:
     required: true
   label: Titre
+- type: text
+  name: description
+  label: description
+  description: Court texte de description
+- type: file
+  name: banner
+  label: Banner
+  description: Provide a banner image for this post
+  hidden: false
+  default "/uploads/2017/12/31/placeholder.jpg"
+- name: publishDate
+  default: Now
+  label: Date
+  hidden: true
+  type: datetime
+- type: select
+  name: category
+  label: Catégorie
+  hidden: false
+  required: true
+  default: RDV asso (AG, bières, rapports...)
+  config:
+    source:
+      type: custom
+    options:
+    - RDV asso (AG, bières, rapports...)
+    - Conférence
+    - Journée d'étude
+    - Soutenance thèse
+    - Autre
+- type: datetime
+  name: date-event
+  label: Date de l'évènement
+  hidden: false
+  config:
+    date_format: MM/DD/YYYY
+    time_format: h:mm A Z
+    display_utc: false
+    export_format: YYYY-MM-DDThh:mm:ssZ
+- type: text
+  name: lieu
+  label: Lieu de l'évènement
+- type: file
+  name: documents
+  label: Documents
+  description: Programme, appel ou tout autre document utile
+  hidden: false
