@@ -20,9 +20,11 @@ Si le design est traversé par des enjeux sociaux, économiques et politiques ma
 
 ## Composition des bureaux
 
+
+
 ### Composition du bureau pour l'année 2019-2020
 
-- Zoé Bonnardot, présidente
+- {{< bureau name="Zoé Bonnardot" link="rose-dumesny" role="présidente">}}
 - Julie Blanc, trésorière
 - Marion Voillot, secrétaire
 - Manon Ménard, secrétaire
