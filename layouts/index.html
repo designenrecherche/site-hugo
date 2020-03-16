@@ -140,39 +140,12 @@
   <!-- /breves -->
   {{ end }}
 
-  
-
-
-  {{ if .Site.Data.homepage.portfolio.enable }}
-  <!-- portfolio -->
-  <section class="section">
-    <div class="container">
-      <div class="row">
-        <div class="col-12 text-center">
-          <h2 class="section-title">{{ .Site.Data.homepage.portfolio.title | markdownify }}</h2>
-        </div>
-      </div>
-      <div class="row shuffle-wrapper">
-        {{ $item:= .Site.Data.homepage.portfolio.item_show }}
-        {{ range first $item .Site.Data.portfolio.item }}
-        <div class="col-lg-4 col-6 mb-4 shuffle-item">
-          <div class="position-relative rounded hover-wrapper">
-            <img src="{{.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
-            {{ if and ( ne .project_url "" ) ( ne .project_url "#" ) }}
-            <div class="hover-overlay">
-              <div class="hover-content">
-                <a class="btn btn-light btn-sm" href="{{ .project_url | safeURL }}">view project</a>
-              </div>
-            </div>
-            {{ end }}
-          </div>
-        </div>
-        {{ end }}
-      </div>
-    </div>
-  </section>
-  <!-- /portfolio -->
-  {{ end }}
+  {{ if .Site.Data.homepage.instagram_feed.enable }}
+  <aside id="feed-instagram">
+  <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-b981103c-80e2-4e3c-95ab-ea871a26ce00"></div>
+</aside>
+{{ end }}
 
   {{ if .Site.Data.homepage.twitter_feed.enable }}
   <aside id="feed-tweeter">
@@ -181,12 +154,7 @@
   </aside>
   {{ end }}
 
-  {{ if .Site.Data.homepage.instagram_feed.enable }}
-  <aside id="feed-instagram">
-  <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-b981103c-80e2-4e3c-95ab-ea871a26ce00"></div>
-</aside>
-{{ end }}
+
 
   {{ if .Site.Data.homepage.testimonial.enable }}
   {{ with .Site.Data.homepage.testimonial }}
