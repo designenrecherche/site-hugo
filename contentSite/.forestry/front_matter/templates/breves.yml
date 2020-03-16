@@ -81,10 +81,6 @@ fields:
   label: URL
   description: URL de redirection vers site de l'évènement, l'appel à communication,
     la proposition, etc.
-- type: image_gallery
-  name: documents
-  label: Documents
-  description: Programme, appel ou tout autre document utile
 - type: file
   name: documents
   label: Documents
@@ -92,6 +88,10 @@ fields:
   hidden: false
 pages:
 - contentSite/content/breves/ceci-est-une-brève.md
+- contentSite/content/breves/ceci-est-une-brève.md
 - contentSite/content/breves/et-si-les-défis-en-santé-passaient-par-des-enjeux-de-communication-et-de
   design.md
+- contentSite/content/breves/et-si-les-défis-en-santé-passaient-par-des-enjeux-de-communication-et-de
+  design.md
+- contentSite/content/breves/sciences-du-design-12-varia.md
 - contentSite/content/breves/sciences-du-design-12-varia.md
