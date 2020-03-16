@@ -11,6 +11,7 @@ title = "Rose Dumesny"
 url_thesesfr = "http://theses.fr/s193577"
 [contact]
 facebook = ""
+hypotheses = "https://sensdata.hypotheses.org/"
 instagram = "https://www.instagram.com/rose_phd/"
 linkedin = ""
 mail = "info@rosedumesny.com"
