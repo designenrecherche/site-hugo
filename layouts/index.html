@@ -97,21 +97,45 @@
   {{ end }}
 
 
-  {{ if .Site.Data.homepage.breves.enable }}
-  <!-- blog -->
+  {{ if .Site.Data.homepage.association.enable }}
+  <!-- breves -->
   <section class="section">
     <div class="container">
-      <div class="row">
-        <div class="col-12 text-center">
-          <h2 class="section-title">{{.Site.Data.homepage.breves.title | markdownify }}</h2>
+      <div class="row"> 
+        <div class="col-12 text-center"> 
+          <h2 class="section-title">{{.Site.Data.homepage.association.title | markdownify }}</h2>
         </div>
-        {{ range first 3 .Site.RegularPages }}
+        {{ with .Site.GetPage "section" "association" }}
+        {{ range .Pages.ByDate.Reverse }}
         {{ .Render "post" }}
+        {{ end }}
         {{ end }}
       </div>
     </div>
   </section>
-  <!-- /blog -->
+  <!-- /breves -->
+  {{ end }}
+
+  {{ if .Site.Data.homepage.breves.enable }}
+  <!-- breves -->
+  <section class="section">
+    <div class="container">
+      <div class="row"> 
+        <div class="col-12 text-center"> 
+          <h2 class="section-title">{{.Site.Data.homepage.breves.title | markdownify }}</h2>
+        </div>
+        <!-- {{ range first 3 .Site.RegularPages }}
+        {{ .Render "post" }}
+        {{ end }} -->
+        {{ with .Site.GetPage "section" "breves" }}
+        {{ range .Pages.ByDate.Reverse }}
+        {{ .Render "post" }}
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <!-- /breves -->
   {{ end }}
 
   

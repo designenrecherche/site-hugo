@@ -154,6 +154,14 @@ clients_logo_slider:
     - logo : "images/clients-logo/client-logo-5.png"
       URL : "#"
 
+# Évènements de l'association
+association:
+  enable : true
+  title : "Évènements de l'Association"
+  # blog post comes from "content/association" folder
+
+
+
 # breves
 breves:
   enable : true
