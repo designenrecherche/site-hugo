@@ -19,27 +19,6 @@ sections:
   templates:
   - breves
 - type: directory
-  path: contentSite/content/people
-  label: People
-  create: documents
-  match: "*"
-  templates:
-  - people
-- type: directory
-  path: contentSite/content/blog
-  label: Post
-  create: documents
-  match: "*"
-  templates:
-  - post
-- type: directory
-  path: contentSite/content/breves
-  label: Breve
-  create: documents
-  match: "*"
-  templates:
-  - breves
-- type: directory
   path: contentSite/content/about
   label: About
   create: none
