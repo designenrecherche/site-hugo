@@ -145,7 +145,6 @@ fields:
     label: Téléphone
     description: ''
     default: 0
-    required: true
     config:
       min: 
       max: 

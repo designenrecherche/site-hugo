@@ -16,7 +16,6 @@ instagram = "https://www.instagram.com/rose_phd/"
 linkedin = ""
 mail = "info@rosedumesny.com"
 site = "http://rosedumesny.com/"
-telephone = nil
 twitter = "https://twitter.com/RoseDuwithaD"
 
 +++
