@@ -167,3 +167,9 @@ breves:
   enable : true
   title : "Brèves"
   # blog post comes from "content/breves" folder
+
+# Twitter
+twitter_feed:
+  enable : true
+  title : "Twitter"
+  # blog post comes from "content/breves" folder
