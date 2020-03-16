@@ -10,9 +10,6 @@ fields:
   label: Date
   hidden: true
   type: datetime
-- type: text
-  name: description
-  label: description
 - type: select
   name: category
   label: Catégorie
@@ -22,9 +19,55 @@ fields:
     source:
       type: custom
     options:
+    - Appel à communication
     - Évènements
     - Publications
     - Opportunités
     - Autre
+- type: field_group
+  name: appel
+  label: Appel à communication
+  description: Si c'est un appel à communication, cliquer pour remplir les champs
+  hidden: false
+  fields:
+    - type: datetime
+    name: date-appel
+    label: Deadline de l'appel
+    hidden: false
+    config:
+      date_format: MM/DD/YYYY
+      time_format: h:mm A Z
+      display_utc: false
+      export_format: YYYY-MM-DDThh:mm:ssZ
+- type: field_group
+  name: evenement
+  label: Évènement
+  description: Si c'est un évènement, cliquer pour remplir les champs
+  hidden: false
+  fields:
+    - type: datetime
+    name: date-event
+    label: Date de l'évènement
+    hidden: false
+    config:
+      date_format: MM/DD/YYYY
+      time_format: h:mm A Z
+      display_utc: false
+      export_format: YYYY-MM-DDThh:mm:ssZ
+    - type: text
+      name: lieu
+      label: Lieu de l'évènement
+- type: text
+  name: url
+  label: URL
+  description: URL de redirection vers site de l'évènement, l'appel à communication, la proposition, etc.
+- type: text
+  name: description
+  label: description
+- type: image_gallery
+  name: documents
+  label: Documents
+  description: Programme, appel ou tout autre document utile
+
 pages:
 - contentSite/content/breves/ceci-est-une-brève.md
