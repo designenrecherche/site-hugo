@@ -1,9 +1,7 @@
 +++
 category = "Appel à communication"
-documents = ["/images/Appel-à-communication-ACFAS_Sherbrooke2020.pdf"]
 publishDate = 2020-03-16T15:52:24Z
 title = "Et si les défis en santé passaient par des enjeux de communication et de design ?"
-url = "https://designenrecherche.us18.list-manage.com/track/click?u=f8bf65efa8159fabee0f76978&id=002ff30d1c&e=a7ef7afb19"
 [appel]
 date-appel = "2020-02-19T11:00:00+00:00"
 [evenement]

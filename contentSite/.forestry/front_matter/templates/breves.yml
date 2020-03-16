@@ -81,6 +81,11 @@ fields:
   name: documents
   label: Documents
   description: Programme, appel ou tout autre document utile
+- type: file
+  name: documents
+  label: Documents
+  description: Programme, appel ou tout autre document utile
+  hidden: false
 pages:
 - contentSite/content/breves/ceci-est-une-brève.md
 - contentSite/content/breves/et-si-les-défis-en-santé-passaient-par-des-enjeux-de-communication-et-de
