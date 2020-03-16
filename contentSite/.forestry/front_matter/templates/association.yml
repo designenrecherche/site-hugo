@@ -16,7 +16,7 @@ fields:
   label: Banner
   description: Provide a banner image for this post
   hidden: false
-  default "/uploads/2017/12/31/placeholder.jpg"
+  default: "/uploads/2017/12/31/placeholder.jpg"
 - name: publishDate
   default: Now
   label: Date
