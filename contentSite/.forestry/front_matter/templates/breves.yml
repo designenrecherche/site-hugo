@@ -36,12 +36,12 @@ fields:
   hidden: false
   config:
     date_format: MM/DD/YYYY
-    time_format: h:mm A Z
+    time_format: "h:mm A Z"
     display_utc: false
-    export_format: YYYY-MM-DDThh:mm:ssZ
+    export_format: "YYYY-MM-DDThh:mm:ssZ"
 - type: field_group
   name: evenement
-  label: Évènement
+  label: "Évènement"
   description: Si c'est un évènement, cliquer pour remplir les champs
   hidden: false
   fields:
@@ -51,9 +51,9 @@ fields:
   hidden: false
   config:
     date_format: MM/DD/YYYY
-    time_format: h:mm A Z
+    time_format: "h:mm A Z"
     display_utc: false
-    export_format: YYYY-MM-DDThh:mm:ssZ
+    export_format: "YYYY-MM-DDThh:mm:ssZ"
   - type: text
     name: lieu
     label: Lieu de l'évènement
