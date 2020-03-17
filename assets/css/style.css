@@ -886,3 +886,7 @@ blockquote {
 #feed-tweeter{
   float: right;
 }
+
+#eapps-instagram-feed-1 > a { 
+  display: none!important; 
+}
