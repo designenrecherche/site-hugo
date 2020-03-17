@@ -27,6 +27,15 @@ fields:
   config:
     required: true
   label: Date de l'évènement
+- name: date_start
+  type: datetime
+  label: Date de début de l'évènement
+  description: ''
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
 - type: select
   name: category
   label: Catégorie
