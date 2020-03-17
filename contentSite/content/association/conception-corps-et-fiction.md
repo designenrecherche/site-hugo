@@ -4,7 +4,6 @@ category = "RDV asso (AG, bières, rapports...)"
 date-event = 2017-04-26T10:00:00Z
 description = ""
 documents = ""
-draft = true
 lieu = "Université de Strasbourg"
 publishDate = 2020-03-17T08:41:12Z
 title = "Conception, Corps et Fiction"
