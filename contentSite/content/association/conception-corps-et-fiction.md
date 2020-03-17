@@ -1,7 +1,8 @@
 +++
 banner = "/uploads/2017/12/31/placeholder.jpg"
 category = "RDV asso (AG, bières, rapports...)"
-date-event = 2017-04-26T10:00:00Z
+date-event = "2017-04-26T10:00:00+00:00"
+date_event = "26-27 avril 2017"
 description = ""
 documents = ""
 lieu = "Université de Strasbourg"
