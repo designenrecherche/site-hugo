@@ -4,6 +4,8 @@
     <div class="card-body">
       <h4 class="card-title"><a class="text-dark" href="{{.Permalink}}">{{.Title }}</a>
       </h4>
+      {{ if .Params.date_event }}<p class="section-cnu">{{ .Params.date_event }}</p>{{ end }}
+      {{ if .Params.lieu }}<p class="section-cnu">{{ .Params.lieu }}</p>{{ end }}
       <p class="cars-text">{{.Summary}}</p>
       <a href="{{.Permalink}}" class="btn btn-xs btn-primary">Read More</a>
     </div>

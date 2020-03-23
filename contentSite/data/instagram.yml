@@ -1,0 +1,11 @@
+instagram:
+  title: "Résidences instagram"
+  item:
+    - member: "rose-dumesny"
+      date: 
+      - type: datetime
+        config:
+        date_format: MM/DD/YYYY
+        time_format: h:mm A Z
+        display_utc: false
+        export_format: YYYY-MM-DDThh:mm:ssZ

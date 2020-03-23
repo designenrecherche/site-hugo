@@ -1,7 +1,6 @@
 +++
 banner = "/uploads/2017/12/31/placeholder.jpg"
 category = "RDV asso (AG, bières, rapports...)"
-date-event = "2018-01-12T11:00:00.000+00:00"
 date_event = "12 janvier 2018"
 date_start = 2018-01-11T23:00:00Z
 description = ""

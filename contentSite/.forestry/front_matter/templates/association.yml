@@ -47,6 +47,7 @@ fields:
       type: custom
     options:
     - RDV asso (AG, bières, rapports...)
+    - Atelier
     - Conférence
     - Journée d'étude
     - Soutenance thèse
