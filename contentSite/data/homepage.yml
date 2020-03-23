@@ -7,10 +7,14 @@ banner:
 about:
   enable : true
   content : "Le groupe de travail « Design en recherche », formé en mars 2013, est un réseau de doctorant-e-s et jeunes docteur-e-s dont les recherches portent sur les thématiques émergentes d’étude et de pratique du design. Constituée en association (loi 1901) depuis décembre 2013, nous sommes persuadé-e-s de l’intérêt scientifique des espaces de collaboration entre les jeunes chercheur-e-s issu(e)s d’horizons disciplinaires, institutionnels et géographiques divers, mais travaillant sur des thèmes communs."
-  button:
+  buttonMore:
     enable : true
     label : "En savoir plus"
     URL : "about"
+  buttonAnnuaire:
+    enable : true
+    label : "Annuaire des membres"
+    URL : "membres"
 
 # skill
 skill:

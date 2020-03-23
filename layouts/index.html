@@ -55,8 +55,13 @@
         <div class="col-lg-10 mx-auto text-center">
           {{ with .Site.Data.homepage.about }}
           <p class="font-secondary lead text-dark">{{.content | markdownify}}</p>
-          {{ if .button.enable }}
-          {{ with .button }}
+          {{ if .buttonMore.enable }}
+          {{ with .buttonMore }}
+          <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
+          {{ end }}
+          {{ end }}
+          {{ if .buttonAnnuaire.enable }}
+          {{ with .buttonAnnuaire }}
           <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
           {{ end }}
           {{ end }}
@@ -144,12 +149,9 @@
         <div class="col-12 text-center"> 
           <h2 class="section-title">{{.Site.Data.homepage.breves.title | markdownify }}</h2>
         </div>
-        <!-- {{ range first 3 .Site.RegularPages }}
-        {{ .Render "post" }}
-        {{ end }} -->
         {{ with .Site.GetPage "section" "breves" }}
         {{ range .Pages.ByDate.Reverse }}
-        {{ .Render "post" }}
+        {{ .Render "breves" }}
         {{ end }}
         {{ end }}
       </div>

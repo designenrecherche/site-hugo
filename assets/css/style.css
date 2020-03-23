@@ -900,4 +900,6 @@ blockquote {
 
 #container-instagram > p { display: none;}
 
-#container-instagram .Header .HeaderCta{ display: none!important; }
+#container-instagram iframe { 
+  max-height: 700px; 
+}

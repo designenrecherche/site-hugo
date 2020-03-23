@@ -1,24 +1,13 @@
-{{ define "main" }}
-
-  <!-- {{ partial "page-title.html" . }} -->
-
-  <section class="section" id="section-breve-single">
-    <div class="container">
-         <p>TEMPLATE BREVES</p>
-          <h1>{{.Title}}</h3>
-          <p id="date">Publié le {{ .PublishDate.Format "Jan 02, 2006" }}</span></p>
-          <div class="category-container">
-            <!-- <p class="group">
-              {{ if eq .Params.category ""}}
-              {{ end }}
-            </p> -->
-            <p class="category">{{ .Params.category }}</p>
-          </div>
-          <div class="description"><p>{{.Description }}</p></div>
-          <div class="content">
-            {{.Content }}
-          </div>
-    </div>
-  </section>
-
-{{ end }}
+<div class="col-lg-4 col-sm-6 mb-4">
+    <article class="card shadow">
+      <!-- <img class="rounded card-img-top" src="{{.Params.Image | relURL}}" alt="{{.Title }}"> -->
+      <div class="card-body">
+        <h4 class="card-title"><a class="text-dark" href="{{.Permalink}}">{{.Title }}</a>
+        </h4>
+        {{ if .Params.date_event }}<p class="section-cnu">{{ .Params.date_event }}</p>{{ end }}
+        {{ if .Params.lieu }}<p class="section-cnu">{{ .Params.lieu }}</p>{{ end }}
+        <p class="cars-text">{{.Summary}}</p>
+        <a href="{{.Permalink}}" class="btn btn-xs btn-primary">Read More</a>
+      </div>
+    </article>
+  </div>

@@ -1,6 +1,6 @@
 ---
 label: Instagram
-hide_body: true
+hide_body: false
 fields:
 - type: text
   name: title
@@ -8,6 +8,7 @@ fields:
 - type: select
   name: memberpage
   label: Page du membre
+  description: "Copier le lien de la page du membre en ne gardant que la fin, ex: `/membres/rose-dumesny/`"
   required: true
   config:
     source:
@@ -24,30 +25,4 @@ fields:
     time_format: h:mm A Z
     display_utc: false
     export_format: YYYY-MM-DDThh:mm:ssZ
-- type: text
-  name: link1
-  label: Lien post 1
-- type: text
-  name: link2
-  label: Lien post 2
-- type: text
-  name: link3
-  label: Lien post 3
-- type: text
-  name: link4
-  label: Lien post 4
-- type: text
-  name: link5
-  label: Lien post 5
-- type: text
-  name: link6
-  label: Lien post 6
-- type: text
-  name: link7
-  label: Lien post 7
-- type: text
-  name: link8
-  label: Lien post 8
-- type: text
-  name: link9
-  label: Lien post 9
+
