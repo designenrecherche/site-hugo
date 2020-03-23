@@ -2,9 +2,12 @@
 label: Instagram
 hide_body: true
 fields:
-- type: select
+- type: text
   name: title
-  label: Membre
+  label: titre
+- type: select
+  name: memberpage
+  label: Page du membre
   required: true
   config:
     source:

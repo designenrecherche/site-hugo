@@ -3,10 +3,12 @@
 
 {{ partial "page-title.html" . }}
 
+{{ $namemember := .Title }}
+
 <section class="section" id="section-breve-single">
   <div class="container">
        <p>TEMPLATE MEMBRES</p>
-        <h1>{{.Title}}</h3>
+        <h1>{{$namemember}}</h3>
           {{ if .Params.section_cnu }}<p class="section-cnu">{{ .Params.section_cnu }}</p>{{ end }}
         
         <div class="description"><p>{{.Description }}</p></div>
@@ -15,6 +17,23 @@
         </div>
   </div>
 </section>
+
+{{ with .Site.Data.instagram.instagram }}
+{{ range .item }}
+{{ if eq .title $namemember }}
+<h2>{{ .title }}</h2>
+<div id="embed1"></div>
+<script>
+  let embed1 = {{ .embed1 }};
+  let idembed1 = document.getElementById("embed1");
+  idembed1.innerHTML = embed1;
+</script>
+
+{{ end }}
+{{ end }}
+{{ end }}
+
+
 
 {{ end }}
 
