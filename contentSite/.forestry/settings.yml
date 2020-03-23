@@ -5,6 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: contentSite/contenu/instagram
+  label: Instagram
+  create: all
+  match: "**/*"
+  templates:
+  - instagram
+- type: directory
   path: contentSite/content/association
   label: Asso (RDV, évènements...)
   create: all
