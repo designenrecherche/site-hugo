@@ -7,13 +7,13 @@ fields:
   label: Membre
   required: true
   config:
-      source:
-        type: pages
-        section: membres
+    source:
+      type: pages
+      section: membres
 - type: datetime
   name: date
   label: Date de la résidence
-  description: "Sélectionner n'importe quel jour du mois de résidence" 
+  description: Sélectionner n'importe quel jour du mois de résidence
   required: true
   hidden: false
   config:
@@ -48,3 +48,5 @@ fields:
 - type: text
   name: link9
   label: Lien post 9
+pages:
+- contentSite/contenu/instagram/membres-rose-dumesny-md.md
