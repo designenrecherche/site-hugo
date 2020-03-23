@@ -7,15 +7,16 @@ fields:
   config:
     required: true
   label: Prénom Nom
-  description: "attention, le prénom et le nom doivent être écrit de manière identique à la fiche membre"
+  description: attention, le prénom et le nom doivent être écrit de manière identique
+    à la fiche membre
 - type: select
   name: member
   label: Membre
   hidden: false
   config:
-      source:
-        type: pages
-        section: membres
+    source:
+      type: pages
+      section: membres
 - type: text
   name: link1
   label: Lien post 1
