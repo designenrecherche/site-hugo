@@ -890,3 +890,14 @@ blockquote {
 #eapps-instagram-feed-1 > a { 
   display: none!important; 
 }
+
+#container-instagram {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows:  repeat(3, 1fr);
+}
+
+#container-instagram > p { display: none;}
+
+#container-instagram .Header .HeaderCta{ display: none!important; }

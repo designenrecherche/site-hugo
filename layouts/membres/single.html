@@ -5,7 +5,7 @@
 
 {{ $namemember := .Title }}
 
-<section class="section" id="section-breve-single">
+<section class="section" id="section-membre-single">
   <div class="container">
        <p>TEMPLATE MEMBRES</p>
         <h1>{{$namemember}}</h3>
@@ -18,17 +18,16 @@
   </div>
 </section>
 
-{{ with .Site.Data.instagram.instagram }}
-{{ range .item }}
-{{ if eq .title $namemember }}
-<h2>{{ .title }}</h2>
-<div id="embed1"></div>
-<script>
-  let embed1 = {{ .embed1 }};
-  let idembed1 = document.getElementById("embed1");
-  idembed1.innerHTML = embed1;
-</script>
-
+</section>
+{{ with .Site.GetPage "section" "instagram" }}
+{{ range .Pages.ByDate.Reverse }}
+{{ if eq .Title $namemember }}
+<section id="section-instagram">
+<h2>Résidence instagram</h2>
+<div id="container-instagram">
+{{ .Content }}
+</div>
+</section>
 {{ end }}
 {{ end }}
 {{ end }}
