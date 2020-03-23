@@ -48,5 +48,3 @@ fields:
 - type: text
   name: link9
   label: Lien post 9
-pages:
-- contentSite/contenu/instagram/membres-rose-dumesny-md.md

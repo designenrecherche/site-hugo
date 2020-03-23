@@ -5,8 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: contentSite/contenu/instagram
-  label: Instagram
+  path: contentSite/content/instagram
+  label: Résidences Instagram
   create: all
   match: "**/*"
   templates:
