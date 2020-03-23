@@ -1,21 +1,26 @@
 ---
 label: Instagram
-hide_body: false
+hide_body: true
 fields:
-- name: title
-  type: text
-  config:
-    required: true
-  label: Prénom Nom
-  description: "attention, le prénom et le nom doivent être écrit de manière identique à la fiche membre"
 - type: select
-  name: member
+  name: title
   label: Membre
-  hidden: false
+  required: true
   config:
       source:
         type: pages
         section: membres
+- type: datetime
+  name: date
+  label: Date de la résidence
+  description: "Sélectionner n'importe quel jour du mois de résidence" 
+  required: true
+  hidden: false
+  config:
+    date_format: MM/DD/YYYY
+    time_format: h:mm A Z
+    display_utc: false
+    export_format: YYYY-MM-DDThh:mm:ssZ
 - type: text
   name: link1
   label: Lien post 1
