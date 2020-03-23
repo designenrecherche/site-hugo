@@ -1,0 +1,45 @@
+---
+label: Instagram
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Prénom Nom
+  description: "attention, le prénom et le nom doivent être écrit de manière identique à la fiche membre"
+- type: datetime
+    name: date-residence
+    label: Date résidence
+    hidden: false
+    config:
+      date_format: MM/DD
+      display_utc: false
+      export_format: YYYY-MM
+- type: text
+  name: link1
+  label: Lien post 1
+- type: text
+  name: link2
+  label: Lien post 2
+- type: text
+  name: link3
+  label: Lien post 3
+- type: text
+  name: link4
+  label: Lien post 4
+- type: text
+  name: link5
+  label: Lien post 5
+- type: text
+  name: link6
+  label: Lien post 6
+- type: text
+  name: link7
+  label: Lien post 7
+- type: text
+  name: link8
+  label: Lien post 8
+- type: text
+  name: link9
+  label: Lien post 9
