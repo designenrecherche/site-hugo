@@ -455,6 +455,7 @@ textarea.form-control {
 }
 
 .hero-area {
+  
   padding: 250px 0 200px;
   position: relative
 }
@@ -467,8 +468,16 @@ textarea.form-control {
 }
 
 .hero-area h1 {
+  font-family: var(--font);
+  font-weight: 800;
   position: relative;
   z-index: 2
+
+}
+
+.hero-area h2 {
+  font-family: var(--font);
+  font-weight: 400;
 }
 
 .layer {

@@ -5,8 +5,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-11 mx-auto">
-          <h1 class="text-white font-tertiary">{{ .Site.Data.homepage.banner.title | safeHTML }}</h1>
-          <h2 class="text-white font-tertiary">{{ .Site.Data.homepage.banner.subtitle | safeHTML }}</h2>
+          <h1 class="text-white">{{ .Site.Data.homepage.banner.title | safeHTML }}</h1>
+          <h2 class="text-white">{{ .Site.Data.homepage.banner.subtitle | safeHTML }}</h2>
         </div>
       </div>
     </div>
@@ -67,12 +67,13 @@
 
   {{ if .Site.Data.homepage.about.enable }}
   <!-- about -->
-  <section class="section">
+  <section class="section" id="section-about">
     <div class="container">
-      <div class="row">
-        <div class="col-lg-10 mx-auto text-center">
           {{ with .Site.Data.homepage.about }}
-          <p class="font-secondary lead text-dark">{{.content | markdownify}}</p>
+          
+        <p>{{.content | markdownify}}</p>
+
+        <div id="about-links">
           {{ if .buttonMore.enable }}
           {{ with .buttonMore }}
           <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
@@ -85,7 +86,7 @@
           {{ end }}
           {{ end }}
         </div>
-      </div>
+
     </div>
   </section>
   <!-- /about -->

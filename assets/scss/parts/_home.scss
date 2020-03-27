@@ -1,0 +1,29 @@
+
+#section-about{
+
+    p{
+        font-family: var(--font);
+        font-size: 28px;
+        font-weight: 400;
+    }
+
+    #about-links{
+        a {
+            display: inline-block;
+            font-family: var(--font);
+            font-weight: 500;
+            border: 2px solid currentColor;
+            border-radius: 50%;
+            margin-left: 60px;
+            margin-top: 20px;
+            &:first-of-type{
+                transform: rotate(10deg);
+            }
+            &:nth-of-type(2){
+                transform: rotate(-4deg);
+                margin-left: 40px;
+            }
+        }
+    }
+    
+}

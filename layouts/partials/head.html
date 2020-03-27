@@ -27,6 +27,8 @@
 
   {{ $styles := resources.Get "scss/main.scss" | toCSS | minify }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+
+  <link rel="stylesheet" href="/fonts/becky/stylesheet.css" media="screen">
   
 
   {{ "<!--Favicon-->" | safeHTML }}
