@@ -1,4 +1,28 @@
 
+#feed-tweeter{
+    float: right;
+    border: 2px solid var(--color);
+    border-radius: 5px;
+    margin: 20px 20px;
+}
+
+.section-home{
+    width: calc(100% - var(--twitter));
+    .container{
+        margin: 140px auto;
+    }
+
+    .section-title{
+        font-family: var(--font);
+        font-size: 34px;
+        font-weight: 800;
+        color: var(--color);
+        text-align: left;
+    }
+}
+
+
+
 #section-about{
 
     p{
@@ -16,6 +40,9 @@
             border-radius: 50%;
             margin-left: 60px;
             margin-top: 20px;
+            color: var(--color);
+            padding: 18px 20px;
+            font-size: 22px;
             &:first-of-type{
                 transform: rotate(10deg);
             }

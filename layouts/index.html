@@ -49,10 +49,10 @@
 
 
   {{ if .Site.Data.homepage.twitter_feed.enable }}
-  <!-- <aside id="feed-tweeter">
+  <aside id="feed-tweeter">
   <a class="twitter-timeline" data-width="300" data-theme="light" href="https://twitter.com/DesignRecherche?ref_src=twsrc%5Etfw">Tweets by DesignRecherche</a> 
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </aside> -->
+  </aside> 
   {{ end }}
 
 
@@ -67,7 +67,7 @@
 
   {{ if .Site.Data.homepage.about.enable }}
   <!-- about -->
-  <section class="section" id="section-about">
+  <section class="section-home" id="section-about">
     <div class="container">
           {{ with .Site.Data.homepage.about }}
           
@@ -76,12 +76,12 @@
         <div id="about-links">
           {{ if .buttonMore.enable }}
           {{ with .buttonMore }}
-          <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
+          <a href="{{ .URL | absURL }}">{{.label}}</a>
           {{ end }}
           {{ end }}
           {{ if .buttonAnnuaire.enable }}
           {{ with .buttonAnnuaire }}
-          <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
+          <a href="{{ .URL | absURL }}">{{.label}}</a>
           {{ end }}
           {{ end }}
           {{ end }}
@@ -102,7 +102,7 @@
 
   {{ if .Site.Data.homepage.association.enable }}
   <!-- breves -->
-  <section class="section">
+  <section class="section-home">
     <div class="container">
       <div class="row"> 
         <div class="col-12 text-center"> 
@@ -131,7 +131,7 @@
 
   {{ if .Site.Data.homepage.breves.enable }}
   <!-- breves -->
-  <section class="section">
+  <section class="section-home">
     <div class="container">
       <div class="row"> 
         <div class="col-12 text-center"> 
