@@ -8,7 +8,8 @@ fields:
 - type: select
   name: memberpage
   label: Page du membre
-  description: "Copier le lien de la page du membre en ne gardant que la fin, ex: `/membres/rose-dumesny/`"
+  description: 'Copier le lien de la page du membre en ne gardant que la fin, ex:
+    `/membres/rose-dumesny/`'
   required: true
   config:
     source:
@@ -25,4 +26,3 @@ fields:
     time_format: h:mm A Z
     display_utc: false
     export_format: YYYY-MM-DDThh:mm:ssZ
-

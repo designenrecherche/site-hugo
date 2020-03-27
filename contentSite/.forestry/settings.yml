@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: contentSite/data/instagram.yml
+  label: instagram yml
+  match: "**/*"
 - type: directory
   path: contentSite/content/instagram
   label: Résidences Instagram
