@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Renaud Mignerey on Design en Recherche</title>
+    <link>http://contentSite.com/title/renaud-mignerey/</link>
+    <description>Recent content in Renaud Mignerey on Design en Recherche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 03 Jul 2019 10:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://contentSite.com/title/renaud-mignerey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Renaud Mignerey</title>
+      <link>http://contentSite.com/instagram/renaud-mignerey/</link>
+      <pubDate>Wed, 03 Jul 2019 10:00:00 +0000</pubDate>
+      
+      <guid>http://contentSite.com/instagram/renaud-mignerey/</guid>
+      <description>View this post on Instagram        Salut à tous !</description>
+    </item>
+    
+  </channel>
+</rss>

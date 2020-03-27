@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journées d&#39;études et colloques on Design en Recherche</title>
+    <link>http://contentSite.com/categories/journ%C3%A9es-d%C3%A9tudes-et-colloques/</link>
+    <description>Recent content in Journées d&#39;études et colloques on Design en Recherche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    
+	<atom:link href="http://contentSite.com/categories/journ%C3%A9es-d%C3%A9tudes-et-colloques/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ceci est le titre du post</title>
+      <link>http://contentSite.com/blog/ceci-est-le-titre-du-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://contentSite.com/blog/ceci-est-le-titre-du-post/</guid>
+      <description>ceci est le texte d&amp;rsquo;un article de blov</description>
+    </item>
+    
+  </channel>
+</rss>

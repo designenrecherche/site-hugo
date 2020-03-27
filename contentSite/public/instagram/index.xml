@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instagrams on Design en Recherche</title>
+    <link>http://contentSite.com/instagram/</link>
+    <description>Recent content in Instagrams on Design en Recherche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 03 Jul 2019 10:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://contentSite.com/instagram/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Renaud Mignerey</title>
+      <link>http://contentSite.com/instagram/renaud-mignerey/</link>
+      <pubDate>Wed, 03 Jul 2019 10:00:00 +0000</pubDate>
+      
+      <guid>http://contentSite.com/instagram/renaud-mignerey/</guid>
+      <description>View this post on Instagram        Salut à tous !</description>
+    </item>
+    
+    <item>
+      <title>Rose Dumesny</title>
+      <link>http://contentSite.com/instagram/membres-rose-dumesny-md/</link>
+      <pubDate>Mon, 03 Jun 2019 10:00:00 +0000</pubDate>
+      
+      <guid>http://contentSite.com/instagram/membres-rose-dumesny-md/</guid>
+      <description>View this post on Instagram        Bonjour à tous !</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ceci est une brève on Design en Recherche</title>
+    <link>http://contentSite.com/title/ceci-est-une-br%C3%A8ve/</link>
+    <description>Recent content in Ceci est une brève on Design en Recherche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 16 Mar 2020 15:14:52 +0000</lastBuildDate>
+    
+	<atom:link href="http://contentSite.com/title/ceci-est-une-br%C3%A8ve/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ceci est une brève</title>
+      <link>http://contentSite.com/breves/ceci-est-une-br%C3%A8ve/</link>
+      <pubDate>Mon, 16 Mar 2020 15:14:52 +0000</pubDate>
+      
+      <guid>http://contentSite.com/breves/ceci-est-une-br%C3%A8ve/</guid>
+      <description>Test texte de la brève</description>
+    </item>
+    
+  </channel>
+</rss>

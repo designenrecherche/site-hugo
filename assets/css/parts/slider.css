@@ -1,0 +1,51 @@
+
+<section class="slideshow" id="slideshow" data-nbr-item="5">
+<div class="slideshow-container">
+
+<!-- Inputs --------------------------------------- -->
+<input type="radio" name="slide-input" id="slide-input-0" hidden="" checked=""/>
+<!-- <label for="slide-input-0" aria-hidden="true"></label> -->
+<input type="radio" name="slide-input" id="slide-input-1" hidden=""/>
+<input type="radio" name="slide-input" id="slide-input-2" hidden=""/>
+<input type="radio" name="slide-input" id="slide-input-3" hidden=""/>
+<input type="radio" name="slide-input" id="slide-input-4" hidden=""/>
+<input type="radio" name="slide-input" id="slide-input-5" hidden=""/>
+
+<!-- Slides + container --------------------------- -->
+<div class="slideshow-inner">
+    <div class="slideshow-item" data-item="1">
+        <article style="background-color: #ff66cc;">Slide 1</article>
+    </div>
+    <div class="slideshow-item" data-item="2">
+        <article style="background-color: #9933ff;">Slide 2</article>
+    </div>
+    <div class="slideshow-item" data-item="3">
+        <article style="background-color: #99ff99;">Slide 3</article>
+    </div>
+    <div class="slideshow-item" data-item="4">
+        <article style="background-color: #66b3ff">Slide 4</article>
+    </div>
+    <div class="slideshow-item" data-item="5">
+        <article style="background-color: #66ffcc;">Slide 5</article>
+    </div>
+</div>
+
+<!-- Bullets (puces) -------------------------------- -->
+<nav class="bullets-slide">
+    <label class="slideshow-bullet-label" data-slide="1" for="slide-input-1" aria-label="slide 1"></label><label class="slideshow-bullet-label" data-slide="2" for="slide-input-2" aria-label="slide 2"></label><label class="slideshow-bullet-label" data-slide="3" for="slide-input-3" aria-label="slide 3"></label><label class="slideshow-bullet-label" data-slide="4" for="slide-input-4" aria-label="slide 4"></label><label class="slideshow-bullet-label" data-slide="5" for="slide-input-5" aria-label="slide 5"></label>
+</nav>
+
+<!-- Controls (arrows) -------------------------------- -->
+
+<nav class="slideshow-controls" aria-hidden="true">
+    <label for="slide-input-5" class="slide_controls slide_controls-previous" alt="Aller à la slide 5"></label>
+    <label for="slide-input-2" class="slide_controls slide_controls-next" alt="Aller à la slide 2"></label>
+    <label for="slide-input-1" class="slide_controls slide_controls-previous" alt="Aller à la slide 1"></label>
+    <label for="slide-input-3" class="slide_controls slide_controls-next" alt="Aller à la slide 3"></label>
+    <label for="slide-input-2" class="slide_controls slide_controls-previous" alt="Aller à la slide 2"></label>
+    <label for="slide-input-4" class="slide_controls slide_controls-next" alt="Aller à la slide 4"></label>
+    <label for="slide-input-3" class="slide_controls slide_controls-previous" alt="Aller à la slide 3"></label>
+    <label for="slide-input-5" class="slide_controls slide_controls-next" alt="Aller à la slide 5"></label>
+    <label for="slide-input-4" class="slide_controls slide_controls-previous" alt="Aller à la slide 4"></label>
+    <label for="slide-input-1" class="slide_controls slide_controls-next" alt="Aller à la slide 1"></label><span class="controls" aria-hidden="true"></span>
+</nav>

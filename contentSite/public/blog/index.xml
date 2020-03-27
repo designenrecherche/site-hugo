@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Design en Recherche</title>
+    <link>http://contentSite.com/blog/</link>
+    <description>Recent content in Blog on Design en Recherche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
+    
+	<atom:link href="http://contentSite.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test programme</title>
+      <link>http://contentSite.com/blog/test-programme/</link>
+      <pubDate>Sat, 14 Mar 2020 14:20:34 +0000</pubDate>
+      
+      <guid>http://contentSite.com/blog/test-programme/</guid>
+      <description>Design en recherche organise une journée d&amp;rsquo;étude sur le thème&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://contentSite.com/blog/test-date/</link>
+      <pubDate>Sat, 14 Mar 2020 14:02:36 +0000</pubDate>
+      
+      <guid>http://contentSite.com/blog/test-date/</guid>
+      <description>changement date 1</description>
+    </item>
+    
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://contentSite.com/blog/amazon-increase-income.1/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://contentSite.com/blog/amazon-increase-income.1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://contentSite.com/blog/amazon-increase-income.2/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://contentSite.com/blog/amazon-increase-income.2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://contentSite.com/blog/amazon-increase-income.3/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://contentSite.com/blog/amazon-increase-income.3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://contentSite.com/blog/amazon-increase-income.4/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://contentSite.com/blog/amazon-increase-income.4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://contentSite.com/blog/amazon-increase-income.5/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://contentSite.com/blog/amazon-increase-income.5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://contentSite.com/blog/amazon-increase-income/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>http://contentSite.com/blog/amazon-increase-income/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>ceci est le titre du post</title>
+      <link>http://contentSite.com/blog/ceci-est-le-titre-du-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://contentSite.com/blog/ceci-est-le-titre-du-post/</guid>
+      <description>ceci est le texte d&amp;rsquo;un article de blov</description>
+    </item>
+    
+  </channel>
+</rss>

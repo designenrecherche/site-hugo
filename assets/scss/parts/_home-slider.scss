@@ -1,0 +1,353 @@
+
+/* Size of slideshow */
+#slideshow{
+    width: 1100px;
+    // height: 300px;
+    margin: 18px auto;
+}
+
+/* contenu */
+.slideshow-item article {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    
+
+
+/* Structure
+--------------------------------------------------------
+-------------------------------------------------------- */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.slideshow-item article {
+    height: 100%;
+    width: 100%;
+    margin-left: 0;
+    overflow: hidden;
+}
+            
+.slideshow-container {
+    overflow-x: hidden;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.slideshow-inner {
+    width: 500%;
+    height: 100%;
+}
+
+.slideshow-item {
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+
+
+/* Display slides (input checked) 
+--------------------------------------------------------
+-------------------------------------------------------- */
+
+.slideshow-inner {
+    transition: all 800ms cubic-bezier(0.77, 0, 0.175, 1);
+    transition-timing-function: cubic-bezier(0.77, 0, 0.175, 1);
+}
+
+.slideshow-item {
+    transition: all 0.5s ease-out;
+}
+
+
+/* Move slides overflowed container */
+#slide-input-1:checked ~ .slideshow-inner {
+    left: 0;
+}
+#slide-input-2:checked ~ .slideshow-inner {
+    left: -100%;
+}
+#slide-input-3:checked ~ .slideshow-inner {
+    left: -200%;
+}
+#slide-input-4:checked ~ .slideshow-inner {
+    left: -300%;
+}
+#slide-input-5:checked ~ .slideshow-inner {
+    left: -400%;
+}
+
+
+
+
+
+    
+/* Controls (arrows) 
+--------------------------------------------------------
+-------------------------------------------------------- */
+
+.slideshow-controls {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.slide_controls {
+    width: 40px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    cursor: pointer;
+    will-change: z-index;
+}
+.slide_controls-previous {
+    left: 0;
+}
+.slide_controls-next {
+    right: 0;
+}
+
+span.controls {
+    height: 100%;
+    position: absolute;
+    width: 100%;
+}
+
+span.controls::before,
+span.controls::after {
+    padding: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    position: absolute;
+    background: white;
+    font-size: 20px;
+    z-index: 9;
+}
+
+.slide_controls-previous:hover ~ span.controls:before,
+.slide_controls-next:hover ~ span.controls:after {
+    background: #bfbfbf!important;
+}
+
+span.controls::before {
+    content: "❬";
+    left: -1px;
+}
+
+span.controls::after {
+    content: "❭";
+    right: -1px;
+}
+
+/* Control arrows display
+-------------------------------------------------------------------- 
+-------------------------------------------------------------------- */
+
+#slide-input-0:checked ~ .slideshow-controls label {
+    /* toggle all label nav */
+    display: block;
+}
+#slide-input-1:checked ~ .slideshow-controls label {
+    z-index: -1;
+}
+#slide-input-1:checked ~ .slideshow-controls label:nth-of-type(1),
+#slide-input-1:checked ~ .slideshow-controls label:nth-of-type(2) {
+    z-index: 11;
+}
+  
+#slide-input-2:checked ~ .slideshow-controls label {
+    z-index: -1;
+}
+#slide-input-2:checked ~ .slideshow-controls label:nth-of-type(3),
+#slide-input-2:checked ~ .slideshow-controls label:nth-of-type(4) {
+    z-index: 11;
+}
+ 
+#slide-input-3:checked ~ .slideshow-controls label {
+    z-index: -1;
+}
+#slide-input-3:checked ~ .slideshow-controls label:nth-of-type(5),
+#slide-input-3:checked ~ .slideshow-controls label:nth-of-type(6) {
+    z-index: 11;
+}
+  
+#slide-input-4:checked ~ .slideshow-controls label {
+    z-index: -1;
+}
+#slide-input-4:checked ~ .slideshow-controls label:nth-of-type(7),
+#slide-input-4:checked ~ .slideshow-controls label:nth-of-type(8) {
+    z-index: 11;
+}
+  
+#slide-input-5:checked ~ .slideshow-controls label {
+    z-index: -1;
+}
+#slide-input-5:checked ~ .slideshow-controls label:nth-of-type(9),
+#slide-input-5:checked ~ .slideshow-controls label:nth-of-type(10) {
+    z-index: 11;
+}
+
+
+
+
+
+/* Bullets (puces)
+-------------------------------------------------------------------- 
+-------------------------------------------------------------------- */
+
+
+.bullets-slide {
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 100%;
+    height: 10px;
+    z-index: 9;
+}
+
+.slideshow-bullet-label {
+    background: white;
+    height: 10px;
+    display: inline-block;
+    cursor: pointer;
+    z-index: 99;
+    top: -4px;
+    position: relative;
+    width: 20%;
+    border: 1px solid #bfbfbf;
+}
+
+.slideshow-bullet-label[data-type="active"] {
+    opacity: 1;
+}
+
+    
+#slide-input-1:checked ~ nav.bullets-slide [data-slide="1"],
+#slide-input-2:checked ~ nav.bullets-slide [data-slide="2"],
+#slide-input-3:checked ~ nav.bullets-slide [data-slide="3"],
+#slide-input-4:checked ~ nav.bullets-slide [data-slide="4"],
+#slide-input-5:checked ~ nav.bullets-slide [data-slide="5"] {
+    background: black;
+}
+
+
+
+/* AUTOPLAY for slides (each 5s)
+-------------------------------------------------------------------- 
+-------------------------------------------------------------------- */
+
+@keyframes slide-auto {
+    0%,
+    19% {
+        left: 0;
+    }
+    20%,
+    39% {
+        left: -100%;
+    }
+    40%,
+    59% {
+        left: -200%;
+    }
+    60%,
+    79% {
+        left: -300%;
+    }
+    80%,
+    99% {
+        left: -400%;
+    }
+}
+
+#slide-input-0:checked ~ .slideshow-inner {
+    animation: slide-auto 25s infinite;
+    will-change: auto;
+}
+
+
+
+/* Autoplay for controls arrows
+-------------------------------------------------------------------- 
+-------------------------------------------------------------------- */
+
+@keyframes slideshow-controls-animation {
+    0%,
+    19.9999% {
+        z-index: 11;
+    }
+    20%,
+    100% {
+        z-index: -1;
+    }
+}
+
+
+#slide-input-0:checked ~ .slideshow-controls label:nth-of-type(1),
+#slide-input-0:checked ~ .slideshow-controls label:nth-of-type(2) {
+    animation: slideshow-controls-animation 25s infinite 0s;
+}
+#slide-input-0:checked ~ .slideshow-controls label:nth-of-type(3),
+#slide-input-0:checked ~ .slideshow-controls label:nth-of-type(4) {
+    animation: slideshow-controls-animation 25s infinite 5s;
+}
+#slide-input-0:checked ~ .slideshow-controls label:nth-of-type(5),
+#slide-input-0:checked ~ .slideshow-controls label:nth-of-type(6) {
+    animation: slideshow-controls-animation 25s infinite 10s;
+}
+#slide-input-0:checked ~ .slideshow-controls label:nth-of-type(7),
+#slide-input-0:checked ~ .slideshow-controls label:nth-of-type(8) {
+    animation: slideshow-controls-animation 25s infinite 15s;
+}
+#slide-input-0:checked ~ .slideshow-controls label:nth-of-type(9),
+#slide-input-0:checked ~ .slideshow-controls label:nth-of-type(10) {
+    animation: slideshow-controls-animation 25s infinite 20s;
+}
+  
+
+
+
+/* Autoplay for bullets nav bottom
+-------------------------------------------------------------------- 
+-------------------------------------------------------------------- */
+
+@keyframes bullets {
+    0%,
+    19.9999% {
+        background: black;
+    }
+    20%,
+    100% {
+        background: white;
+    }
+}
+
+#slide-input-0:checked ~ nav.bullets-slide [data-slide="1"] {
+    animation: bullets 25s infinite;
+}
+#slide-input-0:checked ~ nav.bullets-slide [data-slide="2"] {
+    animation: bullets 25s infinite 5s;
+}
+#slide-input-0:checked ~ nav.bullets-slide [data-slide="3"] {
+    animation: bullets 25s infinite 10s;
+}
+#slide-input-0:checked ~ nav.bullets-slide [data-slide="4"] {
+    animation: bullets 25s infinite 15s;
+}
+#slide-input-0:checked ~ nav.bullets-slide [data-slide="5"] {
+    animation: bullets 25s infinite 20s;
+}
+
+

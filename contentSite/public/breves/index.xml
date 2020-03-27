@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breves on Design en Recherche</title>
+    <link>http://contentSite.com/breves/</link>
+    <description>Recent content in Breves on Design en Recherche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 16 Mar 2020 15:52:24 +0000</lastBuildDate>
+    
+	<atom:link href="http://contentSite.com/breves/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Et si les défis en santé passaient par des enjeux de communication et de design ?</title>
+      <link>http://contentSite.com/breves/et-si-les-d%C3%A9fis-en-sant%C3%A9-passaient-par-des-enjeux-de-communication-et-de-design/</link>
+      <pubDate>Mon, 16 Mar 2020 15:52:24 +0000</pubDate>
+      
+      <guid>http://contentSite.com/breves/et-si-les-d%C3%A9fis-en-sant%C3%A9-passaient-par-des-enjeux-de-communication-et-de-design/</guid>
+      <description>88e Congrès de l&amp;rsquo;Acfas
+4 mai 2020
+Université de Sherbrooke</description>
+    </item>
+    
+    <item>
+      <title>Sciences du Design — 12 — Varia</title>
+      <link>http://contentSite.com/breves/sciences-du-design-12-varia/</link>
+      <pubDate>Mon, 16 Mar 2020 15:42:14 +0000</pubDate>
+      
+      <guid>http://contentSite.com/breves/sciences-du-design-12-varia/</guid>
+      <description>Sciences du Design lance un appel à articles sur thème libre pour son numéro 12, à paraître à l&amp;rsquo;automne 2020.</description>
+    </item>
+    
+    <item>
+      <title>Ceci est une brève</title>
+      <link>http://contentSite.com/breves/ceci-est-une-br%C3%A8ve/</link>
+      <pubDate>Mon, 16 Mar 2020 15:14:52 +0000</pubDate>
+      
+      <guid>http://contentSite.com/breves/ceci-est-une-br%C3%A8ve/</guid>
+      <description>Test texte de la brève</description>
+    </item>
+    
+  </channel>
+</rss>

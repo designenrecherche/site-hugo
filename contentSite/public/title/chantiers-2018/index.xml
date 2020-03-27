@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chantiers 2018 on Design en Recherche</title>
+    <link>http://contentSite.com/title/chantiers-2018/</link>
+    <description>Recent content in Chantiers 2018 on Design en Recherche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 16 Mar 2020 20:23:40 +0000</lastBuildDate>
+    
+	<atom:link href="http://contentSite.com/title/chantiers-2018/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chantiers 2018</title>
+      <link>http://contentSite.com/association/chantiers-2018/</link>
+      <pubDate>Mon, 16 Mar 2020 20:23:40 +0000</pubDate>
+      
+      <guid>http://contentSite.com/association/chantiers-2018/</guid>
+      <description>La recherche en design évolue rapidement et les jeunes chercheurs sont de plus en plus nombreux à rejoindre l’association tous les ans.</description>
+    </item>
+    
+  </channel>
+</rss>

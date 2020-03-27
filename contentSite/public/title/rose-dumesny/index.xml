@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rose Dumesny on Design en Recherche</title>
+    <link>http://contentSite.com/title/rose-dumesny/</link>
+    <description>Recent content in Rose Dumesny on Design en Recherche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 03 Jun 2019 10:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://contentSite.com/title/rose-dumesny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rose Dumesny</title>
+      <link>http://contentSite.com/instagram/membres-rose-dumesny-md/</link>
+      <pubDate>Mon, 03 Jun 2019 10:00:00 +0000</pubDate>
+      
+      <guid>http://contentSite.com/instagram/membres-rose-dumesny-md/</guid>
+      <description>View this post on Instagram        Bonjour à tous !</description>
+    </item>
+    
+    <item>
+      <title>Rose Dumesny</title>
+      <link>http://contentSite.com/membres/rose-dumesny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://contentSite.com/membres/rose-dumesny/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

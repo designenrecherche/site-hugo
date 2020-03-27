@@ -907,21 +907,21 @@ blockquote {
 }
 
 
+
+
+
+
 /* home */
 .content-instagram-list{
-  display: grid;
-  grid-gap: 20px;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows:  400px;
-}
-.content-instagram-list > p { display: none;}
-.content-instagram-list iframe{
-  height: 378px!important;
+  width: 90%;
+  display: flex;
 }
 
-.content-instagram-list iframe:nth-of-type(4){ display: none!important; }
-.content-instagram-list iframe:nth-of-type(5){ display: none!important; }
-.content-instagram-list iframe:nth-of-type(6){ display: none!important; }
-.content-instagram-list iframe:nth-of-type(7){ display: none!important; }
-.content-instagram-list iframe:nth-of-type(8){ display: none!important; }
-.content-instagram-list iframe:nth-of-type(9){ display: none!important; }
+.content-instagram-list .item {
+  margin: 20px;
+}
+
+
+
+@import "parts/slider.css"
+
