@@ -5,7 +5,7 @@ theme = "site"
 title = "Design en Recherche"
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "À propos"
 weight = 2
 [[menu.main]]
 URL = "association"

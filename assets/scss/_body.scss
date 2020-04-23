@@ -5,7 +5,52 @@ body{
     --twitter: 340px; /* 300px + margins */
     font-family: var(--font);
     --unit: 20px;
+    --font-size: 18px;
+    --baseline: 26px;
+    font-size: var(--font-size);
+    line-height: var(--baseline);
+
+    --color-1: #385eec;
+    --color-2: #d8f0f0;
+    --color-3: #21b4a1;
+    --color-4: #ff6349;
+    --color-5: #ffcfc7;
+    --color-6: #54575a;
+    --color-7: #fff7c1;
+    --color-8: #9271fb;
+
+    --color-text: var(--color-6);
+    color: var(--color-text);
 }
+
+
+
+ol,
+ul {
+  list-style-type: none;
+  margin: 0
+}
+
+a,
+a:hover,
+a:focus {
+  text-decoration: none
+}
+
+a,
+button,
+select {
+  cursor: pointer;
+  transition: .2s ease
+}
+
+a:focus,
+button:focus,
+select:focus {
+  outline: 0
+}
+
+
 
 main {
     padding-top: var(--navigation);

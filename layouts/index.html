@@ -1,21 +1,53 @@
 {{ define "main" }}
+<main id="home-page">
 
-
-<section id="hero">
-
+  <section id="hero">
   <div class="container-hero">
+  
+      <h1>
+        <span class="text design" id="design">design</span>
+        <span class="text en">en</span>
+        <span class="text recherche">recherche</span>
+        <span class="line line-1" aria-disabled="true"></span>
+        <span class="line line-2" aria-disabled="true"></span>
+      </h1>
+  
+      <h2>{{ .Site.Data.homepage.banner.subtitle | safeHTML }}</h2>
 
-    <h1>
-      <span class="text design" id="design">design</span>
-      <span class="text en">en</span>
-      <span class="text recherche">recherche</span>
-      <span class="line line-1" aria-disabled="true"></span>
-      <span class="line line-2" aria-disabled="true"></span>
-    </h1>
 
-    <h2>{{ .Site.Data.homepage.banner.subtitle | safeHTML }}</h2>
+
+  {{ if .Site.Data.homepage.about.enable }}
+  <!-- about -->
+  <div id="section-about">
+          {{ with .Site.Data.homepage.about }}
+          
+        <p>{{.content | markdownify}}</p>
+
+        <div id="about-links">
+          {{ if .buttonMore.enable }}
+          {{ with .buttonMore }}
+          <a href="{{ .URL | absURL }}"><span class="text">{{.label}}</span><span class="line" aria-disabled="true"></span></a>
+          {{ end }}
+          {{ end }}
+          {{ if .buttonAnnuaire.enable }}
+          {{ with .buttonAnnuaire }}
+          <a href="{{ .URL | absURL }}"><span class="text">{{.label}}</span><span class="line" aria-disabled="true"></span></a>
+          {{ end }}
+          {{ end }}
+          {{ end }}
+        </div>
+
+    </div>
+  <!-- /about -->
+  {{ end }}
+      
   </div>
-</section>
+  </section>
+
+
+  <div class="container-main">
+
+
 
 
 
@@ -28,8 +60,7 @@
 {{ end }} -->
 
 
-<main id="home-page">
-<div class="container-main">
+
   <!-- hero area -->
   <!-- <section class="hero-area bg-primary overflow-hidden" id="parallax">
     <div class="container">
@@ -95,33 +126,6 @@
 
 
 
-
-  {{ if .Site.Data.homepage.about.enable }}
-  <!-- about -->
-  <section class="section-home" id="section-about">
-    <div class="container">
-          {{ with .Site.Data.homepage.about }}
-          
-        <p>{{.content | markdownify}}</p>
-
-        <div id="about-links">
-          {{ if .buttonMore.enable }}
-          {{ with .buttonMore }}
-          <a href="{{ .URL | absURL }}">{{.label}}</a>
-          {{ end }}
-          {{ end }}
-          {{ if .buttonAnnuaire.enable }}
-          {{ with .buttonAnnuaire }}
-          <a href="{{ .URL | absURL }}">{{.label}}</a>
-          {{ end }}
-          {{ end }}
-          {{ end }}
-        </div>
-
-    </div>
-  </section>
-  <!-- /about -->
-  {{ end }}
 
 
   
