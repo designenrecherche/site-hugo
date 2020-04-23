@@ -1,7 +1,37 @@
 {{ define "main" }}
 
+
+<section id="hero">
+
+  <div class="container-hero">
+
+    <h1>
+      <span class="text design" id="design">design</span>
+      <span class="text en">en</span>
+      <span class="text recherche">recherche</span>
+      <span class="line line-1" aria-disabled="true"></span>
+      <span class="line line-2" aria-disabled="true"></span>
+    </h1>
+
+    <h2>{{ .Site.Data.homepage.banner.subtitle | safeHTML }}</h2>
+  </div>
+</section>
+
+
+
+
+<!-- {{ if .Site.Data.homepage.twitter_feed.enable }}
+<aside id="feed-tweeter" role="complementary">
+<a class="twitter-timeline" data-width="300" data-theme="light" href="https://twitter.com/DesignRecherche?ref_src=twsrc%5Etfw">Tweets by DesignRecherche</a> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</aside> 
+{{ end }} -->
+
+
+<main id="home-page">
+<div class="container-main">
   <!-- hero area -->
-  <section class="hero-area bg-primary overflow-hidden" id="parallax">
+  <!-- <section class="hero-area bg-primary overflow-hidden" id="parallax">
     <div class="container">
       <div class="row">
         <div class="col-lg-11 mx-auto">
@@ -37,23 +67,24 @@
     <div class="layer" id="l9">
       <img src="{{`images/illustrations/leaf-cyan-2.svg` | relURL}}" alt="bg-shape">
     </div>
-    <!-- social icon -->
-    <ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
-      {{ range .Site.Params.social }}
-      <li class="mb-3"><a class="text-white" href="{{.URL | safeURL }}"><i class="{{.icon}}"></i></a></li>
-      {{ end }}
-    </ul>
-    <!-- /social icon -->
-  </section>
+   
+  </section> -->
   <!-- /hero area -->
 
 
-  {{ if .Site.Data.homepage.twitter_feed.enable }}
-  <aside id="feed-tweeter">
-  <a class="twitter-timeline" data-width="300" data-theme="light" href="https://twitter.com/DesignRecherche?ref_src=twsrc%5Etfw">Tweets by DesignRecherche</a> 
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </aside> 
-  {{ end }}
+
+
+
+   <!-- social icon -->
+   <ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
+    {{ range .Site.Params.social }}
+    <li class="mb-3"><a class="text-white" href="{{.URL | safeURL }}"><i class="{{.icon}}"></i></a></li>
+    {{ end }}
+  </ul>
+  <!-- /social icon -->
+
+
+
 
 
 
@@ -213,6 +244,6 @@
   
   </section>
 
-
-
+</div>
+</main>
 {{ end }}

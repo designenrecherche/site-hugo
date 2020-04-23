@@ -1,4 +1,13 @@
 
+#home-page{
+    width: calc(100% - var(--twitter));
+
+
+    
+
+}
+
+/* ------------------------------------------------------------------------------ */
 #feed-tweeter{
     float: right;
     border: 2px solid var(--color);

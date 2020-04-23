@@ -4,5 +4,12 @@
 @import "theme.scss";
 @import "body.scss";
 
-@import "parts/home-slider";
+
+/* All site */
+@import "parts/navigation";
+
+/* home */
 @import "parts/home";
+@import "parts/hero";
+@import "parts/home-slider";
+

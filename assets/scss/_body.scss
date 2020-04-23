@@ -1,6 +1,17 @@
 body{
-    --font: 'Becky';
-    --font-title: 'Becky';
+    --font: 'Sanomat Sans';
+    --font-title: 'Sanomat Sans';
     --color: #41228e;
     --twitter: 340px; /* 300px + margins */
+    font-family: var(--font);
+    --unit: 20px;
+}
+
+main {
+    padding-top: var(--navigation);
+    .container-main {
+        margin: 0 auto; 
+        max-width: 1200px;
+        padding: var(--unit);
+    }
 }
