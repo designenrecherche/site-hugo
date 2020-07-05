@@ -21,9 +21,16 @@ body{
 
     --color-text: var(--color-6);
     color: var(--color-text);
-    
-    -webkit-font-smoothing: antialiased;
 
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  position: relative;
 }
 
 
@@ -57,6 +64,7 @@ select:focus {
 
 main {
     padding-top: var(--navigation);
+    margin-left: 30vw;
     .container-main {
         margin: 0 auto; 
         max-width: 1200px;

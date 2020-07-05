@@ -1,21 +1,24 @@
-<header id="header">
-  <nav class="navbar">
+<header id="header" class="header-small">
+  
 
-    <a id="navbar-logo" alt="Design en Recherche" href="{{ .Site.BaseURL }}">
-      <span>{{ partial "logo/DER-logo_haut.html" . | safeHTML}}</span>
-      <span>{{ partial "logo/DER-logo_bas.html" . | safeHTML}}</span>
+    <div id="header-logo" aria-label="Design en Recherche, le réseau des jeunes chercheurs en design">
+      <span aria-hidden="true">{{ partial "logo/DER-logo_haut.html" . | safeHTML}}</span>
+      <span aria-hidden="true">{{ partial "logo/DER-logo_bas.html" . | safeHTML}}</span>
+      <p aria-hidden="true">{{ .Site.Data.homepage.banner.subtitle | safeHTML }}</p>
       <!-- <img src="{{ .Site.Params.logo | absURL }}" alt="{{.Site.Title}}"> -->
-    </a>
-    
+    </div>
 
 
+    <nav class="navbar">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
       aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
 
+  
+
     <div id="navigation">
-      <ul class="navbar-nav ml-auto">
+      <ul>
         <li class="nav-item">
           <a class="nav-link" href="{{ .Site.BaseURL }}">{{ with .Site.Params.Home }} {{ . }} {{ end }}</a>
         </li>
@@ -29,7 +32,7 @@
             aria-expanded="false">
             {{ .Name }}
           </a>
-          <div class="dropdown-menu" >
+          <div class="dropdown-menu">
             {{ range .Children }}
             <a class="dropdown-item" href="{{ .URL | absURL }}">{{ .Name }}</a>
             {{ end }}
@@ -44,4 +47,5 @@
       </ul>
     </div>
   </nav>
+
 </header>

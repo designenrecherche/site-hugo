@@ -9,13 +9,16 @@
 
 
     // Sticky Menu
-    $(window).scroll(function () {
-        if ($('.navigation').offset().top > 100) {
-            $('.navigation').addClass('nav-bg');
-        } else {
-            $('.navigation').removeClass('nav-bg');
-        }
-    });
+    // $(window).scroll(function () {
+    //     if ($('#header').offset().top > 100) {
+    //         console.log("offsettop");
+    //         $('#header').removeClass('header-big');
+    //         $('#header').addClass('header-small');
+    //     } else {
+    //         $('#header').addClass('header-big');
+    //         $('#header').removeClass('header-small');
+    //     }
+    // });
 
     // Background-images
     $('[data-background]').each(function () {
