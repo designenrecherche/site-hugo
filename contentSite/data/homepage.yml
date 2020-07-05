@@ -180,5 +180,5 @@ twitter_feed:
 
 # Instagram
 instagram_feed:
-  enable : true
+  enable : false
   title : "Instagram"

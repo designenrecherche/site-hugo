@@ -33,12 +33,6 @@ theme_color = "#41228e"
 [params.contact]
 enable = true
 form_action = "#"
-[[params.plugins.css]]
-URL = "plugins/bootstrap/bootstrap.min.css"
-[[params.plugins.css]]
-URL = "plugins/slick/slick.css"
-[[params.plugins.css]]
-URL = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.js]]
 URL = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
