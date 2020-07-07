@@ -1,0 +1,9 @@
+
+main {
+    margin-left: var(--width-header);
+    .container-main {
+        margin: 0 auto; 
+        // max-width: 1200px;
+        padding: var(--unit);
+    }
+}

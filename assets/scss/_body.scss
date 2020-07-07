@@ -4,9 +4,10 @@ body{
     --color: #41228e;
     --twitter: 340px; /* 300px + margins */
     font-family: var(--font);
-    --unit: 20px;
+    --unit: 12px;
     --font-size: 18px;
     --baseline: 26px;
+    --font-size-small: 14px;
     font-size: var(--font-size);
     line-height: var(--baseline);
 
@@ -24,6 +25,14 @@ body{
 
     -webkit-font-smoothing: antialiased;
     box-sizing: border-box;
+
+    @media screen and (min-width: 800px){
+          --width-header: 22vw;
+    }
+  
+
+  
+
 }
 
 *{
@@ -61,13 +70,38 @@ select:focus {
 }
 
 
+@mixin trait(){
+  &::before{
+    content: "";
+    display: inline-block;
+    border-bottom: 2px solid currentColor;
+    width: 12px;
+    margin-right: 10px;
+    transform: rotate(-4deg);
+    position: relative;
+    top: -5px;
+  }
+}
 
-main {
-    padding-top: var(--navigation);
-    margin-left: 30vw;
-    .container-main {
-        margin: 0 auto; 
-        max-width: 1200px;
-        padding: var(--unit);
-    }
+@mixin trait-double-small(){
+  &::before{
+    content: "";
+    display: inline-block;
+    border-bottom: 1px solid currentColor;
+    width: 12px;
+    margin-right: 8px;
+    transform: rotate(-4deg);
+    position: relative;
+    top: -6px;
+}
+&::after{
+    content: "";
+    display: inline-block;
+    border-bottom: 1px solid currentColor;
+    width: 8px;
+    transform: rotate(3deg);
+    position: absolute;
+    left: 2px;
+    top: 16px
+}
 }

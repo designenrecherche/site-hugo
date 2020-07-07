@@ -1,0 +1,120 @@
+body{
+    --navigation: 98px;
+}
+
+
+
+header#header{
+    --color-header: var(--color-1);
+    position: fixed;
+    transition: .3s ease;
+    width: var(--width-header);
+    height: 100vh;
+    // background-color: yellow;
+    @media screen and (min-width: 800px){
+        padding-left: calc(var(--unit)*4.5);
+        .navbar-toggler{ display: none;}
+    }
+
+
+    #header-logo {      
+        left: -25px;
+        top: 40px;
+
+        span {
+            position: absolute;
+            width: 160px;
+        }  
+        svg{
+            width: 100%;
+            fill: var(--color-1);
+        }
+        p {
+            position: absolute;
+            font-size: 18px;
+            top: 34px;
+            left: 23px;
+            white-space: nowrap;
+        }
+            
+    }
+
+
+}
+
+#baseline{
+    color: var(--color-4);
+    padding-top: 76px;
+    padding-left: calc(var(--unit)*4.5);
+    height: 0;
+}
+
+#navigation{
+    margin-top: 200px;
+    ul{
+        li{
+            margin-right: calc(var(--baseline)*2);
+            font-size: calc(var(--font-size)*0.7);
+            font-weight: 500;
+            letter-spacing: 0.7px;;
+            text-transform: uppercase;
+            color: var(--color-header);
+            padding-top: calc(var(--baseline)*0.25);
+            a{ color: currentColor };
+            // &::after{
+            //     content: "";
+            //     display: block;
+            //     border-bottom: 2px solid var(--color-5);
+            //     opacity: 0.3;
+            //     padding-top: calc(var(--baseline)*0.5);
+            // }
+            // &:first-of-type{
+            //     &::after{
+            //         transform: rotate(3deg);
+            //     }
+            // }
+            // &:nth-of-type(2)::after{
+            //     transform: rotate(-1deg);
+            // }
+            // &:nth-of-type(3)::after{
+            //     transform: rotate(0.8deg);
+            // }
+            // &:nth-of-type(4)::after{
+            //     transform: rotate(3deg);
+            // }
+
+            // &:nth-of-type(5)::after{
+            //     transform: rotate(-2deg);
+            // }
+        }
+     
+       
+    }
+}
+
+
+
+
+
+
+
+
+ /* on scoll */
+  header.navigation.nav-bg .navbar {
+    padding: 10px calc(var(--baseline)*3);
+  }
+  
+  @media(max-width:991px) {
+    .navigation.nav-bg {
+      padding: 15px 20px
+    }
+  }
+  
+  @media(max-width:991px) {
+    .navigation {
+      padding: 20px;
+      background: var(--primary-color)
+    }
+  }
+  
+  

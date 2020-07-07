@@ -1,21 +1,8 @@
 #hero {
-    // background-color: var(--color-1);
-    // min-height: 800px;
-
-    // --hero-unit: 24px;
-    // position: relative; 
-
-    // .container-hero{
-    //     padding: var(--hero-unit);
-    //     padding: calc(var(--baseline)*3);
-    // }
-
-
 
     #section-about{
 
         
-        // margin-top: calc(var(--baseline)*2);
         max-width: 800px;
         z-index: 30;
 
@@ -27,48 +14,48 @@
             color: var(--color-1);
         }
 
-        #about-links{
-            margin-top: calc(var(--baseline)*3);
-            a {
-                display: inline-block;             
-                margin-right: calc(var(--baseline)*2);
-                position: relative;
-                transition: .1s ease;
+        // #about-links{
+        //     margin-top: calc(var(--baseline)*3);
+        //     a {
+        //         display: inline-block;             
+        //         margin-right: calc(var(--baseline)*2);
+        //         position: relative;
+        //         transition: .1s ease;
 
-                .text{ 
-                    font-family: var(--font);
-                    font-size: calc(var(--font-size)*1.4);
-                    font-weight: 400;
-                    color: var(--color-5);
-                    z-index: 10;
-                }
+        //         .text{ 
+        //             font-family: var(--font);
+        //             font-size: calc(var(--font-size)*1.4);
+        //             font-weight: 400;
+        //             color: var(--color-5);
+        //             z-index: 10;
+        //         }
                 
-                &:first-of-type .line{
-                    display: block;
-                    width: 120px;
-                    border-bottom: 3px solid var(--color-3);
-                    position: absolute;
-                    transform: rotate(-8deg);
-                    top: 20px;
-                    left: 20px;
-                    z-index: 5;
-                }
-                &:nth-of-type(2) .line{
-                    display: block;
-                    width: 200px;
-                    border-bottom: 3px solid var(--color-3);
-                    position: absolute;
-                    transform: rotate(10deg);
-                    top: 20px;
-                    left: 20px;
-                    z-index: 5;
-                }
-            }
+        //         &:first-of-type .line{
+        //             display: block;
+        //             width: 120px;
+        //             border-bottom: 3px solid var(--color-3);
+        //             position: absolute;
+        //             transform: rotate(-8deg);
+        //             top: 20px;
+        //             left: 20px;
+        //             z-index: 5;
+        //         }
+        //         &:nth-of-type(2) .line{
+        //             display: block;
+        //             width: 200px;
+        //             border-bottom: 3px solid var(--color-3);
+        //             position: absolute;
+        //             transform: rotate(10deg);
+        //             top: 20px;
+        //             left: 20px;
+        //             z-index: 5;
+        //         }
+        //     }
 
-            a:hover .text { color: white; }
-            a:first-of-type:hover .line { transform: rotate(-12deg); }
-            a:nth-of-type(2):hover .line { transform: rotate(20deg); }
-        }
+        //     a:hover .text { color: white; }
+        //     a:first-of-type:hover .line { transform: rotate(-12deg); }
+        //     a:nth-of-type(2):hover .line { transform: rotate(20deg); }
+        // }
     
     }
 

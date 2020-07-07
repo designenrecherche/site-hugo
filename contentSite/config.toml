@@ -5,19 +5,19 @@ theme = "site"
 title = "Design en Recherche"
 [[menu.main]]
 URL = "about"
-name = "À propos"
+name = "L’association"
 weight = 2
 [[menu.main]]
 URL = "association"
-name = "Actions"
+name = "Nos actions"
 weight = 3
 [[menu.main]]
 URL = "membres"
-name = "Membres"
+name = "Annuaire des membres"
 weight = 4
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Nous contacter"
 weight = 5
 [params]
 address = "125/A, CA Commercial Area, California, USA"
@@ -26,7 +26,7 @@ copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugoth
 description = "This is meta description"
 email = "steve.fruits@email.com"
 google_analitycs_id = ""
-home = "Home"
+home = "Accueil"
 logo = "images/logo.png"
 phone = "+880 2544 658 256"
 theme_color = "#41228e"

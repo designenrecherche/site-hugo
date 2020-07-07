@@ -1,40 +1,29 @@
 {{ define "main" }}
+<p id="baseline" aria-hidden="true">{{ .Site.Data.homepage.banner.subtitle | safeHTML }}</p>
+
 <main id="home-page">
 
-  <section id="hero">
-  <div class="container-hero">
-  
+  <section id="about">
+    <div class="container-about">
+      {{ if .Site.Data.homepage.about.enable }}
 
-      <!-- <h2>{{ .Site.Data.homepage.banner.subtitle | safeHTML }}</h2> -->
+      {{ with .Site.Data.homepage.about }}
+      <p>{{.content | markdownify}}</p>
+
+      <div class="social">
+        Nous sommes actifs sur
+        <ul>
+          <li>Instagram</li>
+          <li>Twitter</li>
+          <li>Facebook</li>
+        </ul>
+      </div>
+      {{ end }}
+      {{ end }}
 
 
 
-  {{ if .Site.Data.homepage.about.enable }}
-  <!-- about -->
-  <div id="section-about">
-          {{ with .Site.Data.homepage.about }}
-          
-        <p>{{.content | markdownify}}</p>
 
-        <div id="about-links">
-          {{ if .buttonMore.enable }}
-          {{ with .buttonMore }}
-          <a href="{{ .URL | absURL }}"><span class="text">{{.label}}</span><span class="line" aria-disabled="true"></span></a>
-          {{ end }}
-          {{ end }}
-          {{ if .buttonAnnuaire.enable }}
-          {{ with .buttonAnnuaire }}
-          <a href="{{ .URL | absURL }}"><span class="text">{{.label}}</span><span class="line" aria-disabled="true"></span></a>
-          {{ end }}
-          {{ end }}
-          {{ end }}
-        </div>
-
-    </div>
-  <!-- /about -->
-  {{ end }}
-      
-  </div>
   </section>
 
 
@@ -45,7 +34,7 @@
 
 
 
-<!-- {{ if .Site.Data.homepage.twitter_feed.enable }}
+    <!-- {{ if .Site.Data.homepage.twitter_feed.enable }}
 <aside id="feed-tweeter" role="complementary">
 <a class="twitter-timeline" data-width="300" data-theme="light" href="https://twitter.com/DesignRecherche?ref_src=twsrc%5Etfw">Tweets by DesignRecherche</a> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -54,13 +43,41 @@
 
 
 
-   <!-- social icon -->
-   <ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
-    {{ range .Site.Params.social }}
-    <li class="mb-3"><a class="text-white" href="{{.URL | safeURL }}"><i class="{{.icon}}"></i></a></li>
+
+    {{ if .Site.Data.homepage.association.enable }}
+    <!-- Actions-->
+    <section id="actions" class="section-home">
+      <div class="container">
+        <div class="hero">
+          <article>
+            <h1>Bière des doctorants</h1>
+            <p class="date">26 juin 2020</p>
+            <p class="lieu">Le grand Breguet, Paris (11e)</p>
+            <p class="summary">Retrouvons-nous lorem ipstum ha elect ajact est ipstum arac biere cacahuète et synbrome
+              de l'imposteur</p>
+
+          </article>
+
+          <article>
+            <h1>Résidence instagram</h1>
+            <p class="instagram">Juin 2020 – Julie Blanc</p>
+            <p class="instagram">Avril 2020 – Marion Voillot</p>
+            <p class="summary">Chaque mois, une doctorante est en résidence sur notre compte instagram pour parler de son travail de recherche</p>
+          </article>
+
+
+        </div>
+        <div class="actions">
+          {{ with .Site.GetPage "section" "association" }}
+          {{ range .Pages.ByDate.Reverse }}
+          {{ .Render "post" }}
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+    <!-- Actions -->
     {{ end }}
-  </ul>
-  <!-- /social icon -->
 
 
 
@@ -68,123 +85,36 @@
 
 
 
-  
-
- 
-
-
-
-
-  {{ if .Site.Data.homepage.association.enable }}
-  <!-- Historique -->
-  <section class="section-home">
-    <div class="container">
-      <div class="row"> 
-        <div class="col-12 text-center"> 
-          <h2 class="section-title">{{.Site.Data.homepage.association.title | markdownify }}</h2>
+    {{ if .Site.Data.homepage.breves.enable }}
+    <!-- breves -->
+    <section class="section-home">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 text-center">
+            <h2 class="section-title">{{.Site.Data.homepage.breves.title | markdownify }}</h2>
+          </div>
+          {{ with .Site.GetPage "section" "breves" }}
+          {{ range .Pages.ByDate.Reverse }}
+          {{ .Render "breves" }}
+          {{ end }}
+          {{ end }}
         </div>
-        {{ with .Site.GetPage "section" "association" }}
-        {{ range .Pages.ByDate.Reverse }}
-        {{ .Render "post" }}
-        {{ end }}
-        {{ end }}
       </div>
-    </div>
-  </section>
-  <!-- historique -->
-  {{ end }}
-
-
-
-
-  {{ if .Site.Data.homepage.breves.enable }}
-  <!-- breves -->
-  <section class="section-home">
-    <div class="container">
-      <div class="row"> 
-        <div class="col-12 text-center"> 
-          <h2 class="section-title">{{.Site.Data.homepage.breves.title | markdownify }}</h2>
-        </div>
-        {{ with .Site.GetPage "section" "breves" }}
-        {{ range .Pages.ByDate.Reverse }}
-        {{ .Render "breves" }}
-        {{ end }}
-        {{ end }}
-      </div>
-    </div>
-  </section>
-  <!-- /breves -->
-  {{ end }}
+    </section>
+    <!-- /breves -->
+    {{ end }}
 
 
 
 
 
 
- 
-
-
-  <!-- SLIDESHOW -->
-
-  {{ if .Site.Data.homepage.instagram_feed.enable }}
-  <section class="slideshow" id="slideshow" data-nbr-item="5">
-    <div class="slideshow-container">
-    
-    <!-- Inputs --------------------------------------- -->
-    <input type="radio" name="slide-input" id="slide-input-0" hidden="" checked=""/>
-    <!-- <label for="slide-input-0" aria-hidden="true"></label> -->
-    <input type="radio" name="slide-input" id="slide-input-1" hidden=""/>
-    <input type="radio" name="slide-input" id="slide-input-2" hidden=""/>
-    <input type="radio" name="slide-input" id="slide-input-3" hidden=""/>
-    <input type="radio" name="slide-input" id="slide-input-4" hidden=""/>
-    <input type="radio" name="slide-input" id="slide-input-5" hidden=""/>
-    
-    <!-- Slides + container --------------------------- -->
-    <div class="slideshow-inner">
-  
-      {{ with .Site.Data.instagram.instagram }}
-      {{ range .item  }}
-      <div class="slideshow-item">
-              <h2>{{ .title }}</h2>
-              <div class="text-center testimonial-content">
-                <div class="content-instagram-list">
-                  <div class="item embed1">{{ .embed1 | safeHTML }}</div>
-                  <div class="item embed2">{{ .embed2 | safeHTML }}</div>
-                  <div class="item embed3">{{ .embed3 | safeHTML }}</div>
-                </div>
-    
-              </div>
-        </div>
-      {{ end }}
-      {{ end }}
-  
-    </div>
-    
-    <!-- Bullets (puces) -------------------------------- -->
-    <nav class="bullets-slide">
-        <label class="slideshow-bullet-label" data-slide="1" for="slide-input-1" aria-label="slide 1"></label><label class="slideshow-bullet-label" data-slide="2" for="slide-input-2" aria-label="slide 2"></label><label class="slideshow-bullet-label" data-slide="3" for="slide-input-3" aria-label="slide 3"></label><label class="slideshow-bullet-label" data-slide="4" for="slide-input-4" aria-label="slide 4"></label><label class="slideshow-bullet-label" data-slide="5" for="slide-input-5" aria-label="slide 5"></label>
-    </nav>
-    
-    <!-- Controls (arrows) -------------------------------- -->
-    
-    <nav class="slideshow-controls" aria-hidden="true">
-        <label for="slide-input-5" class="slide_controls slide_controls-previous" alt="Aller à la slide 5"></label>
-        <label for="slide-input-2" class="slide_controls slide_controls-next" alt="Aller à la slide 2"></label>
-        <label for="slide-input-1" class="slide_controls slide_controls-previous" alt="Aller à la slide 1"></label>
-        <label for="slide-input-3" class="slide_controls slide_controls-next" alt="Aller à la slide 3"></label>
-        <label for="slide-input-2" class="slide_controls slide_controls-previous" alt="Aller à la slide 2"></label>
-        <label for="slide-input-4" class="slide_controls slide_controls-next" alt="Aller à la slide 4"></label>
-        <label for="slide-input-3" class="slide_controls slide_controls-previous" alt="Aller à la slide 3"></label>
-        <label for="slide-input-5" class="slide_controls slide_controls-next" alt="Aller à la slide 5"></label>
-        <label for="slide-input-4" class="slide_controls slide_controls-previous" alt="Aller à la slide 4"></label>
-        <label for="slide-input-1" class="slide_controls slide_controls-next" alt="Aller à la slide 1"></label><span class="controls" aria-hidden="true"></span>
-    </nav>
-  
-  </section>
-  {{ end }}
 
 
 
-</div>
+
+
+
+  </div>
 </main>
 {{ end }}
