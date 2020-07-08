@@ -3,6 +3,37 @@ banner:
   title : "Design en recherche"
   subtitle : "le&nbsp;réseau des&nbsp;jeunes&nbsp;chercheur·e·s en&nbsp;design"
 
+# socials media links
+socials:
+  item:
+    - title: "Instagram"
+      link: "https://www.instagram.com/designenrecherche/"
+
+    - title: "Twitter"
+      link: "https://www.instagram.com/designenrecherche/"
+
+    - title: "Facebook"
+      link: "https://www.instagram.com/designenrecherche/"
+
+
+# Highlight 1: Beer
+beer:
+  enable : true
+  title: "Bière des doctorant·e·s"
+  summary: "On vous attends pour partager un verre, manger des cachuètes et discuter de nos recherches."
+  date: 2020-06-26T18:00:00Z
+  lieu: "Le grand Breguet, Paris (11e)"
+
+# Highlight 2: Résidences instagram
+instagramresidence:
+  enable : true
+  title: "Résidence instagram"
+  summary: "Chaque mois, un·e doctorant·e est en résidence sur notre compte instagram pour parler de son travail de recherche."
+  link: "https://www.instagram.com/designenrecherche/"
+  membre: "Julie Blanc"
+  mois: "juin 2020"
+
+
 # about
 about:
   enable : true

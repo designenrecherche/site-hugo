@@ -1,4 +1,8 @@
 {{ define "main" }}
+
+
+
+
 <p id="baseline" aria-hidden="true">{{ .Site.Data.homepage.banner.subtitle | safeHTML }}</p>
 
 <main id="home-page">
@@ -48,25 +52,37 @@
     <!-- Actions-->
     <section id="actions" class="section-home">
       <div class="container">
-        <div class="hero">
+
+
+
+        <div class="highlights">
+          
+          {{ if .Site.Data.homepage.beer.enable }}
+          {{ with .Site.Data.homepage.beer }}
           <article>
-            <h1>Bière des doctorants</h1>
-            <p class="date">26 juin 2020</p>
-            <p class="lieu">Le grand Breguet, Paris (11e)</p>
-            <p class="summary">Retrouvons-nous lorem ipstum ha elect ajact est ipstum arac biere cacahuète et synbrome
-              de l'imposteur</p>
-
+            <span aria-hidden="true">{{ partial "icons/beer.html" . | safeHTML}}</span>
+            <h1>{{ .title }}</h1>
+            <p class="date">{{ .date }}</p>
+            <p class="lieu">{{ .lieu }}</p>
+            <p class="summary">{{ .summary }}</p>  
           </article>
+          {{ end }}
+          {{ end }}
 
+          {{ if .Site.Data.homepage.instagramresidence.enable }}
+          {{ with .Site.Data.homepage.instagramresidence }}
           <article>
-            <h1>Résidence instagram</h1>
-            <p class="instagram">Juin 2020 – Julie Blanc</p>
-            <p class="instagram">Avril 2020 – Marion Voillot</p>
-            <p class="summary">Chaque mois, une doctorante est en résidence sur notre compte instagram pour parler de son travail de recherche</p>
+            <span aria-hidden="true">{{ partial "icons/insta-coeur.html" . | safeHTML}}</span>
+            <h1>{{ .title }}</h1>
+            <p class="instagram">{{ .membre }} </p>
+            <p class="summary">{{ .summary }}</p>  
+            <a class="more" target="_blank" href="{{ .link }}">Toutes les résidences Instagram</a>
           </article>
-
+          {{ end }}
+          {{ end }}
 
         </div>
+
         <div class="actions">
           {{ with .Site.GetPage "section" "association" }}
           {{ range .Pages.ByDate.Reverse }}
