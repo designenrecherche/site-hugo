@@ -6,7 +6,7 @@ date_start = 2018-04-25T22:00:00Z
 description = "Cet atelier proposait d'analyser des plans de thèse en construction dans différents domaines de recherche en design. "
 documents = ""
 lieu = "CRI, Centre de recherches Interdisciplinaires"
-publishDate = 2020-07-10T08:19:21Z
+publishDate = 2018-04-26T14:00:21Z
 title = "Atelier # 1 : How to faire un plan de thèse "
 
 +++
