@@ -6,7 +6,7 @@ date_start = 2018-01-11T23:00:00Z
 description = ""
 documents = ""
 lieu = "CRI – Paris"
-publishDate = 2020-03-16T20:23:40Z
+publishDate = 2018-01-12T21:00:40Z
 title = "Chantiers 2018"
 
 +++
