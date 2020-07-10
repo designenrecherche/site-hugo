@@ -8,7 +8,7 @@ URL = "about"
 name = "L’association"
 weight = 2
 [[menu.main]]
-URL = "association"
+URL = "actions"
 name = "Nos actions"
 weight = 3
 [[menu.main]]

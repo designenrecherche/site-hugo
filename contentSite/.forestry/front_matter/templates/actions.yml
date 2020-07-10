@@ -1,5 +1,5 @@
 ---
-label: Association
+label: Actions
 hide_body: false
 fields:
 - name: title
@@ -57,6 +57,6 @@ fields:
   description: Programme, appel ou tout autre document utile
   hidden: false
 pages:
-- contentSite/content/association/atelier-1-how-to-faire-un-plan-de-these.md
-- contentSite/content/association/conception-corps-et-fiction.md
-- contentSite/content/association/docteur-et-apres.md
+- contentSite/content/actions/atelier-1-how-to-faire-un-plan-de-these.md
+- contentSite/content/actions/conception-corps-et-fiction.md
+- contentSite/content/actions/docteur-et-apres.md

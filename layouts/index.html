@@ -57,7 +57,7 @@
 
 
 
-    {{ if .Site.Data.homepage.association.enable }}
+    {{ if .Site.Data.homepage.actions.enable }}
     <!-- Actions-->
     <section id="actions" class="section-home">
       <div class="container">
@@ -93,7 +93,7 @@
         </div>
 
         <div class="actions">
-          {{ with .Site.GetPage "section" "association" }}
+          {{ with .Site.GetPage "section" "actions" }}
           {{ range first 3 .Pages.ByDate.Reverse }} 
           {{ .Render "post" }}
           {{ end }}

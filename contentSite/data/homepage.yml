@@ -192,10 +192,10 @@ clients_logo_slider:
       URL : "#"
 
 # Évènements de l'association
-association:
+actions:
   enable : true
-  title : "Évènements de l'Association"
-  # blog post comes from "content/association" folder
+  title : "Actions de l'Association"
+  # blog post comes from "content/actions" folder
 
 
 

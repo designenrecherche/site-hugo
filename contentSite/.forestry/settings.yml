@@ -15,12 +15,12 @@ sections:
   templates:
   - instagram
 - type: directory
-  path: contentSite/content/association
+  path: contentSite/content/actions
   label: Asso (RDV, évènements...)
   create: all
   match: "**/*"
   templates:
-  - association
+  - actions
 - type: directory
   path: contentSite/content/membres
   label: Membres
