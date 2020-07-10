@@ -25,6 +25,7 @@ fields:
   description: Programme, appel ou tout autre document utile
   hidden: false
 pages:
+- contentSite/content/breves/2-offres-de-doctorats-a-l-ecole-universitaire-de-recherche-artec.md
 - contentSite/content/breves/ceci-est-une-brève.md
 - contentSite/content/breves/contrat-de-recherche-pour-l-ouverture-d-un-dsrd-diplome-superieur-de-recherche-en-design-ecolab-orleans.md
 - contentSite/content/breves/contrat-doctoral-a-la-head-geneve.md
