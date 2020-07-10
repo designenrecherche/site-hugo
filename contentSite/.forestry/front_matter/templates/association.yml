@@ -50,7 +50,9 @@ fields:
     - Atelier
     - Conférence
     - Journée d'étude
-    - Soutenance thèse
+    - Soutenance de thèse
+    - Publication
+    - Partenariat
     - Autre
 - type: text
   name: lieu
