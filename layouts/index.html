@@ -16,11 +16,20 @@
 
       <div class="social">
         Nous sommes actifs sur
+        
         <ul>
           <li>Instagram</li>
           <li>Twitter</li>
           <li>Facebook</li>
+          <!-- {{ with .Site.Data.homepage.socials }}
+          {{ range .item }}
+          <li>Instagram</li>
+          <li>Twitter</li>
+          <li>Facebook</li>
+          {{ end }}
+          {{ end }} -->
         </ul>
+        
       </div>
       {{ end }}
       {{ end }}

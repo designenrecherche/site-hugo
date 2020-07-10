@@ -5,6 +5,7 @@ banner:
 
 # socials media links
 socials:
+  enable : true
   item:
     - title: "Instagram"
       link: "https://www.instagram.com/designenrecherche/"
