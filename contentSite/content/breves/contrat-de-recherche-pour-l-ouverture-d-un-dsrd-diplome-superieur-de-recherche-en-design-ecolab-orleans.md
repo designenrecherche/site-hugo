@@ -1,7 +1,6 @@
 +++
 description = ""
 documents = ""
-draft = true
 external-link = "https://www.esad-orleans.fr/diplome-superieur-recherche-design/"
 publishDate = 2020-07-10T09:46:17Z
 title = "Contrat de recherche pour l'ouverture d’un DSRD (Diplôme Supérieur de Recherche en Design), Écolab (Orléans)"
