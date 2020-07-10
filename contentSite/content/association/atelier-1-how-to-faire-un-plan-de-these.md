@@ -2,11 +2,12 @@
 banner = "/uploads/2017/12/31/placeholder.jpg"
 category = "Atelier"
 date_event = "26 avril 2018 "
-date_start = 2018-04-25T22:00:00Z
+date_start = "2018-04-25T22:00:00.000+00:00"
 description = "Cet atelier proposait d'analyser des plans de thèse en construction dans différents domaines de recherche en design. "
 documents = ""
 lieu = "CRI, Centre de recherches Interdisciplinaires"
 publishDate = 2018-04-26T14:00:21Z
+time = "14h"
 title = "Atelier # 1 : How to faire un plan de thèse "
 
 +++

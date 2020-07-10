@@ -2,11 +2,12 @@
 banner = "/uploads/2017/12/31/placeholder.jpg"
 category = "Journée d'étude"
 date_event = "2017-04-26T10:00:00+00:00"
-date_start = 2017-04-25T22:00:00Z
+date_start = "2017-04-25T22:00:00.000+00:00"
 description = "Jusqu’où les hommes seraient-ils prêts à interagir corporellement avec les technologies ? Sans doute très loin lorsqu’il s’agit de raisons vitales ou encore, vénales. Dans une disposition méliorative, nous pensons notamment aux applications récentes de cœurs..."
 documents = ""
 lieu = "Université de Strasbourg"
 publishDate = 2017-04-26T08:00:12Z
+time = "10h"
 title = "Conception, Corps et Fiction"
 
 +++
