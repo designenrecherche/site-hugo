@@ -1,15 +1,15 @@
   <article>
     <!-- <img class="rounded card-img-top" src="{{.Params.Image | relURL}}" alt="{{.Title }}"> -->
-    <div>
       <h1><a href="{{.Permalink}}">{{.Title }}</a></h1>
       <p class="type">{{ .Params.category }}</p>
       <p class="date">  
+        <time datetime="{{ .Date.Format "2006-01-02" | safeHTML }}">
         {{ .Date.Day }}
         {{ index $.Site.Data.mois (printf "%d" .Date.Month) }}
-        {{ .Date.Year }}
+        {{ .Date.Year }}<span class="horaire">, 
+        {{ if .Params.time }}{{ .Params.time }}{{ end }}</time></span>
       </p>
       {{ if .Params.lieu }}<p class="lieu">{{ .Params.lieu }}</p>{{ end }}
       <p class="summary">{{.Summary}}</p>
       <a class="more" href="{{.Permalink}}">Voir plus</a>
-    </div>
   </article>
