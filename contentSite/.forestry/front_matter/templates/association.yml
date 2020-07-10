@@ -63,5 +63,6 @@ fields:
   description: Programme, appel ou tout autre document utile
   hidden: false
 pages:
+- contentSite/content/association/atelier-1-how-to-faire-un-plan-de-these.md
 - contentSite/content/association/conception-corps-et-fiction.md
 - contentSite/content/association/docteur-et-apres.md
