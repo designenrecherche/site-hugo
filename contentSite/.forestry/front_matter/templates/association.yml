@@ -25,7 +25,7 @@ fields:
   config:
     display_utc: false
 - name: time
-  default: "18h"
+  default: 18h
   type: text
   config:
     required: true
