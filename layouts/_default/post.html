@@ -3,7 +3,11 @@
     <div>
       <h1><a href="{{.Permalink}}">{{.Title }}</a></h1>
       <p class="type">{{ .Params.category }}</p>
-      {{ if .Params.date_event }}<p class="date">{{ .Params.date_event }}</p>{{ end }}
+      <p class="date">  
+        {{ .Date.Day }}
+        {{ index $.Site.Data.mois (printf "%d" .Date.Month) }}
+        {{ .Date.Year }}
+      </p>
       {{ if .Params.lieu }}<p class="lieu">{{ .Params.lieu }}</p>{{ end }}
       <p class="summary">{{.Summary}}</p>
       <a class="more" href="{{.Permalink}}">Voir plus</a>

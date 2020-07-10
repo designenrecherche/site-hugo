@@ -19,23 +19,17 @@ fields:
   default: "/uploads/2017/12/31/placeholder.jpg"
 - name: publishDate
   default: Now
-  label: Date de publication (auto)
+  label: Date de l'évènement
   hidden: false
   type: datetime
-- name: date_event
+  config:
+    display_utc: false
+- name: time
+  default: "18h"
   type: text
   config:
     required: true
-  label: Date de l'évènement
-- name: date_start
-  type: datetime
-  label: Date de début de l'évènement
-  description: ''
-  config:
-    required: true
-    date_format: 
-    time_format: 
-    display_utc: false
+  label: Horaire (de début)
 - type: select
   name: category
   label: Catégorie
