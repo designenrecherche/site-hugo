@@ -2,11 +2,12 @@
 banner = "/uploads/2017/12/31/placeholder.jpg"
 category = "Journée d'étude"
 date_event = "2 décembre 2017"
-date_start = 2020-07-01T22:00:00Z
+date_start = "2020-07-01T22:00:00.000+00:00"
 description = ""
 documents = ""
 lieu = "Les grands voisins – Paris, France"
 publishDate = 2017-02-12T21:00:00Z
+time = "10h"
 title = "Situations graphiques"
 
 +++

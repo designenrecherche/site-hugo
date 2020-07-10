@@ -2,11 +2,12 @@
 banner = "/uploads/2017/12/31/placeholder.jpg"
 category = "Conférence"
 date_event = "14 mars 2019, 18h"
-date_start = 2019-03-14T18:00:00Z
+date_start = "2019-03-14T18:00:00.000+00:00"
 description = "Cette table ronde est dédiée au post-doctorat. Elle engage la discussion sur les débouchés de la recherche dans le champ du design et les différentes perspectives professionnelles."
 documents = ""
 lieu = "Gaîté Lyrique, 3 bis rue Papin 75003 Paris"
 publishDate = 2019-03-14T19:00:32Z
+time = "18h"
 title = "Docteur, et après ?"
 
 +++
