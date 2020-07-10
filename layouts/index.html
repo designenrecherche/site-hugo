@@ -94,7 +94,7 @@
 
         <div class="actions">
           {{ with .Site.GetPage "section" "association" }}
-          {{ range .Pages.ByDate.Reverse }}
+          {{ range .Pages.ByDate.Reverse }} 
           {{ .Render "post" }}
           {{ end }}
           {{ end }}

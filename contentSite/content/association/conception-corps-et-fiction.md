@@ -1,8 +1,7 @@
 +++
 banner = "/uploads/2017/12/31/placeholder.jpg"
-category = "RDV asso (AG, bières, rapports...)"
-date-event = "2017-04-26T10:00:00+00:00"
-date_event = "26-27 avril 2017"
+category = "Journée d'étude"
+date_event = "2017-04-26T10:00:00+00:00"
 date_start = 2017-04-25T22:00:00Z
 description = "Jusqu’où les hommes seraient-ils prêts à interagir corporellement avec les technologies ? Sans doute très loin lorsqu’il s’agit de raisons vitales ou encore, vénales. Dans une disposition méliorative, nous pensons notamment aux applications récentes de cœurs..."
 documents = ""

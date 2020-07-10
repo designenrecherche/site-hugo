@@ -20,7 +20,7 @@ fields:
 - name: publishDate
   default: Now
   label: Date de publication (auto)
-  hidden: true
+  hidden: false
   type: datetime
 - name: date_event
   type: text

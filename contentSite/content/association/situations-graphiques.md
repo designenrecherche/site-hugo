@@ -1,7 +1,6 @@
 +++
 banner = "/uploads/2017/12/31/placeholder.jpg"
 category = "Journée d'étude"
-date-event = "2017-12-01T11:00:00.000+00:00"
 date_event = "2 décembre 2017"
 date_start = 2017-12-01T23:00:00Z
 description = ""

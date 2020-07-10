@@ -74,6 +74,10 @@
                 
             }
 
+            .summary{
+                margin-top: calc(var(--baseline)*0.25);
+            }
+
             .more{
                 display: block;
                 color: currentColor;
