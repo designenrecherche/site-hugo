@@ -1,0 +1,55 @@
+#breves{
+    --color-breves: var(--color-8);
+    color: var(--color-breves);
+
+    .grid{
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-column-gap: calc(var(--baseline)*2);
+    }
+
+    article{
+        margin-bottom: calc(var(--baseline)*2);
+
+        &::after{
+            content: "";
+            display: block;
+            padding-top: calc(var(--baseline)*1.5);
+            border-bottom: 2px solid var(--color-8);
+            transform: rotate(1deg);
+            opacity: 0.4;
+        }
+
+        h1{
+            font-size: var(--font-size-small);
+            color: var(--color-breves);
+            line-height: calc(var(--baseline)*0.75);                
+            font-weight: 500;
+        }
+
+        strong{
+            font-weight: 400;
+            font-style: italic;
+            background-color:rgba(146, 113, 251, 0.1);
+        }
+        p{
+            margin-bottom: calc(var(--baseline)*0.25);   
+            font-size: var(--font-size-small);
+            line-height: calc(var(--baseline)*0.75);
+        }
+
+        .content a{
+            color: currentColor;
+            border-bottom: 1px dashed var(--color-breves);
+        }
+
+        .more{
+            display: block;
+            color: currentColor;
+            margin-top: calc(var(--baseline)*0.5);
+            font-size: var(--font-size-small);
+            @include trait-double-small();
+        }
+
+    }
+}

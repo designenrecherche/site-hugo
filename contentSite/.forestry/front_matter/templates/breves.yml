@@ -15,7 +15,7 @@ fields:
   hidden: true
   type: datetime
 - type: text
-  name: external-link
+  name: link
   label: URL
   description: URL de redirection vers site de l'évènement, l'appel à communication,
     la proposition, etc.

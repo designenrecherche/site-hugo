@@ -1,10 +1,7 @@
-<div class="col-lg-4 col-sm-6 mb-4">
-    <article class="card shadow">
-      <div class="card-body">
-        {{ if .Params.category }}<p class="type">{{ .Params.category }}</p>{{ end }}
-        <h4 class="card-title">{{.Title }}</h4>
-        <p class="cars-text">{{.Content}}</p>
-        {{ if .Params.externallink }}<a href="{{.Params.externallink}}">Lien (en savoir plus)</a>{{ end }}
-      </div>
+    <article class="breve">
+        <h1>{{.Title }}</h1>
+        <div class="content">
+          {{.Content }}
+        </div>
+        {{ if .Params.link }}<a class="more" target="_blank" href="{{.Params.link}}">Plus d'infos</a>{{ end }}
     </article>
-  </div>

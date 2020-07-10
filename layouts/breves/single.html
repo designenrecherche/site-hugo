@@ -2,7 +2,7 @@
     <article class="card shadow">
       <!-- <img class="rounded card-img-top" src="{{.Params.Image | relURL}}" alt="{{.Title }}"> -->
       <div class="card-body">
-        <h4 class="card-title"><a class="text-dark" href="{{.Permalink}}">{{.Title }}</a>
+        <h4 class="card-title"><a class="text-dark" href="{{.Permalink}}">SINGLE/{{.Title }}</a>
         </h4>
         {{ if .Params.date_event }}<p class="section-cnu">{{ .Params.date_event }}</p>{{ end }}
         {{ if .Params.lieu }}<p class="section-cnu">{{ .Params.lieu }}</p>{{ end }}

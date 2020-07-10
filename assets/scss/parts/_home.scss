@@ -3,12 +3,16 @@
 
     --width-block-home: 63ch;
 
+    .section-home{
+        margin-bottom: calc(var(--baseline)*6);
+    }
+
     #about{
         color: var(--color-4);
         width: 100%;
         max-width: var(--width-block-home);
         margin-left: calc(var(--width-block-home)*0.5);
-        margin-bottom: calc(var(--baseline)*6);
+        
 
         .social{
             margin-top: calc(var(--baseline)*1);

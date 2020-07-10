@@ -1,7 +1,7 @@
 +++
-description = "http://eur-artec.fr/2020/03/16/appel-a-candidature-contrats-doctoraux/"
+description = ""
 documents = ""
-external-link = ""
+link = "http://eur-artec.fr/2020/03/16/appel-a-candidature-contrats-doctoraux/"
 publishDate = 2020-07-10T09:48:00Z
 title = "2 offres de doctorats à L’École Universitaire de Recherche ArTeC"
 

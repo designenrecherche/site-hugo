@@ -1,7 +1,7 @@
 +++
 description = ""
 documents = ""
-external-link = "https://www.hesge.ch/head/sites/default/files/places_vacantes/ass_phd_position_vf_mai_2020.pdf"
+link = "https://www.hesge.ch/head/sites/default/files/places_vacantes/ass_phd_position_vf_mai_2020.pdf"
 publishDate = 2020-07-10T09:44:53Z
 title = "Contrat doctoral à la HEAD Genève"
 

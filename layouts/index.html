@@ -7,7 +7,7 @@
 
 <main id="home-page">
 
-  <section id="about">
+  <section id="about" class="section-home">
     <div class="container-about">
       {{ if .Site.Data.homepage.about.enable }}
 
@@ -112,18 +112,17 @@
 
     {{ if .Site.Data.homepage.breves.enable }}
     <!-- breves -->
-    <section class="section-home">
+    <section id="breves" class="section-home">
       <div class="container">
-        <div class="row">
-          <div class="col-12 text-center">
-            <h2 class="section-title">{{.Site.Data.homepage.breves.title | markdownify }}</h2>
+
+          <h1 class="section-title">{{.Site.Data.homepage.breves.title | markdownify }}</h1>
+          <div class="grid">
+            {{ with .Site.GetPage "section" "breves" }}
+            {{ range .Pages.ByDate.Reverse }}
+            {{ .Render "breves" }}
+            {{ end }}
+            {{ end }}
           </div>
-          {{ with .Site.GetPage "section" "breves" }}
-          {{ range .Pages.ByDate.Reverse }}
-          {{ .Render "breves" }}
-          {{ end }}
-          {{ end }}
-        </div>
       </div>
     </section>
     <!-- /breves -->

@@ -1,7 +1,7 @@
 +++
 description = ""
 documents = ""
-external-link = "https://www.citedudesign.com/fr/actualites/060720-aap_biennale-dans-la-ville-et-resonance"
+link = "https://www.citedudesign.com/fr/actualites/060720-aap_biennale-dans-la-ville-et-resonance"
 publishDate = 2020-07-10T09:50:20Z
 title = "Appel à projet XIIe Biennale Internationale Design 2021"
 
