@@ -1,7 +1,6 @@
 +++
 description = ""
 documents = ""
-draft = true
 external-link = "https://anrt-nancy.fr/fr/candidature/#admission"
 publishDate = 2020-07-10T09:49:38Z
 title = "6 offres de contrats de recherche à L’ANRT de Nancy"
