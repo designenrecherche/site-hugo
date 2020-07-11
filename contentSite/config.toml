@@ -1,4 +1,4 @@
-baseURL = "http://contentSite.com"
+baseURL = "https://clever-mayer-4bf040.netlify.app/"
 languageCode = "fr"
 summaryLength = "10"
 theme = "site"
