@@ -2,19 +2,8 @@
 banner:
   title : "Design en recherche"
   subtitle : "le&nbsp;réseau des&nbsp;jeunes&nbsp;chercheur·e·s en&nbsp;design"
+  mail: "designenrecherche@gmail.com"
 
-# socials media links
-socials:
-  enable : true
-  item:
-    - title: "Instagram"
-      link: "https://www.instagram.com/designenrecherche/"
-
-    - title: "Twitter"
-      link: "https://www.instagram.com/designenrecherche/"
-
-    - title: "Facebook"
-      link: "https://www.instagram.com/designenrecherche/"
 
 
 # Highlight 1: Beer

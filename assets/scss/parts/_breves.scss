@@ -1,15 +1,39 @@
 #breves{
     --color-breves: var(--color-8);
     color: var(--color-breves);
+    width: 100%;
+    margin-bottom: 0!important;
 
-    .grid{
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        grid-column-gap: calc(var(--baseline)*2);
+    .section-title {
+        font-weight: 400;
+        font-size: var(--font-size);
+        text-transform: uppercase;
+        letter-spacing: 0.3px;
+        margin-bottom: calc(var(--baseline)*2);
     }
 
+    .link-archive{
+        font-size: var(--font-size-small);
+        position: absolute;
+        top: 0;
+        right: calc(var(--baseline)*2);
+        color: currentColor;
+        @include trait-double-small();
+    }
+
+    .grid{
+        // display: grid;
+        // grid-template-columns: repeat(4, 1fr);
+        // grid-column-gap: calc(var(--baseline)*2);
+        width: 100%;
+    }
+
+    .grid-sizer,
+    .grid-item { width: 33%; }
+
     article{
-        margin-bottom: calc(var(--baseline)*2);
+        margin-bottom: calc(var(--baseline)*1.5);
+        padding-right: calc(var(--baseline)*2);
 
         &::after{
             content: "";

@@ -1,0 +1,19 @@
+#footer{
+    color: var(--color-1);
+    font-size: var(--font-size-small);
+    margin-left: calc(var(--unit)*4.5);
+    margin-bottom: calc(var(--baseline)*2);
+    a, a:visited { color: var(--color-1); }
+    a span {
+        display: inline-block;
+        width: 20px;
+    }
+    ul{
+        margin-bottom: calc(var(--baseline)*1);
+    }
+    p{
+        line-height: calc(var(--baseline)*0.75);
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+}

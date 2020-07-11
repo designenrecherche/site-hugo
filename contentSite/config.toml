@@ -3,6 +3,17 @@ languageCode = "fr"
 summaryLength = "10"
 theme = "site"
 title = "Design en Recherche"
+
+
+# css plugins
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+
+
 [[menu.main]]
 URL = "about"
 name = "L’association"
@@ -16,10 +27,18 @@ URL = "membres"
 name = "Annuaire des membres"
 weight = 4
 [[menu.main]]
+URL = "breves"
+name = "Breves"
+weight = 5
+[[menu.main]]
 URL = "contact"
 name = "Nous contacter"
-weight = 5
+weight = 6
+
 [params]
+subtitle = "le&nbsp;réseau des&nbsp;jeunes&nbsp;chercheur·e·s en&nbsp;design"
+mail = "designenrecherche@gmail.com"
+credits = "Association loi 1901 à but non-lucratif."
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
 copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
@@ -45,17 +64,19 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
-icon = "ti-facebook"
+URL = "https://www.instagram.com/designenrecherche/"
+title = "Twitter"
+icon = "ti-twitter-alt"
 [[params.social]]
-URL = "#"
+URL = "https://www.instagram.com/designenrecherche/"
+title = "Instagram"
 icon = "ti-instagram"
 [[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
+URL = "https://www.instagram.com/designenrecherche/"
+title = "Facebook"
+icon = "ti-facebook"
+
+
 
 [taxonomies]
   tag = "tags"

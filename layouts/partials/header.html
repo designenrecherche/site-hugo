@@ -9,18 +9,18 @@
     </div>
 
 
-    <nav class="navbar">
+    <!-- <nav class="navbar">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
       aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
-    </button>
+    </button> -->
 
   
 
     <div id="navigation">
       <ul>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ .Site.BaseURL }}">{{ with .Site.Params.Home }} {{ . }} {{ end }}</a>
+        <li>
+          <a href="{{ .Site.BaseURL }}">{{ with .Site.Params.Home }} {{ . }} {{ end }}</a>
         </li>
         {{ $current := . }}
         {{ range .Site.Menus.main }}
@@ -39,8 +39,8 @@
           </div>
         </li>
         {{ else }}
-        <li class="nav-item {{ if $active }}active{{ end }}">
-          <a class="nav-link" href="{{ .URL | absURL }}">{{ .Name }}</a>
+        <li class=" {{ if $active }}active{{ end }}">
+          <a href="{{ .URL | absURL }}">{{ .Name }}</a>
         </li>
         {{ end }}
         {{ end }}

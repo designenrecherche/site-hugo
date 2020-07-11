@@ -28,6 +28,9 @@
   {{ $styles := resources.Get "scss/main.scss" | toCSS | minify }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
+  {{ $masonry := resources.Get "js/masonry.min.js" }}
+  <script src="{{ $masonry.Permalink }}"></script>
+
   <link rel="stylesheet" href="/fonts/becky/stylesheet.css" media="screen">
   <link rel="stylesheet" href="/fonts/Sanomat-Sans/stylesheet.css" media="screen">
   

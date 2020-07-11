@@ -17,11 +17,11 @@
         .social{
             margin-top: calc(var(--baseline)*1);
             p, ul, ul li { display: inline-block; }
+            a{ color: currentColor; }
 
             ul li{
                 padding-left: calc(var(--unit)*2);
-                @include trait();                    
-                
+                @include trait();                               
             }
             
         }

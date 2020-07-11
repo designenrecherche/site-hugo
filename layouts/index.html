@@ -3,7 +3,7 @@
 
 
 
-<p id="baseline" aria-hidden="true">{{ .Site.Data.homepage.banner.subtitle | safeHTML }}</p>
+<p id="baseline" aria-hidden="true">{{ .Site.Params.subtitle | safeHTML }}</p>
 
 <main id="home-page">
 
@@ -13,25 +13,19 @@
 
       {{ with .Site.Data.homepage.about }}
       <p>{{.content | markdownify}}</p>
+      {{ end }}
 
       <div class="social">
         Nous sommes actifs sur
         
         <ul>
-          <li>Instagram</li>
-          <li>Twitter</li>
-          <li>Facebook</li>
-          <!-- {{ with .Site.Data.homepage.socials }}
-          {{ range .item }}
-          <li>Instagram</li>
-          <li>Twitter</li>
-          <li>Facebook</li>
+          {{ range .Site.Params.social }}
+          <li><a href="{{.URL | safeURL }}">{{.title }}</a></li>
           {{ end }}
-          {{ end }} -->
         </ul>
         
       </div>
-      {{ end }}
+      
       {{ end }}
 
 
@@ -116,7 +110,10 @@
       <div class="container">
 
           <h1 class="section-title">{{.Site.Data.homepage.breves.title | markdownify }}</h1>
-          <div class="grid">
+          <a class="link-archive" aria-label="Voir les archives des brèves" href="#">Archives</a>
+          
+          <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": ".grid-sizer", "percentPosition": true }'>
+            <div class="grid-sizer"></div>
             {{ with .Site.GetPage "section" "breves" }}
             {{ range .Pages.ByDate.Reverse }}
             {{ .Render "breves" }}
