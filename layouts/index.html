@@ -115,7 +115,7 @@
           <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": ".grid-sizer", "percentPosition": true }'>
             <div class="grid-sizer"></div>
             {{ with .Site.GetPage "section" "breves" }}
-            {{ range .Pages.ByDate.Reverse }}
+            {{ range first 8 .Pages.ByDate.Reverse }}
             {{ .Render "breves" }}
             {{ end }}
             {{ end }}
