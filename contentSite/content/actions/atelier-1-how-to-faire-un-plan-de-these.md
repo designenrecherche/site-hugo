@@ -8,7 +8,7 @@ documents = ""
 lieu = "CRI, Centre de recherches Interdisciplinaires"
 publishDate = 2018-04-26T14:00:21Z
 time = "14h"
-title = "Atelier # 1 : How to faire un plan de thèse "
+title = "Atelier # 1 : How to faire un plan de these"
 
 +++
 Cet atelier proposait d'analyser des plans de thèse _en construction_ dans différents domaines de recherche en design. Nous avons présenté les travaux portant sur les thèmes de recherche suivant : «Données sensibles, sensibles données : le rôle des mises en formes tangibles dans la perception des usages numériques », « Manifestes en design graphique, entre situation de modernité et situation de quotidienneté », « Montrer. Cacher. Les représentations des imaginaires numériques ». Au cours de l'atelier nous avons abordé différents éléments de méthodologie dans la construction du plan que nous allons mettre à disposition sur le drive de l’association. Une suite de cet atelier est envisagée pour l'année 2018-2019.
