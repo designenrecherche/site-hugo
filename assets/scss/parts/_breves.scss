@@ -42,6 +42,11 @@
     .grid-sizer,
     .grid-item { width: 33%; }
 
+    @media screen and (max-width: 1200px){
+        .grid-sizer,
+        .grid-item { width: 50%; }
+    }
+
     article{
         margin-bottom: calc(var(--baseline)*1.5);
         padding-right: calc(var(--baseline)*2);
