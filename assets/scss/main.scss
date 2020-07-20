@@ -13,7 +13,10 @@
 
 /* home */
 @import "parts/home";
-@import "parts/breves";
+
 // @import "parts/hero";
 // @import "parts/home-slider";
 
+/* Type */
+@import "types/actions-list";
+@import "types/breves";

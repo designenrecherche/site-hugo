@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+  <!-- blog -->
+    <div class="container-main">
+        {{ range .Data.Pages }}
+        {{ .Render "post" }}
+        {{ end }}
+      </div>
+  <!-- /blog -->
+
+{{ end }}

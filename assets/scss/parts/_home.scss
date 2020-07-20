@@ -12,8 +12,7 @@
         width: 100%;
         max-width: var(--width-block-home);
         margin-left: calc(var(--width-block-home)*0.5);
-        margin-top: var(--margin-top);
-
+        
         .social{
             margin-top: calc(var(--baseline)*1);
             p, ul, ul li { display: inline-block; }
@@ -30,153 +29,14 @@
         }
     }
 
-
     #actions {
-
         width: 100%;
         max-width: var(--width-block-home);
-        color: var(--color-3);
-
-        .actions article, .highlights {
-            margin-bottom: calc(var(--baseline)*2);
-            
-        }
-
-        .more{
-            display: block;
-            color: currentColor;
-            margin-top: calc(var(--baseline)*0.5);
-            font-size: var(--font-size-small);
-            @include trait-double-small();
-        }
-
-
-        .actions h1,
-        .highlights h1{
-            font-weight: 500;
-            font-size: var(--font-size);
-            display: inline-block;
-            color: var(--color-3);
-            font-size: var(--font-size);
-            line-height: calc(var(--baseline)*1);                
-            font-weight: 500;
-            margin-bottom: calc(var(--baseline)*1); 
-            margin-top: 0;
-            &::after{
-                content: "";
-                display: block;
-                position: relative;
-                width: calc(100% + 6px);
-                height: 2px;
-                left: -3px;
-                background-color: currentColor;
-                transform: rotate(-1.5deg);
-            }
-        }
-
-        
-
-
-
-        .actions {
-
-            h1 {
-                font-weight: 500;
-                font-size: var(--font-size);
-                display: inline-block;
-                color: var(--color-3);
-                font-size: var(--font-size);
-                line-height: calc(var(--baseline)*1);                
-                font-weight: 500;
-                margin-bottom: calc(var(--baseline)*1); 
-                a{ color: currentColor; }
-                &:hover::after{
-                    transform: rotate(0deg);
-                }
-            }
-
-            .type{
-                position: absolute;
-                right: 0;
-                top: 3px;
-                font-size: 0.6em;
-                text-transform: uppercase;
-                font-weight: 400;
-                letter-spacing: 0.2px;
-                margin-bottom: 0;
-                &:after{
-                    content: "";
-                    display: block;
-                    position: relative;
-                    width: calc(100% + 20px);
-                    left: -10px;
-                    height: calc(var(--baseline)*0.8);
-                    background-color: currentColor;
-                    opacity: 0.1;
-                    top: calc(-1*var(--baseline));
-                    transform: rotate(-2deg);
-                }
-            }
-
-            .date, .lieu{
-                display: inline;
-                margin-right:  calc(var(--unit)*2);
-                @include trait();                     
-            }
-
-            .summary{
-                margin-top: calc(var(--baseline)*0.25);
-            }
-
-        }
-
-        // .highlights::after{
-        //     content: "";
-        //     display: block;
-        //     padding-top: calc(var(--baseline)*1.5);
-        //     border-bottom: 2px solid var(--color-2);
-        //     transform: rotate(1deg);
-        // }
-
-        .highlights article{
-
-                display: inline-block;
-                vertical-align: top;
-                width: 46%;
-                &:first-of-type{ margin-right: 7%; }
-                &:nth-of-type(2){
-                    position: relative;
-                    left: 10px;
-                }
-
-                svg {
-                    display: inline-block;
-                    width: 60px;
-                    fill: var(--color-3);
-                    margin-bottom: calc(var(--baseline)*1);
-                }
-
-                h1{
-                    margin-top: calc(var(--baseline)*0.8);
-                    margin-left: 20px;
-                    vertical-align: top;
-                }
-
-                .date, .lieu, .instagram{
-                    display: block;
-                    font-weight: 500;
-                    &:before{ display: none; }
-                }
-                .date{
-                    margin-bottom: 0;
-                }
-                .summary{
-                    margin-top: calc(var(--baseline)*0.5);
-                }
-
-            }
-        
+       
     }
+
+
+
 
 }
 

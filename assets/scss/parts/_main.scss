@@ -1,9 +1,18 @@
+body{
+    --max-width-list: 63ch;
+}
+
 
 main {
     margin-left: var(--width-header);
-    .container-main {
-        margin: 0 auto; 
-        // max-width: 1200px;
+    .container-main { 
+        // margin: 0 auto; 
         padding: var(--unit);
+        padding-top: var(--margin-top);
     }
+}
+
+
+#main-actions .container-main {
+    max-width: var(--max-width-list);
 }

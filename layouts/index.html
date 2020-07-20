@@ -5,6 +5,7 @@
 
 <p id="baseline" aria-hidden="true">{{ .Site.Params.subtitle | safeHTML }}</p>
 
+<div class="container-main">
 
   <section id="about" class="section-home">
     <div class="container-about">
@@ -55,9 +56,7 @@
     <section id="actions" class="section-home">
       <div class="container">
 
-
-
-        <div class="highlights">
+        <div class="highlights-actions">
           
           {{ if .Site.Data.homepage.beer.enable }}
           {{ with .Site.Data.homepage.beer }}
@@ -123,15 +122,6 @@
     </section>
     <!-- /breves -->
     {{ end }}
-
-
-
-
-
-
-
-
-
 
 
 
