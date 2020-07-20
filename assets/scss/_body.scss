@@ -91,15 +91,21 @@ select:focus {
     transform: rotate(-4deg);
     position: relative;
     top: -6px;
-}
-&::after{
-    content: "";
-    display: inline-block;
-    border-bottom: 1px solid currentColor;
-    width: 8px;
-    transform: rotate(3deg);
-    position: absolute;
-    left: 2px;
-    top: 16px
-}
+  }
+  &::after{
+      content: "";
+      display: inline-block;
+      border-bottom: 1px solid currentColor;
+      width: 8px;
+      transform: rotate(3deg);
+      position: absolute;
+      left: 2px;
+      top: 16px
+  }
+  &:hover{
+    text-decoration: underline ;
+    &::before { transform: rotate(3deg); }
+    &::after { transform: rotate(-4deg); }
+  }
+  
 }
