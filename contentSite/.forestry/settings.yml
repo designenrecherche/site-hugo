@@ -16,7 +16,8 @@ sections:
   - instagram
 - type: directory
   path: contentSite/content/actions
-  label: Asso (RDV, évènements...)
+  label: Nos actions
+  summary: "summary des breves"
   create: all
   match: "**/*"
   templates:

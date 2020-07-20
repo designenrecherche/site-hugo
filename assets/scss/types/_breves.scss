@@ -1,41 +1,9 @@
-#breves{
-    --color-breves: var(--color-8);
-    color: var(--color-breves);
-    width: 100%;
-    margin-bottom: 0!important;
+#breves,
+#page-breves{
+    
 
-    .section-title {
-        display: inline-block;
-        font-weight: 500;
-        font-size: var(--font-size);
-        text-transform: uppercase;
-        letter-spacing: 0.3px;
-        margin-bottom: calc(var(--baseline)*2);
-        &::after{
-            content: "";
-            display: block;
-            position: relative;
-            width: calc(100% + 6px);
-            height: 2px;
-            left: -3px;
-            background-color: currentColor;
-            transform: rotate(-1.5deg);
-        }
-    }
-
-    .link-archive{
-        font-size: var(--font-size-small);
-        position: absolute;
-        top: 0;
-        right: calc(var(--baseline)*2);
-        color: currentColor;
-        @include trait-double-small();
-    }
 
     .grid{
-        // display: grid;
-        // grid-template-columns: repeat(4, 1fr);
-        // grid-column-gap: calc(var(--baseline)*2);
         width: 100%;
     }
 
@@ -46,7 +14,6 @@
         .grid-sizer,
         .grid-item { width: 50%; }
     }
-
     article{
         margin-bottom: calc(var(--baseline)*1.5);
         padding-right: calc(var(--baseline)*2);
@@ -73,7 +40,7 @@
         strong{
             font-weight: 400;
             font-style: italic;
-            background-color:rgba(146, 113, 251, 0.1);
+            background-color:rgba(146, 113, 251, 0.15);
         }
         p{
             margin-bottom: calc(var(--baseline)*0.25);   

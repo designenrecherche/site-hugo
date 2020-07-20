@@ -113,7 +113,7 @@
             <div class="grid-sizer"></div>
             {{ with .Site.GetPage "section" "breves" }}
             {{ range first 8 .Pages.ByDate.Reverse }}
-            {{ .Render "breves" }}
+            {{ .Render "post" }}
             {{ end }}
             {{ end }}
           </div>

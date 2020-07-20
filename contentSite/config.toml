@@ -18,6 +18,7 @@ URL = "plugins/themify-icons/themify-icons.css"
 URL = "about"
 name = "L’association"
 weight = 2
+summary = ""
 [[menu.main]]
 URL = "actions"
 name = "Nos actions"
@@ -25,14 +26,17 @@ weight = 3
 [[menu.main]]
 URL = "membres"
 name = "Annuaire des membres"
+summary = ""
 weight = 4
 [[menu.main]]
 URL = "breves"
-name = "Breves"
+name = "Brèves"
+summary = ""
 weight = 5
 [[menu.main]]
 URL = "contact"
 name = "Nous contacter"
+summary = ""
 weight = 6
 
 [params]

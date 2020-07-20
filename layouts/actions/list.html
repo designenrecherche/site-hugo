@@ -1,11 +1,16 @@
 {{ define "main" }}
 
-  <!-- blog -->
+
+
     <div class="container-main">
+
+      <h1 class="title-list">Nos actions</h1>
+
+  
+
         {{ range .Data.Pages }}
         {{ .Render "post" }}
         {{ end }}
       </div>
-  <!-- /blog -->
 
 {{ end }}

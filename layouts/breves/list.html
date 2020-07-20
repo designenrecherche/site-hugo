@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+
+  <div class="container-main">
+
+    <h1 class="title-list">Brèves</h1>
+
+      <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": ".grid-sizer", "percentPosition": true }'>
+      <div class="grid-sizer"></div>
+
+      {{ range .Data.Pages }}
+      {{ .Render "post" }}
+      {{ end }}
+      </div>
+      </div>
+
+    </div>
+
+{{ end }}
