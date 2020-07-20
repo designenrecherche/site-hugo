@@ -48,9 +48,12 @@ header#header{
 
 #baseline{
     color: var(--color-4);
-    padding-top: 76px;
+    padding: 0;
+    margin: 0;
     padding-left: calc(var(--unit)*4.5);
     height: 0;
+    left: -290px;
+    top: var(--margin-top);
 }
 
 #navigation{
@@ -63,7 +66,37 @@ header#header{
             text-transform: uppercase;
             color: var(--color-header);
             padding-top: calc(var(--baseline)*0.25);
-            a{ color: currentColor };
+           
+            a{ 
+                color: currentColor;
+                padding-bottom: 4px;
+                transition: none;
+                &:hover{
+                    // @include trait();
+                    border-bottom: 2px solid currentColor;
+                    
+                }
+                
+            }
+            
+            
+            // a::after{
+            //     content: "";
+            //     display: block;
+            //     width: 100;
+            //     position: relative;
+            //     width: calc(100% + 6px);
+            //     height: 2px;
+            //     left: -3px;
+            //     background-color: transparent;
+            //     background-color: currentColor;
+            //     transform: rotate(-1.5deg);
+            //     position: relative;
+            //     top: -2px;
+            // }
+            // a:hover::after{
+            //     background-color: currentColor;
+            // }
     
         }
      

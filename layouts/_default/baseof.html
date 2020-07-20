@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
     {{- partial "head.html" . -}}
-    <body>
+    <body id="page-{{lower .Type}}">
         {{- partial "preloader.html" . -}}
         {{- partial "header.html" . -}}
-        {{- block "main" . }}{{- end }}
+        <main role="main" id="main-{{lower .Type}}">
+            {{- block "main" . }}{{- end }}
+        </main>
+        
         {{- partial "footer.html" . -}}
     </body>
 </html>

@@ -1,5 +1,5 @@
 
-#home-page{
+#main-page{
 
     --width-block-home: 63ch;
 
@@ -12,7 +12,7 @@
         width: 100%;
         max-width: var(--width-block-home);
         margin-left: calc(var(--width-block-home)*0.5);
-        
+        margin-top: var(--margin-top);
 
         .social{
             margin-top: calc(var(--baseline)*1);

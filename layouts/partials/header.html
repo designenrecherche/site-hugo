@@ -39,7 +39,7 @@
           </div>
         </li>
         {{ else }}
-        <li class=" {{ if $active }}active{{ end }}">
+        <li class="{{ if $active }}active{{ end }}">
           <a href="{{ .URL | absURL }}">{{ .Name }}</a>
         </li>
         {{ end }}
@@ -48,13 +48,8 @@
     </div>
   </nav>
 
+  
 
-   <!-- social icon -->
-   <!-- <ul id="social" class="list-unstyled ml-5 mt-3 position-relative zindex-1">
-    {{ range .Site.Params.social }}
-    <li class="mb-3"><a class="text-white" href="{{.URL | safeURL }}"><i class="{{.icon}}"></i></a></li>
-    {{ end }}
-  </ul> -->
-  <!-- /social icon -->
+
 
 </header>
