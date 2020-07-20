@@ -13,29 +13,22 @@ main {
 }
 
 
-#main-actions 
-
 
 #page-page{ 
-    --current-color: var(--color-1);
+    --current-color: var(--color-1); 
     color: var(--current-color);
- }
+}
+
+
 #page-actions{ 
     --current-color: var(--color-3);
-    color: var(--current-color);
-    .container-main {
-        max-width: var(--max-width-list);
-    }
+   
+    .container-main { max-width: var(--max-width-list); }
  }
 #page-breves{ 
     --current-color: var(--color-8);
     color: var(--current-color);
-    .container-main {
-        max-width: 1100px;
-    }
-    .title-list{
-        padding-right: calc(var(--baseline)*2);
-    }
+    .container-main { max-width: 1100px; }
 }
 
 
