@@ -1,0 +1,35 @@
+body{
+    --color-1: #385eec;
+    --color-2: #d8f0f0;
+    --color-3: #21b4a1;
+    --color-4: #ff6349;
+    --color-5: #ffcfc7;
+    --color-6: #54575a;
+    --color-7: #fff7c1;
+    --color-8: #9271fb;
+
+    --color-text: var(--color-6);
+    color: var(--color-text);
+}
+
+#about {
+    --current-color: var(--color-4);
+    color: var(--current-color);
+}
+
+#page-page{ 
+    --current-color: var(--color-1); 
+    color: var(--current-color);
+}
+
+#page-actions{ 
+    --current-color: var(--color-3);
+    color: var(--current-color); 
+ }
+
+#breves,
+#page-breves{ 
+    --current-color: var(--color-8);
+    --background-color:rgba(146, 113, 251, 0.15);
+    color: var(--current-color);
+}

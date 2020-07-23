@@ -1,8 +1,6 @@
 #breves,
 #page-breves{
     
-
-
     .grid{
         width: 100%;
     }
@@ -40,7 +38,7 @@
         strong{
             font-weight: 400;
             font-style: italic;
-            background-color:rgba(146, 113, 251, 0.15);
+            background-color: var(--background-color);
         }
         p{
             margin-bottom: calc(var(--baseline)*0.25);   

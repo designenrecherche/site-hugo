@@ -13,6 +13,10 @@ main {
 }
 
 
+#about {
+    --current-color: var(--color-4);
+    color: var(--current-color);
+}
 
 #page-page{ 
     --current-color: var(--color-1); 
@@ -22,7 +26,6 @@ main {
 
 #page-actions{ 
     --current-color: var(--color-3);
-   
     .container-main { max-width: var(--max-width-list); }
  }
 #page-breves{ 
