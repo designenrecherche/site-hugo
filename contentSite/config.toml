@@ -68,7 +68,7 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "https://www.instagram.com/designenrecherche/"
+URL = "https://twitter.com/DesignRecherche"
 title = "Twitter"
 icon = "ti-twitter-alt"
 [[params.social]]
@@ -76,7 +76,7 @@ URL = "https://www.instagram.com/designenrecherche/"
 title = "Instagram"
 icon = "ti-instagram"
 [[params.social]]
-URL = "https://www.instagram.com/designenrecherche/"
+URL = "https://www.facebook.com/designrecherche/"
 title = "Facebook"
 icon = "ti-facebook"
 

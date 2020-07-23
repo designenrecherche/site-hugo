@@ -100,4 +100,5 @@ select:focus {
   margin-top: calc(var(--baseline)*0.5);
   font-size: var(--font-size-small);
   @include trait-double-small();
+  &:hover{ color: currentColor; }
 }

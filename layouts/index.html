@@ -19,10 +19,11 @@
         
         <ul>
           {{ range .Site.Params.social }}
-          <li><a href="{{.URL | safeURL }}">{{.title }}</a></li>
+          <li><a target="_blank" href="{{.URL | safeURL }}">{{.title }}</a></li>
           {{ end }}
         </ul>
         
+
       </div>
       
       {{ end }}
@@ -106,8 +107,8 @@
     <section id="breves" class="section-home">
       <div class="container">
 
-          <h1 class="section-title">{{.Site.Data.homepage.breves.title | markdownify }}</h1>
-          <a class="link-archive" aria-label="Voir les archives des brèves" href="#">Archives</a>
+          <h1 class="section-title"><a href="/{{.Site.Data.homepage.breves.URL }}">{{.Site.Data.homepage.breves.title | markdownify }}</a></h1>
+          <a class="link-archive" aria-label="Voir les archives des brèves" href="/{{.Site.Data.homepage.breves.URL }}">Archives</a>
           
           <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": ".grid-sizer", "percentPosition": true }'>
             <div class="grid-sizer"></div>

@@ -10,8 +10,9 @@
     #about{
         width: 100%;
         max-width: var(--width-block-home);
-        margin: calc(var(--baseline)*4) calc(var(--baseline)*2) calc(var(--baseline)*6) calc(var(--baseline)*2);
+        margin: calc(var(--baseline)*2) calc(var(--baseline)*2) calc(var(--baseline)*6) calc(var(--baseline)*2);
         float: right; 
+        z-index: 90;
         @media screen and (min-width: 1500px){
             float: left;
             margin-left: calc(var(--width-block-home)*0.5 + 45px);
@@ -77,15 +78,23 @@
             text-transform: uppercase;
             letter-spacing: 0.3px;
             margin-bottom: calc(var(--baseline)*2);
-            &::after{
-                content: "";
-                display: block;
-                position: relative;
-                width: calc(100% + 6px);
-                height: 2px;
-                left: -3px;
-                background-color: currentColor;
-                transform: rotate(-1.5deg);
+           
+            a { 
+                color: currentColor;
+                &::after{
+                    content: "";
+                    display: block;
+                    position: relative;
+                    width: calc(100% + 6px);
+                    height: 2px;
+                    left: -3px;
+                    background-color: currentColor;
+                    transform: rotate(-1.5deg);
+                }
+                &:hover{ 
+                    color: currentColor;
+                    &::after { transform: rotate(0); }
+                }
             }
         }
     

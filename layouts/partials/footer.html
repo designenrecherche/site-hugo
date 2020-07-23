@@ -3,7 +3,7 @@
   
   <ul>
     {{ range .Site.Params.social }}
-    <li><a href="{{.URL | safeURL }}"><span class="{{.icon}}"></span>{{.title }}</a></li>
+    <li><a target="_blank" href="{{.URL | safeURL }}"><span class="{{.icon}}"></span>{{.title }}</a></li>
     {{ end }}
   </ul>
 
