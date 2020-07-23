@@ -1,0 +1,152 @@
+year2024:
+  enable : false
+  title : "2024-2025"
+  item:
+  - member : ""
+    URL: ""
+    role : ""
+
+year2023:
+  enable : false
+  title : "2023-2024"
+  item:
+  - member : ""
+    URL: ""
+    role : ""
+
+year2022:
+  enable : false
+  title : "2022-2023"
+  item:
+  - member : ""
+    URL: ""
+    role : ""
+
+year2021:
+  enable : false
+  title : "2021-2022"
+  item:
+  - member : ""
+    URL: ""
+    role : ""
+
+year2020:
+  enable : false
+  title : "2020-2021"
+  item:
+  - member : ""
+    URL: ""
+    role : ""
+
+year2019:
+  enable : true
+  title : "2019-2020"
+  item:
+  - member : "Zoé Bonnardot"
+    URL: ""
+    role : "présidente"
+  - member : "Julie Blanc"
+    URL: ""
+    role : "trésorière"
+  - member : "Marion Voillot"
+    URL: ""
+    role : "secrétaire"
+  - member : "Manon Ménard"
+    URL: ""
+    role : "secrétaire"
+
+
+year2018:
+  enable : true
+  title : "2018-2019"
+  item:
+  - member : "Léonore Conte"
+    URL: ""
+    role : "présidente"
+  - member : "Zoé Bonnardot"
+    URL: ""
+    role : "trésorière"
+  - member : "Rose Dumesny"
+    URL: ""
+    role : "secrétaire"
+  - member : "Julie Blanc"
+    URL: ""
+    role : "chargée des outils numériques"
+  - member : "Marion Voillot"
+    URL: ""
+    role : "chargée de communication"
+
+year2017:
+  enable : true
+  title : "2017-2018"
+  item:
+  - member : "Nolwenn Maudet"
+    URL: ""
+    role : "présidente"
+  - member : "Emeline Brulé"
+    URL: ""
+    role : "trésorière"
+  - member : "Rose Dumesny"
+    URL: ""
+    role : "secrétaire"
+  - member : "Léonore Conte"
+    URL: ""
+    role : "chargée de com - Licorne"
+
+year2016:
+  enable : true
+  title : "2016-2017"
+  item:
+  - member : "Nolwenn Maudet"
+    URL: ""
+    role : "présidente"
+  - member : "Emeline Brulé"
+    URL: ""
+    role : "vice-présidente"
+  - member : "Anne-lise Rias"
+    URL: ""
+    role : "trésorière"
+  - member : "Rose Dumesny"
+    URL: ""
+    role : "secrétaire"
+  - member : "Frédérique Ampilhac"
+    URL: ""
+    role : "secrétaire-adjointe"
+
+
+year2015:
+  enable : true
+  title : "2015"
+  item:
+  - member : "Olympe Rabaté"
+    URL: ""
+    role : "présidente"
+  - member : "Apolline Le Gall"
+    URL: ""
+    role : "secrétaire"
+  - member : "Emeline Brulé"
+    URL: ""
+    role : "trésorière"
+  - member : "Robin de Mourat"
+    URL: ""
+    role : "vice-secrétaire aux questions numériques"
+  - member : "Pathum Bila-Deroussy"
+    URL: ""
+    role : "vice-trésorier"
+
+year2014:
+  enable : true
+  title : "2014"
+  item:
+  - member : "Marine Royer"
+    URL: ""
+    role : "présidente"
+  - member : "Caroline Bougourd"
+    URL: ""
+    role : "secrétaire"
+  - member : "Anne-Lyse Renon"
+    URL: ""
+    role : "trésorière"
+  - member : "Anthony Masure"
+    URL: ""
+    role : "vice-secrétaire"

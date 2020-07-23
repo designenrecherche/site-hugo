@@ -5,6 +5,7 @@ body{
 
 main {
     margin-left: var(--width-header);
+    min-height: calc(100vh - 230px);
     .container-main { 
         // margin: 0 auto; 
         padding: var(--unit);
