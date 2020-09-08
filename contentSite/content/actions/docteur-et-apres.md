@@ -3,7 +3,8 @@ banner = "/uploads/2017/12/31/placeholder.jpg"
 category = "Conférence"
 date_event = "14 mars 2019, 18h"
 date_start = "2019-03-14T18:00:00.000+00:00"
-description = "Cette table ronde est dédiée au post-doctorat. Elle engage la discussion sur les débouchés de la recherche dans le champ du design et les différentes perspectives professionnelles."
+description = "c'est la description / Évènement public - Cette table ronde est dédiée au post-doctorat. Elle engage la discussion sur les débouchés de la recherche dans le champ du design et les différentes perspectives professionnelles."
+descriptiontemp = "description temportaire"
 documents = ""
 lieu = "Gaîté Lyrique, 3 bis rue Papin 75003 Paris"
 publishDate = 2019-03-14T19:00:32Z
@@ -11,7 +12,7 @@ time = "18h"
 title = "Docteur, et après ?"
 
 +++
-**Évènement public -** _Cette table ronde est dédiée au post-doctorat. Elle engage la discussion sur les débouchés de la recherche dans le champ du design et les différentes perspectives professionnelles._
+**Évènement public -** _//Dans le texte /// Cette table ronde est dédiée au post-doctorat. Elle engage la discussion sur les débouchés de la recherche dans le champ du design et les différentes perspectives professionnelles._
 
 La table ronde vise, à travers la diversité des parcours de ses invité·e·s, à dresser un état des lieux non exhaustif des opportunités pour un docteur en design mais aussi à comprendre comment l’expérience de thèse a pu être structurante dans leurs parcours professionnels respectifs.  
 La première partie de la soirée est dédiée à la présentation par chacun·e des intervenant·e·s de son travail de recherche doctoral et de son parcours depuis la soutenance de thèse de doctorat. Elle est suivie d’un moment d’échanges avec le public et entre les invité·e·s.

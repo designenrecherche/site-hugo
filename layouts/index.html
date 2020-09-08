@@ -65,7 +65,8 @@
             <h1>{{ .title }}</h1>
             <p class="date">{{ .date }}</p>
             <p class="lieu">{{ .lieu }}</p>
-            <p class="summary">{{ .summary }}</p>  
+            <p class="summary">{{.Summary}}</p>
+            {{ if .Params.descriptiontemp }}<p class="summary">{{ .Params.descriptiontemp }}</p>{{ end }}
           </article>
           {{ end }}
           {{ end }}

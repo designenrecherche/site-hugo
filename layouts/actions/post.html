@@ -13,6 +13,12 @@
         </p>
         {{ if .Params.lieu }}<p class="lieu">{{ .Params.lieu }}</p>{{ end }}
         </div>
-      <p class="summary">{{.Summary}}</p>
+      <p class="summary">
+        <span class="description">{{ if .Params.description }}{{.Params.description}}{{ end }}</span>
+        <!-- <span class="description-temp">{{ if .Params.descriptiontemp }}{{.Params.descriptiontemp}}{{ end }}</span> -->
+      </p>
+      <p class="summary">
+        
+      </p>
       <a class="more" href="{{.Permalink}}">Voir plus</a>
   </article>
