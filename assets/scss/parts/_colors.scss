@@ -1,6 +1,6 @@
 body{
     --color-1: #385eec;
-    --color-2: #d8f0f0;
+    --color-2: #a6e9e9;
     --color-3: #21b4a1;
     --color-4: #ff6349;
     --color-5: #ffcfc7;
@@ -12,8 +12,9 @@ body{
     color: var(--color-text);
 }
 
-#about {
+#about, #page-about {
     --current-color: var(--color-1);
+    --color-light: var(--color-2);
     color: var(--current-color);
 }
 

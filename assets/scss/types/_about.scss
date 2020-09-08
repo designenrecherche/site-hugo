@@ -1,0 +1,49 @@
+#page-about{
+
+    #about-content{
+        max-width: var(--max-width-content);
+        h1, h2{
+            display: inline-block;
+            @include title();
+            margin-top: calc(var(--baseline)*2);
+            &:first-of-type{ margin-top: 0; }
+        }
+    }
+
+    #bureaux{
+        & > h1 {
+            display: inline-block;
+            @include title();
+            margin-top: calc(var(--baseline)*2);
+        }
+
+        article{
+            width: 400px;
+            display: inline-block;
+            vertical-align: top;
+            margin-bottom: calc(var(--baseline)*1.5);
+            h1{
+                font-weight: 500;
+                font-size: var(--font-size);
+                // @include trait(2px);
+            }
+
+            ul li{
+                margin-top: calc(var(--baseline)*0.25);
+                margin-right: calc(var(--unit)*3);
+                @include trait(1px);
+                padding-left: 28px;
+                text-indent: -28px;
+                
+
+                
+            }
+
+        }
+        
+       
+    }
+
+  
+    
+}

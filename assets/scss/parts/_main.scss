@@ -1,5 +1,6 @@
 body{
     --max-width-list: 63ch;
+    --max-width-content: 76ch;
 }
 
 
@@ -36,7 +37,7 @@ main {
     color: var(--current-color);
 
     left: 100px;
-    @include trait(); 
+    @include trait(2px); 
     
 
 

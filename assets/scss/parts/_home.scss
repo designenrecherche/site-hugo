@@ -49,7 +49,7 @@
 
             ul li{
                 padding-left: calc(var(--unit)*2);
-                @include trait();  
+                @include trait(2px);  
                 &:hover::before{ transform: rotate(4deg); }    
                 &:hover{ text-decoration: underline ;}                         
             }

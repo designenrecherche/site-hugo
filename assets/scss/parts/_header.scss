@@ -71,7 +71,6 @@ header#header{
                 padding-bottom: 4px;
                 transition: none;
                 &:hover{
-                    // @include trait();
                     border-bottom: 2px solid currentColor;
                     
                 }
