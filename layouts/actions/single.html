@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+
+
+<div class="container-main" id="container-single-actions">
+
+  <h1 class="title-list">Nos actions</h1>
+
+  <section class="section" id="section-post-single">
+    <div class="container">
+      <header>
+        <p class="type">{{ .Params.category }}</p>
+        <h1>{{.Title}}</h3>
+          
+          <div>
+            <p class="date">  
+              <time datetime="{{ .Date.Format "2006-01-02" | safeHTML }}">
+              
+              {{ .Date.Day }}
+              {{ index $.Site.Data.mois (printf "%d" .Date.Month) }}
+              {{ .Date.Year }}<span class="horaire">, 
+              {{ if .Params.time }}{{ .Params.time }}{{ end }}</time></span>
+            </p>
+            {{ if .Params.lieu }}<p class="lieu">{{ .Params.lieu }}</p>{{ end }}
+            </div>
+            {{ if .Params.description }}<p class="summary">{{.Params.description}}</p>{{ end }}
+            
+      </header>
+          
+        
+          <div class="content">
+            {{.Content }}
+          </div>
+          <p class="publish-date">Publié le {{ .PublishDate.Format "Jan 02, 2006" }}</span></p>
+    </div>
+  </section>
+
+</div>
+{{ end }}

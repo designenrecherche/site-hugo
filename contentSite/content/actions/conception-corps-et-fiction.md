@@ -31,19 +31,16 @@ Mots clés : CONCEPTION, FICTIONS, CORPS, HYBRIDES, BIODESIGN, TECHNOLOGIES, ÉC
 
 Langue : français (anglais éventuellement).  
 Un résumé de votre communication de 500 mots accompagné de votre nom complet, statut, établissement d’appartenance ainsi que du titre de votre communication.  
-Les propositions sont à envoyer avant le 11 mars 2017.  
-Attention, le déplacement et l’hébergement ne sont pas pris en charge, nous pouvons cependant vous fournir un justificatif qui atteste votre participation. À la suite de cet événement, les participants pourront proposer leur article en vue de la publication du quatrième numéro de la collection Poïétiques du design aux éditions L’Harmattan.
+Les propositions sont à envoyer avant le 11 mars 2017. Attention, le déplacement et l’hébergement ne sont pas pris en charge, nous pouvons cependant vous fournir un justificatif qui atteste votre participation. À la suite de cet événement, les participants pourront proposer leur article en vue de la publication du quatrième numéro de la collection Poïétiques du design aux éditions L’Harmattan.
 
 ## Comité organisateur 
 
-Gwenaëlle BERTRAND, docteur en design et designer associée  
-ATER en histoire, théorie et pratique du design, Faculté des Arts, Université de Strasbourg  
-gwbertrand@unistra.fr  
-[**Maxime Favard**](http://designenrecherche.org/membres/favard-maxime), docteur en design et designer associé  
-ATER en histoire, théorie et pratique du design, Faculté des Arts, Université de Strasbourg  
-mfavard@unistra.fr
+- **Gwenaëlle Bertrand**, docteur en design et designer associée  
+ATER en histoire, théorie et pratique du design, Faculté des Arts, Université de Strasbourg / gwbertrand@unistra.fr  
+- [**Maxime Favard**](http://designenrecherche.org/membres/favard-maxime), docteur en design et designer associé  
+ATER en histoire, théorie et pratique du design, Faculté des Arts, Université de Strasbourg  / mfavard@unistra.fr
 
 ## Partenaires 
 
-Laboratoire | Approches contemporaines de la création et de la réflexion artistiques | ACCRA, Université de Strasbourg  
-Association | Design en Recherche | Le réseau des jeunes chercheurs en design
+- Laboratoire | Approches contemporaines de la création et de la réflexion artistiques | ACCRA, Université de Strasbourg  
+- Association | Design en Recherche | Le réseau des jeunes chercheurs en design

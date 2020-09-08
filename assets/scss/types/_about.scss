@@ -29,7 +29,7 @@
             }
 
             ul li{
-                margin-top: calc(var(--baseline)*0.25);
+                margin-bottom: calc(var(--baseline)*0.25);
                 margin-right: calc(var(--unit)*3);
                 @include trait(1px);
                 padding-left: 28px;

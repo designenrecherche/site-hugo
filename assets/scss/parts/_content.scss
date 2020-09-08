@@ -1,0 +1,22 @@
+.content{
+
+    a{
+        color: var(--current-color);
+        border-bottom: 1px dotted var(--current-color);
+        &:hover{ border-bottom: 1px solid var(--current-color); }
+    }
+
+    strong{
+        font-weight: normal;
+        background-color: var(--background-color);
+    }
+
+    em, i { font-style: italic; }
+    
+    ul li{
+        @include trait(1px);
+        padding-left: calc(var(--unit)*3);
+        text-indent: calc(var(--unit) * -3);
+        margin-bottom: calc(var(--baseline)*0.5);
+    }
+}

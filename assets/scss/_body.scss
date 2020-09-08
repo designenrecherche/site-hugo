@@ -51,11 +51,6 @@ select:focus {
   outline: 0
 }
 
-.content a{
-  color: var(--current-color);
-  border-bottom: 1px dotted var(--current-color);
-  &:hover{ border-bottom: 1px solid var(--current-color); }
-}
 
 
 @mixin title(){
@@ -116,6 +111,21 @@ select:focus {
     &::after { transform: rotate(-4deg); }
   }
   
+}
+
+@mixin surligne(){
+  &:after{
+    content: "";
+    display: block;
+    position: relative;
+    width: calc(100% + 20px);
+    left: -10px;
+    height: calc(var(--baseline)*0.8);
+    background-color: currentColor;
+    opacity: 0.1;
+    top: calc(-1*var(--baseline));
+    transform: rotate(-2deg);
+}
 }
 
 .more{
