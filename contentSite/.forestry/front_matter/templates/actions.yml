@@ -11,6 +11,10 @@ fields:
   name: description
   label: description
   description: Court texte de description
+- type: text
+  name: descriptiontemp
+  label: description temporaire
+  description: Description temporaire pour la page d'accueil (annonce de l'évènement s'il n'est pas encore passé). Cette description sera changé dès que l'évènement est passé
 - type: file
   name: banner
   label: Banner
