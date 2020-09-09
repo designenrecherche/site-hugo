@@ -4,7 +4,6 @@ category = "RDV asso (AG, bières, rapports...)"
 description = "Faut-il rédiger les méthodes de la recherche en design ?"
 descriptiontemp = ""
 documents = ""
-draft = true
 lieu = "ENSCI, salle Richard Lenoir"
 publishDate = 2014-10-02T07:30:20Z
 time = "9h30"
@@ -49,7 +48,7 @@ Le récit de l'évènement sur Storify: [https://storify.com/DesignRecherche/fau
 
 ##### Table ronde 1 : Design de modèles et modèles de pensée
 
-* Modération: 
+* Modération:
   * **Anne-Lyse Renon**, doctorante en anthropologie, EHESS / CNRS, Paris
 * Discutants du réseau:
   * **Camille Bosqué**, , Université Rennes 2 - ENSCI les Ateliers
@@ -68,7 +67,7 @@ Le récit de l'évènement sur Storify: [https://storify.com/DesignRecherche/fau
 
 ##### Table ronde 2 : méthodes de design et méthodes de recherche en design
 
-* Modération: 
+* Modération:
   * **Ioana Ocnarescu**, PhD, enseignante-chercheuse Strate école de design
 * Discutants du réseau:
   * **Caroline Bougourd**, doctorante en esthétique, Université Paris 1
@@ -119,4 +118,4 @@ Nous remercions chaleureusement tous les membres du réseau et les autres person
 
 Cette journée a bénéficié du soutien financier du Campus Condorcet et de l'EHESS.
 
-![](/images/logo-ehess.jpg)
+![](/images/logo-ehess.jpg)![](/images/logo-condorcet.jpg)
