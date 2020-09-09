@@ -3,7 +3,6 @@ category = "Journée d'étude"
 description = "Cette journée d’étude interroge les postures de designers impliqués dans le « vivre ensemble », qu’il s’agisse de politiques publiques, de design social ou pour l’innovation sociale, dans un cadre de commande ou d’action spontanée. "
 descriptiontemp = ""
 documents = ""
-draft = true
 lieu = "Strate École de Design"
 publishDate = 2016-09-15T08:12:51Z
 tags = ["vie publique", "innovation sociale", "design"]
