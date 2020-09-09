@@ -17,7 +17,6 @@ sections:
 - type: directory
   path: contentSite/content/actions
   label: Nos actions
-  summary: "summary des breves"
   create: all
   match: "**/*"
   templates:
