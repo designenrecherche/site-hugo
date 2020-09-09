@@ -1,12 +1,11 @@
 +++
 category = "Journée d'étude"
-description = ""
+description = "Cette journée d’étude interroge les postures de designers impliqués dans le « vivre ensemble », qu’il s’agisse de politiques publiques, de design social ou pour l’innovation sociale, dans un cadre de commande ou d’action spontanée. "
 descriptiontemp = ""
 documents = ""
-draft = true
 lieu = "Strate École de Design"
 publishDate = 2016-09-15T08:12:51Z
-tags = []
+tags = ["vie publique", "innovation sociale", "design"]
 time = "10h"
 title = "Design, innovation sociale et vie publique"
 
@@ -28,6 +27,12 @@ L’après-midi, le travail en atelier à partir d’exemples s’est orienté v
 En tant qu’organisatrices de la journée, nous sommes satisfaites que les outils de modélisation proposés aient ainsi focalisé l’attention sur les champs de force dans lesquels évolue le designer. Nous retirons plusieurs pistes d’amélioration pour délinéariser ces outils, et ainsi prendre mieux en compte les interconnexions temporelles et relationnelles.
 
 ![](/images/design-innovationsociale-viepublique.jpeg)
+
+![](/images/design-innovationsociale-viepublique2.jpeg)
+
+![](/images/design-innovationsociale-viepublique3.jpeg)
+
+![](/images/design-innovationsociale-viepublique4.jpeg)
 
 Merci à tous les participants, en particulier ceux qui ont produit [un pad pour suivre le fil rouge de la journée](http://bit.ly/2ca8XRD)
 
