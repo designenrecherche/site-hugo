@@ -1,1 +1,9 @@
-<span class="membre"><a href="/membres/{{.Get `link`}}">{{.Get `name`}}</a></span>, <span class="role">{{.Get `role`}}</span>
+
+
+
+{{ $year := .Get `year` }} 
+
+<article class="bureau">
+    <h1>{{ $year }}</h1>
+    {{ .Inner | markdownify }}
+</article>

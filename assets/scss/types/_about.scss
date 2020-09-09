@@ -11,26 +11,33 @@
     }
 
     #bureaux{
+
+        margin-top: calc(var(--baseline)*2);
+
         & > h1 {
-            display: inline-block;
-            @include title();
-            margin-top: calc(var(--baseline)*2);
+            // display: inline-block;
+            // @include title();
+            margin-bottom: calc(var(--baseline)*2);
         }
 
         article{
-            width: 400px;
+            width: 370px;
             display: inline-block;
             vertical-align: top;
             margin-bottom: calc(var(--baseline)*1.5);
+            &:nth-last-of-type(even){
+                margin-right: calc(var(--unit)*3);
+            }
+            
             h1{
                 font-weight: 500;
                 font-size: var(--font-size);
-                // @include trait(2px);
+                &::after{ display: none; }
             }
 
             ul li{
                 margin-bottom: calc(var(--baseline)*0.25);
-                margin-right: calc(var(--unit)*3);
+                
                 @include trait(1px);
                 padding-left: 28px;
                 text-indent: -28px;
