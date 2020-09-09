@@ -64,6 +64,18 @@
                 margin-top: calc(var(--baseline)*0.25);
             }
 
+            .tags{
+                li{
+                    display: inline;
+                    white-space: nowrap;
+                    padding-right: calc(var(--unit)*1);
+                    &:before{ content: "# " }
+                    a{ @include links(); }
+                    
+                }
+               
+            }
+
         }
 
 

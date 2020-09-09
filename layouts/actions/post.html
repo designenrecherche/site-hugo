@@ -17,8 +17,11 @@
         <span class="description">{{ if .Params.description }}{{.Params.description}}{{ end }}</span>
         <!-- <span class="description-temp">{{ if .Params.descriptiontemp }}{{.Params.descriptiontemp}}{{ end }}</span> -->
       </p>
-      <p class="summary">
-        
-      </p>
+      {{ if .Params.tags }}
+      <ul class="tags">
+        {{range .Params.tags}}<li>{{ . }}</li> {{end}}
+           <!-- {{range .Params.tags}}<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li> {{end}} -->
+      </ul>
+      {{end}}
       <a class="more" href="{{.Permalink}}">Voir plus</a>
   </article>
