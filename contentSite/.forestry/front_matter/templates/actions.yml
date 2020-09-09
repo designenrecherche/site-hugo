@@ -41,12 +41,12 @@ fields:
   label: Catégorie
   hidden: false
   required: true
-  default: RDV asso (AG, bières, rapports...)
+  default: RDV asso
   config:
     source:
       type: custom
     options:
-    - RDV asso (AG, bières, rapports...)
+    - RDV asso
     - Atelier
     - Conférence
     - Journée d'étude

@@ -1,6 +1,6 @@
 +++
 banner = "/uploads/2017/12/31/placeholder.jpg"
-category = "RDV asso (AG, bières, rapports...)"
+category = "Journée d'étude"
 description = "Faut-il rédiger les méthodes de la recherche en design ?"
 descriptiontemp = ""
 documents = ""
