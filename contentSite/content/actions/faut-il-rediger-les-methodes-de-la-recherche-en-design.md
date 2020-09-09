@@ -1,13 +1,14 @@
 +++
 banner = "/uploads/2017/12/31/placeholder.jpg"
 category = "Journée d'étude"
-description = "Faut-il rédiger les méthodes de la recherche en design ?"
+description = "En raison de leurs nombreuses affiliations culturelles et disciplinaires, les méthodes et méthodologies convoquées par la recherche en design sont particulièrement riches et controversées. Que nous apprend cette diversité sur la multiplicité des connaissances produites par la recherche en design ? Cette dernière est-elle condamnée à importer des méthodologies issues d’autres disciplines ou peut-elle prétendre à une spécificité intrinsèque ? Le propre d’une recherche en design n’est-il pas aussi de faire preuve d’une forme « d’invention » méthodologique ?"
 descriptiontemp = ""
 documents = ""
 lieu = "ENSCI, salle Richard Lenoir"
 publishDate = 2014-10-02T07:30:20Z
 time = "9h30"
 title = "Faut-il rédiger les méthodes de la recherche en design ?"
+tags = ["design", "méthodes", "réduire en art", "méthodologie"]
 
 +++
 > Ainsi mon dessein n’est pas d’enseigner la méthode que chacun doit suivre pour bien conduire sa raison, mais de faire voir en quelle sorte j’ai tâché de conduire la mienne.
