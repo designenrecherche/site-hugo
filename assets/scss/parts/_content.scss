@@ -19,6 +19,22 @@
         text-indent: calc(var(--unit) * -3);
         margin-bottom: calc(var(--baseline)*0.5);
     }
+
+    blockquote{
+        // border-left: 2px solid currentColor;
+        padding-left: calc(var(--unit)*3);
+        font-style: italic;
+        &::before{
+            content: "«";
+            font-size: 40px;
+            display: block;
+            position: absolute; 
+            top: -3px;
+            left: 0;
+
+        }
+       
+    }
 }
 
 .img-logos {
