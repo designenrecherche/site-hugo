@@ -1,10 +1,13 @@
+
+
 {{ define "main" }}
 
 
+<h1 class="title-list">Nos actions</h1>
 
     <div class="container-main" id="container-list-actions">
 
-      <h1 class="title-list">Nos actions</h1>
+      
 
         {{ range .Data.Pages }}
         {{ .Render "post" }}

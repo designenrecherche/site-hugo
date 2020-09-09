@@ -10,7 +10,8 @@ main {
     .container-main { 
         // margin: 0 auto; 
         padding: var(--unit);
-        padding-top: var(--margin-top);
+        padding-top: calc(var(--baseline)*4);
+        margin-top: calc(var(--baseline)*3);
     }
 }
 
@@ -25,16 +26,23 @@ main {
 
 
 .title-list{
+
     font-size: var(--font-size);
     font-weight: 500;
-    position: relative;
-    top: 4px;
+    position: absolute;
+    top: 0px;
+    left: 16vw;
+    @media screen and (min-width: 1160px){ left: 12vw; }
+    @media screen and (min-width: 1380px){ left: 8vw; }
+    @media screen and (min-width: 1530px){ left: 6vw; }
+    @media screen and (min-width: 1740px){ left: 1.6vw; }
+    @media screen and (min-width: 1960px){ left: 10px; }
     margin: 0;
     padding: 0;
-    margin-bottom: calc(var(--baseline)*4);
+    
     color: var(--current-color);
 
-    left: 100px;
+    
     @include trait(2px); 
     
 
