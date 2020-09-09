@@ -26,69 +26,81 @@ En raison de leurs nombreuses affiliations culturelles et disciplinaires, les m�
 
 Le récit de l'évènement sur Storify: [https://storify.com/DesignRecherche/faut-il-rediger-les-methodes-de-la-recherche-en-de?utm_source=embed_header](https://storify.com/DesignRecherche/faut-il-rediger-les-methodes-de-la-recherche-en-de?utm_source=embed_header "https://storify.com/DesignRecherche/faut-il-rediger-les-methodes-de-la-recherche-en-de?utm_source=embed_header")
 
-### Programme
 
-`9h30-10h`
 
-###### Accueil des participants
 
-`10h-10h15`
+# Programme
 
-##### Introduction de la journée et du réseau Design en Recherche
+{{% programme %}}
+
+## 9h30-10h
+
+### Accueil des participants
+
+## 10h-10h15
+
+### Introduction de la journée et du réseau Design en Recherche
 
 **Marine Royer**, doctorante en anthropologie, EHESS / ENSCI – Les Ateliers, Paris
 
-`10h15-10h45`
+## 10h15-10h45
 
-##### Introduction : la recherche en design au confluent de cultures hétérogènes
+### Introduction : la recherche en design au confluent de cultures hétérogènes
 
 **Robin de Mourat**, doctorant en esthétique et humanités numériques, Université Rennes 2
 
-`11h-11h45`
+## 11h-11h45
 
-##### Table ronde 1 : Design de modèles et modèles de pensée
+### Table ronde 1 : Design de modèles et modèles de pensée
 
-* Modération:
-  * **Anne-Lyse Renon**, doctorante en anthropologie, EHESS / CNRS, Paris
-* Discutants du réseau:
-  * **Camille Bosqué**, , Université Rennes 2 - ENSCI les Ateliers
-  * **Estelle Berger**, doctorante en esthétique, Université Toulouse 2
-  * **Anthony Masure**, doctorant en esthétique, Université Paris 1
+#### Modération
+**Anne-Lyse Renon**, doctorante en anthropologie, EHESS / CNRS, Paris
 
-`11h45-12h`
+#### Discutants du réseau
 
-##### Discussions
+* **Camille Bosqué**, , Université Rennes 2 - ENSCI les Ateliers
+* **Estelle Berger**, doctorante en esthétique, Université Toulouse 2
+* **Anthony Masure**, doctorant en esthétique, Université Paris 1
 
-`12h-13h30`
+## 11h45-12h
 
-##### Pause déjeuner
+### Discussions
 
-`13h30-14h45`
+## 12h-13h30
 
-##### Table ronde 2 : méthodes de design et méthodes de recherche en design
+### Pause déjeuner
 
-* Modération:
-  * **Ioana Ocnarescu**, PhD, enseignante-chercheuse Strate école de design
-* Discutants du réseau:
-  * **Caroline Bougourd**, doctorante en esthétique, Université Paris 1
-  * **Pathum Bila-Deroussy**, doctorant en Sciences de la Conception, ENSAM
-  * **Max Mollon**, doctorant en sciences de l’information et de la communication, SaCRe/ENST - ENSAD
+## 13h30-14h45
 
-`15h-15h15`
+### Table ronde 2 : méthodes de design et méthodes de recherche en design
 
-##### Conclusion de la session de tables rondes
+#### Modération
+**Ioana Ocnarescu**, PhD, enseignante-chercheuse Strate école de design
+
+#### Discutants du réseau
+
+* **Caroline Bougourd**, doctorante en esthétique, Université Paris 1
+* **Pathum Bila-Deroussy**, doctorant en Sciences de la Conception, ENSAM
+* **Max Mollon**, doctorant en sciences de l’information et de la communication, SaCRe/ENST - ENSAD
+
+## 15h-15h15
+
+### Conclusion de la session de tables rondes
 
 **Alain Findeli**, Professeur, Université de Nîmes, Professeur honoraire, Université de Montréal
 
-`15h15-15h30`
+## 15h15-15h30
 
-##### Pause
+### Pause
 
-`15h30-17h30`
+## 15h30-17h30
 
-##### Workshop : méthodes de la recherche en design — transmission ou reproduction ?
+### Workshop : méthodes de la recherche en design — transmission ou reproduction ?
 
 Animé par **Alain Findeli**, Professeur, Université de Nîmes, Professeur honoraire, Université de Montréal.
+
+
+{{% /programme %}}
 
 # Ressources
 
@@ -105,6 +117,8 @@ Animé par **Alain Findeli**, Professeur, Université de Nîmes, Professeur hono
 * [Margolin V., 2010, « Doctoral Education in Design: Problems and Prospects », Design Issues, 26 (3), pp. 70-78.](https://www.google.com/url?q=http://www.mitpressjournals.org/doi/pdf/10.1162/DESI_a_00031&sa=D&ust=1599662302586000&usg=AOvVaw2OVTgx27KeH6KvDVgJZrsP)
 * [Zimmerlan, J., Forlizzi J., 2008, « The Role of Design Artifacts in Design Theory Construction », Human-Computer Interaction Institute, 26 (3), pp. 70-78.](https://www.google.com/url?q=http://repository.cmu.edu/cgi/viewcontent.cgi?article%3D1035%26context%3Dhcii&sa=D&ust=1599662302587000&usg=AOvVaw0Ggtezyj9k3oTDh3gYhpOq)
 
+
+
 # Comité d'organisation
 
 * Marine Royer
@@ -118,4 +132,7 @@ Nous remercions chaleureusement tous les membres du réseau et les autres person
 
 Cette journée a bénéficié du soutien financier du Campus Condorcet et de l'EHESS.
 
-![](/images/logo-ehess.jpg)![](/images/logo-condorcet.jpg)
+{{% images class="logos" %}}
+![](/images/logo-ehess.jpg)
+![](/images/logo-condorcet.jpg)
+{{% /images %}}

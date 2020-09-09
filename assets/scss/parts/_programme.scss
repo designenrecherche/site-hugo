@@ -1,0 +1,27 @@
+.programme{
+    h2{
+        display: inline-block;
+        font-weight: normal!important;
+        border: 1px dotted currentColor;
+        padding: 5px 10px 2px 10px;
+        // float: left;
+        margin: 0!important;
+        // margin-top: calc(var(--baseline)*2)!important;
+        position: relative;
+        top: calc(var(--baseline)*1.5);
+    }
+
+    h3{
+        text-decoration: none!important;
+        font-weight: 500!important;
+        padding-left: 12ch!important;
+        margin-top: calc(var(--baseline)*0.5)!important;
+    }
+    h4, h5, p, ul {
+        padding-left: 12.5ch!important;
+    }
+    h4{
+        margin-bottom: calc(var(--baseline)*0.5)!important;
+    }
+
+}

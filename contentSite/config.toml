@@ -4,6 +4,8 @@ summaryLength = "10"
 theme = "site"
 title = "Design en Recherche"
 
+[markup.goldmark.renderer]
+  unsafe= true
 
 # css plugins
 [[params.plugins.css]]

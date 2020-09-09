@@ -20,3 +20,15 @@
         margin-bottom: calc(var(--baseline)*0.5);
     }
 }
+
+.img-logos {
+    margin-top: calc(var(--baseline)*1);
+    figure, img{
+        width: 120px;
+        display: inline-block;   
+    }
+    img{
+        padding-right: calc(var(--unit)*2);
+    }
+
+}

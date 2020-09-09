@@ -1,0 +1,5 @@
+{{ $class := .Get `class` }} 
+
+<div class="img-{{ $class }} ">
+    {{ .Inner | markdownify }}
+</div>
