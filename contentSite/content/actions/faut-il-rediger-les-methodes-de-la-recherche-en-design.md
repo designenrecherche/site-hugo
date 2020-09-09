@@ -1,7 +1,7 @@
 +++
 banner = "/uploads/2017/12/31/placeholder.jpg"
 category = "Journée d'étude"
-description = "En raison de leurs nombreuses affiliations culturelles et disciplinaires, les méthodes et méthodologies convoquées par la recherche en design sont particulièrement riches et controversées. Que nous apprend cette diversité sur la multiplicité des connaissances produites par la recherche en design ? Cette dernière est-elle condamnée à importer des méthodologies issues d’autres disciplines ou peut-elle prétendre à une spécificité intrinsèque ? Le propre d’une recherche en design n’est-il pas aussi de faire preuve d’une forme « d’invention » méthodologique ?"
+description = "Le premier évènement scientifique organisé par l’association est l’occasion de traiter des méthodes et méthodologies convoquées par la recherche en design, considérées comme particulièrement riches et controversées."
 descriptiontemp = ""
 documents = ""
 lieu = "ENSCI, salle Richard Lenoir"
