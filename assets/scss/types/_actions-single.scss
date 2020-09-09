@@ -38,18 +38,55 @@
             @include surligne();
         }
 
+      
+
+        .tags{
+            li{
+                display: inline;
+                white-space: nowrap;
+                padding-right: calc(var(--unit)*1);
+                &:before{ content: "# " }
+                a{ @include links(); }
+                
+            }
+            @media screen and (min-width:1300px){
+                position: absolute;
+                right: -250px;
+                top: calc(var(--baseline)*3 + 2px);
+                width: calc(250px - var(--unit)*5);
+                li{ display: block }
+            }
+            @media screen and (min-width:1600px){
+                width: calc(250px - var(--unit)*10);
+            }
+        }
+
+        .summary{
+            // border: 1px dotted currentColor;
+            padding: 0 calc(var(--unit)*3);
+            margin-top: calc(var(--baseline)*2);
+            margin-bottom: calc(var(--baseline)*5);
+            border-left: 2px dotted var(--current-color);
+            border-right: 2px dotted var(--current-color);
+            &:before{
+                @include borderDotted(-1deg);
+                top: calc(var(--baseline) * -1);
+                
+            }
+            &:after{
+                @include borderDotted(1deg);
+                top: var(--baseline);
+            }
+        }
+
     }
 
     .content{
-        &:before, &:after{
-            content: "";
-            display: block;
-            width: 100%;
-            margin-top: calc(var(--baseline)*3);
+        &:after{
+            @include borderDotted(1deg);
+            margin-top: calc(var(--baseline)*4);
             padding-top: calc(var(--baseline)*2);
             // float: right;
-            border-top: 2px dotted var(--current-color);
-            transform: rotate(1deg);
         }
 
         h1{
@@ -101,5 +138,26 @@
         font-style: italic;
         // padding-top: calc(var(--baseline)*2);
         text-align: right; 
+    }
+
+    .documents{
+        margin-top: calc(var(--baseline)*4);
+        margin-bottom: calc(var(--baseline)*-2);
+        
+        &:before{
+            @include borderDotted(-1deg);
+            padding-top: calc(var(--baseline)*2);
+        }
+        span{ 
+            font-weight: 500;
+            padding-right: 40px;
+        }
+        svg{
+            width: 17px;
+            fill: currentColor;
+            position: relative;
+            top: 2px;
+            left: -5px;
+        }
     }
 }

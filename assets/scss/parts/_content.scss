@@ -1,9 +1,7 @@
 .content{
 
     a{
-        color: var(--current-color);
-        border-bottom: 1px dotted var(--current-color);
-        &:hover{ border-bottom: 1px solid var(--current-color); }
+        @include links();
     }
 
     strong{
@@ -34,6 +32,11 @@
 
         }
        
+    }
+
+    figure{
+        width: 100%;
+        img{ width: 100%;}
     }
 }
 

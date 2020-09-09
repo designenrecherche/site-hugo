@@ -128,6 +128,21 @@ select:focus {
 }
 }
 
+@mixin links(){
+  color: var(--current-color);
+  border-bottom: 1px dotted var(--current-color);
+  &:hover{ border-bottom: 1px solid var(--current-color); }
+}
+
+@mixin borderDotted($deg){
+  content: "";
+  display: block;
+  width: 100%;
+  position: relative;
+  border-top: 2px dotted var(--current-color);
+  transform: rotate($deg);
+}
+
 .more{
   display: block;
   color: currentColor;
