@@ -17,12 +17,10 @@ fields:
   description: Description temporaire pour la page d'accueil (annonce de l'évènement
     s'il n'est pas encore passé). Cette description sera changé dès que l'évènement
     est passé
-- type: file
-  name: banner
-  label: Banner
-  description: Provide a banner image for this post
+- type: tag_list
+  name: tags
+  label: Mots-clés
   hidden: false
-  default: "/uploads/2017/12/31/placeholder.jpg"
 - name: publishDate
   default: Now
   label: Date de l'évènement
