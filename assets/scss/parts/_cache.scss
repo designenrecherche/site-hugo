@@ -1,0 +1,29 @@
+#cache{
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+   position: fixed;
+   top: 0;
+   left: 0;
+   z-index: 99;
+   padding: 30px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+
+   a{
+       @include links();
+   }
+
+   a span{ padding-right: 10px;}
+
+   ul{
+       margin-bottom: var(--baseline);
+   }
+   .contact{
+       margin-top: calc(var(--baseline)*2);
+       font-size: 0.8em;
+   }
+}
