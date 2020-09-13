@@ -1,0 +1,6 @@
+
+{{ $class := .Get `class` }} 
+
+<div class="{{ $class }}" lang="{{ $year }}">
+    {{ .Inner | markdownify }}
+</div>
