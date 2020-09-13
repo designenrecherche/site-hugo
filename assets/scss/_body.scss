@@ -151,3 +151,15 @@ select:focus {
   @include trait-double-small();
   &:hover{ color: currentColor; }
 }
+
+@mixin tags($display){
+  display: $display;
+  font-size: var(--font-size-small);
+  white-space: nowrap;
+  margin-right: calc(var(--unit)*0.5);
+  border: 1px dotted var(--current-color);
+  border-radius: 4px;
+  padding: 1px 10px;
+  &:before{ content: "# " }
+  a{ @include links(); }
+}

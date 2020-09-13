@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+
+<h1 class="title-list">Annuaires des membres</h1>
+
+    <div class="container-main" id="container-list-membres">
+
+        {{ range .Data.Pages }}
+        {{ if .Params.membre_actif }}
+        {{ .Render "post" }}
+        {{ end }}
+        {{ end }}
+     
+        {{ range .Data.Pages }}
+        {{ if not .Params.membre_actif }}
+        {{ .Render "post" }}
+        {{ end }}
+        {{ end }}
+      </div>
+
+{{ end }}

@@ -1,10 +1,11 @@
 +++
+membre_actif = true
 etablissement = "Unîmes, groupe Projekt. Orange Labs, Sense."
 photo = "/images/dumesny-rose.png"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["tangible", "représentation des données", "design", "perception sensible", "usages"]
-these-end = 2019
-these-start = 2015
+these_end = 2019
+these_start = 2015
 these_soutenue = true
 title = "Rose Dumesny"
 titrethese = "Médiation sensible: des dispositifs d'expression tangibles pour s'approprier et comprendre l'objet smartphone"

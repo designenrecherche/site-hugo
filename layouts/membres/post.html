@@ -1,0 +1,31 @@
+<article class="post-membre {{ if .Params.membre_actif }}membre-actif{{end}}">
+    <!-- <img class="rounded card-img-top" src="{{.Params.Image | relURL}}" alt="{{.Title }}"> -->
+
+    <div class="hgroup">
+    <figure>
+        <a href="{{.Permalink}}">
+        {{ if .Params.photo }}<img src="{{ .Params.photo }}">{{ end }}
+        </a>
+    </figure>
+
+         <h1><a href="{{.Permalink}}">{{.Title }}</a> {{ if .Params.membre_actif }}<small>Membre actif</small>{{end}}</h1>
+
+        <h2><span>Thèse: </span>{{ .Params.titrethese }}</h2>
+    </div>
+
+    {{ if .Params.tags }}
+      <ul class="tags">
+        {{range .Params.tags}}<li>{{ . }}</li> {{end}}
+           <!-- {{range .Params.tags}}<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li> {{end}} -->
+      </ul>
+      {{end}}
+
+      <div class="bandeau">       
+        <p class="these-start">{{ if .Params.these_start }}{{ .Params.these_start }}{{ end }}</p> 
+        <p class="these-end">{{ if .Params.these_soutenue }}{{ .Params.these_end }}{{ end }}</p>
+        <p class="these-cnu">{{ if .Params.section_cnu }}{{ .Params.section_cnu }}{{ end }}</p>
+        <p class="these-etablissement">{{ if .Params.etablissement }}{{ .Params.etablissement }}{{ end }}</p>
+     
+    </div>
+   
+  </article>

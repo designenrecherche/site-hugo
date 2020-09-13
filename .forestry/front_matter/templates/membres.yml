@@ -7,6 +7,9 @@ fields:
   config:
     required: true
   label: Prénom Nom
+- name: membre_actif
+  type: boolean
+  label: Membre actif
 - type: file
   name: photo
   label: Photo de profil
@@ -99,7 +102,7 @@ fields:
   config:
     required: false
   label: Titre de la thèse en anglais (EN)
-- name: these-start
+- name: these_start
   type: number
   label: Date d'inscription en thèse
   description: ''
@@ -111,7 +114,7 @@ fields:
 - name: these_soutenue
   type: boolean
   label: Thèse soutenue
-- name: these-end
+- name: these_end
   type: number
   label: Date de soutenance de thèse
   description: ''

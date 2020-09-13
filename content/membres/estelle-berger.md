@@ -1,12 +1,13 @@
 +++
 discipline = ""
+membre_actif = false
 etablissement = "Toulouse Jean Jaurès, LARA - Laboratoire de Recherche en Arts"
 etablissement_s___laboratoire_s_ = "Toulouse Jean Jaurès, LARA - Laboratoire de Recherche en Arts"
 photo = "/images/berger-estelle.png"
 section_cnu = "18 Arts appliqués"
 tags = ["design", " poïétique", "expérience", "tactique", "interdisciplinarité", "éthique"]
-these-end = 2014
-these-start = 2010
+these_end = 2014
+these_start = 2010
 these_soutenue = true
 title = " Estelle Berger"
 titrethese = "Poïétique du design, entre l'expérience et le discours"

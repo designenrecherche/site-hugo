@@ -29,6 +29,12 @@ body{
     color: var(--current-color); 
  }
 
+#page-membres{
+    --current-color: var(--color-4);
+    --background-color: var(--color-5);
+    color: var(--current-color);
+ }
+
 #breves,
 #page-breves{ 
     --current-color: var(--color-8);

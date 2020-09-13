@@ -1,0 +1,119 @@
+#container-list-membres{
+
+    max-width: var(--max-width-content);
+    .post-membre{
+        margin-bottom: calc(var(--baseline)*3);
+
+        figure {
+            overflow:hidden;
+            // border-radius: 20px;
+            width: 90px;
+            height: 90px;
+            border: 1px solid #999;
+            margin: 0;
+            background-color: var(--current-color);
+            position: absolute;
+            top: 0;
+            left: 0;
+            border: 2px solid var(--current-color);
+            img{ 
+                width: 100%;
+                filter: grayscale(100%);
+                mix-blend-mode: screen;
+            }
+        }
+    }
+
+    .hgroup{
+        min-height: 90px;
+    }
+
+    h1, h2, .tags{
+        margin-left: 145px;
+    }
+    h1{
+        a{ color:  var(--current-color); }
+        font-weight: 500;
+        font-size: calc(var(--font-size)*1.6);
+        
+        small{
+            float: right;
+            font-size: var(--font-size-small);
+            font-weight: normal;
+            padding-left: calc(var(--unit)*2);
+            &::before{
+                content: "";
+                display: inline-block;
+                width: 10px;
+                height: 10px;
+                background-color: var(--current-color);
+                border-radius: 50%;
+                margin-right: 8px;
+            }
+          
+
+        }
+    }
+
+    h2{
+        font-weight: 500;
+        font-size: var(--font-size);
+        span{display: none; }
+    }
+
+    .tags{
+        margin-top: calc(var(--baseline)*0.5);
+        margin-bottom: calc(var(--baseline)*0.5);
+        li{
+            @include tags(inline-block);
+            margin-bottom: calc(var(--baseline)*0.25);
+        }
+        @media screen and (min-width: 1400px){
+            width: 280px;
+            float: right;
+            margin-right: -310px;
+            margin-top: -100px;
+      
+        }
+    }
+
+
+   
+
+    .bandeau{
+        // display: flex;
+        border-top: 1px solid var(--current-color);
+        border-bottom: 1px solid var(--current-color);
+        padding: calc(var(--baseline)*0.25) 0;
+        margin-top: calc(var(--baseline)*1);
+
+        p{ margin: 0; }
+    }
+
+
+    .these-start{
+        padding-right: 0.5ch;
+        display: inline-block;
+    }
+
+    .these-end{
+        display: inline-block;
+        width: 9ch;
+        &:before{
+            content: "⇥";
+            padding-right: 1ch;
+        }
+    }
+
+    .these-cnu{
+        display: inline-block;
+    }
+
+    .these-etablissement{
+        padding-left: 13.5ch;
+        font-style: italic;
+    }
+
+  
+    
+}

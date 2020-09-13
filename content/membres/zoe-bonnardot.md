@@ -1,9 +1,10 @@
 +++
+membre_actif = true
 etablissement = "Unîme, équipe PROJEKT"
 photo = "/images/bonnardot-zoe.png"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["expérience", "transition énergétique", "usagers", "engagement"]
-these-start = 2018
+these_start = 2018
 these_soutenue = false
 title = "Zoé Bonnardot"
 titrethese = "Concevoir l'engagement multi-échelle des utilisateurs : le design d'expérience dans la transition énergétique et numérique"
