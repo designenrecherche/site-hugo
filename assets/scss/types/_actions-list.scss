@@ -66,13 +66,10 @@
 
             .tags{
                 li{
-                    display: inline;
-                    white-space: nowrap;
-                    padding-right: calc(var(--unit)*1);
-                    &:before{ content: "# " }
-                    a{ @include links(); }
-                    
+                    @include tags(inline-block);
                 }
+                @include tags-block();
+                
                
             }
 

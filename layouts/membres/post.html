@@ -21,8 +21,10 @@
       {{end}}
 
       <div class="bandeau">       
-        <p class="these-start">{{ if .Params.these_start }}{{ .Params.these_start }}{{ end }}</p> 
-        <p class="these-end">{{ if .Params.these_soutenue }}{{ .Params.these_end }}{{ end }}</p>
+          <div class="dates-these">
+                <p class="these-start">{{ if .Params.these_start }}{{ .Params.these_start }}{{ end }}</p> 
+                <p class="these-end">{{ if .Params.these_soutenue }}{{ .Params.these_end }}{{ end }}</p>
+            </div>
         <p class="these-cnu">{{ if .Params.section_cnu }}{{ .Params.section_cnu }}{{ end }}</p>
         <p class="these-etablissement">{{ if .Params.etablissement }}{{ .Params.etablissement }}{{ end }}</p>
      

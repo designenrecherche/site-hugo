@@ -160,6 +160,16 @@ select:focus {
   border: 1px dotted var(--current-color);
   border-radius: 4px;
   padding: 1px 10px;
+  margin-bottom: calc(var(--baseline)*0.25);
   &:before{ content: "# " }
   a{ @include links(); }
+}
+
+@mixin tags-block(){
+  @media screen and (min-width: 1400px){
+    width: 300px;
+    position: absolute;
+    top: 0;
+    right: calc((300px + var(--unit)*8)*-1);
+  }
 }

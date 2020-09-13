@@ -1,8 +1,8 @@
 #container-list-membres{
 
-    max-width: var(--max-width-content);
+    max-width: var(--max-width-list);
     .post-membre{
-        margin-bottom: calc(var(--baseline)*3);
+        margin-bottom: calc(var(--baseline)*3.5);
 
         figure {
             overflow:hidden;
@@ -63,18 +63,12 @@
 
     .tags{
         margin-top: calc(var(--baseline)*0.5);
-        margin-bottom: calc(var(--baseline)*0.5);
+        // margin-bottom: calc(var(--baseline)*0.5);
         li{
             @include tags(inline-block);
-            margin-bottom: calc(var(--baseline)*0.25);
+            
         }
-        @media screen and (min-width: 1400px){
-            width: 280px;
-            float: right;
-            margin-right: -310px;
-            margin-top: -100px;
-      
-        }
+        @include tags-block();
     }
 
 
@@ -82,12 +76,26 @@
 
     .bandeau{
         // display: flex;
-        border-top: 1px solid var(--current-color);
+        // border-top: 1px solid var(--current-color);
         border-bottom: 1px solid var(--current-color);
-        padding: calc(var(--baseline)*0.25) 0;
+        
+        padding-bottom: calc(var(--baseline)*0.25);
         margin-top: calc(var(--baseline)*1);
+        min-height: 40px;
 
         p{ margin: 0; }
+
+        .dates-these{
+            position: absolute;
+        }
+        &::before{
+            content: "";
+            display: block;
+            width: 100%;
+            border-top: 1px solid var(--current-color);
+            transform: rotate(1deg);
+            padding-top: calc(var(--baseline)*0.5);
+        }
     }
 
 
@@ -98,19 +106,17 @@
 
     .these-end{
         display: inline-block;
-        width: 9ch;
         &:before{
             content: "⇥";
             padding-right: 1ch;
         }
     }
 
-    .these-cnu{
-        display: inline-block;
+    .these-cnu, .these-etablissement{
+        padding-left: 13.5ch;
     }
 
-    .these-etablissement{
-        padding-left: 13.5ch;
+    .these-etablissement{    
         font-style: italic;
     }
 
