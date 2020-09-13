@@ -1,6 +1,6 @@
 [build]
-  publish = "contentSite/public"
-  command = "cd contentSite && hugo --gc --themesDir ../.."
+  publish = "public"
+  command = "hugo --gc"
   
 [build.environment]
   HUGO_VERSION = "0.60.1"

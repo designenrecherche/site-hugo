@@ -5,59 +5,59 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: contentSite/data/instagram.yml
+  path: data/instagram.yml
   label: instagram yml
 - type: directory
-  path: contentSite/content/instagram
+  path: content/instagram
   label: Résidences Instagram
   create: all
   match: "**/*"
   templates:
   - instagram
 - type: directory
-  path: contentSite/content/actions
+  path: content/actions
   label: Nos actions
   create: all
   match: "**/*"
   templates:
   - actions
 - type: directory
-  path: contentSite/content/membres
+  path: content/membres
   label: Membres
   create: all
   match: "**/*"
   templates:
   - membres
 - type: directory
-  path: contentSite/content/breves
+  path: content/breves
   label: Brèves
   create: all
   match: "**/*"
   templates:
   - breves
 - type: directory
-  path: contentSite/content/about
+  path: content/about
   label: About
   create: none
   match: "*"
 - type: directory
-  path: contentSite/data
+  path: data
   label: Data
   create: documents
   match: "*"
   new_doc_ext: yml
 - type: directory
-  path: contentSite/content/contact
+  path: content/contact
   label: Contact
   create: none
   match: "*"
 - type: directory
-  path: contentSite
+  path: content
   label: Configuration
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: contentSite/static/images
+upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false

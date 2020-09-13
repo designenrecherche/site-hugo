@@ -1,0 +1,35 @@
+---
+label: Breves
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: titre
+- type: text
+  name: description
+  label: description
+  description: Court texte de description
+- name: publishDate
+  default: Now
+  label: Date
+  hidden: true
+  type: datetime
+- type: text
+  name: link
+  label: URL
+  description: URL de redirection vers site de l'évènement, l'appel à communication,
+    la proposition, etc.
+- type: file
+  name: documents
+  label: Documents
+  description: Programme, appel ou tout autre document utile
+  hidden: false
+pages:
+- content/breves/2-offres-de-doctorats-a-l-ecole-universitaire-de-recherche-artec.md
+- content/breves/6-offres-de-contrats-de-recherche-a-l-anrt-de-nancy.md
+- content/breves/appel-a-projet-xiie-biennale-internationale-design-2021.md
+- content/breves/contrat-de-recherche-pour-l-ouverture-d-un-dsrd-diplome-superieur-de-recherche-en-design-ecolab-orleans.md
+- content/breves/contrat-doctoral-a-la-head-geneve.md
+- content/breves/et-si-les-défis-en-santé-passaient-par-des-enjeux-de-communication-et-de
+  design.md
+- content/breves/sciences-du-design-12-varia.md
