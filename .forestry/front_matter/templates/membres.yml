@@ -87,6 +87,18 @@ fields:
     - 73 Cultures et langues régionales
     - 74 Sciences et techniques des activités physiques et sportives
   label: Section CNU
+- name: titrethese
+  type: text
+  default: ''
+  config:
+    required: true
+  label: Titre de la thèse (FR)
+- name: titrethese
+  type: text
+  default: ''
+  config:
+    required: false
+  label: Titre de la thèse en anglais (EN)
 - name: description
   type: textarea
   default: ''
@@ -96,8 +108,19 @@ fields:
     schema:
       format: markdown
     max: '1000'
-  label: Présentation
+  label: Présentation (FR)
   description: Champ libre pour te présenter (1000 signes maximum)
+- name: descriptionEn
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+    max: '1000'
+  label: Présentation (EN)
+  description: Champ libre pour te présenter en anglais (1000 signes maximum)
 - name: these-start
   type: number
   label: Date d'inscription en thèse
