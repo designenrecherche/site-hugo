@@ -215,5 +215,4 @@ fields:
     required: false
   label: URL theses.fr
 pages:
-- contentSite/content/membres/estelle-berger.md
-- contentSite/content/membres/rose-dumesny.md
+- content/membres/zoe-bonnardot.md
