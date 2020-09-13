@@ -1,5 +1,4 @@
 +++
-description = "Cette recherche, menée par un designer-chercheur en immersion dans le monde professionnel, interroge la problématique de la conciliation entre pratique réelle et prise de recul réflexive sur le métier. Dans cette visée, elle est en partie fondée sur une question épistémologique : quelles sont les connaissances spécifiques apportées par la recherche en design ? Quelle est sa place dans les cadres académique et professionnel ? De manière plus individuelle, peut-on aujourd’hui mener une démarche de design-poïétique, qui concilie pratique et discours ? "
 discipline = ""
 etablissement = "Toulouse Jean Jaurès, LARA - Laboratoire de Recherche en Arts"
 etablissement_s___laboratoire_s_ = "Toulouse Jean Jaurès, LARA - Laboratoire de Recherche en Arts"
@@ -24,3 +23,5 @@ telephone = 33601056061
 twitter = ""
 
 +++
+
+Cette recherche, menée par un designer-chercheur en immersion dans le monde professionnel, interroge la problématique de la conciliation entre pratique réelle et prise de recul réflexive sur le métier. Dans cette visée, elle est en partie fondée sur une question épistémologique : quelles sont les connaissances spécifiques apportées par la recherche en design ? Quelle est sa place dans les cadres académique et professionnel ? De manière plus individuelle, peut-on aujourd’hui mener une démarche de design-poïétique, qui concilie pratique et discours ?
