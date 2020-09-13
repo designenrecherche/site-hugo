@@ -3,7 +3,6 @@ etablissement = "Unîme, équipe PROJEKT"
 photo = "/images/bonnardot-zoe.png"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["expérience", "transition énergétique", "usagers", "engagement"]
-these-end = nil
 these-start = 2018
 these_soutenue = false
 title = "Zoé Bonnardot"
@@ -19,7 +18,6 @@ instagram = ""
 linkedin = ""
 mail = "bonnardot.z@gmail.com"
 site = ""
-telephone = nil
 twitter = ""
 
 +++
