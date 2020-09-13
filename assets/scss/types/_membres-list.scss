@@ -56,28 +56,20 @@
     }
 
     .type-membre{
-        position: absolute;
-        right: 0;
-        top: 0;
-        width: 20ch;
-        font-size: var(--font-size-small);
-        font-weight: normal;
-        padding-left: calc(var(--unit)*2);
-        &::before{
-            content: "";
-            display: inline-block;
-            width: 10px;
-            height: 10px;
-            background-color: var(--current-color);
-            border-radius: 50%;
-            margin-right: 8px;
-        }
-      
 
+            float: right;
+            text-align: right;
+            font-weight: 400;
+            font-size: var(--font-size-small);
+            letter-spacing: 0.2px;
+            margin-bottom: 0;
+            @include surligne();
+
+    
     }
+
     .tags{
         margin-top: calc(var(--baseline)*0.5);
-        // margin-bottom: calc(var(--baseline)*0.5);
         li{
             @include tags(inline-block);
             
@@ -93,7 +85,7 @@
         // border-top: 1px solid var(--current-color);
         border-bottom: 1px solid var(--current-color);
         
-        padding-bottom: calc(var(--baseline)*0.25);
+        padding-bottom: calc(var(--baseline)*0.5);
         margin-top: calc(var(--baseline)*1);
         min-height: 40px;
 
@@ -127,12 +119,14 @@
     }
 
     .these-cnu, .these-etablissement{
-        padding-left: 13.5ch;
+        padding-left: 15.5ch;
+        text-indent: -2ch;
+        @include trait(2px);
     }
 
-    .these-etablissement{    
-        font-style: italic;
-    }
+    // .these-etablissement{    
+    //     font-style: italic;
+    // }
 
   
     
