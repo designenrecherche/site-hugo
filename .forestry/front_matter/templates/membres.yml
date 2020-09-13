@@ -103,7 +103,6 @@ fields:
   type: number
   label: Date d'inscription en thèse
   description: ''
-  default: 0
   required: true
   config:
     min: 
@@ -116,8 +115,7 @@ fields:
   type: number
   label: Date de soutenance de thèse
   description: ''
-  default: 0
-  required: true
+  required: false
   config:
     min: 
     max: 
@@ -145,7 +143,6 @@ fields:
     type: number
     label: Téléphone
     description: ''
-    default: 0
     config:
       min: 
       max: 
