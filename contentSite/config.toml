@@ -2,6 +2,8 @@ baseURL = "https://designenrecherche.org/"
 languageCode = "fr"
 summaryLength = "10"
 title = "Design en Recherche"
+license = "MIT"
+hugo_version = "0.60.0"
 
 [markup.goldmark.renderer]
   unsafe= true
