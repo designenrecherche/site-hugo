@@ -197,5 +197,151 @@ fields:
   config:
     required: false
   label: Lien thèse (HAL)
+- name: instagram_1
+  description: Liens de la résidence instagram
+  type: field_group
+  config: {}
+  fields:
+  - name: post1
+    type: text
+    config:
+      required: false
+    label: post1
+  - name: post2
+    type: text
+    config:
+      required: false
+    label: post2
+  - name: post3
+    type: text
+    config:
+      required: false
+    label: post3
+  - name: post4
+    type: text
+    config:
+      required: false
+    label: post4
+  - name: post5
+    type: text
+    config:
+      required: false
+    label: post5
+  - name: post6
+    type: text
+    config:
+      required: false
+    label: post6
+  - name: post7
+    type: text
+    config:
+      required: false
+    label: post7
+  - name: post8
+    type: text
+    config:
+      required: false
+    label: post8
+  - name: post9
+    type: text
+    config:
+      required: false
+    label: post9
+- name: instagram_files
+  description: Liens de la résidence instagram
+  type: field_group
+  config: {}
+  fields:
+  - name: post1link
+    type: text
+    config:
+      required: false
+    label: Lien post 1
+  - type: file
+    name: img1
+    label: Image post 1
+    hidden: false
+    default: ""
+  - name: post2link
+    type: text
+    config:
+      required: false
+    label: Lien post 2
+  - type: file
+    name: img2
+    label: Image post 2
+    hidden: false
+    default: ""
+  - name: post3link
+    type: text
+    config:
+      required: false
+    label: Lien post 3
+  - type: file
+    name: img3
+    label: Image post 3
+    hidden: false
+    default: ""
+  - name: post4link
+    type: text
+    config:
+      required: false
+    label: Lien post 4
+  - type: file
+    name: img4
+    label: Image post 4
+    hidden: false
+    default: ""
+  - name: post5link
+    type: text
+    config:
+      required: false
+    label: Lien post 5
+  - type: file
+    name: img5
+    label: Image post 5
+    hidden: false
+    default: ""
+  - name: post6link
+    type: text
+    config:
+      required: false
+    label: Lien post 6
+  - type: file
+    name: img6
+    label: Image post 6
+    hidden: false
+    default: ""
+  - name: post7link
+    type: text
+    config:
+      required: false
+    label: Lien post 7
+  - type: file
+    name: img7
+    label: Image post 7
+    hidden: false
+    default: ""
+  - name: post8link
+    type: text
+    config:
+      required: false
+    label: Lien post 8
+  - type: file
+    name: img8
+    label: Image post 8
+    hidden: false
+    default: ""
+  - name: post9link
+    type: text
+    config:
+      required: false
+    label: Lien post 9
+  - type: file
+    name: img9
+    label: Image post 9
+    hidden: false
+    default: ""
+pages:
 pages:
 - content/membres/zoe-bonnardot.md
