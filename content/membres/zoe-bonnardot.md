@@ -10,6 +10,7 @@ these-start = 2017
 these_soutenue = false
 title = "Zoé Bonnardot"
 titrethese = "Concevoir l'engagement multi-échelle des utilisateurs : le design d'expérience dans la transition énergétique et numérique"
+titretheseEn = "Designing multi-scales user engagement: user experience design for energetic and digital transition"
 url_thesesfr = "http://theses.fr/s193598"
 [contact]
 facebook = ""

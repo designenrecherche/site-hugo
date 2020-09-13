@@ -93,7 +93,7 @@ fields:
   config:
     required: true
   label: Titre de la thèse (FR)
-- name: titrethese
+- name: titretheseEn
   type: text
   default: ''
   config:
