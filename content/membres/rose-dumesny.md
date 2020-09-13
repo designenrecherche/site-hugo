@@ -10,6 +10,7 @@ title = "Rose Dumesny"
 titrethese = "Médiation sensible: des dispositifs d'expression tangibles pour s'approprier et comprendre l'objet smartphone"
 titretheseEn = "Understand issues of representation for a sensitive perception of digital data"
 url_thesesfr = "http://theses.fr/s193577"
+url_hal = "https://tel.archives-ouvertes.fr/tel-02861634"
 [contact]
 facebook = ""
 hypotheses = "https://sensdata.hypotheses.org/"

@@ -192,5 +192,10 @@ fields:
   config:
     required: false
   label: URL theses.fr
+- name: url_hal
+  type: text
+  config:
+    required: false
+  label: Lien thèse (HAL)
 pages:
 - content/membres/zoe-bonnardot.md

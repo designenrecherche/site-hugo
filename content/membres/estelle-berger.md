@@ -12,6 +12,7 @@ title = " Estelle Berger"
 titrethese = "Poïétique du design, entre l'expérience et le discours"
 titretheseEn = "Design poïetics, between experience and discourse"
 url_thesesfr = "https://theses.fr/2014TOU20044"
+url_hal = "https://tel.archives-ouvertes.fr/tel-01246417"
 [contact]
 facebook = ""
 github = ""
