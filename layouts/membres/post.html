@@ -6,9 +6,10 @@
         <a href="{{.Permalink}}">
         {{ if .Params.photo }}<img src="{{ .Params.photo }}">{{ end }}
         </a>
-    </figure>
+    </figure>>
+    {{ if .Params.membre_actif }}<p class="type-membre">Membre actif</p>{{end}}
 
-         <h1><a href="{{.Permalink}}">{{.Title }}</a> {{ if .Params.membre_actif }}<small>Membre actif</small>{{end}}</h1>
+         <h1><a href="{{.Permalink}}">{{.Title }}</a> </h1>
 
         <h2><span>Thèse: </span>{{ .Params.titrethese }}</h2>
     </div>

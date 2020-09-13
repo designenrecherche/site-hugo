@@ -15,7 +15,7 @@
             position: absolute;
             top: 0;
             left: 0;
-            border: 2px solid var(--current-color);
+            border: 1px solid var(--current-color);
             img{ 
                 width: 100%;
                 filter: grayscale(100%);
@@ -26,41 +26,55 @@
 
     .hgroup{
         min-height: 90px;
+        position: relative;
     }
 
     h1, h2, .tags{
         margin-left: 145px;
     }
     h1{
+        @include title();
+        display: inline-block;
         a{ color:  var(--current-color); }
-        font-weight: 500;
-        font-size: calc(var(--font-size)*1.6);
-        
-        small{
-            float: right;
-            font-size: var(--font-size-small);
-            font-weight: normal;
-            padding-left: calc(var(--unit)*2);
-            &::before{
-                content: "";
-                display: inline-block;
-                width: 10px;
-                height: 10px;
-                background-color: var(--current-color);
-                border-radius: 50%;
-                margin-right: 8px;
-            }
-          
-
+        // font-weight: 500;
+        // font-size: calc(var(--font-size)*1.6);
+        margin-top: 0;
+        position: relative;
+        left: -13px;
+        &:hover::after{
+            transform: rotate(0deg);
         }
+        
+       
     }
 
     h2{
         font-weight: 500;
         font-size: var(--font-size);
+        margin-top: 0;
         span{display: none; }
     }
 
+    .type-membre{
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 20ch;
+        font-size: var(--font-size-small);
+        font-weight: normal;
+        padding-left: calc(var(--unit)*2);
+        &::before{
+            content: "";
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            background-color: var(--current-color);
+            border-radius: 50%;
+            margin-right: 8px;
+        }
+      
+
+    }
     .tags{
         margin-top: calc(var(--baseline)*0.5);
         // margin-bottom: calc(var(--baseline)*0.5);
