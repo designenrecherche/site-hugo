@@ -261,7 +261,7 @@ fields:
     name: img1
     label: Image post 1
     hidden: false
-    default: ""
+    default: ''
   - name: post2link
     type: text
     config:
@@ -271,7 +271,7 @@ fields:
     name: img2
     label: Image post 2
     hidden: false
-    default: ""
+    default: ''
   - name: post3link
     type: text
     config:
@@ -281,7 +281,7 @@ fields:
     name: img3
     label: Image post 3
     hidden: false
-    default: ""
+    default: ''
   - name: post4link
     type: text
     config:
@@ -291,7 +291,7 @@ fields:
     name: img4
     label: Image post 4
     hidden: false
-    default: ""
+    default: ''
   - name: post5link
     type: text
     config:
@@ -301,7 +301,7 @@ fields:
     name: img5
     label: Image post 5
     hidden: false
-    default: ""
+    default: ''
   - name: post6link
     type: text
     config:
@@ -311,7 +311,7 @@ fields:
     name: img6
     label: Image post 6
     hidden: false
-    default: ""
+    default: ''
   - name: post7link
     type: text
     config:
@@ -321,7 +321,7 @@ fields:
     name: img7
     label: Image post 7
     hidden: false
-    default: ""
+    default: ''
   - name: post8link
     type: text
     config:
@@ -331,7 +331,7 @@ fields:
     name: img8
     label: Image post 8
     hidden: false
-    default: ""
+    default: ''
   - name: post9link
     type: text
     config:
@@ -341,7 +341,6 @@ fields:
     name: img9
     label: Image post 9
     hidden: false
-    default: ""
-pages:
+    default: ''
 pages:
 - content/membres/zoe-bonnardot.md
