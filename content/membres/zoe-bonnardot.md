@@ -3,11 +3,13 @@ etablissement = "Unîme, équipe PROJEKT"
 photo = "/images/bonnardot-zoe.png"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["expérience", "transition énergétique", "usagers", "engagement"]
+these-end = nil
 these-start = 2018
 these_soutenue = false
 title = "Zoé Bonnardot"
 titrethese = "Concevoir l'engagement multi-échelle des utilisateurs : le design d'expérience dans la transition énergétique et numérique"
 titretheseEn = "Designing multi-scales user engagement: user experience design for energetic and digital transition"
+url_hal = ""
 url_thesesfr = "http://theses.fr/s193598"
 [contact]
 facebook = ""
@@ -18,7 +20,37 @@ instagram = ""
 linkedin = ""
 mail = "bonnardot.z@gmail.com"
 site = ""
+telephone = nil
 twitter = ""
+[instagram_1]
+post1 = ""
+post2 = ""
+post3 = ""
+post4 = ""
+post5 = ""
+post6 = ""
+post7 = ""
+post8 = ""
+post9 = ""
+[instagram_files]
+img1 = "/images/capture-d-ecran-2020-09-13-a-19-38-40.png"
+img2 = "/images/capture-d-ecran-2020-09-13-a-19-38-48.png"
+img3 = "/images/capture-d-ecran-2020-09-13-a-19-39-14.png"
+img4 = "/images/capture-d-ecran-2020-09-13-a-19-39-26.png"
+img5 = "/images/capture-d-ecran-2020-09-13-a-19-39-53.png"
+img6 = "/images/capture-d-ecran-2020-09-13-a-19-40-07.png"
+img7 = "/images/capture-d-ecran-2020-09-13-a-19-40-21.png"
+img8 = "/images/capture-d-ecran-2020-09-13-a-19-40-36.png"
+img9 = "/images/capture-d-ecran-2020-09-13-a-19-40-49.png"
+post1link = "https://www.instagram.com/p/B5k0xszBcIw/"
+post2link = "https://www.instagram.com/p/B5p8bjyo-BQ/"
+post3link = "https://www.instagram.com/p/B52b8TKCRqi/"
+post4link = "https://www.instagram.com/p/B58FAMgik1V/"
+post5link = "https://www.instagram.com/p/B6IKzLBiUnv/"
+post6link = "https://www.instagram.com/p/B6NXiBpCtln/"
+post7link = "https://www.instagram.com/p/B6TO1OhCvy4/"
+post8link = "https://www.instagram.com/p/B6dTxLjCnpM/"
+post9link = "https://www.instagram.com/p/B6krvOcikAL/"
 
 +++
 <!-- Supprimer les parties non remplies. Tu es libre d'ajouter ce que tu veux à cette partie -->
