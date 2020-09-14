@@ -7,18 +7,8 @@
  
 
         h1{
-            display: inline-block;
-            @include title();
-            font-size: calc(var(--font-size)*1.8);
-            line-height: calc(var(--baseline)*1.5);
-            font-weight: 500;
-            margin: 0;
+            @include title-big();
             margin-bottom: calc(var(--baseline)*1.5);
-            
-            &:after{
-                height: 2.5px;
-                top: 5px;
-            }
         }
 
         .date, .lieu{
@@ -89,47 +79,7 @@
             // float: right;
         }
 
-        h1{
-            @include title();
-            display: inline-block;
-            margin-top: calc(var(--baseline)*1.5);
-            margin-bottom: calc(var(--baseline)*1);
-        }
-
-        h2{
-            margin: 0;
-            margin-top: calc(var(--baseline)*1.5);
-            margin-bottom: calc(var(--baseline)*0.5);
-            font-size: var(--font-size);
-            font-weight: 500;
-
-        }
-
-        h1 + h2{
-            margin-top: calc(var(--baseline)*0.5);
-        }
-
-        h3{
-            margin: 0;
-            margin-top: calc(var(--baseline)*1);
-            margin-bottom: calc(var(--baseline)*0.5);
-            font-size: var(--font-size);
-            font-weight: 400;
-            text-decoration: underline;
-            padding-left: calc(var(--unit)*3);
-            // font-style: italic;
-
-        }
-
-        h4{
-            margin: 0;
-            margin-top: calc(var(--baseline)*1);
-            font-size: var(--font-size);
-            font-weight: 400;
-            padding-left: calc(var(--unit)*3);
-            font-style: italic;
-
-        }
+      
     }
 
     

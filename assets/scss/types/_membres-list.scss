@@ -6,10 +6,8 @@
 
         figure {
             overflow:hidden;
-            // border-radius: 20px;
             width: 90px;
             height: 90px;
-            border: 1px solid #999;
             margin: 0;
             background-color: var(--current-color);
             position: absolute;
@@ -17,9 +15,7 @@
             left: 0;
             border: 1px solid var(--current-color);
             img{ 
-                width: 100%;
-                filter: grayscale(100%);
-                mix-blend-mode: screen;
+                @include img-filtre();
             }
         }
     }
@@ -36,8 +32,6 @@
         @include title();
         display: inline-block;
         a{ color:  var(--current-color); }
-        // font-weight: 500;
-        // font-size: calc(var(--font-size)*1.6);
         margin-top: 0;
         position: relative;
         left: -13px;
@@ -81,10 +75,6 @@
    
 
     .bandeau{
-        // display: flex;
-        // border-top: 1px solid var(--current-color);
-        border-bottom: 1px solid var(--current-color);
-        
         padding-bottom: calc(var(--baseline)*0.5);
         margin-top: calc(var(--baseline)*1);
         min-height: 40px;
@@ -94,14 +84,15 @@
         .dates-these{
             position: absolute;
         }
-        &::before{
-            content: "";
-            display: block;
-            width: 100%;
-            border-top: 1px solid var(--current-color);
-            transform: rotate(1deg);
-            padding-top: calc(var(--baseline)*0.5);
-        }
+        // &::after{
+        //     content: "";
+        //     display: block;
+        //     width: 100%;
+        //     border-top: 1px solid var(--current-color);
+        //     transform: rotate(1deg);
+        //     position: relative;
+        //     top: var(--baseline);
+        // }
     }
 
 

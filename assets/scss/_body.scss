@@ -70,6 +70,21 @@ select:focus {
   }
 }
 
+@mixin title-big(){
+  display: inline-block;
+  @include title();
+  font-size: calc(var(--font-size)*1.8);
+  line-height: calc(var(--baseline)*1.5);
+  font-weight: 500;
+  margin: 0;
+  
+  
+  &:after{
+      height: 2.5px;
+      top: 5px;
+  }
+}
+
 
 @mixin trait($size){
   &::before{
@@ -172,4 +187,10 @@ select:focus {
     top: 0;
     right: calc((300px + var(--unit)*8)*-1);
   }
+}
+
+@mixin img-filtre(){
+  width: 100%;
+  filter: grayscale(100%);
+  mix-blend-mode: screen;
 }

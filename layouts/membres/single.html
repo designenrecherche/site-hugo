@@ -1,36 +1,96 @@
 
 {{ define "main" }}
 
+<h1 class="title-list">Annuaires des membres</h1>
 
 {{ $namemember := .Title }}
 
+<div class="container-main" id="container-single-membres">
+
+  
+
+
 <section class="section" id="section-membre-single">
   <div class="container">
-       <p>TEMPLATE MEMBRES</p>
-        <h1>{{$namemember}}</h3>
-          {{ if .Params.section_cnu }}<p class="section-cnu">{{ .Params.section_cnu }}</p>{{ end }}
         
-        <div class="description"><p>{{.Description }}</p></div>
+    
+    <header>
+      <figure>
+          <a href="{{.Permalink}}">
+          {{ if .Params.photo }}<img src="{{ .Params.photo }}">{{ end }}
+          </a>
+      </figure>
+      {{ if .Params.membre_actif }}<p class="type-membre">Membre actif</p>{{end}}
+  
+           <h1><a href="{{.Permalink}}">{{.Title }}</a> </h1>
+
+           <ul class="contact">
+            {{ if .Params.contact.mail }}<li class="mail">{{ .Params.contact.mail }}</li>{{ end }}
+            {{ if .Params.contact.site }}<li class="site">{{ .Params.contact.site }}</li>{{ end }}
+          
+           </ul>
+           <ul class="socials">
+            {{ if .Params.contact.twitter }}<li class="twitter"><a target="_blank" href="{{ .Params.contact.twitter }}"><span class="ti-twitter-alt"></span>Twitter</a></li>{{ end }}
+            {{ if .Params.contact.instagram }}<li><a target="_blank" href="{{ .Params.contact.instagram }}"><span class="ti-instagram"></span>Instagram</a></li>{{ end }}
+            {{ if .Params.contact.facebook }}<li><a target="_blank" href="{{ .Params.contact.facebook }}"><span class="ti-facebook"></span>Facebook</a></li>{{ end }}
+            {{ if .Params.contact.hypotheses }}<li><a target="_blank" href="{{ .Params.contact.hypotheses }}">Hypothèses</a></li>{{ end }}
+            {{ if .Params.contact.github }}<li><a target="_blank" href="{{ .Params.contact.github }}"><span class="ti-github"></span>Github</a></li>{{ end }}
+            {{ if .Params.contact.gitlab }}<li><a target="_blank" href="{{ .Params.contact.gitlab }}"><span class="ti-gitlab"></span>Gitlab</a></li>{{ end }}
+           </ul>
+  
+           {{ if .Params.tags }}
+           <ul class="tags">
+             {{range .Params.tags}}<li>{{ . }}</li> {{end}}
+                <!-- {{range .Params.tags}}<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li> {{end}} -->
+           </ul>
+           {{end}}
+
+         
+    </header>
+  
+    
+
+        <div class="these-infos">
+          
+           <p class="title-thesis-fr">{{ if .Params.titretheseEn }}<span class="lang"></span>{{ end }}{{ .Params.titrethese }}</p>
+          {{ if .Params.titretheseEn }} <p class="title-thesis-en" lang="en"><span class="lang"></span>{{ .Params.titretheseEn }}</p> {{ end }}
+
+          <ul class="infos">
+            {{ if .Params.these_start }}
+          <li><span class="these-start">Inscription en thèse en {{ .Params.these_start }}</span>
+            {{ if .Params.these_soutenue }}
+            <span class="these-end">Thèse soutenue {{ if .Params.these_start }}en {{ .Params.these_end }}{{ end }}</span>
+            {{ end }}
+          </li>
+          {{ end }}
+            {{ if .Params.section_cnu }} <li><span class="type-info">Section CNU</span> <span class="texte-info">{{ .Params.section_cnu }}</span></li>{{ end }}
+            {{ if .Params.etablissement }} <li><span class="type-info">Laboratoire(s)</span>  <span class="texte-info">{{ .Params.etablissement }}</span></li>{{ end }}
+          </ul>
+
+          <ul class="links-these">
+            {{ if .Params.url_thesesfr }}<li><a href="{{ .Params.url_thesesfr }}">these.fr</a></li>{{ end }}
+            {{ if .Params.url_hal }}<li><a href="{{ .Params.url_hal }}">HAL (PDF de la thèse)</a></li>{{ end }}
+          </ul>
+
+
+        </div>
+  
+       
+     
+      
+
+
+
         <div class="content">
           {{.Content }}
         </div>
+
+     
+
   </div>
 </section>
 
-
-</section>
-{{ with .Site.GetPage "section" "instagram" }}
-{{ range .Pages.ByDate.Reverse }}
-{{ if eq .Title $namemember }}
-<section id="section-instagram">
-<h2>Résidence instagram</h2>
-<div id="container-instagram">
-{{ .Content }}
 </div>
-</section>
-{{ end }}
-{{ end }}
-{{ end }}
 
 
 

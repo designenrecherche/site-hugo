@@ -47,6 +47,47 @@
         margin-bottom: calc(var(--baseline)*1);
     }
 
+    h1{
+        @include title();
+        display: inline-block;
+        margin-top: calc(var(--baseline)*1.5);
+        margin-bottom: calc(var(--baseline)*1);
+    }
+
+    h2{
+        margin: 0;
+        margin-top: calc(var(--baseline)*1.5);
+        margin-bottom: calc(var(--baseline)*0.5);
+        font-size: var(--font-size);
+        font-weight: 500;
+
+    }
+
+    h1 + h2{
+        margin-top: calc(var(--baseline)*0.5);
+    }
+
+    h3{
+        margin: 0;
+        margin-top: calc(var(--baseline)*1);
+        margin-bottom: calc(var(--baseline)*0.5);
+        font-size: var(--font-size);
+        font-weight: 400;
+        text-decoration: underline;
+        padding-left: calc(var(--unit)*3);
+        // font-style: italic;
+
+    }
+
+    h4{
+        margin: 0;
+        margin-top: calc(var(--baseline)*1);
+        font-size: var(--font-size);
+        font-weight: 400;
+        padding-left: calc(var(--unit)*3);
+        font-style: italic;
+
+    }
    
 
 }
