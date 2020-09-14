@@ -170,6 +170,11 @@ fields:
     config:
       required: false
     label: Facebook
+  - name: medium
+    type: text
+    config:
+      required: false
+    label: Medium
   - name: hypotheses
     type: text
     config:

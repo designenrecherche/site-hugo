@@ -3,7 +3,7 @@
 
 <h1 class="title-list">Annuaires des membres</h1>
 
-{{ $namemember := .Title }}
+
 
 <div class="container-main" id="container-single-membres">
 
@@ -24,26 +24,26 @@
   
            <h1><a href="{{.Permalink}}">{{.Title }}</a> </h1>
 
+           <div>
+
            <ul class="contact">
-            {{ if .Params.contact.mail }}<li class="mail">{{ .Params.contact.mail }}</li>{{ end }}
-            {{ if .Params.contact.site }}<li class="site">{{ .Params.contact.site }}</li>{{ end }}
-          
+            {{ if .Params.contact.mail }}<li class="mail"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.mail | safeHTML }}</span>{{ .Params.contact.mail }}</li>{{ end }}
+            {{ if .Params.contact.site }}<li class="site"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.site | safeHTML }}</span><a href="{{ $.Site.Data.icons.site | safeHTML }}">{{ .Params.contact.site }}</a></li>{{ end }}
+            {{ if .Params.contact.telephone }}<li class="site"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.phone | safeHTML }}</span>{{ .Params.contact.telephone }}</li>{{ end }}
            </ul>
            <ul class="socials">
-            {{ if .Params.contact.twitter }}<li class="twitter"><a target="_blank" href="{{ .Params.contact.twitter }}"><span class="ti-twitter-alt"></span>Twitter</a></li>{{ end }}
-            {{ if .Params.contact.instagram }}<li><a target="_blank" href="{{ .Params.contact.instagram }}"><span class="ti-instagram"></span>Instagram</a></li>{{ end }}
-            {{ if .Params.contact.facebook }}<li><a target="_blank" href="{{ .Params.contact.facebook }}"><span class="ti-facebook"></span>Facebook</a></li>{{ end }}
-            {{ if .Params.contact.hypotheses }}<li><a target="_blank" href="{{ .Params.contact.hypotheses }}">Hypothèses</a></li>{{ end }}
-            {{ if .Params.contact.github }}<li><a target="_blank" href="{{ .Params.contact.github }}"><span class="ti-github"></span>Github</a></li>{{ end }}
-            {{ if .Params.contact.gitlab }}<li><a target="_blank" href="{{ .Params.contact.gitlab }}"><span class="ti-gitlab"></span>Gitlab</a></li>{{ end }}
+            {{ if .Params.contact.twitter }}<li class="twitter"><a target="_blank" href="{{ .Params.contact.twitter }}"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.twitter | safeHTML }}</span>Twitter</a></li>{{ end }}
+            {{ if .Params.contact.instagram }}<li><a target="_blank" href="{{ .Params.contact.instagram }}"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.instagram | safeHTML }}</span>Instagram</a></li>{{ end }}
+            {{ if .Params.contact.facebook }}<li><a target="_blank" href="{{ .Params.contact.facebook }}"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.facebook | safeHTML }}</span>Facebook</a></li>{{ end }}
+            {{ if .Params.contact.medium }}<li><a target="_blank" href="{{ .Params.contact.medium }}"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.medium | safeHTML }}</span>Medium</a></li>{{ end }}
+            {{ if .Params.contact.hypotheses }}<li><a target="_blank" href="{{ .Params.contact.hypotheses }}"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.hypotheses | safeHTML }}</span>Hypothèses</a></li>{{ end }}
+            {{ if .Params.contact.github }}<li><a target="_blank" href="{{ .Params.contact.github }}"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.github | safeHTML }}</span>Github</a></li>{{ end }}
+            {{ if .Params.contact.gitlab }}<li><a target="_blank" href="{{ .Params.contact.gitlab }}"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.gitlab | safeHTML }}</span>Gitlab</a></li>{{ end }}
+            
            </ul>
+
+          </div>
   
-           {{ if .Params.tags }}
-           <ul class="tags">
-             {{range .Params.tags}}<li>{{ . }}</li> {{end}}
-                <!-- {{range .Params.tags}}<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li> {{end}} -->
-           </ul>
-           {{end}}
 
          
     </header>
@@ -55,6 +55,14 @@
            <p class="title-thesis-fr">{{ if .Params.titretheseEn }}<span class="lang"></span>{{ end }}{{ .Params.titrethese }}</p>
           {{ if .Params.titretheseEn }} <p class="title-thesis-en" lang="en"><span class="lang"></span>{{ .Params.titretheseEn }}</p> {{ end }}
 
+
+          {{ if .Params.tags }}
+          <ul class="tags">
+            {{range .Params.tags}}<li>{{ . }}</li> {{end}}
+               <!-- {{range .Params.tags}}<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li> {{end}} -->
+          </ul>
+          {{end}}
+          
           <ul class="infos">
             {{ if .Params.these_start }}
           <li><span class="these-start">Inscription en thèse en {{ .Params.these_start }}</span>

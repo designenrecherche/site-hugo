@@ -4,10 +4,7 @@
     margin-left: calc(var(--unit)*4.5);
     margin-bottom: calc(var(--baseline)*2);
     a, a:visited { color: var(--color-1); }
-    a span {
-        display: inline-block;
-        width: 20px;
-    }
+    a:hover{ text-decoration: underline; }
     ul{
         margin-bottom: calc(var(--baseline)*1);
     }

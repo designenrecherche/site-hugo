@@ -57,7 +57,7 @@ My work aims at developping guidelines for reflective practioners of design, in 
 
 **Date** – lieu
 
-Pour en savoir plus: [lien vers article de design en recherche]()
+Pour en savoir plus: [lien vers article de design en recherche](https://designenrecherche.org/)
 
 ## Composition du jury
 

@@ -42,17 +42,44 @@
             @include surligne();
         }
 
-        .tags{
-            margin-top: calc(var(--baseline)*0.5);
-            li{
-                @include tags(inline-block);
-            }
-
-        }
+       
 
         .contact, .socials{
-            display: none;
+           font-size: var(--font-size-small);
+           display: inline-block;
+           vertical-align: top;
+           a:hover{ text-decoration: underline ;}
         }
+
+       .contact{
+           min-width: 30ch;
+           .icon-svg{
+               position: relative;
+               top: 2px;
+           }
+       }
+
+     
+
+        
+    }
+
+    .tags{
+        margin-top: calc(var(--baseline)*1);
+        li{
+            @include tags(inline-block);
+        }
+        @media screen and (min-width: 1400px){
+            margin-top: 0;
+            position: absolute;
+            top: 0;
+            width: 230px;
+            right: calc(-230px + var(--unit)*-4)
+        }
+        @media screen and (min-width: 1560px){
+            @include tags-block();
+        }
+
     }
 
     .these-infos{
@@ -119,16 +146,19 @@
                 }
             }
 
-            a{ @include links(); }
+            a{ 
+                @include links();
+                
+             }
 
             .links-these {
-                // display: none;
                 margin-top: calc(var(--baseline)*1.5);
                 margin-bottom: calc(var(--baseline)*0.5);
                 li{
                     @include trait-double-small();
                     display: inline-block;
                     margin-right: calc(var(--unit)*2);
+                    text-decoration: none!important;
                 }
             }
     }

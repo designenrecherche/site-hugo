@@ -30,25 +30,22 @@
 
       
 
-        .tags{
+        .tags{     
             li{
-                display: inline;
-                white-space: nowrap;
-                padding-right: calc(var(--unit)*1);
-                &:before{ content: "# " }
-                a{ @include links(); }
-                
+                @include tags(inline-block);                
             }
-            @media screen and (min-width:1300px){
+            @include tags-block();
+            @media screen and (min-width: 1400px){
+                margin-top: calc(var(--baseline)*6);
                 position: absolute;
-                right: -250px;
-                top: calc(var(--baseline)*3 + 2px);
-                width: calc(250px - var(--unit)*5);
-                li{ display: block }
+                top: 0;
+                width: 230px;
+                right: calc(-230px + var(--unit)*-4)
             }
-            @media screen and (min-width:1600px){
-                width: calc(250px - var(--unit)*10);
+            @media screen and (min-width: 1560px){
+                @include tags-block();
             }
+         
         }
 
         .summary{
