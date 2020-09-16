@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<h1 class="title-list">Nous contacter / Adhérer</h1>
+
+<div class="container-main">
+
+  <section id="contact-content">
+    <div class="container content">
+
+      <h1>Contact </h1>
+<p>Pour nous contacter, écrivez-nous un mail: <a href="mailto:{{ .Site.Params.mail | safeHTML }}">{{ .Site.Params.mail | safeHTML }}</a></p>
+
+
+<p>Retrouvez-nous sur les réseaux sociaux:</p>
+
+<ul class="socials">
+  {{ range .Site.Params.social }}
+  <li><span class="icon-svg" aria-hidden="true">{{ .icon | safeHTML }}</span><a target="_blank" href="{{.URL | safeURL }}">{{.title }}</a></li>
+  {{ end }}
+</ul>
+
+      {{ .Content }}
+    </div>
+  </section>
+
+
+
+
+{{ end }}

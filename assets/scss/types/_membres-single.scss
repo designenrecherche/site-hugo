@@ -83,7 +83,7 @@
     }
 
     .these-infos{
-        padding: 0 calc(var(--unit)*3);
+            padding: 0 calc(var(--unit)*3);
             margin-top: calc(var(--baseline)*2);
             margin-bottom: calc(var(--baseline)*3);
             border-left: 2px dotted var(--current-color);

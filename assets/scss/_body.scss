@@ -156,7 +156,10 @@ select:focus {
 @mixin links(){
   color: var(--current-color);
   border-bottom: 1px dotted var(--current-color);
-  &:hover{ border-bottom: 1px solid var(--current-color); }
+  &:hover{ 
+    border-bottom: 1px solid var(--current-color); 
+  }
+    
 }
 
 @mixin borderDotted($deg){
@@ -203,4 +206,19 @@ select:focus {
   width: 100%;
   filter: grayscale(100%);
   mix-blend-mode: screen;
+}
+
+
+.socials{
+  li{
+    display: inline-block;
+    margin-right: calc(var(--unit)*3);
+    &::before{ display: none!important; }
+  }
+  a{ 
+    color: currentColor; 
+    @include links()
+  }
+
+  
 }

@@ -26,17 +26,15 @@
       <p>{{.content | markdownify}}</p>
       {{ end }}
 
-      <div class="social">
-        Nous sommes actifs sur
+      <p>Retrouvez-nous sur les réseaux sociaux&nbsp;: </p>
         
-        <ul>
+        <ul class="socials">
           {{ range .Site.Params.social }}
-          <li><a target="_blank" href="{{.URL | safeURL }}">{{.title }}</a></li>
+          <li><span class="icon-svg" aria-hidden="true">{{ .icon | safeHTML }}</span><a target="_blank" href="{{.URL | safeURL }}">{{.title }}</a></li>
           {{ end }}
         </ul>
         
 
-      </div>
       
       {{ end }}
 

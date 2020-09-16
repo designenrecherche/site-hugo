@@ -5,6 +5,10 @@
         @include links();
     }
 
+    p{
+        margin-bottom: var(--baseline);
+    }
+
     strong{
         font-weight: normal;
         background-color: var(--background-color);

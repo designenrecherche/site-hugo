@@ -14,7 +14,7 @@ body{
 
 #about, #page-about, #footer {
     --current-color: var(--color-1);
-    --background-color: var(--color-2);
+    --background-color: #d0dafb;
     color: var(--current-color);
 }
 
@@ -39,5 +39,12 @@ body{
 #page-breves{ 
     --current-color: var(--color-8);
     --background-color:rgba(146, 113, 251, 0.15);
+    color: var(--current-color);
+}
+
+
+#page-contact-adhesion{
+    --current-color: var(--color-1);
+    --background-color: #d0dafb;
     color: var(--current-color);
 }

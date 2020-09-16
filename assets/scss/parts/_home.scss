@@ -39,21 +39,11 @@
             transform: rotate(3deg);
             
         }
+        p{ margin-bottom: var(--baseline)}
 
         
-        .social{
-            margin-top: calc(var(--baseline)*1);
-            p, ul, ul li { display: inline-block; }
-
-            a{ color: currentColor; }
-
-            ul li{
-                padding-left: calc(var(--unit)*2);
-                @include trait(2px);  
-                &:hover::before{ transform: rotate(4deg); }    
-                &:hover{ text-decoration: underline ;}                         
-            }
-            
+        .socials{
+            margin-top: calc(var(--baseline)*-0.5);
         }
     }
 
