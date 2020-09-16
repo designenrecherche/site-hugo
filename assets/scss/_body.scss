@@ -63,37 +63,7 @@ select:focus {
   }
 }
 
-@mixin title(){
-  font-weight: 500;
-  font-size: var(--font-size);
-  line-height: calc(var(--baseline)*1);                
-  margin-bottom: calc(var(--baseline)*1); 
-  &::after{
-    content: "";
-    display: block;
-    position: relative;
-    width: calc(100% + 6px);
-    height: 2px;
-    left: -3px;
-    background-color: currentColor;
-    transform: rotate(-1.5deg);
-  }
-}
 
-@mixin title-big(){
-  display: inline-block;
-  @include title();
-  font-size: calc(var(--font-size)*1.8);
-  line-height: calc(var(--baseline)*1.5);
-  font-weight: 500;
-  margin: 0;
-  
-  
-  &:after{
-      height: 2.5px;
-      top: 5px;
-  }
-}
 
 
 @mixin trait($size){
@@ -109,34 +79,9 @@ select:focus {
   }
 }
 
-@mixin trait-double-small(){
-  &::before{
-    content: "";
-    display: inline-block;
-    border-bottom: 1px solid currentColor;
-    width: 12px;
-    margin-right: 8px;
-    transform: rotate(-4deg);
-    position: relative;
-    top: -6px;
-  }
-  &::after{
-      content: "";
-      display: inline-block;
-      border-bottom: 1px solid currentColor;
-      width: 8px;
-      transform: rotate(3deg);
-      position: absolute;
-      left: 2px;
-      top: 16px
-  }
-  &:hover{
-    text-decoration: underline ;
-    &::before { transform: rotate(3deg); }
-    &::after { transform: rotate(-4deg); }
-  }
-  
-}
+
+
+
 
 @mixin surligne(){
   &:after{
@@ -153,14 +98,7 @@ select:focus {
 }
 }
 
-@mixin links(){
-  color: var(--current-color);
-  border-bottom: 1px dotted var(--current-color);
-  &:hover{ 
-    border-bottom: 1px solid var(--current-color); 
-  }
-    
-}
+
 
 @mixin borderDotted($deg){
   content: "";
@@ -171,36 +109,10 @@ select:focus {
   transform: rotate($deg);
 }
 
-.more{
-  display: block;
-  color: currentColor;
-  margin-top: calc(var(--baseline)*0.5);
-  font-size: var(--font-size-small);
-  @include trait-double-small();
-  &:hover{ color: currentColor; }
-}
 
-@mixin tags($display){
-  display: $display;
-  font-size: var(--font-size-small);
-  white-space: nowrap;
-  margin-right: calc(var(--unit)*0.5);
-  border: 1px dotted var(--current-color);
-  border-radius: 4px;
-  padding: 1px 10px;
-  margin-bottom: calc(var(--baseline)*0.25);
-  &:before{ content: "# " }
-  a{ @include links(); }
-}
 
-@mixin tags-block(){
-  @media screen and (min-width: 1400px){
-    width: 300px;
-    position: absolute;
-    top: 0;
-    right: calc((300px + var(--unit)*8)*-1);
-  }
-}
+
+
 
 @mixin img-filtre(){
   width: 100%;
@@ -209,16 +121,3 @@ select:focus {
 }
 
 
-.socials{
-  li{
-    display: inline-block;
-    margin-right: calc(var(--unit)*3);
-    &::before{ display: none!important; }
-  }
-  a{ 
-    color: currentColor; 
-    @include links()
-  }
-
-  
-}

@@ -1,0 +1,11 @@
+.socials{
+    li{
+      display: inline-block;
+      margin-right: calc(var(--unit)*3);
+      &::before{ display: none!important; }
+    }
+    a{ 
+      color: currentColor; 
+      @include links()
+    }
+  }

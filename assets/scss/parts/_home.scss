@@ -10,35 +10,52 @@
     #about{
         width: 100%;
         max-width: var(--width-block-home);
-        margin: calc(var(--baseline)*2) calc(var(--baseline)*2) calc(var(--baseline)*6) calc(var(--baseline)*2);
-        float: right; 
+        // margin: 0 auto;
+        margin-bottom: calc(var(--baseline)*2);
+        // margin: calc(var(--baseline)*2) calc(var(--baseline)*2) calc(var(--baseline)*6) calc(var(--baseline)*2);
+        // float: right; 
         z-index: 90;
         @media screen and (min-width: 1500px){
             float: left;
             margin-left: calc(var(--width-block-home)*0.5 + 45px);
         }
 
+        padding: 0 calc(var(--unit)*3);
+            margin-top: calc(var(--baseline)*2);
+            margin-bottom: calc(var(--baseline)*3);
+            border-left: 2px dotted var(--current-color);
+            border-right: 2px dotted var(--current-color);
+            &:before{
+                @include borderDotted(-1deg);
+                top: calc(var(--baseline) * -1);
+                
+            }
+            &:after{
+                @include borderDotted(1deg);
+                top: var(--baseline);
+            }
+
         .container-about{
             padding-top: calc(var(--baseline)*1.5);
             padding-bottom: calc(var(--baseline)*1.5);
         }
-        &::before{
-            content: "";
-            display: block;
-            width: 80%;
-            float: right;
-            border-top: 2px solid var(--current-color);
-            transform: rotate(2deg);
+        // &::before{
+        //     content: "";
+        //     display: block;
+        //     width: 80%;
+        //     float: right;
+        //     border-top: 2px solid var(--current-color);
+        //     transform: rotate(2deg);
             
-        }
-        &::after{
-            content: "";
-            display: block;
-            width: 40%;
-            border-top: 2px solid var(--current-color);
-            transform: rotate(3deg);
+        // }
+        // &::after{
+        //     content: "";
+        //     display: block;
+        //     width: 40%;
+        //     border-top: 2px solid var(--current-color);
+        //     transform: rotate(3deg);
             
-        }
+        // }
         p{ margin-bottom: var(--baseline)}
 
         
@@ -54,6 +71,7 @@
     }
 
     #breves{
+        max-width: 1100px;
         --color-breves: var(--color-8);
         color: var(--color-breves);
         width: 100%;

@@ -48,6 +48,7 @@
            font-size: var(--font-size-small);
            display: inline-block;
            vertical-align: top;
+           li{ display: block; }
            a:hover{ text-decoration: underline ;}
         }
 
@@ -66,19 +67,7 @@
 
     .tags{
         margin-top: calc(var(--baseline)*1);
-        li{
-            @include tags(inline-block);
-        }
-        @media screen and (min-width: 1400px){
-            margin-top: 0;
-            position: absolute;
-            top: 0;
-            width: 230px;
-            right: calc(-230px + var(--unit)*-4)
-        }
-        @media screen and (min-width: 1560px){
-            @include tags-block();
-        }
+       @include tags-block-content();
 
     }
 
@@ -112,7 +101,7 @@
 
            .title-thesis-en{
                font-style: italic;
-               margin-top: calc(var(--baseline)*-0.5);
+               margin-top: calc(var(--baseline)*0.5);
                 .lang::before{ 
                     content: "en";
                     font-style: normal;

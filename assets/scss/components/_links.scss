@@ -1,0 +1,49 @@
+
+@mixin trait-double-small(){
+    &::before{
+      content: "";
+      display: inline-block;
+      border-bottom: 1px solid currentColor;
+      width: 12px;
+      margin-right: 8px;
+      transform: rotate(-4deg);
+      position: relative;
+      top: -6px;
+    }
+    &::after{
+        content: "";
+        display: inline-block;
+        border-bottom: 1px solid currentColor;
+        width: 8px;
+        transform: rotate(3deg);
+        position: absolute;
+        left: 2px;
+        top: 16px
+    }
+    &:hover{
+      text-decoration: underline ;
+      &::before { transform: rotate(3deg); }
+      &::after { transform: rotate(-4deg); }
+    }
+    
+  }
+  
+  
+  @mixin links(){
+    color: var(--current-color);
+    border-bottom: 1px dotted var(--current-color);
+    &:hover{ 
+      border-bottom: 1px solid var(--current-color); 
+    }
+      
+  }
+  
+  
+  .more{
+    display: block;
+    color: currentColor;
+    margin-top: calc(var(--baseline)*0.5);
+    font-size: var(--font-size-small);
+    @include trait-double-small();
+    &:hover{ color: currentColor; }
+  }

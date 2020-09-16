@@ -30,13 +30,10 @@ main {
     font-size: var(--font-size);
     font-weight: 500;
     position: absolute;
-    top: 0px;
-    left: 16vw;
-    @media screen and (min-width: 1160px){ left: 12vw; }
-    @media screen and (min-width: 1380px){ left: 8vw; }
-    @media screen and (min-width: 1530px){ left: 6vw; }
-    @media screen and (min-width: 1740px){ left: 1.6vw; }
-    @media screen and (min-width: 1960px){ left: 10px; }
+    top: -2px;
+    @media screen and (min-width: 800px){ left: 130px; }
+    @media screen and (min-width: 1230px){ left: 20px; }
+    @media screen and (min-width: 1680px){ left: 12px; }
     margin: 0;
     padding: 0;
     a{ color: var(--current-color);}
@@ -45,30 +42,5 @@ main {
     
     @include trait(2px); 
     
-
-
-    // text-align: right;
-    // &::after{
-    //     content: "";
-    //     display: inline-block;
-    //     width: calc(100% + 20px);
-    //     height: calc(var(--baseline)*1);
-    //     background-color: var(--current-color);
-    //     position: relative;
-    //     left: -10px;
-    //     top: calc(-1*var(--baseline));
-    //     z-index: -1;
-    //     opacity: 0.2;
-    // }
-
-    // &::after{
-    //     content: "";
-    //     display: inline-block;
-    //     width: 100%;
-    //     border-bottom: 2px solid var(--current-color);
-    //     opacity: 0.3;
-    //     transform: rotate(-2deg);
-    //     padding-top: calc(var(--baseline)*3);
-    // }
 
 }

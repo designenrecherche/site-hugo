@@ -64,11 +64,8 @@
 
     .tags{
         margin-top: calc(var(--baseline)*0.5);
-        li{
-            @include tags(inline-block);
-            
-        }
-        @include tags-block();
+        @include tags-block-list();
+     
     }
 
 

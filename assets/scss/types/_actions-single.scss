@@ -31,20 +31,15 @@
       
 
         .tags{     
-            li{
-                @include tags(inline-block);                
-            }
-            @include tags-block();
+            @include tags-block-content();   
             @media screen and (min-width: 1400px){
-                margin-top: calc(var(--baseline)*6);
-                position: absolute;
-                top: 0;
-                width: 230px;
-                right: calc(-230px + var(--unit)*-4)
+                margin-top: calc(var(--baseline)*5);
+                // position: absolute;
+                // top: 0;
+                // width: 230px;
+                // right: calc(-230px + var(--unit)*-4)
             }
-            @media screen and (min-width: 1560px){
-                @include tags-block();
-            }
+         
          
         }
 

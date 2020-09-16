@@ -65,12 +65,7 @@
             }
 
             .tags{
-                li{
-                    @include tags(inline-block);
-                }
-                @include tags-block();
-                
-               
+                @include tags-block-list();   
             }
 
         }

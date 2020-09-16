@@ -1,3 +1,37 @@
+@mixin title(){
+    font-weight: 500;
+    font-size: var(--font-size);
+    line-height: calc(var(--baseline)*1);                
+    margin-bottom: calc(var(--baseline)*1); 
+    &::after{
+      content: "";
+      display: block;
+      position: relative;
+      width: calc(100% + 6px);
+      height: 2px;
+      left: -3px;
+      background-color: currentColor;
+      transform: rotate(-1.5deg);
+    }
+  }
+  
+  @mixin title-big(){
+    display: inline-block;
+    @include title();
+    font-size: calc(var(--font-size)*1.8);
+    line-height: calc(var(--baseline)*1.5);
+    font-weight: 500;
+    margin: 0;
+    
+    
+    &:after{
+        height: 2.5px;
+        top: 5px;
+    }
+  }
+
+
+
 .content{
  
 

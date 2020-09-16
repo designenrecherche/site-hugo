@@ -3,15 +3,21 @@
 
 // @import "theme.scss";
 @import "reset.scss";
-@import "body.scss";
 @import "parts/colors.scss";
 
+@import "components/tags";
+@import "components/links";
+@import "body.scss";
+@import "components/content";
+@import "components/socials";
 
 /* All site */
 @import "parts/header";
 @import "parts/main";
 @import "parts/footer";
-@import "parts/content";
+
+
+
 
 /* home */
 @import "parts/home";

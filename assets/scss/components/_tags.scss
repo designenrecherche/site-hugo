@@ -1,0 +1,61 @@
+@mixin tags(){
+    display: inline-block;
+    font-size: var(--font-size-small);
+    white-space: nowrap;
+    margin-right: calc(var(--unit)*0.5);
+    border: 1px dotted var(--current-color);
+    border-radius: 4px;
+    padding: 1px 10px;
+    margin-bottom: calc(var(--baseline)*0.25);
+    &:before{ content: "# " }
+    a{ @include links(); }
+  }
+  
+  
+  
+  @mixin tags-block-list(){
+    li{ @include tags(); }
+    @media screen and (min-width: 1400px){
+      width: 260px;
+      position: absolute;
+      top: 0;
+      right: calc((260px + var(--unit)*5)*-1);
+    }
+    @media screen and (min-width: 1500px){
+      width: 310px;
+      right: calc((310px + var(--unit)*8)*-1);
+    }
+    @media screen and (min-width: 1560px){
+      width: 380px;
+      right: calc((380px + var(--unit)*8)*-1);
+    }
+  }
+  
+  @mixin tags-block-content(){
+    li{ @include tags(); }
+    @media screen and (min-width: 1400px){
+      width: 180px;
+      position: absolute;
+      top: 0;
+      right: calc((180px + var(--unit)*3)*-1);
+    }
+    @media screen and (min-width: 1480px){
+      
+      width: 230px;
+      position: absolute;
+      top: 0;
+      right: calc((230px + var(--unit)*5)*-1);
+    }
+    @media screen and (min-width: 1580px){
+      width: 260px;
+      right: calc((260px + var(--unit)*8)*-1);
+    }
+    @media screen and (min-width: 1760px){
+      width: 320px;
+      right: calc((320px + var(--unit)*8)*-1);
+    }
+    @media screen and (min-width: 1820px){
+      width: 380px;
+      right: calc((380px + var(--unit)*8)*-1);
+    }
+  }

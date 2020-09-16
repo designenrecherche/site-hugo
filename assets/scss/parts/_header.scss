@@ -1,11 +1,15 @@
 body{
     @media screen and (min-width: 800px){
-        --width-header: 270px;
+        --width-header: 290px;
     }
     @media screen and (min-width: 1230px){
-        --width-header: 22vw;
+        --width-header: 400px;
+    }
+    @media screen and (min-width: 1680px){
+        --width-header: 500px;
     }
 }
+
 
 
 header#header{
