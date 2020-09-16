@@ -26,7 +26,7 @@ main {
 
 
 .title-list{
-
+    z-index: 9999;
     font-size: var(--font-size);
     font-weight: 500;
     position: absolute;
@@ -39,7 +39,7 @@ main {
     @media screen and (min-width: 1960px){ left: 10px; }
     margin: 0;
     padding: 0;
-    
+    a{ color: var(--current-color);}
     color: var(--current-color);
 
     

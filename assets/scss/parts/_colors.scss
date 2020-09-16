@@ -23,7 +23,7 @@ body{
     color: var(--current-color);
 }
 
-#page-actions{ 
+#page-actions, #actions{ 
     --current-color: var(--color-3);
     --background-color: rgba(33, 180, 161, 0.2);
     color: var(--current-color); 
