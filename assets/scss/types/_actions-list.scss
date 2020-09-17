@@ -74,6 +74,7 @@
 
         .highlights-actions article{
 
+            @include for-size(desktop){
                 display: inline-block;
                 vertical-align: top;
                 width: 46%;
@@ -82,12 +83,21 @@
                     position: relative;
                     left: 10px;
                 }
+            }
+
+            @include for-size(phone){
+                margin-top: calc(var(--baseline)*2.5);
+                margin-bottom: calc(var(--baseline)*2.5);
+            }
+                
 
                 svg {
                     display: inline-block;
                     width: 60px;
                     fill: var(--color-3);
+                    @include for-size(desktop){
                     margin-bottom: calc(var(--baseline)*1);
+                    }
                 }
 
                 h1{
@@ -96,10 +106,15 @@
                     vertical-align: top;
                 }
 
-                .date, .lieu, .instagram{
+                .date, .lieu{
                     display: block;
                     font-weight: 500;
                     &:before{ display: none; }
+                }
+
+                .instagram{
+                    text-transform: capitalize;
+                    @include trait(1px);
                 }
                 .date{
                     margin-bottom: 0;

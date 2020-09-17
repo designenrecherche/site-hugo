@@ -17,9 +17,9 @@ main {
     @include for-size(desktop){
         margin-left: var(--width-header);
         margin-top: calc(var(--baseline)*3);
-        .container-main { 
-            padding-top: calc(var(--baseline)*4);
+        .container-main {       
             padding: var(--unit);
+            padding-top: calc(var(--baseline)*4);
         }
     }
    

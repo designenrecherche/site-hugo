@@ -12,60 +12,80 @@
         @media screen and (max-height: 780px){ margin-bottom: calc(var(--baseline)*4); }
     }
 
+    .section-title{
+        display: inline-block;
+        font-size: calc(var(--font-size)*0.8);
+        text-transform: uppercase;
+        letter-spacing: 0.3px;
+        font-weight: 500;
+        margin-bottom: calc(var(--baseline) * 1.5);
+        a{ 
+            color: currentColor; 
+            &:after{
+                @include borderDotted(1deg);
+            }
+            &:hover:after{ transform: rotate(-1deg);}
+        }
+         
+    }
+
+    button{
+        display: block;
+        background: none;
+        border: 1px dotted var(--current-color);
+        border-radius: 4px;
+        font-size: var(--font-size-small);
+        @include for-size(phone){
+            margin: 0 auto;
+        }
+        margin-top: calc(var(--baseline)*1);
+       
+       
+        a{ 
+            display: block;
+            color: var(--current-color);
+            padding: 6px 10px;
+            // @include trait-double-small();
+       
+        }
+        &:hover{ background: var(--background-color)}
+    }
+
     #about{
         
         width: 100%;
         max-width: var(--width-block-home);
         @include for-size(desktop){
             z-index: 90;
-            padding: 0 calc(var(--unit)*3);
-            border-left: 2px dotted var(--current-color);
-            border-right: 2px dotted var(--current-color);
-            &:before{
-                @include borderDotted(-1deg);
-                top: calc(var(--baseline) * -1);
-                
-            }
-            &:after{
-                @include borderDotted(1deg);
-                top: var(--baseline);
-            }
-
-            .container-about{
-                padding-top: calc(var(--baseline)*1.5);
-                padding-bottom: calc(var(--baseline)*1.5);
-            }
-            margin-top: calc(var(--baseline)*2);
+            padding-top: calc(var(--baseline)*0.25);
+            margin-top: calc(var(--baseline)*2.5);
             margin-bottom: calc(var(--baseline)*6);
         }
-
-    @media screen and (max-height: 780px){ 
+    
+    @media screen and (max-height: 760px){ 
+        margin-bottom: calc(var(--baseline)*2.5); 
+    }
+    @media screen and (min-height: 760px) and (max-height: 820px){ 
         margin-bottom: calc(var(--baseline)*4); 
     }
+    
             
-        // &::before{
-        //     content: "";
-        //     display: block;
-        //     width: 80%;
-        //     float: right;
-        //     border-top: 2px solid var(--current-color);
-        //     transform: rotate(2deg);
-            
-        // }
-        // &::after{
-        //     content: "";
-        //     display: block;
-        //     width: 40%;
-        //     border-top: 2px solid var(--current-color);
-        //     transform: rotate(3deg);
-            
-        // }
+  
+
         p{ margin-bottom: var(--baseline)}
 
-        
         .socials{
             margin-top: calc(var(--baseline)*-0.5);
+            @include for-size(phone){
+                li{ 
+                    display: block;
+                    text-align: center;
+                    padding-bottom: calc(var(--baseline)*0.5);
+                }
+            }
         }
+
+        button{ margin-top: calc(var(--baseline)*2); }
     }
 
     #actions {
@@ -81,44 +101,6 @@
         width: 100%;
         margin-bottom: 0!important;
         .container { margin-left: 0; }
- 
-
-        .section-title {
-            display: inline-block;
-            font-weight: 500;
-            font-size: var(--font-size);
-            text-transform: uppercase;
-            letter-spacing: 0.3px;
-            margin-bottom: calc(var(--baseline)*2);
-           
-            a { 
-                color: currentColor;
-                &::after{
-                    content: "";
-                    display: block;
-                    position: relative;
-                    width: calc(100% + 6px);
-                    height: 2px;
-                    left: -3px;
-                    background-color: currentColor;
-                    transform: rotate(-1.5deg);
-                }
-                &:hover{ 
-                    color: currentColor;
-                    &::after { transform: rotate(0); }
-                }
-            }
-        }
-    
-        .link-archive{
-            font-size: var(--font-size-small);
-            position: absolute;
-            top: 0;
-            right: calc(var(--baseline)*2);
-            color: currentColor;
-            @include trait-double-small();
-        }
-
     
     }
 

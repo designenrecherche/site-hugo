@@ -16,15 +16,18 @@
 
 
 
-
+{{ if .Site.Data.homepage.about.enable }}
   <section id="about" class="section-home">
     <div class="container-about">
-      {{ if .Site.Data.homepage.about.enable }}
+      
+
+      <h1 class="section-title"><a href="{{ .Site.Data.homepage.about.URL }}">{{ .Site.Data.homepage.about.title }}</a></h1>
 
       {{ with .Site.Data.homepage.about }}
       <p>{{.content | markdownify}}</p>
       {{ end }}
 
+      {{ if .Site.Data.homepage.about.socials.enable }}
       <p>Retrouvez-nous sur les réseaux sociaux&nbsp;: </p>
         
         <ul class="socials">
@@ -32,15 +35,14 @@
           <li><span class="icon-svg" aria-hidden="true">{{ .icon | safeHTML }}</span><a target="_blank" href="{{.URL | safeURL }}">{{.title }}</a></li>
           {{ end }}
         </ul>
+        {{ end }}
+
+        <button><a href="{{ .Site.Data.homepage.about.URL }}">{{ .Site.Data.homepage.about.button }}</a></button>
         
-
-      
-      {{ end }}
-
-
-
+        </div>
 
   </section>
+  {{ end }}
 
 
 
@@ -64,6 +66,9 @@
     <section id="actions" class="section-home">
       <div class="container">
 
+        <h1 class="section-title"><a href="{{ .Site.Data.homepage.actions.URL }}">{{ .Site.Data.homepage.actions.title }}</a></h1>
+
+      
         <div class="highlights-actions">
           
           {{ if .Site.Data.homepage.beer.enable }}
@@ -71,10 +76,9 @@
           <article>
             <span aria-hidden="true">{{ partial "icons/beer.html" . | safeHTML}}</span>
             <h1>{{ .title }}</h1>
-            <p class="date">{{ .date }}</p>
+            <p class="date">{{  .date }}</p>
             <p class="lieu">{{ .lieu }}</p>
-            <p class="summary">{{.Summary}}</p>
-            {{ if .Params.descriptiontemp }}<p class="summary">{{ .Params.descriptiontemp }}</p>{{ end }}
+            <p class="summary">{{.summary}}</p>
           </article>
           {{ end }}
           {{ end }}
@@ -84,8 +88,8 @@
           <article>
             <span aria-hidden="true">{{ partial "icons/insta-coeur.html" . | safeHTML}}</span>
             <h1>{{ .title }}</h1>
-            <p class="instagram">{{ .membre }} </p>
             <p class="summary">{{ .summary }}</p>  
+            <p class="instagram">{{ .mois }}&#8239;: {{ .membre }} </p>
             <a class="more" target="_blank" href="{{ .link }}">Toutes les résidences Instagram</a>
           </article>
           {{ end }}
@@ -100,6 +104,8 @@
           {{ end }}
           {{ end }}
         </div>
+
+        <button><a href="{{ .Site.Data.homepage.actions.URL }}">{{ .Site.Data.homepage.actions.button }}</a></button>
       </div>
     </section>
     <!-- Actions -->
@@ -117,7 +123,7 @@
       <div class="container">
 
           <h1 class="section-title"><a href="/{{.Site.Data.homepage.breves.URL }}">{{.Site.Data.homepage.breves.title | markdownify }}</a></h1>
-          <a class="link-archive" aria-label="Voir les archives des brèves" href="/{{.Site.Data.homepage.breves.URL }}">Archives</a>
+          <!-- <a class="link-archive" aria-label="Voir les archives des brèves" href="/{{.Site.Data.homepage.breves.URL }}">Archives</a> -->
           
           <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": ".grid-sizer", "percentPosition": true }'>
             <div class="grid-sizer"></div>
@@ -127,6 +133,8 @@
             {{ end }}
             {{ end }}
           </div>
+
+          <button><a href="{{ .Site.Data.homepage.breves.URL }}">{{ .Site.Data.homepage.breves.button }}</a></button>
       </div>
     </section>
     <!-- /breves -->

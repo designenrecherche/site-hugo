@@ -10,8 +10,8 @@ banner:
 beer:
   enable : true
   title: "Bière des doctorant·e·s"
-  summary: "On vous attends pour partager un verre, manger des cachuètes et discuter de nos recherches."
-  date: 2020-06-26T18:00:00Z
+  summary: "Pour tout ceux qui veulent boire des coups et discuter de leurs joies et peines de doctorant·es."
+  date: "8 septembre 2020, 19h30"
   lieu: "Le grand Breguet, Paris (11e)"
 
 # Highlight 2: Résidences instagram
@@ -27,21 +27,19 @@ instagramresidence:
 # about
 about:
   enable : true
+  title : "L'association"
+  URL : "À propos"
   content : "Le groupe de travail «&#8239;Design en recherche&#8239;», formé en mars&nbsp;2013, est&nbsp;un&nbsp;réseau de doctorant·e·s et&nbsp;jeunes docteur·e·s dont les&nbsp;recherches portent sur les&nbsp;thématiques émergentes d’étude et&nbsp;de&nbsp;pratique du&nbsp;design. Constituée en&nbsp;association (loi&nbsp;1901) depuis décembre&nbsp;2013, nous&nbsp;sommes persuadé·e·s de&nbsp;l’intérêt scientifique des espaces de collaboration entre les jeunes chercheur·se·s issu·e·s d’horizons disciplinaires, institutionnels et géographiques divers, mais travaillant sur des thèmes communs."
-  buttonMore:
-    enable : true
-    label : "En savoir plus"
-    URL : "about"
-  buttonAnnuaire:
-    enable : true
-    label : "Annuaire des membres"
-    URL : "membres"
+  socials:
+    enable: true
+  button: "En savoir plus"
 
 # Évènements de l'association
 actions:
   enable : true
-  title : "Actions de l'Association"
+  title : "Nos actions"
   URL : "actions"
+  button: "Toutes nos actions"
   # blog post comes from "content/actions" folder
 
 
@@ -51,6 +49,7 @@ breves:
   enable : true
   title : "Brèves"
   URL : "breves"
+  button: "Toutes les brèves"
   # blog post comes from "content/breves" folder
 
 # Twitter
