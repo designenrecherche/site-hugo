@@ -27,7 +27,7 @@ instagramresidence:
 # about
 about:
   enable : true
-  content : "Le groupe de travail « Design en recherche », formé en mars&nbsp;2013, est&nbsp;un&nbsp;réseau de doctorant·e·s et&nbsp;jeunes docteur·e·s dont les&nbsp;recherches portent sur les&nbsp;thématiques émergentes d’étude et&nbsp;de&nbsp;pratique du&nbsp;design. Constituée en&nbsp;association (loi&nbsp;1901) depuis décembre&nbsp;2013, nous&nbsp;sommes persuadé·e·s de&nbsp;l’intérêt scientifique des espaces de collaboration entre les jeunes chercheur·se·s issu·e·s d’horizons disciplinaires, institutionnels et géographiques divers, mais travaillant sur des thèmes communs."
+  content : "Le groupe de travail «&#8239;Design en recherche&#8239;», formé en mars&nbsp;2013, est&nbsp;un&nbsp;réseau de doctorant·e·s et&nbsp;jeunes docteur·e·s dont les&nbsp;recherches portent sur les&nbsp;thématiques émergentes d’étude et&nbsp;de&nbsp;pratique du&nbsp;design. Constituée en&nbsp;association (loi&nbsp;1901) depuis décembre&nbsp;2013, nous&nbsp;sommes persuadé·e·s de&nbsp;l’intérêt scientifique des espaces de collaboration entre les jeunes chercheur·se·s issu·e·s d’horizons disciplinaires, institutionnels et géographiques divers, mais travaillant sur des thèmes communs."
   buttonMore:
     enable : true
     label : "En savoir plus"

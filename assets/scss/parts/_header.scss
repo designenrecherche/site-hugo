@@ -98,10 +98,12 @@ header#header{
     @include for-size(phone){
         margin-top: 90px;
         padding: 0 var(--margin-phone);
-
+        display: none;
     }  
    
 }
+
+#page-page #baseline{ display: block;}
 
 #navigation{
   

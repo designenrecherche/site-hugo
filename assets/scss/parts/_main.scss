@@ -6,26 +6,23 @@ body{
 
 
 main {
-
+    min-height: calc(100vh - 230px);
     @include for-size(phone){
         padding-left: var(--margin-phone);
         padding-right: var(--margin-phone);
-        padding-top: calc(var(--baseline)*8);
+        padding-top: calc(var(--baseline)*4);
         max-width: 100vw;
         overflow: hidden;
     }
     @include for-size(desktop){
         margin-left: var(--width-header);
         margin-top: calc(var(--baseline)*3);
+        .container-main { 
+            padding-top: calc(var(--baseline)*4);
+            padding: var(--unit);
+        }
     }
    
-    min-height: calc(100vh - 230px);
-    .container-main { 
-        // margin: 0 auto; 
-        padding: var(--unit);
-        padding-top: calc(var(--baseline)*4);
-      
-    }
 }
 
 
@@ -48,15 +45,10 @@ main {
     color: var(--current-color);
 
     @include for-size(phone){
-        &:before{
-            @include borderDotted(-1deg);
-            top: calc(var(--baseline)*-0.5);
-            
-        }
-        &:after{
-            @include borderDotted(1deg);
-            top: calc(var(--baseline)*0.5);
-        }
+        margin-bottom: calc(var(--baseline)*1.5);
+        text-transform: uppercase;
+        letter-spacing: 0.3px;
+        text-align: center;
     }
     
 
