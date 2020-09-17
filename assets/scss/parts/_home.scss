@@ -2,7 +2,9 @@
 #main-page{
 
     --width-block-home: 63ch;
-    margin-top: calc(var(--baseline)*7);
+    @include for-size(desktop){
+        margin-top: calc(var(--baseline)*7);
+    }
 
 
     .section-home{
@@ -11,13 +13,12 @@
     }
 
     #about{
+        
         width: 100%;
         max-width: var(--width-block-home);
-        z-index: 90;
-        padding: 0 calc(var(--unit)*3);
-            margin-top: calc(var(--baseline)*2);
-            margin-bottom: calc(var(--baseline)*6);
-            @media screen and (max-height: 780px){ margin-bottom: calc(var(--baseline)*4); }
+        @include for-size(desktop){
+            z-index: 90;
+            padding: 0 calc(var(--unit)*3);
             border-left: 2px dotted var(--current-color);
             border-right: 2px dotted var(--current-color);
             &:before{
@@ -30,10 +31,18 @@
                 top: var(--baseline);
             }
 
-        .container-about{
-            padding-top: calc(var(--baseline)*1.5);
-            padding-bottom: calc(var(--baseline)*1.5);
+            .container-about{
+                padding-top: calc(var(--baseline)*1.5);
+                padding-bottom: calc(var(--baseline)*1.5);
+            }
+            margin-top: calc(var(--baseline)*2);
+            margin-bottom: calc(var(--baseline)*6);
         }
+
+    @media screen and (max-height: 780px){ 
+        margin-bottom: calc(var(--baseline)*4); 
+    }
+            
         // &::before{
         //     content: "";
         //     display: block;

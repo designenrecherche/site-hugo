@@ -2,9 +2,10 @@
   <input 	type="checkbox" id="toggle-menu" name="toggle-menu" value="menu-visibility" hidden />
   <label aria-label="open-close-menu" id="label-toggle-menu" for="toggle-menu"></label>
 
-    <div id="header-logo" aria-label="Design en Recherche, le réseau des jeunes chercheurs en design">  
-      <span id="logo-small" aria-hidden="true">{{ partial "logo/DER-logo_small.html" . | safeHTML}}</span>
-      <label for="toggle-menu"><span id="logo" aria-hidden="true">{{ partial "logo/DER-logo_all.html" . | safeHTML}}</span></label>  
+    <div id="header-logo" aria-label="Design en Recherche, le réseau des jeunes chercheurs en design"> 
+      <div id="logo-small" aria-hidden="true">{{ partial "logo/DER-logo_small.html" . | safeHTML}}</div>
+      <div id="logo" aria-hidden="true">{{ partial "logo/DER-logo_all.html" . | safeHTML}}</div>
+      <h1>Design en recherche</h1> 
     </div>
 
 
