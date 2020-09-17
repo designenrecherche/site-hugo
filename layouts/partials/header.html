@@ -1,24 +1,18 @@
 <header id="header" class="header-small">
   <input 	type="checkbox" id="toggle-menu" name="toggle-menu" value="menu-visibility" hidden />
-  <label aria-label="open-close-menu" id="label-toggle-menu" for="toggle-menu"></label>
+  <label aria-label="open-close-menu" id="label-toggle-menu" for="toggle-menu" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+    <span id="logo-small" aria-hidden="true">{{ partial "logo/DER-logo_small.html" . | safeHTML}}</span>
+    <p id="close-menu">&times;</p>
+  </label>
 
-    <div id="header-logo" aria-label="Design en Recherche, le réseau des jeunes chercheurs en design"> 
-      <div id="logo-small" aria-hidden="true">{{ partial "logo/DER-logo_small.html" . | safeHTML}}</div>
+    <div id="header-logo" aria-label="Design en Recherche, le réseau des jeunes chercheurs en design">     
       <div id="logo" aria-hidden="true">{{ partial "logo/DER-logo_all.html" . | safeHTML}}</div>
-      <h1>Design en recherche</h1> 
+      <h1><a href="{{ .Site.BaseURL }}">Design en recherche</a></h1> 
     </div>
 
 
-    <!-- <nav class="navbar">
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
-      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button> -->
-
-  
-
     <div id="navigation">
-      <p id="close-menu">&times;</p>
+    
       <ul>
         <li>
           <a href="{{ .Site.BaseURL }}">{{ with .Site.Params.Home }} {{ . }} {{ end }}</a>

@@ -18,9 +18,8 @@ body{
 
 
 header#header{
-    --color-header: var(--color-1);
     transition: .3s ease;
-    z-index: 9999;
+    z-index: 100;
     @include for-size(desktop){
         position: fixed;
         width: var(--width-header);
@@ -30,10 +29,18 @@ header#header{
         #logo-small, #close-menu, #header-logo h1 { display: none; }
     }
 
+    @include for-size(phone){  
+        
+        position: fixed;
+        top: 0;
+        width: 100vw;
+        background-color: white;
+    }
+
+
 }
 
 #header-logo {  
-    // z-index: 999;
     @include for-size(desktop){
         left: -25px;   
         top: 40px;
@@ -45,23 +52,28 @@ header#header{
             width: 160px;
             display: block;
             fill: var(--color-1);
-
         }
     }   
     
-    @include for-size(phone){     
-        margin-top: var(--margin-phone);
-        margin-left: var(--margin-phone);
-        margin-right: var(--margin-phone);
+    @include for-size(phone){   
+        z-index: 100;  
+        background-color: white;
+        padding-top: 14px;
+        padding-left: var(--margin-phone);
+        padding-right: var(--margin-phone);
+        padding-bottom: 3px;
+        border-bottom: 1px solid var(--color-1);
         #logo { 
             display: none;
         }
 
         h1{ 
-            margin-top: calc(var(--baseline)*1.4);
-            margin-bottom: 0;
+            margin-top: var(--padding-header);
+            margin-bottom: calc(var(--baseline)*0.7);
             font-size: var(--font-size);
             font-weight: 600;
+            letter-spacing: 0.3px;
+            a{ color: currentColor; }
         }
     }  
     
@@ -84,10 +96,9 @@ header#header{
          padding-left: calc(var(--unit)*4.5);
     }  
     @include for-size(phone){
-        margin-top: 10px;
+        margin-top: 90px;
         padding: 0 var(--margin-phone);
-        padding-right: calc(var(--margin-phone) + 80px);
-        // display: none;
+
     }  
    
 }
@@ -102,6 +113,7 @@ header#header{
         top: 0;
         background-color: white;
         padding-top: calc(var(--baseline)*6);
+        z-index: 50;
         ul li{
             font-size: calc(var(--font-size)*0.9);
             text-align: center;
@@ -120,7 +132,6 @@ header#header{
             font-weight: 500;
             letter-spacing: 0.7px;;
             text-transform: uppercase;
-            color: var(--color-header);
             padding-top: calc(var(--baseline)*0.25);
             a{ 
                 color: currentColor;
@@ -149,18 +160,17 @@ header#header{
     }
 
     #navigation{ top: calc(100vh*-1);}
+    #close-menu { display: none; }
     #toggle-menu:checked ~ #navigation { top: 0; }
-    #navigation #close-menu{ top: calc(100vh*-1 + var(--unit)*2.5); }
-    #toggle-menu:checked ~ #navigation #close-menu{ top: calc(var(--unit)*2.5); }
-
-    #toggle-menu:checked ~ #header-logo { z-index: 0; }
+    #toggle-menu:checked ~ #label-toggle-menu #logo-small { display: none; }
+    #toggle-menu:checked ~ #label-toggle-menu #close-menu { display: block; }
     
 
     #logo-small{
         #fond{ 
          fill:white!important; 
          stroke-width:1px!important;
-         stroke:var(--color-1)!important;
+        //  stroke:var(--color-1)!important;
       }    
         .trait{
              stroke:var(--color-1)!important;
@@ -168,28 +178,23 @@ header#header{
         } 
      }
      
-     #label-toggle-menu{ 
-         display: block;
-        //  background-color: red;
-         z-index: 99999;
-         opacity: 0.5;
-        
-     }
-     
-     #logo-small, #label-toggle-menu {
+
+     #label-toggle-menu {
+        z-index: 9999999;
          width: 40px;
          height: 40px;
          position: fixed;
          right: calc(var(--unit)*2.5);
-         top: calc(var(--unit)*2);
+         top: 13px;
+         #close-menu{
+            font-size: 50px;
+            font-weight: 300;
+            left: 8px; 
+            top: 10px;
+         }
      }
 
-     #close-menu{
-        font-size: 40px;
-        position: fixed;
-         right: calc(var(--unit)*3.2);
-         
-     }
+     
      
  
 }
