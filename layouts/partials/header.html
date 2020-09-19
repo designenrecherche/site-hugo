@@ -13,7 +13,7 @@
 
     <div id="navigation">
     
-      <ul>
+      <ul id="list-nav">
         <li>
           <a href="{{ .Site.BaseURL }}">{{ with .Site.Params.Home }} {{ . }} {{ end }}</a>
         </li>
@@ -40,8 +40,14 @@
         {{ end }}
         {{ end }}
       </ul>
+
+      <ul class="socials">
+        {{ range .Site.Params.social }}
+        <li><span class="icon-svg" aria-hidden="true">{{ .icon | safeHTML }}</span><a target="_blank" href="{{.URL | safeURL }}">{{.title }}</a></li>
+        {{ end }}
+      </ul>
     </div>
-  </nav>
+
 
   
 

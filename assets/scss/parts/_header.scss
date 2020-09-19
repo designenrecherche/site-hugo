@@ -116,22 +116,37 @@ header#header{
         height: 100vh;
         top: 0;
         background-color: white;
-        padding-top: calc(var(--baseline)*6);
+        padding-top: calc(var(--baseline)*5);
         z-index: 50;
-        ul li{
+        #list-nav li{
             font-size: calc(var(--font-size)*0.9);
             text-align: center;
             padding-bottom: calc(var(--baseline)*0.5);
         }
-    }
-    @include for-size(desktop){
-        margin-top: 200px;
-        ul li{
-                font-size: calc(var(--font-size)*0.7);
+        .socials{
+            position: absolute;
+            bottom: var(--margin-phone);
+            padding-left: var(--margin-phone);
+           
+            li{
+                display: block;
+                margin-bottom: calc(var(--baseline)*0.25);
+                font-size: var(--font-size-small);
+            }
         }
+    
+    
     }
 
-    ul{
+    @include for-size(desktop){
+        margin-top: 200px;
+        #list-nav li{
+                font-size: calc(var(--font-size)*0.7);
+        }
+        .socials{ display: none; }
+    }
+
+    #list-nav{
         li{
             font-weight: 500;
             letter-spacing: 0.7px;;

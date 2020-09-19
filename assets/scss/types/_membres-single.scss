@@ -11,19 +11,16 @@
             overflow:hidden;
             width: 200px;
             height: 200px;
+            // height: 200px;
             margin: 0;
             background-color: var(--current-color);
-            float: left; 
-            margin-right: calc(var(--unit)*3);
-            // position: absolute;
-            // top: 0;
-            // left: 0;
             border: 1px solid var(--current-color);
             img{ 
                 @include img-filtre();
             }
         }
- 
+
+      
 
         h1{
             @include title-big();
@@ -33,8 +30,6 @@
        
 
         .type-membre{
-            float: right;
-            text-align: right;
             font-weight: 400;
             font-size: var(--font-size-small);
             letter-spacing: 0.2px;
@@ -46,14 +41,14 @@
 
         .contact, .socials{
            font-size: var(--font-size-small);
-           display: inline-block;
-           vertical-align: top;
            li{ display: block; }
-           a:hover{ text-decoration: underline ;}
+           a{ 
+            color: currentColor; 
+            @include links()
+          }
         }
 
        .contact{
-           min-width: 30ch;
            .icon-svg{
                position: relative;
                top: 2px;
@@ -72,11 +67,7 @@
     }
 
     .these-infos{
-            padding: 0 calc(var(--unit)*3);
-            margin-top: calc(var(--baseline)*2);
-            margin-bottom: calc(var(--baseline)*3);
-            border-left: 2px dotted var(--current-color);
-            border-right: 2px dotted var(--current-color);
+           
             &:before{
                 @include borderDotted(-1deg);
                 top: calc(var(--baseline) * -1);
@@ -137,7 +128,6 @@
 
             a{ 
                 @include links();
-                
              }
 
             .links-these {
@@ -151,6 +141,77 @@
                 }
             }
     }
+
+
+    @media screen and (min-width: 540px){
+        header{
+            figure {
+                overflow:hidden;
+                margin: 0;
+                float: left; 
+                margin-right: calc(var(--unit)*3)!important;       
+            }
+
+            .type-membre{
+                position: absolute;
+                right: 0;
+                top: calc(var(--baseline)*-1.5);;
+            }
+            .contact, .socials{
+                display: inline-block;
+                vertical-align: top;
+            }
+            .contact{
+                min-width: 30ch;
+            }
+        }
+
+        .these-infos{
+            padding: 0 calc(var(--unit)*3);
+            margin-top: calc(var(--baseline)*2);
+            margin-bottom: calc(var(--baseline)*3);
+            border-left: 2px dotted var(--current-color);
+            border-right: 2px dotted var(--current-color);
+        }
+    }
+
+    @media screen and (max-width: 540px){
+        header{
+            figure{
+                margin: 0 auto!important;
+            }
+
+            .type-membre{
+    
+                position: absolute;
+                right: 0;
+                top: 230px;
+                float: right;
+            
+            }
+
+            h1{
+                margin-top: calc(var(--baseline)*2.5);
+            
+            }
+        }
+
+        .these-infos{
+            margin-top: calc(var(--baseline)*4);
+            margin-bottom: calc(var(--baseline)*2.5);
+            &:before{
+                top: calc(var(--baseline) * -1.5);
+                
+            }
+
+            .links-these li{
+                display: block;
+                margin-bottom: calc(var(--baseline)*0.25);
+            }
+         
+        }
+    }
+
 
 
    

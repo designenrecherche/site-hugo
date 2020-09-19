@@ -20,14 +20,9 @@
         }
     }
 
-    .hgroup{
-        min-height: 90px;
-        position: relative;
-    }
+    
 
-    h1, h2, .tags{
-        margin-left: 145px;
-    }
+    
     h1{
         @include title();
         display: inline-block;
@@ -50,13 +45,10 @@
     }
 
     .type-membre{
-
-            float: right;
-            text-align: right;
+    
             font-weight: 400;
             font-size: var(--font-size-small);
             letter-spacing: 0.2px;
-            margin-bottom: 0;
             @include surligne();
 
     
@@ -71,30 +63,11 @@
 
    
 
-    .bandeau{
-        padding-bottom: calc(var(--baseline)*0.5);
-        margin-top: calc(var(--baseline)*1);
-        min-height: 40px;
-
-        p{ margin: 0; }
-
-        .dates-these{
-            position: absolute;
-        }
-        // &::after{
-        //     content: "";
-        //     display: block;
-        //     width: 100%;
-        //     border-top: 1px solid var(--current-color);
-        //     transform: rotate(1deg);
-        //     position: relative;
-        //     top: var(--baseline);
-        // }
-    }
-
+   
 
     .these-start{
         padding-right: 0.5ch;
+       
         display: inline-block;
     }
 
@@ -106,16 +79,92 @@
         }
     }
 
+  
     .these-cnu, .these-etablissement{
-        padding-left: 15.5ch;
-        text-indent: -2ch;
         @include trait(2px);
     }
 
-    // .these-etablissement{    
-    //     font-style: italic;
-    // }
+   
+    @include for-size(desktop){
+        .hgroup{
+       
+            min-height: 90px;
+            position: relative;
+        }
+    
+        h1, h2, .tags{
+            margin-left: 145px;
+        }
+
+        .type-membre{
+
+            float: right;
+            text-align: right;
+            margin-bottom: 0;
+
+    
+    }
+
+        .bandeau{
+            padding-bottom: calc(var(--baseline)*0.5);
+            margin-top: calc(var(--baseline)*1);
+            min-height: 40px;
+    
+            p{ margin: 0; }
+    
+            .dates-these{
+                position: absolute;
+            }
+        }
+
+        .these-cnu, .these-etablissement{
+            padding-left: 15.5ch;
+            text-indent: -2ch;
+        }
+    
+    }
+
+    @include for-size(phone){
+
+    
+        h1 {
+            margin-left: 120px;
+            margin-top: calc(var(--baseline)*2)!important;
+            margin-bottom: calc(var(--baseline)*1.5)!important;
+        }
+
+        .these-cnu, .these-etablissement, .dates-these{
+            padding-left: 22px;
+            text-indent: -22px;
+        }
+
+        .type-membre{
+            display: inline-block;
+            position: absolute; 
+            right: 0;
+            top: 0;
+            // top:calc(var(--baseline)*-1.5)
+        }
+
+        .dates-these{ 
+            margin-top: calc(var(--baseline)*0.5);
+            @include trait(2px);
+            .these-start{ 
+                margin-left: 20px;
+                margin-right: 22px;
+            }
+        }
+
+    }
+
 
   
     
+}
+
+
+@include for-size(phone){
+    #page-membres .title-list{
+        margin-bottom :calc(var(--baseline)*3)
+    }
 }

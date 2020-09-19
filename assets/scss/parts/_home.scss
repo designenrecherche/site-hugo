@@ -1,107 +1,141 @@
-
-#main-page{
+#main-page {
 
     --width-block-home: 63ch;
-    @include for-size(desktop){
+    @include for-size(phone) {
+        padding-top: calc(var(--baseline)*1);
+    }
+    @include for-size(desktop) {
         margin-top: calc(var(--baseline)*7);
     }
 
 
-    .section-home{
+    .section-home {
         margin-bottom: calc(var(--baseline)*6);
-        @media screen and (max-height: 780px){ margin-bottom: calc(var(--baseline)*4); }
+
+        @media screen and (max-height: 780px) {
+            margin-bottom: calc(var(--baseline)*4);
+        }
     }
 
-    .section-title{
-        display: inline-block;
-        font-size: calc(var(--font-size)*0.8);
+    .section-title {
+
         text-transform: uppercase;
         letter-spacing: 0.3px;
         font-weight: 500;
-        margin-bottom: calc(var(--baseline) * 1.5);
-        a{ 
-            color: currentColor; 
-            &:after{
-                @include borderDotted(1deg);
-            }
-            &:hover:after{ transform: rotate(-1deg);}
+        a{ color: currentColor; }
+        a {
+            &:after { @include borderDotted(1deg); }
+            &:hover:after { transform: rotate(-1deg); }
         }
-         
+
+        @include for-size(desktop) {
+            font-size: calc(var(--font-size)*0.8);
+            display: inline-block;
+            margin-bottom: calc(var(--baseline) * 1.5);
+           
+        }
+
+        @include for-size(phone) {
+            font-size: var(--font-size);
+            text-align: center;
+            margin-top: calc(var(--baseline) * 4);
+            margin-bottom: calc(var(--baseline) * 2);
+        }
+
+
     }
 
-    button{
+    button {
         display: block;
         background: none;
         border: 1px dotted var(--current-color);
         border-radius: 4px;
         font-size: var(--font-size-small);
-        @include for-size(phone){
+
+        @include for-size(phone) {
             margin: 0 auto;
         }
+
         margin-top: calc(var(--baseline)*1);
-       
-       
-        a{ 
+
+
+        a {
             display: block;
             color: var(--current-color);
             padding: 6px 10px;
             // @include trait-double-small();
-       
+
         }
-        &:hover{ background: var(--background-color)}
+
+        &:hover {
+            background: var(--background-color)
+        }
     }
 
-    #about{
-        
+    #about {
+
         width: 100%;
         max-width: var(--width-block-home);
-        @include for-size(desktop){
+
+        @include for-size(phone) {
+            .section-title{
+                margin-bottom: calc(var(--baseline) * 1);
+            }
+            .socials, .socials-baseline{ display: none; }
+        }
+   
+        @include for-size(desktop) {
             z-index: 90;
             padding-top: calc(var(--baseline)*0.25);
             margin-top: calc(var(--baseline)*2.5);
             margin-bottom: calc(var(--baseline)*6);
         }
-    
-    @media screen and (max-height: 760px){ 
-        margin-bottom: calc(var(--baseline)*2.5); 
-    }
-    @media screen and (min-height: 760px) and (max-height: 820px){ 
-        margin-bottom: calc(var(--baseline)*4); 
-    }
-    
-            
-  
 
-        p{ margin-bottom: var(--baseline)}
-
-        .socials{
-            margin-top: calc(var(--baseline)*-0.5);
-            @include for-size(phone){
-                li{ 
-                    display: block;
-                    text-align: center;
-                    padding-bottom: calc(var(--baseline)*0.5);
-                }
-            }
+        @media screen and (min-width: 800px) and (max-height: 760px) {
+            margin-bottom: calc(var(--baseline)*2.5);
         }
 
-        button{ margin-top: calc(var(--baseline)*2); }
+        @media screen and (min-width: 800px) and (min-height: 760px) and (max-height: 820px) {
+            margin-bottom: calc(var(--baseline)*4);
+        }
+
+
+
+
+        p {
+            margin-bottom: var(--baseline)
+        }
+        .socials {
+            margin-top: calc(var(--baseline)*-0.5);
+        }
+
+        
+           
+        
+
+        button {
+            @include for-size(phone) { margin-top: calc(var(--baseline)*1); }
+            @include for-size(desktop) { margin-top: calc(var(--baseline)*2); }
+        }
     }
 
     #actions {
         width: 100%;
         max-width: var(--width-block-home);
-       
+
     }
 
-    #breves{
+    #breves {
         max-width: 1100px;
         --color-breves: var(--color-8);
         color: var(--color-breves);
         width: 100%;
-        margin-bottom: 0!important;
-        .container { margin-left: 0; }
-    
+        margin-bottom: 0 !important;
+
+        .container {
+            margin-left: 0;
+        }
+
     }
 
 
@@ -133,6 +167,3 @@
 //         text-align: left;
 //     }
 // }
-
-
-

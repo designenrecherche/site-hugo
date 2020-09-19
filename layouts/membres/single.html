@@ -20,10 +20,11 @@
           {{ if .Params.photo }}<img src="{{ .Params.photo }}">{{ end }}
           </a>
       </figure>
-      {{ if .Params.membre_actif }}<p class="type-membre">Membre actif</p>{{end}}
-  
-           <h1><a href="{{.Permalink}}">{{.Title }}</a> </h1>
 
+
+           <h1><a href="{{.Permalink}}">{{.Title }}</a> </h1>
+           <div></div>
+           {{ if .Params.membre_actif }}<p class="type-membre">Membre actif</p>{{end}}
            <div>
 
            <ul class="contact">
@@ -32,13 +33,13 @@
             {{ if .Params.contact.telephone }}<li class="site"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.phone | safeHTML }}</span>{{ .Params.contact.telephone }}</li>{{ end }}
            </ul>
            <ul class="socials">
-            {{ if .Params.contact.twitter }}<li class="twitter"><a target="_blank" href="{{ .Params.contact.twitter }}"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.twitter | safeHTML }}</span>Twitter</a></li>{{ end }}
-            {{ if .Params.contact.instagram }}<li><a target="_blank" href="{{ .Params.contact.instagram }}"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.instagram | safeHTML }}</span>Instagram</a></li>{{ end }}
-            {{ if .Params.contact.facebook }}<li><a target="_blank" href="{{ .Params.contact.facebook }}"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.facebook | safeHTML }}</span>Facebook</a></li>{{ end }}
-            {{ if .Params.contact.medium }}<li><a target="_blank" href="{{ .Params.contact.medium }}"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.medium | safeHTML }}</span>Medium</a></li>{{ end }}
-            {{ if .Params.contact.hypotheses }}<li><a target="_blank" href="{{ .Params.contact.hypotheses }}"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.hypotheses | safeHTML }}</span>Hypothèses</a></li>{{ end }}
-            {{ if .Params.contact.github }}<li><a target="_blank" href="{{ .Params.contact.github }}"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.github | safeHTML }}</span>Github</a></li>{{ end }}
-            {{ if .Params.contact.gitlab }}<li><a target="_blank" href="{{ .Params.contact.gitlab }}"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.gitlab | safeHTML }}</span>Gitlab</a></li>{{ end }}
+            {{ if .Params.contact.twitter }}<li class="twitter"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.twitter | safeHTML }}</span><a target="_blank" href="{{ .Params.contact.twitter }}">Twitter</a></li>{{ end }}
+            {{ if .Params.contact.instagram }}<li><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.instagram | safeHTML }}</span><a target="_blank" href="{{ .Params.contact.instagram }}">Instagram</a></li>{{ end }}
+            {{ if .Params.contact.facebook }}<li><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.facebook | safeHTML }}</span><a target="_blank" href="{{ .Params.contact.facebook }}">Facebook</a></li>{{ end }}
+            {{ if .Params.contact.medium }}<li><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.medium | safeHTML }}</span><a target="_blank" href="{{ .Params.contact.medium }}">Medium</a></li>{{ end }}
+            {{ if .Params.contact.hypotheses }}<li><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.hypotheses | safeHTML }}</span><a target="_blank" href="{{ .Params.contact.hypotheses }}">Hypothèses</a></li>{{ end }}
+            {{ if .Params.contact.github }}<li><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.github | safeHTML }}</span><a target="_blank" href="{{ .Params.contact.github }}">Github</a></li>{{ end }}
+            {{ if .Params.contact.gitlab }}<li><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.gitlab | safeHTML }}</span><a target="_blank" href="{{ .Params.contact.gitlab }}">Gitlab</a></li>{{ end }}
             
            </ul>
 

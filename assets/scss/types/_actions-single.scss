@@ -34,10 +34,9 @@
             @include tags-block-content();   
             @media screen and (min-width: 1400px){
                 margin-top: calc(var(--baseline)*5);
-                // position: absolute;
-                // top: 0;
-                // width: 230px;
-                // right: calc(-230px + var(--unit)*-4)
+            }
+            @include for-size(phone) {
+                margin-top: calc(var(--baseline)*1);
             }
          
          
@@ -45,11 +44,14 @@
 
         .summary{
             // border: 1px dotted currentColor;
-            padding: 0 calc(var(--unit)*3);
+          
             margin-top: calc(var(--baseline)*2);
             margin-bottom: calc(var(--baseline)*4);
-            border-left: 2px dotted var(--current-color);
-            border-right: 2px dotted var(--current-color);
+            @include for-size(desktop) {
+                padding: 0 calc(var(--unit)*3);
+                border-left: 2px dotted var(--current-color);
+                border-right: 2px dotted var(--current-color);
+            }
             &:before{
                 @include borderDotted(-1deg);
                 top: calc(var(--baseline) * -1);

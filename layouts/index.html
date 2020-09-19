@@ -16,19 +16,19 @@
 
 
 
-{{ if .Site.Data.homepage.about.enable }}
+{{ if .Site.Data.homepage.aboutHome.enable }}
   <section id="about" class="section-home">
     <div class="container-about">
       
 
-      <h1 class="section-title"><a href="{{ .Site.Data.homepage.about.URL }}">{{ .Site.Data.homepage.about.title }}</a></h1>
+      <h1 class="section-title"><a href="{{ .Site.Data.homepage.about.URL }}">{{ .Site.Data.homepage.aboutHome.title }}</a></h1>
 
-      {{ with .Site.Data.homepage.about }}
+      {{ with .Site.Data.homepage.aboutHome }}
       <p>{{.content | markdownify}}</p>
       {{ end }}
 
-      {{ if .Site.Data.homepage.about.socials.enable }}
-      <p>Retrouvez-nous sur les réseaux sociaux&nbsp;: </p>
+      {{ if .Site.Data.homepage.aboutHome.socials.enable }}
+      <p class="socials-baseline">{{ .Site.Data.homepage.aboutHome.socials.baseline }}</p>
         
         <ul class="socials">
           {{ range .Site.Params.social }}
@@ -37,7 +37,7 @@
         </ul>
         {{ end }}
 
-        <button><a href="{{ .Site.Data.homepage.about.URL }}">{{ .Site.Data.homepage.about.button }}</a></button>
+        <button><a href="{{ .Site.Data.homepage.about.URL }}">{{ .Site.Data.homepage.aboutHome.button }}</a></button>
         
         </div>
 

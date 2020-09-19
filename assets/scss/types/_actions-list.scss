@@ -20,11 +20,13 @@
             
         }
 
-        
-
-
+ 
 
         .post-actions {
+            @include for-size(phone){ 
+                margin-top: calc(var(--baseline)*5);
+                margin-bottom: calc(var(--baseline)*3); 
+            }
 
             h1 {
                 font-weight: 500;
@@ -42,22 +44,38 @@
             }
 
             .type{
-                position: absolute;
-                right: 0;
-                top: 3px;
+               
                 font-size: 0.6em;
                 text-transform: uppercase;
                 font-weight: 400;
-                letter-spacing: 0.2px;
-                margin-bottom: 0;
+                letter-spacing: 0.2px; 
                 @include surligne();
+
+                @include for-size(desktop){
+                    position: absolute;
+                    right: 0;
+                    top: 3px;
+                    margin-bottom: 0;
+                }
+
+                @include for-size(phone){
+                    position: absolute;
+                    left: 10px;;
+                    top: -40px;
+                    margin-bottom: 0;
+                }
                
             }
 
             .date, .lieu{
                 display: inline;
                 margin-right:  calc(var(--unit)*2);
-                @include trait(2px);                     
+                @include trait(2px);     
+                @include for-size(phone){ 
+                    display: block; 
+                    padding-left: 24px;
+                    text-indent: -24px;
+                }          
             }
 
             .summary{
@@ -66,6 +84,15 @@
 
             .tags{
                 @include tags-block-list();   
+            }
+
+            .more{
+                @include for-size(phone){ 
+                    width: 80px;
+                    position: absolute;
+                    right: -5px;
+                    bottom: -30px;
+                }
             }
 
         }
@@ -86,8 +113,9 @@
             }
 
             @include for-size(phone){
-                margin-top: calc(var(--baseline)*2.5);
+                margin-top: calc(var(--baseline)*0.5);
                 margin-bottom: calc(var(--baseline)*2.5);
+
             }
                 
 
