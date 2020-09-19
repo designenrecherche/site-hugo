@@ -31,8 +31,9 @@
   {{ $masonry := resources.Get "js/masonry.min.js" }}
   <script src="{{ $masonry.Permalink }}"></script>
 
-  <link rel="stylesheet" href="{{ .URL | absURL }}fonts/becky/stylesheet.css" >
-  <link rel="stylesheet" href="{{ .URL | absURL }}fonts/Sanomat-Sans/stylesheet.css" >
+
+  <!-- <link rel="stylesheet" href="{{ .URL | absURL }}fonts/becky/stylesheet.css" > -->
+  <link rel="stylesheet" href="/fonts/Sanomat-Sans/stylesheet.css" >
   
 
   {{ "<!--Favicon-->" | safeHTML }}
