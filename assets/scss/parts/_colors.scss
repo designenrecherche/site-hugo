@@ -19,8 +19,11 @@ body{
 }
 
 #container-list-tags, #page-tags{
-    --current-color: var(--color-6);
-    --background-color: #f2f2f3;
+    // --current-color: var(--color-6);
+    // --background-color: #f2f2f3;
+    // color: var(--current-color);
+    --current-color: var(--color-1);
+    --background-color: #d0dafb;
     color: var(--current-color);
 }
 

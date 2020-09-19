@@ -20,7 +20,6 @@
 
         <!-- IF ACTIONS -->
         <section class="tags-section" id="actions">
-        <h1>Actions</h1>
             {{ range .Pages }}
             {{ if eq .Params.type_page "actions" }}
                 {{ .Render "post"}}
@@ -30,7 +29,6 @@
 
          <!-- IF MEMBRES -->
          <section class="tags-section" id="membres">
-         <h1>Membres</h1>
          {{ range .Pages }}
          {{ if eq .Params.type_page "membres" }}
              {{ .Render "post"}}
