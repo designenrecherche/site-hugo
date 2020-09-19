@@ -9,7 +9,7 @@ publishDate = 2014-10-02T07:30:20Z
 time = "9h30"
 title = "Faut-il rédiger les méthodes de la recherche en design ?"
 tags = ["design", "méthodes", "réduire en art", "méthodologie"]
-
+type_page = "actions"
 +++
 > Ainsi mon dessein n’est pas d’enseigner la méthode que chacun doit suivre pour bien conduire sa raison, mais de faire voir en quelle sorte j’ai tâché de conduire la mienne.
 >

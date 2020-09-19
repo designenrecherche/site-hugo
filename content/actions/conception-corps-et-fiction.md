@@ -9,6 +9,7 @@ lieu = "Université de Strasbourg"
 publishDate = 2017-04-26T08:00:12Z
 time = "10h"
 title = "Conception, Corps et Fiction"
+type_page = "actions"
 
 +++
 # Thématique

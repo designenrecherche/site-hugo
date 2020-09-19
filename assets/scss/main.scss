@@ -11,6 +11,7 @@
 @import "body.scss";
 @import "components/content";
 @import "components/socials";
+@import "components/section-title";
 
 /* All site */
 @import "parts/header";
@@ -34,6 +35,8 @@
 @import "types/membres-single";
 @import "types/breves";
 @import "types/contact";
+@import "types/tags-list";
+@import "types/tags-single";
 
 /* shortcodes */
 @import "parts/programme";

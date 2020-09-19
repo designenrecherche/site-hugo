@@ -18,31 +18,7 @@
     }
 
     .section-title {
-
-        text-transform: uppercase;
-        letter-spacing: 0.3px;
-        font-weight: 500;
-        a{ color: currentColor; }
-        a {
-            &:after { @include borderDotted(1deg); }
-            &:hover:after { transform: rotate(-1deg); }
-        }
-
-        @include for-size(desktop) {
-            font-size: calc(var(--font-size)*0.8);
-            display: inline-block;
-            margin-bottom: calc(var(--baseline) * 1.5);
-           
-        }
-
-        @include for-size(phone) {
-            font-size: var(--font-size);
-            text-align: center;
-            margin-top: calc(var(--baseline) * 4);
-            margin-bottom: calc(var(--baseline) * 2);
-        }
-
-
+       @include section-title();
     }
 
     button {

@@ -1,0 +1,51 @@
+#container-single-taxonomy{
+    .container > header{
+        h1{ 
+            border: 2px solid currentColor;
+            border-radius: 5px;
+            padding: 8px 20px;
+            @include title-big();
+            &::before{
+                content: "# "; 
+            }
+            &::after{ display: none; }
+        }
+
+        nav{
+            @include for-size(phone){
+                margin-top: calc(var(--baseline)*1);
+            }
+            @include for-size(desktop){
+                position: absolute;
+                right: 0;
+                top: 0;
+            }
+            
+            li{
+                @include trait-double-small();
+                padding-bottom: calc(var(--baseline)*0.25);
+                font-size: var(--font-size-small);
+            }
+            a{ 
+                text-decoration: none!important;
+                @include links();
+                color: currentColor;
+            }
+        }
+    }
+
+    .tags-section {
+        padding-top: calc(var(--baseline)*3);
+        & > h1{
+            font-size: var(--font-size);
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.2px;
+            margin-bottom: calc(var(--baseline)*2);
+            &:after { 
+                @include borderDotted(1deg);
+                top: calc(var(--baseline)*0.5);
+             }
+        }
+    }
+}

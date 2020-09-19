@@ -9,6 +9,7 @@ lieu = "CRI – Paris"
 publishDate = 2018-01-12T21:00:40Z
 time = "10h"
 title = "Chantiers 2018"
+type_page = "actions"
 
 +++
 La recherche en design évolue rapidement et les jeunes chercheurs sont de plus en plus nombreux à rejoindre l’association tous les ans. Nous souhaitons donc lancer une après midi de workshops/rencontres afin de repenser ensemble les enjeux et fonctions de l’association ! En gros, en 2018, on fait le bilan de tout ce que l'association a construit depuis ses débuts et on recommence sur de nouvelles bases !

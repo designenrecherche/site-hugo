@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<h1 class="title-list"><a href="/tags">Mots-clés</a></h1>
+
+
+<div class="container-main" id="container-list-tags">
+    <div class="container">
+        <ul class="list-tags">
+            {{ $data := .Data }}
+            {{ range $key,$value := .Data.Terms.ByCount }}
+            {{ if gt .Count 0 }}
+            <li><a href="/{{ $data.Plural }}/{{ .Name }}">{{ .Name }}</a> <span class="count">{{ .Count }}</span></li>
+            {{ end }}
+            {{end}}
+        </ul>
+      </div>
+    </div>
+
+{{ end }}

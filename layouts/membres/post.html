@@ -6,7 +6,7 @@
         <a href="{{.Permalink}}">
         {{ if .Params.photo }}<img src="{{ .Params.photo }}">{{ end }}
         </a>
-    </figure>>
+    </figure>
     {{ if .Params.membre_actif }}<p class="type-membre">Membre actif</p>{{end}}
 
          <h1><a href="{{.Permalink}}">{{.Title }}</a> </h1>
@@ -16,8 +16,8 @@
 
     {{ if .Params.tags }}
       <ul class="tags">
-        {{range .Params.tags}}<li>{{ . }}</li> {{end}}
-           <!-- {{range .Params.tags}}<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li> {{end}} -->
+        <!-- {{range .Params.tags}}<li>{{ . }}</li> {{end}} -->
+           {{range .Params.tags}}<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li> {{end}}
       </ul>
       {{end}}
 

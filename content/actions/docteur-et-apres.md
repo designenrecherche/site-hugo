@@ -11,6 +11,7 @@ publishDate = 2019-03-14T19:00:32Z
 time = "18h"
 title = "Docteur, et après ?"
 tags = ["doctorat", "post-doctorat", "thèse", "profession"]
+type_page = "actions"
 +++
 
 

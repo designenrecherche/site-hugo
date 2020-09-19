@@ -1,5 +1,6 @@
 +++
 discipline = ""
+type_page = "membres"
 membre_actif = false
 etablissement = "Toulouse Jean Jaurès, LARA - Laboratoire de Recherche en Arts"
 etablissement_s___laboratoire_s_ = "Toulouse Jean Jaurès, LARA - Laboratoire de Recherche en Arts"
@@ -25,6 +26,7 @@ mail = ""
 site = "http://www.yume-studio.fr"
 telephone = 33601056061
 twitter = ""
+
 
 +++
 

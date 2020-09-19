@@ -8,6 +8,7 @@ publishDate = 2015-11-19T09:00:25Z
 tags = [" genre", " cultural studies", "norme", "design"]
 time = "10h"
 title = "Design & genre | Gender & Design"
+type_page = "actions"
 
 +++
 Pour cette quatrième journée d’étude organisée par le réseau Design en Recherche, nous proposons d’interroger les liens et intersections des études de genre (gender studies) et du design. Si l’on considère que le design vise à « améliorer ou au moins \[à\] maintenir l’habitabilité du monde » (Findeli, 2010, p.292), il est préalablement utile de nous doter d’outils qui nous permettent de rendre intelligible ce monde. Or, les études de genre (gender studies) et plus généralement les études culturelles, en tant qu’instruments critiques qui mettent au jour certaines dispositions du monde — le terme est à entendre à la suite d’Agamben et de Foucault, comme économie et administration, ou comme ensemble de relations situées — nous semblent proposer au design des outils, méthodologies et perspectives qui peinent pourtant à être pris en compte.

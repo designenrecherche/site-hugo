@@ -8,6 +8,7 @@ these_end = 2019
 these_start = 2015
 these_soutenue = true
 title = "Rose Dumesny"
+type_page = "membres"
 titrethese = "Médiation sensible: des dispositifs d'expression tangibles pour s'approprier et comprendre l'objet smartphone"
 titretheseEn = "Understand issues of representation for a sensitive perception of digital data"
 url_hal = "https://tel.archives-ouvertes.fr/tel-02861634"

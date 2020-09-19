@@ -1,5 +1,6 @@
 +++
 membre_actif = true
+type_page = "membres"
 etablissement = "Unîme, équipe PROJEKT"
 photo = "/images/bonnardot-zoe.png"
 section_cnu = "71 Sciences de l'information et de la communication"

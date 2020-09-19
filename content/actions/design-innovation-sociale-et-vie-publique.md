@@ -8,7 +8,7 @@ publishDate = 2016-09-15T08:12:51Z
 tags = ["vie publique", "innovation sociale", "design"]
 time = "10h"
 title = "Design, innovation sociale et vie publique"
-
+type_page = "actions"
 +++
 # Argument
 

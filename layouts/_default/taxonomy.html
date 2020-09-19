@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+<h1 class="title-list"><a href="/tags">Mots-clés</a></h1>
+
+
+
+<div class="container-main" id="container-single-taxonomy">
+    <div class="container">
+
+        <header>
+            <h1 id="title-terms">{{.Title}}</h1>
+            <nav>
+                <ul>
+                    <li><a href="#actions">Actions</a></li>
+                    <li><a href="#membres">Membres</a></li>
+                </ul>
+             </nav>
+        </header>
+
+
+        <!-- IF ACTIONS -->
+        <section class="tags-section" id="actions">
+        <h1>Actions</h1>
+            {{ range .Pages }}
+            {{ if eq .Params.type_page "actions" }}
+                {{ .Render "post"}}
+            {{ end }}
+            {{ end }}
+        </section>
+
+         <!-- IF MEMBRES -->
+         <section class="tags-section" id="membres">
+         <h1>Membres</h1>
+         {{ range .Pages }}
+         {{ if eq .Params.type_page "membres" }}
+             {{ .Render "post"}}
+         {{ end }}
+         {{ end }}
+        </section>
+
+    
+
+
+
+      </div>
+    </div>
+
+{{ end }}

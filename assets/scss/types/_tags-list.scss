@@ -1,0 +1,19 @@
+#main-tags{
+    max-width: var(--max-width-list);
+
+    .list-tags{
+        @media screen and (max-width: 500px){columns: 1;  }
+        @media screen and (min-width: 500px){columns: 2;  }
+        @media screen and (min-width: 960px){ columns: 3; }
+        column-gap: 0;
+        li{
+            font-size: var(--font-size-small);
+            a{
+                @include tags();
+                color: currentColor;
+            }
+        }
+    }
+
+    
+}

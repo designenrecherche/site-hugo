@@ -10,6 +10,10 @@ fields:
 - name: membre_actif
   type: boolean
   label: Membre actif
+- name : type_page
+  type: text
+  default: "membres"
+  hidden: true
 - type: file
   name: photo
   label: Photo de profil

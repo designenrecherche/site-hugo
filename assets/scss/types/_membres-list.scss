@@ -1,6 +1,13 @@
 #container-list-membres{
-
     max-width: var(--max-width-list);
+}
+
+@include for-size(phone){
+    #page-membres .title-list{
+        margin-bottom :calc(var(--baseline)*3)
+    }
+}
+
     .post-membre{
         margin-bottom: calc(var(--baseline)*3.5);
 
@@ -18,7 +25,7 @@
                 @include img-filtre();
             }
         }
-    }
+   
 
     
 
@@ -157,14 +164,11 @@
 
     }
 
-
-  
     
 }
 
+  
+    
 
-@include for-size(phone){
-    #page-membres .title-list{
-        margin-bottom :calc(var(--baseline)*3)
-    }
-}
+
+

@@ -8,7 +8,11 @@
     padding: 1px 10px;
     margin-bottom: calc(var(--baseline)*0.25);
     &:before{ content: "# " }
-    a{ @include links(); }
+    a{ color: var(--curent-color); }
+    &:hover{
+      border: 1px solid var(--current-color)
+    }
+    // a{ @include links(); }
   }
   
   

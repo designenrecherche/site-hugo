@@ -18,18 +18,24 @@ body{
     color: var(--current-color);
 }
 
+#container-list-tags, #page-tags{
+    --current-color: var(--color-6);
+    --background-color: #f2f2f3;
+    color: var(--current-color);
+}
+
 #page-page{ 
     --current-color: var(--color-1); 
     color: var(--current-color);
 }
 
-#page-actions, #actions{ 
+#page-actions, #actions, .post-actions{ 
     --current-color: var(--color-3);
     --background-color: rgba(33, 180, 161, 0.2);
     color: var(--current-color); 
  }
 
-#page-membres{
+#page-membres, #membres, .post-membre{
     --current-color: var(--color-4);
     --background-color: rgba(255, 99, 73, 0.2);
     color: var(--current-color);
@@ -48,3 +54,4 @@ body{
     --background-color: #d0dafb;
     color: var(--current-color);
 }
+
