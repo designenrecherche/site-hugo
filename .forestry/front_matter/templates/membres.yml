@@ -122,12 +122,8 @@ fields:
   type: number
   label: Date de soutenance de thèse
   description: ''
-  default: '0'
-  required: false
   config:
-    min: 
-    max: 
-    step: 
+    required: false 
 - name: tags
   type: tag_list
   default: []
