@@ -122,6 +122,7 @@ fields:
   type: number
   label: Date de soutenance de thèse
   description: ''
+  default: "0"
   required: false
   config:
     min: 
@@ -147,13 +148,10 @@ fields:
       required: false
     label: site perso
   - name: telephone
-    type: number
+    type: text
     label: Téléphone
-    description: ''
     config:
-      min: 
-      max: 
-      step: 
+      required: false
   - name: twitter
     type: text
     config:
