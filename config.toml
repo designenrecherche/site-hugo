@@ -6,10 +6,6 @@ title = "Design en Recherche"
 [markup.goldmark.renderer]
   unsafe= true
 
-plugins_css = ["font"]
-
-staticDir = ["static"]
-
 [[menu.main]]
 URL = "about"
 name = "L’association"
