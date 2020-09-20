@@ -8,6 +8,8 @@ title = "Design en Recherche"
 
 plugins_css = ["font"]
 
+staticDir = ["static"]
+
 [[menu.main]]
 URL = "about"
 name = "L’association"
