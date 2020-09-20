@@ -123,7 +123,7 @@ fields:
   label: Date de soutenance de thèse
   description: ''
   config:
-    required: false 
+    required: false
 - name: tags
   type: tag_list
   default: []
