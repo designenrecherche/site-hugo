@@ -4,16 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: data/instagram.yml
-  label: instagram yml
 - type: directory
-  path: content/instagram
-  label: Résidences Instagram
-  create: all
-  match: "**/*"
-  templates:
-  - instagram
+  path: content/about
+  label: About
+  create: none
+  match: "*"
 - type: directory
   path: content/actions
   label: Nos actions
@@ -36,8 +31,8 @@ sections:
   templates:
   - breves
 - type: directory
-  path: content/about
-  label: About
+  path: content/contact-adhesion
+  label: Adhésion
   create: none
   match: "*"
 - type: directory
@@ -46,11 +41,6 @@ sections:
   create: documents
   match: "*"
   new_doc_ext: yml
-- type: directory
-  path: content/contact
-  label: Contact
-  create: none
-  match: "*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''

@@ -7,9 +7,9 @@ fields:
   config:
     required: true
   label: Titre
-- name : type_page
+- name: type_page
   type: text
-  default: "actions"
+  default: actions
   hidden: true
 - type: text
   name: description
