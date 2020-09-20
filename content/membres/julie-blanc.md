@@ -58,11 +58,7 @@ post9link = ""
 +++
 # Résumé de thèse
 
-{{% lang class="fr" %}}
-
 Ce travail de recherche, basé sur la pratique, s'inscrit dans le contexte d'une évolution des pratiques de conception des objets éditoriaux vers la programmation informatique suite à l'apparition des supports électronique et du web. Les technologies du web sont de plus en plus utilisées dans le design éditorial et leurs évolutions récentes – particulièrement celle du langage CSS – permettent des conceptions et mises en forme de plus en plus poussées jusqu’à favoriser la possibilité de convergences entre le papier et l’écran au sein de publications multisupports. Cela n'est pas sans conséquence sur l'activité des designers graphiques et la manière dont ils conçoivent l'espace de la page (imprimée et numérique). À partir de ma propre pratique et de celle d'une diversité d'acteurs – situés dans des communautés portées par des approches libre et open-source du design – nous analyserons pourquoi et comment les designers graphiques instrumentent leur activité de composition, comment celle-ci est configurée par l'utilisation du code et les implications que cela entraîne sur les formes et les expériences sensibles produites.
-
-{{% /lang %}}
 
 ## Direction de thèse
 
@@ -81,6 +77,7 @@ Ce travail de recherche, basé sur la pratique, s'inscrit dans le contexte d'une
 {{% lang class="fr" %}}
 
 Julie Blanc est designeuse graphique et étudiante-chercheuse. Elle prépare un doctorat en ergonomie et design. Elle prend aussi part aux recherches collectives du groupe PrePostPrint et travaille au développement de Paged.js, une bibliothèque JavaScript libre et open source pour concevoir des livres imprimés depuis les navigateurs web. Son travail de recherche fait suite à sa pratique du design graphique tournée vers des objets éditoriaux numériques et imprimés. Elle a ainsi travaillé pour le Médialab Sciences Po ou le musée Saint Raymond.
+
 
 {{% /lang %}}
 

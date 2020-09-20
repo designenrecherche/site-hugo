@@ -106,8 +106,22 @@
                     position: absolute;
                     left: 0;
                     font-size: var(--font-size-small);
+                    text-transform: uppercase;
                 }
           
+            }
+
+            @media screen and (max-width: 500px){
+                .title-thesis-fr, .title-thesis-en{
+                    padding-left: 0;
+                    .lang{ 
+                        padding-left: calc(var(--unit)*2);
+                        position: relative;
+                        display: block;
+                   
+                    }
+              
+                }
             }
 
             .infos{
@@ -140,6 +154,33 @@
                     text-decoration: none!important;
                 }
             }
+    }
+
+    .content{
+        .fr, .en{
+            padding-left: calc(var(--unit)*3);
+            margin-bottom: var(--baseline);
+            &::before{
+                position: absolute;
+                left: 0;
+                font-size: var(--font-size-small);
+                text-transform: uppercase;
+            }
+        }
+        @media screen and (max-width: 500px){
+            .fr, .en{
+                padding-left: 0;
+                &::before{
+                    padding-left: calc(var(--unit)*2);
+                    position: relative;
+                    display: block;
+                    margin-bottom: calc(var(--baseline)*0.5);
+                }
+            }
+
+        }
+        .fr::before{ content: "fr"; }
+        .en::before{ content: "en"; }
     }
 
 

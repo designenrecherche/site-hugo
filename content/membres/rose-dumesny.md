@@ -41,7 +41,7 @@ Le design des données, ou expérience sensible de la donnée, désigne un champ
 
 {{% /lang %}}
 
-{{% lang class="fr" %}}
+{{% lang class="en" %}}
 
 The design of data describes a field of research, exploration and experimentation around the digital data to create "objects" (visual representation, materialization, etc.) so that everyone can perceive and understand. From this point of view, mastering the layouts of the data and their interpretation is a major issue. In this context the objective of this PhD thesis is to provide elements to understand the digital uses of today and better anticipate the needs they generate, by studying digital data perception. The data would then become a raw material, as well as wood or metal, and a designer approach to study, obvious. Indeed proposing new ways to get fit, give meaning and construct sense perceptions, the design could create new experiences, new services, new interactions and especially new emotions and thoughts.
 
