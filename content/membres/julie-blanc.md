@@ -4,7 +4,7 @@ membre_actif = true
 photo = "/images/julie-blanc.jpg"
 section_cnu = "16 Psychologie, Ergonomie"
 tags = ["design graphique", "activité", "approche instrumentale", "technologies du web", "code", "édition", "pratique"]
-these_end = 0
+these_end = nil
 these_soutenue = false
 these_start = 2018
 title = "Julie Blanc"
@@ -62,22 +62,21 @@ Ce travail de recherche, basé sur la pratique, s'inscrit dans le contexte d'une
 
 ## Direction de thèse
 
-* **Anne Bationo-Tillon** (directrice), Université Paris 8, laboratoire Paragraphe, équipe C3U&#8239;;
-* **Samuel Bianchini** (co-directeur), EnsadLab – PSL&#8239;;
-* **Lucile Haute** (encadrante), EnsadLab – PSL.
+* **Anne Bationo-Tillon** (directrice), Université Paris 8, laboratoire Paragraphe, équipe C3U
+* **Samuel Bianchini** (co-directeur), EnsadLab – PSL
+* **Lucile Haute** (encadrante), EnsadLab – PSL
 
 ## Environnement de la thèse
 
 * Thèse financée par l'EUR ArTeC
-* Laboratoire de rattachement&#8239;: EA349 Paragraphe
-* École doctorale&#8239;: ED 224 Cognition, Langage, Interaction
+* Laboratoire de rattachement : EA349 Paragraphe
+* École doctorale : ED 224 Cognition, Langage, Interaction
 
 # Biographie
 
 {{% lang class="fr" %}}
 
 Julie Blanc est designeuse graphique et étudiante-chercheuse. Elle prépare un doctorat en ergonomie et design. Elle prend aussi part aux recherches collectives du groupe PrePostPrint et travaille au développement de Paged.js, une bibliothèque JavaScript libre et open source pour concevoir des livres imprimés depuis les navigateurs web. Son travail de recherche fait suite à sa pratique du design graphique tournée vers des objets éditoriaux numériques et imprimés. Elle a ainsi travaillé pour le Médialab Sciences Po ou le musée Saint Raymond.
-
 
 {{% /lang %}}
 
