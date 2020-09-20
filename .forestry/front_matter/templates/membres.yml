@@ -348,5 +348,6 @@ fields:
     default: ''
 pages:
 - content/membres/julie-blanc.md
+- content/membres/test-2.md
 - content/membres/test.md
 - content/membres/zoe-bonnardot.md
