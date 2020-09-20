@@ -16,8 +16,6 @@
             @include title();
             margin-top: 0;
             color: var(--color-3);
-            
-            
         }
 
  
@@ -101,7 +99,7 @@
 
         .highlights-actions article{
 
-            @include for-size(desktop){
+            @media screen and (min-width: 980px){
                 display: inline-block;
                 vertical-align: top;
                 width: 46%;
@@ -112,7 +110,7 @@
                 }
             }
 
-            @include for-size(phone){
+            @media screen and (max-width: 980px){
                 margin-top: calc(var(--baseline)*0.5);
                 margin-bottom: calc(var(--baseline)*2.5);
 

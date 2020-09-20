@@ -47,9 +47,34 @@
 
 
 
+  {{ if .Site.Data.homepage.membres.enable }}
+  <section id="membres" class="section-home">
+    <div class="container">
+
+      <div class="container-grid">
+      {{ with .Site.GetPage "section" "membres" }}
+      {{ range .Pages }} 
+      {{ if .Params.membre_actif }}
+      <article data-membre="{{ .Title }}">
+        <figure>
+          <a href="{{.Permalink}}"  alt="{{ .Title }}">
+          {{ if .Params.photo }}<img src="{{ .Params.photo }}">{{ end }}
+          </a>
+        </figure>
+      </article>
+      {{ end }}
+      {{ end }}
+      {{ end }}
 
 
 
+      </div>
+      <button><a href="{{ .Site.Data.homepage.membres.URL }}">{{ .Site.Data.homepage.membres.button }}</a></button>
+
+    </div>
+    </section>
+
+  {{ end }}
 
     <!-- {{ if .Site.Data.homepage.twitter_feed.enable }}
 <aside id="feed-tweeter" role="complementary">
