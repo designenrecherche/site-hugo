@@ -23,7 +23,7 @@ linkedin = ""
 mail = "contact@julie-blanc.fr"
 medium = ""
 site = "https://julie-blanc.fr/"
-telephone = 0
+telephone = ""
 twitter = "https://twitter.com/julieblancfr"
 [instagram_1]
 post1 = ""
@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 # Résumé de thèse
 
 {{% lang class="fr" %}}
