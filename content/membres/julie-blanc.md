@@ -23,7 +23,7 @@ linkedin = ""
 mail = "contact@julie-blanc.fr"
 medium = ""
 site = "https://julie-blanc.fr/"
-telephone = nil
+telephone = 0
 twitter = "https://twitter.com/julieblancfr"
 [instagram_1]
 post1 = ""
