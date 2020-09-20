@@ -1,12 +1,9 @@
 ---
-title: "Contact"
-date: 2019-05-12T12:14:34+06:00
-description: "This is meta description."
+title: Adhésion
+date: 
+description: This is meta description.
+
 ---
-
-
-
-
 # Adhésion
 
 Design en Recherche est une association de loi 1901 crée en 2013 par et pour les doctorant·es en design. 
@@ -39,5 +36,3 @@ Nos membres peuvent également participer et organiser des évènements:
 - des apéros de doctorants pour nous retrouver et échanger&#8239;; 
 - des réunions dédiés aux étudiants de master qui souhaitent en savoir plus sur le doctorat en design&#8239;; 
 - et d'autres sont à créer&#8239;!
-
-
