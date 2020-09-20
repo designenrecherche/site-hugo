@@ -1,5 +1,4 @@
 +++
-draft = true
 etablissement = ""
 membre_actif = false
 photo = "/uploads/2017/12/31/placeholder.jpg"
