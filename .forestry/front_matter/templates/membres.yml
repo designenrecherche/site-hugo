@@ -121,7 +121,7 @@ fields:
 - name: these_end
   type: number
   label: Date de soutenance de thèse
-  default: ''
+  default: 0
   description: ''
   config:
     required: false
