@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>perception sensible on Design en Recherche</title>
-    <link>http://contentSite.com/tags/perception-sensible/</link>
+    <link>https://designenrecherche.org/tags/perception-sensible/</link>
     <description>Recent content in perception sensible on Design en Recherche</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     
-	<atom:link href="http://contentSite.com/tags/perception-sensible/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://designenrecherche.org/tags/perception-sensible/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rose Dumesny</title>
-      <link>http://contentSite.com/membres/rose-dumesny/</link>
+      <link>https://designenrecherche.org/membres/rose-dumesny/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://contentSite.com/membres/rose-dumesny/</guid>
-      <description></description>
+      <guid>https://designenrecherche.org/membres/rose-dumesny/</guid>
+      <description>Résumé de thèse Le design des données, ou expérience sensible de la donnée, désigne un champ de recherche, d’exploration et d’expérimentation autour des données numériques permettant de créer des “objets“ (représentation visuelle, matérialisation, etc.</description>
     </item>
     
   </channel>

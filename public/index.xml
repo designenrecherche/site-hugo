@@ -2,48 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Design en Recherche</title>
-    <link>http://contentSite.com/</link>
+    <link>https://designenrecherche.org/</link>
     <description>Recent content on Design en Recherche</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 17 Mar 2020 08:41:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2020 10:20:47 +0000</lastBuildDate>
     
-	<atom:link href="http://contentSite.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://designenrecherche.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Conception, Corps et Fiction</title>
-      <link>http://contentSite.com/association/conception-corps-et-fiction/</link>
-      <pubDate>Tue, 17 Mar 2020 08:41:12 +0000</pubDate>
+      <title>Contrat doctoral ou postdoc à Rise (Suède)</title>
+      <link>https://designenrecherche.org/breves/contrat-doctoral-ou-postdoc-a-rise/</link>
+      <pubDate>Sat, 11 Jul 2020 10:20:47 +0000</pubDate>
       
-      <guid>http://contentSite.com/association/conception-corps-et-fiction/</guid>
-      <description>Thématique Corps Jusqu’où les hommes seraient-ils prêts à interagir corporellement avec les technologies ?</description>
+      <guid>https://designenrecherche.org/breves/contrat-doctoral-ou-postdoc-a-rise/</guid>
+      <description>RISE, le principal institut de recherche en Suède, embauche un.e doctorant.</description>
     </item>
     
     <item>
-      <title>Chantiers 2018</title>
-      <link>http://contentSite.com/association/chantiers-2018/</link>
-      <pubDate>Mon, 16 Mar 2020 20:23:40 +0000</pubDate>
+      <title>Appel à projet XIIe Biennale Internationale Design 2021</title>
+      <link>https://designenrecherche.org/breves/appel-a-projet-xiie-biennale-internationale-design-2021/</link>
+      <pubDate>Fri, 10 Jul 2020 09:50:20 +0000</pubDate>
       
-      <guid>http://contentSite.com/association/chantiers-2018/</guid>
-      <description>La recherche en design évolue rapidement et les jeunes chercheurs sont de plus en plus nombreux à rejoindre l’association tous les ans.</description>
+      <guid>https://designenrecherche.org/breves/appel-a-projet-xiie-biennale-internationale-design-2021/</guid>
+      <description>La XIIe édition de la Biennale Internationale Design Saint-Étienne aura lieu du mercredi 28 avril au dimanche 22 août 2021.</description>
     </item>
     
     <item>
-      <title>Situations graphiques</title>
-      <link>http://contentSite.com/association/situations-graphiques/</link>
-      <pubDate>Mon, 16 Mar 2020 20:20:56 +0000</pubDate>
+      <title>6 offres de contrats de recherche à L’ANRT de Nancy</title>
+      <link>https://designenrecherche.org/breves/6-offres-de-contrats-de-recherche-a-l-anrt-de-nancy/</link>
+      <pubDate>Fri, 10 Jul 2020 09:49:38 +0000</pubDate>
       
-      <guid>http://contentSite.com/association/situations-graphiques/</guid>
-      <description>Pour une construction de situations en design graphique Guy Debord annonçait en 1960 que l’idée centrale de l’Internationale Situationniste était la «construction de situations» au sens «d’ambiances momentanées de la vie».</description>
+      <guid>https://designenrecherche.org/breves/6-offres-de-contrats-de-recherche-a-l-anrt-de-nancy/</guid>
+      <description>Contrats de recherche, d’une durée de 18 mois. Le recrutement est international, et le nombre de places est limité à six.</description>
+    </item>
+    
+    <item>
+      <title>2 offres de doctorats à L’École Universitaire de Recherche ArTeC</title>
+      <link>https://designenrecherche.org/breves/2-offres-de-doctorats-a-l-ecole-universitaire-de-recherche-artec/</link>
+      <pubDate>Fri, 10 Jul 2020 09:48:00 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/breves/2-offres-de-doctorats-a-l-ecole-universitaire-de-recherche-artec/</guid>
+      <description>Contrats doctoraux, d’une durée de trois ans. Il n’y a pas de conditions d’âge ou d’année d’obtention du Master.</description>
+    </item>
+    
+    <item>
+      <title>Contrat de recherche pour l&#39;ouverture d’un DSRD (Diplôme Supérieur de Recherche en Design), Écolab (Orléans)</title>
+      <link>https://designenrecherche.org/breves/contrat-de-recherche-pour-l-ouverture-d-un-dsrd-diplome-superieur-de-recherche-en-design-ecolab-orleans/</link>
+      <pubDate>Fri, 10 Jul 2020 09:46:17 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/breves/contrat-de-recherche-pour-l-ouverture-d-un-dsrd-diplome-superieur-de-recherche-en-design-ecolab-orleans/</guid>
+      <description>Contrat de recherche pour l&amp;rsquo;ouverture d’un DSRD (Diplôme Supérieur de Recherche en Design).</description>
+    </item>
+    
+    <item>
+      <title>Contrat doctoral à la HEAD Genève</title>
+      <link>https://designenrecherche.org/breves/contrat-doctoral-a-la-head-geneve/</link>
+      <pubDate>Fri, 10 Jul 2020 09:44:53 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/breves/contrat-doctoral-a-la-head-geneve/</guid>
+      <description>Assistant-e HES Doctorant-e FNSEn Études urbaines / Arts visuels, à 80%.</description>
     </item>
     
     <item>
       <title>Et si les défis en santé passaient par des enjeux de communication et de design ?</title>
-      <link>http://contentSite.com/breves/et-si-les-d%C3%A9fis-en-sant%C3%A9-passaient-par-des-enjeux-de-communication-et-de-design/</link>
+      <link>https://designenrecherche.org/breves/et-si-les-d%C3%A9fis-en-sant%C3%A9-passaient-par-des-enjeux-de-communication-et-de-design/</link>
       <pubDate>Mon, 16 Mar 2020 15:52:24 +0000</pubDate>
       
-      <guid>http://contentSite.com/breves/et-si-les-d%C3%A9fis-en-sant%C3%A9-passaient-par-des-enjeux-de-communication-et-de-design/</guid>
+      <guid>https://designenrecherche.org/breves/et-si-les-d%C3%A9fis-en-sant%C3%A9-passaient-par-des-enjeux-de-communication-et-de-design/</guid>
       <description>88e Congrès de l&amp;rsquo;Acfas
 4 mai 2020
 Université de Sherbrooke</description>
@@ -51,137 +78,209 @@ Université de Sherbrooke</description>
     
     <item>
       <title>Sciences du Design — 12 — Varia</title>
-      <link>http://contentSite.com/breves/sciences-du-design-12-varia/</link>
+      <link>https://designenrecherche.org/breves/sciences-du-design-12-varia/</link>
       <pubDate>Mon, 16 Mar 2020 15:42:14 +0000</pubDate>
       
-      <guid>http://contentSite.com/breves/sciences-du-design-12-varia/</guid>
+      <guid>https://designenrecherche.org/breves/sciences-du-design-12-varia/</guid>
       <description>Sciences du Design lance un appel à articles sur thème libre pour son numéro 12, à paraître à l&amp;rsquo;automne 2020.</description>
     </item>
     
     <item>
-      <title>Ceci est une brève</title>
-      <link>http://contentSite.com/breves/ceci-est-une-br%C3%A8ve/</link>
-      <pubDate>Mon, 16 Mar 2020 15:14:52 +0000</pubDate>
-      
-      <guid>http://contentSite.com/breves/ceci-est-une-br%C3%A8ve/</guid>
-      <description>Test texte de la brève</description>
-    </item>
-    
-    <item>
       <title>Test programme</title>
-      <link>http://contentSite.com/blog/test-programme/</link>
+      <link>https://designenrecherche.org/blog/test-programme/</link>
       <pubDate>Sat, 14 Mar 2020 14:20:34 +0000</pubDate>
       
-      <guid>http://contentSite.com/blog/test-programme/</guid>
+      <guid>https://designenrecherche.org/blog/test-programme/</guid>
       <description>Design en recherche organise une journée d&amp;rsquo;étude sur le thème&amp;hellip;</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://contentSite.com/blog/test-date/</link>
+      <link>https://designenrecherche.org/blog/test-date/</link>
       <pubDate>Sat, 14 Mar 2020 14:02:36 +0000</pubDate>
       
-      <guid>http://contentSite.com/blog/test-date/</guid>
+      <guid>https://designenrecherche.org/blog/test-date/</guid>
       <description>changement date 1</description>
     </item>
     
     <item>
-      <title>Renaud Mignerey</title>
-      <link>http://contentSite.com/instagram/renaud-mignerey/</link>
-      <pubDate>Wed, 03 Jul 2019 10:00:00 +0000</pubDate>
-      
-      <guid>http://contentSite.com/instagram/renaud-mignerey/</guid>
-      <description>View this post on Instagram        Salut à tous !</description>
-    </item>
-    
-    <item>
-      <title>Rose Dumesny</title>
-      <link>http://contentSite.com/instagram/membres-rose-dumesny-md/</link>
-      <pubDate>Mon, 03 Jun 2019 10:00:00 +0000</pubDate>
-      
-      <guid>http://contentSite.com/instagram/membres-rose-dumesny-md/</guid>
-      <description>View this post on Instagram        Bonjour à tous !</description>
-    </item>
-    
-    <item>
       <title>Amazon increase income 1.5 Million</title>
-      <link>http://contentSite.com/blog/amazon-increase-income.1/</link>
+      <link>https://designenrecherche.org/blog/amazon-increase-income.1/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://contentSite.com/blog/amazon-increase-income.1/</guid>
+      <guid>https://designenrecherche.org/blog/amazon-increase-income.1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Amazon increase income 1.5 Million</title>
-      <link>http://contentSite.com/blog/amazon-increase-income.2/</link>
+      <link>https://designenrecherche.org/blog/amazon-increase-income.2/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://contentSite.com/blog/amazon-increase-income.2/</guid>
+      <guid>https://designenrecherche.org/blog/amazon-increase-income.2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Amazon increase income 1.5 Million</title>
-      <link>http://contentSite.com/blog/amazon-increase-income.3/</link>
+      <link>https://designenrecherche.org/blog/amazon-increase-income.3/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://contentSite.com/blog/amazon-increase-income.3/</guid>
+      <guid>https://designenrecherche.org/blog/amazon-increase-income.3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Amazon increase income 1.5 Million</title>
-      <link>http://contentSite.com/blog/amazon-increase-income.4/</link>
+      <link>https://designenrecherche.org/blog/amazon-increase-income.4/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://contentSite.com/blog/amazon-increase-income.4/</guid>
+      <guid>https://designenrecherche.org/blog/amazon-increase-income.4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Amazon increase income 1.5 Million</title>
-      <link>http://contentSite.com/blog/amazon-increase-income.5/</link>
+      <link>https://designenrecherche.org/blog/amazon-increase-income.5/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://contentSite.com/blog/amazon-increase-income.5/</guid>
+      <guid>https://designenrecherche.org/blog/amazon-increase-income.5/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Amazon increase income 1.5 Million</title>
-      <link>http://contentSite.com/blog/amazon-increase-income/</link>
+      <link>https://designenrecherche.org/blog/amazon-increase-income/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://contentSite.com/blog/amazon-increase-income/</guid>
+      <guid>https://designenrecherche.org/blog/amazon-increase-income/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Docteur, et après ?</title>
+      <link>https://designenrecherche.org/actions/docteur-et-apres/</link>
+      <pubDate>Thu, 14 Mar 2019 19:00:32 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/actions/docteur-et-apres/</guid>
+      <description>La table ronde vise, à travers la diversité des parcours de ses invité·e·s, à dresser un état des lieux non exhaustif des opportunités pour un docteur en design mais aussi à comprendre comment l’expérience de thèse a pu être structurante dans leurs parcours professionnels respectifs.</description>
+    </item>
+    
+    <item>
+      <title>Atelier 1 : How to faire un plan de these</title>
+      <link>https://designenrecherche.org/actions/atelier-1-how-to-faire-un-plan-de-these/</link>
+      <pubDate>Thu, 26 Apr 2018 14:00:21 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/actions/atelier-1-how-to-faire-un-plan-de-these/</guid>
+      <description>Cet atelier proposait d&amp;rsquo;analyser des plans de thèse en construction dans différents domaines de recherche en design.</description>
+    </item>
+    
+    <item>
+      <title>Chantiers 2018</title>
+      <link>https://designenrecherche.org/actions/chantiers-2018/</link>
+      <pubDate>Fri, 12 Jan 2018 21:00:40 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/actions/chantiers-2018/</guid>
+      <description>La recherche en design évolue rapidement et les jeunes chercheurs sont de plus en plus nombreux à rejoindre l’association tous les ans.</description>
+    </item>
+    
+    <item>
+      <title>Conception, Corps et Fiction</title>
+      <link>https://designenrecherche.org/actions/conception-corps-et-fiction/</link>
+      <pubDate>Wed, 26 Apr 2017 08:00:12 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/actions/conception-corps-et-fiction/</guid>
+      <description>Thématique Corps Jusqu’où les hommes seraient-ils prêts à interagir corporellement avec les technologies ?</description>
+    </item>
+    
+    <item>
+      <title>Situations graphiques</title>
+      <link>https://designenrecherche.org/actions/situations-graphiques/</link>
+      <pubDate>Sun, 12 Feb 2017 21:00:00 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/actions/situations-graphiques/</guid>
+      <description>Pour une construction de situations en design graphique Guy Debord annonçait en 1960 que l’idée centrale de l’Internationale Situationniste était la «construction de situations» au sens «d’ambiances momentanées de la vie».</description>
+    </item>
+    
+    <item>
+      <title>Design, innovation sociale et vie publique</title>
+      <link>https://designenrecherche.org/actions/design-innovation-sociale-et-vie-publique/</link>
+      <pubDate>Thu, 15 Sep 2016 08:12:51 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/actions/design-innovation-sociale-et-vie-publique/</guid>
+      <description>Argument Pour cette septième journée d’étude organisée par le réseau Design en Recherche, nous proposons d’exposer et de débattre les différentes positions prises par les designers lorsqu’elles.</description>
+    </item>
+    
+    <item>
+      <title>Design &amp; genre | Gender &amp; Design</title>
+      <link>https://designenrecherche.org/actions/design-genre-gender-design/</link>
+      <pubDate>Thu, 19 Nov 2015 09:00:25 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/actions/design-genre-gender-design/</guid>
+      <description>Pour cette quatrième journée d’étude organisée par le réseau Design en Recherche, nous proposons d’interroger les liens et intersections des études de genre (gender studies) et du design.</description>
+    </item>
+    
+    <item>
+      <title>Faut-il rédiger les méthodes de la recherche en design ?</title>
+      <link>https://designenrecherche.org/actions/faut-il-rediger-les-methodes-de-la-recherche-en-design/</link>
+      <pubDate>Thu, 02 Oct 2014 07:30:20 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/actions/faut-il-rediger-les-methodes-de-la-recherche-en-design/</guid>
+      <description>Ainsi mon dessein n’est pas d’enseigner la méthode que chacun doit suivre pour bien conduire sa raison, mais de faire voir en quelle sorte j’ai tâché de conduire la mienne.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://designenrecherche.org/actions/une-action/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/actions/une-action/</guid>
+      <description></description>
     </item>
     
     <item>
       <title> Estelle Berger</title>
-      <link>http://contentSite.com/membres/estelle-berger/</link>
+      <link>https://designenrecherche.org/membres/estelle-berger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://contentSite.com/membres/estelle-berger/</guid>
-      <description></description>
+      <guid>https://designenrecherche.org/membres/estelle-berger/</guid>
+      <description>Résumé de thèse Cette recherche, menée par un designer-chercheur en immersion dans le monde professionnel, interroge la problématique de la conciliation entre pratique réelle et prise de recul réflexive sur le métier.</description>
     </item>
     
     <item>
-      <title>ceci est le titre du post</title>
-      <link>http://contentSite.com/blog/ceci-est-le-titre-du-post/</link>
+      <title>Julie Blanc</title>
+      <link>https://designenrecherche.org/membres/julie-blanc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://contentSite.com/blog/ceci-est-le-titre-du-post/</guid>
-      <description>ceci est le texte d&amp;rsquo;un article de blov</description>
+      <guid>https://designenrecherche.org/membres/julie-blanc/</guid>
+      <description>Résumé de thèse Ce travail de recherche, basé sur la pratique, s&amp;rsquo;inscrit dans le contexte d&amp;rsquo;une évolution des pratiques de conception des objets éditoriaux vers la programmation informatique suite à l&amp;rsquo;apparition des supports électronique et du web.</description>
     </item>
     
     <item>
       <title>Rose Dumesny</title>
-      <link>http://contentSite.com/membres/rose-dumesny/</link>
+      <link>https://designenrecherche.org/membres/rose-dumesny/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://contentSite.com/membres/rose-dumesny/</guid>
-      <description></description>
+      <guid>https://designenrecherche.org/membres/rose-dumesny/</guid>
+      <description>Résumé de thèse Le design des données, ou expérience sensible de la donnée, désigne un champ de recherche, d’exploration et d’expérimentation autour des données numériques permettant de créer des “objets“ (représentation visuelle, matérialisation, etc.</description>
+    </item>
+    
+    <item>
+      <title>Zoé Bonnardot</title>
+      <link>https://designenrecherche.org/membres/zoe-bonnardot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/membres/zoe-bonnardot/</guid>
+      <description>Résumé de thèse Les usagers des services énergétiques (résidentiels, tertiaires et collectivités) aujourd&amp;rsquo;hui receveurs, seront demain producteurs ou engagés dans un réseau de production locale.</description>
+    </item>
+    
+    <item>
+      <title>ceci est le titre du post</title>
+      <link>https://designenrecherche.org/blog/ceci-est-le-titre-du-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/blog/ceci-est-le-titre-du-post/</guid>
+      <description>ceci est le texte d&amp;rsquo;un article de blov</description>
     </item>
     
   </channel>

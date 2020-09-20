@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>approche instrumentale on Design en Recherche</title>
+    <link>https://designenrecherche.org/tags/approche-instrumentale/</link>
+    <description>Recent content in approche instrumentale on Design en Recherche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    
+	<atom:link href="https://designenrecherche.org/tags/approche-instrumentale/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Julie Blanc</title>
+      <link>https://designenrecherche.org/membres/julie-blanc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/membres/julie-blanc/</guid>
+      <description>Résumé de thèse Ce travail de recherche, basé sur la pratique, s&amp;rsquo;inscrit dans le contexte d&amp;rsquo;une évolution des pratiques de conception des objets éditoriaux vers la programmation informatique suite à l&amp;rsquo;apparition des supports électronique et du web.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,474 +7,759 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="This is meta description">
-  <meta name="author" content="Johnathan Smith">
-  <meta name="generator" content="Hugo 0.57.2" />
+  <meta name="author" content="Design en Recherche">
+  <meta name="generator" content="Hugo 0.56.3" />
 
   <style>
     :root{
-      --primary-color:#41228e;
+      --primary-color:;
     }
     </style>
 
   <!-- plugins -->
   
-  <link rel="stylesheet" href="http://contentSite.com/plugins/bootstrap/bootstrap.min.css ">
-  
-  <link rel="stylesheet" href="http://contentSite.com/plugins/slick/slick.css ">
-  
-  <link rel="stylesheet" href="http://contentSite.com/plugins/themify-icons/themify-icons.css ">
-  
+
 
   <!-- Main Stylesheet -->
   
-  <link rel="stylesheet" href="http://contentSite.com/css/style.min.css" integrity="" media="screen">
+
+  
+  <link rel="stylesheet" href="https://designenrecherche.org/scss/main.min.css" media="screen">
+
+  
+  <script src="https://designenrecherche.org/js/masonry.min.js"></script>
+
+
+  
+  <link rel="stylesheet" href="/fonts/sanomat-Sans/stylesheet.css" >
+
+  
 
   <!--Favicon-->
-  <link rel="shortcut icon" href="http://contentSite.com/images/favicon.png " type="image/x-icon">
-  <link rel="icon" href="http://contentSite.com/images/favicon.png " type="image/x-icon">
+  <link rel="shortcut icon" href="https://designenrecherche.org/images/favicon.png " type="image/x-icon">
+  <link rel="icon" href="https://designenrecherche.org/images/favicon.png " type="image/x-icon">
 
-</head><body>
+
+  
+
+</head><body id="page-page">
 <!-- preloader start -->
 <div class="preloader">
   
 </div>
 <!-- preloader end -->
-<header class="navigation fixed-top">
-  <nav class="navbar navbar-expand-lg navbar-dark">
-    <a class="navbar-brand" href="http://contentSite.com"><img src="http://contentSite.com/images/logo.png" alt="Design en Recherche"></a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
-      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
+<header id="header" class="header-small">
+  <input 	type="checkbox" id="toggle-menu" name="toggle-menu" value="menu-visibility" hidden />
+  <label aria-label="open-close-menu" id="label-toggle-menu" for="toggle-menu" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+    <span id="logo-small" aria-hidden="true"><svg width="100%" height="100%" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:1.5;">
+    <g id="fond" transform="matrix(1.03887,0,0,1.03887,-3.27717,-2.27579)"><circle cx="31.989" cy="31.158" r="28.844"/></g>
+    <path id="trait-bas" class="trait" d="M15.38,41.832L37.463,44.928" style="fill:none;stroke:white;stroke-width:2px;"/>
+    <path id="trait-haut" class="trait" d="M50.725,19.181L7.442,22.993" style="fill:none;stroke:white;stroke-width:2px;"/>
+</svg>
+</span>
+    <p id="close-menu">&times;</p>
+  </label>
 
-    <div class="collapse navbar-collapse text-center" id="navigation">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="http://contentSite.com"> Home </a>
+    <div id="header-logo" aria-label="Design en Recherche, le réseau des jeunes chercheurs en design">     
+      <div id="logo" aria-hidden="true">
+<svg width="100%" height="100%" viewBox="0 0 1089 787" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="logo" transform="matrix(1.00964,0,0,0.729653,-1.45662,-0.753341)">
+        <rect x="1.443" y="1.032" width="1078.24" height="1078.24" style="fill:none;"/>
+        <g id="haut">
+            <g id="design" transform="matrix(0.990455,0,0,1.37051,56.9598,50.5637)">
+                <g transform="matrix(114,0,0,114,-32.2418,108.057)">
+                    <path d="M0.305,-0.12C0.327,-0.12 0.346,-0.123 0.362,-0.13C0.377,-0.136 0.391,-0.145 0.404,-0.156L0.404,-0.401C0.391,-0.412 0.378,-0.421 0.363,-0.427C0.347,-0.433 0.329,-0.436 0.308,-0.436C0.273,-0.436 0.245,-0.422 0.225,-0.394C0.205,-0.366 0.195,-0.325 0.195,-0.271C0.195,-0.218 0.205,-0.18 0.226,-0.156C0.247,-0.132 0.273,-0.12 0.305,-0.12ZM0.419,-0.071C0.4,-0.044 0.377,-0.024 0.35,-0.009C0.323,0.006 0.29,0.013 0.251,0.013C0.217,0.013 0.186,0.007 0.158,-0.005C0.129,-0.017 0.105,-0.035 0.085,-0.059C0.064,-0.082 0.048,-0.112 0.038,-0.147C0.027,-0.182 0.021,-0.224 0.021,-0.271C0.021,-0.319 0.027,-0.361 0.039,-0.398C0.05,-0.435 0.067,-0.465 0.088,-0.49C0.109,-0.514 0.133,-0.532 0.162,-0.545C0.191,-0.557 0.222,-0.563 0.256,-0.563C0.289,-0.563 0.318,-0.558 0.342,-0.547C0.366,-0.536 0.387,-0.52 0.404,-0.501L0.404,-0.722L0.576,-0.751L0.576,0L0.436,0L0.419,-0.071Z" style="fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(114,0,0,114,38.6662,108.057)">
+                    <path d="M0.296,-0.447C0.268,-0.447 0.245,-0.439 0.227,-0.422C0.209,-0.405 0.197,-0.378 0.191,-0.341L0.384,-0.341C0.382,-0.377 0.374,-0.404 0.36,-0.421C0.346,-0.438 0.325,-0.447 0.296,-0.447ZM0.53,-0.028C0.511,-0.018 0.486,-0.009 0.453,0C0.42,0.009 0.38,0.013 0.332,0.013C0.227,0.013 0.148,-0.013 0.097,-0.065C0.046,-0.117 0.02,-0.189 0.02,-0.28C0.02,-0.321 0.027,-0.359 0.04,-0.394C0.053,-0.429 0.071,-0.458 0.095,-0.484C0.119,-0.509 0.148,-0.528 0.182,-0.542C0.216,-0.556 0.254,-0.563 0.295,-0.563C0.335,-0.563 0.371,-0.557 0.404,-0.544C0.437,-0.531 0.464,-0.512 0.486,-0.485C0.508,-0.458 0.524,-0.424 0.534,-0.383C0.544,-0.341 0.546,-0.291 0.541,-0.233L0.189,-0.233C0.196,-0.191 0.212,-0.161 0.238,-0.143C0.263,-0.125 0.3,-0.116 0.348,-0.116C0.387,-0.116 0.42,-0.12 0.447,-0.128C0.474,-0.135 0.499,-0.145 0.523,-0.156L0.53,-0.153L0.53,-0.028Z" style="fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(114,0,0,114,103.532,108.057)">
+                    <path d="M0.215,0.012C0.168,0.012 0.13,0.008 0.101,-0.002C0.071,-0.011 0.045,-0.022 0.023,-0.035L0.023,-0.164L0.029,-0.167C0.052,-0.15 0.078,-0.136 0.107,-0.126C0.136,-0.116 0.168,-0.111 0.201,-0.111C0.228,-0.111 0.248,-0.115 0.261,-0.124C0.274,-0.132 0.28,-0.143 0.28,-0.158C0.28,-0.171 0.276,-0.181 0.267,-0.187C0.258,-0.192 0.241,-0.198 0.216,-0.204L0.167,-0.216C0.123,-0.227 0.088,-0.245 0.061,-0.272C0.034,-0.298 0.021,-0.335 0.021,-0.384C0.021,-0.439 0.04,-0.482 0.078,-0.515C0.116,-0.548 0.169,-0.564 0.236,-0.564C0.273,-0.564 0.305,-0.561 0.332,-0.556C0.359,-0.551 0.384,-0.543 0.405,-0.534L0.405,-0.41L0.399,-0.407C0.38,-0.417 0.357,-0.426 0.33,-0.433C0.303,-0.44 0.273,-0.443 0.241,-0.443C0.215,-0.443 0.197,-0.439 0.188,-0.432C0.178,-0.425 0.173,-0.414 0.173,-0.401C0.173,-0.388 0.177,-0.379 0.185,-0.373C0.193,-0.366 0.206,-0.361 0.225,-0.356L0.274,-0.344C0.302,-0.337 0.326,-0.329 0.347,-0.32C0.368,-0.311 0.385,-0.301 0.399,-0.288C0.413,-0.275 0.423,-0.26 0.43,-0.243C0.437,-0.225 0.44,-0.203 0.44,-0.178C0.44,-0.117 0.42,-0.071 0.38,-0.038C0.34,-0.005 0.285,0.012 0.215,0.012Z" style="fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(114,0,0,114,155.858,108.057)">
+                    <path d="M0.048,-0.745L0.219,-0.745L0.219,-0.606L0.048,-0.606L0.048,-0.745ZM0.048,-0.55L0.22,-0.55L0.22,0L0.048,0L0.048,-0.55Z" style="fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(114,0,0,114,185.84,108.057)">
+                    <path d="M0.262,-0.291C0.285,-0.291 0.303,-0.298 0.318,-0.313C0.332,-0.328 0.339,-0.348 0.339,-0.374C0.339,-0.401 0.332,-0.421 0.318,-0.436C0.303,-0.451 0.285,-0.458 0.262,-0.458C0.239,-0.458 0.221,-0.451 0.207,-0.436C0.192,-0.421 0.185,-0.401 0.185,-0.374C0.185,-0.348 0.192,-0.328 0.207,-0.313C0.221,-0.298 0.239,-0.291 0.262,-0.291ZM0.262,0.222C0.175,0.222 0.109,0.212 0.065,0.191C0.021,0.17 -0.001,0.138 0,0.094C0,0.079 0.003,0.065 0.009,0.053C0.015,0.041 0.022,0.032 0.029,0.025L0.163,0.025L0.166,0.031C0.163,0.034 0.161,0.039 0.159,0.044C0.157,0.049 0.156,0.056 0.156,0.064C0.156,0.079 0.164,0.091 0.181,0.1C0.197,0.108 0.224,0.112 0.262,0.112C0.304,0.112 0.335,0.106 0.356,0.093C0.376,0.08 0.386,0.064 0.386,0.045C0.386,0.032 0.382,0.023 0.374,0.019C0.366,0.015 0.352,0.012 0.333,0.011L0.184,0.005C0.159,0.004 0.137,0.001 0.119,-0.006C0.101,-0.013 0.086,-0.021 0.075,-0.031C0.063,-0.041 0.054,-0.053 0.049,-0.066C0.044,-0.079 0.041,-0.093 0.041,-0.108C0.041,-0.135 0.048,-0.158 0.062,-0.178C0.076,-0.198 0.096,-0.214 0.121,-0.226C0.092,-0.241 0.069,-0.262 0.054,-0.287C0.038,-0.312 0.03,-0.342 0.03,-0.375C0.03,-0.402 0.035,-0.428 0.047,-0.451C0.057,-0.474 0.073,-0.493 0.093,-0.51C0.113,-0.526 0.137,-0.539 0.166,-0.548C0.194,-0.557 0.226,-0.562 0.261,-0.562C0.284,-0.562 0.305,-0.56 0.326,-0.556C0.346,-0.551 0.365,-0.545 0.382,-0.538L0.548,-0.557L0.548,-0.437L0.476,-0.437C0.481,-0.426 0.486,-0.415 0.489,-0.403C0.492,-0.391 0.493,-0.378 0.493,-0.365C0.493,-0.341 0.488,-0.319 0.478,-0.298C0.467,-0.277 0.452,-0.258 0.432,-0.243C0.412,-0.228 0.388,-0.216 0.359,-0.207C0.33,-0.198 0.298,-0.194 0.261,-0.194C0.24,-0.194 0.222,-0.195 0.207,-0.198C0.19,-0.189 0.181,-0.177 0.181,-0.16C0.181,-0.151 0.185,-0.145 0.192,-0.142C0.199,-0.139 0.209,-0.137 0.222,-0.136L0.374,-0.129C0.429,-0.126 0.473,-0.113 0.504,-0.09C0.535,-0.066 0.551,-0.027 0.551,0.027C0.551,0.086 0.527,0.134 0.478,0.169C0.429,0.204 0.357,0.222 0.262,0.222Z" style="fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(114,0,0,114,249.224,108.057)">
+                    <path d="M0.307,-0.427C0.29,-0.427 0.274,-0.424 0.26,-0.419C0.245,-0.414 0.231,-0.406 0.218,-0.395L0.218,0L0.046,0L0.046,-0.55L0.197,-0.55L0.208,-0.478C0.217,-0.489 0.228,-0.499 0.239,-0.51C0.25,-0.52 0.263,-0.529 0.277,-0.537C0.291,-0.545 0.307,-0.551 0.324,-0.556C0.341,-0.561 0.36,-0.563 0.381,-0.563C0.406,-0.563 0.43,-0.559 0.452,-0.552C0.473,-0.545 0.492,-0.533 0.508,-0.518C0.523,-0.502 0.536,-0.482 0.545,-0.458C0.554,-0.433 0.558,-0.404 0.558,-0.37L0.558,0L0.385,0L0.385,-0.342C0.385,-0.373 0.378,-0.395 0.364,-0.408C0.349,-0.421 0.33,-0.427 0.307,-0.427Z" style="fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="en" transform="matrix(0.990455,0,0,1.37051,939.605,-14.1574)">
+                <text x="-32.242px" y="108.057px" style="font-family:'SanomatSans-Bold', 'Sanomat Sans';font-weight:700;font-size:114px;">en</text>
+            </g>
+            <g id="forme" transform="matrix(0.990455,0,0,1.37051,1.44272,1.03247)">
+                <path d="M160.137,213.438L1044.76,134.381L1043.15,116.452L158.535,195.509L160.137,213.438Z"/>
+            </g>
+        </g>
+        <g id="bas">
+            <g id="texte" transform="matrix(0.990455,0,0,1.37051,408.412,868.897)">
+                <g transform="matrix(114,0,0,114,-32.2418,108.057)">
+                    <path d="M0.352,-0.394C0.321,-0.394 0.295,-0.391 0.274,-0.385C0.253,-0.378 0.234,-0.366 0.218,-0.349L0.218,0L0.046,0L0.046,-0.55L0.197,-0.55L0.209,-0.456C0.216,-0.469 0.225,-0.481 0.235,-0.494C0.245,-0.506 0.256,-0.517 0.269,-0.527C0.282,-0.536 0.296,-0.544 0.312,-0.55C0.327,-0.556 0.344,-0.559 0.362,-0.559C0.371,-0.559 0.379,-0.559 0.387,-0.558C0.394,-0.557 0.401,-0.556 0.406,-0.555L0.406,-0.393L0.4,-0.389C0.385,-0.392 0.369,-0.394 0.352,-0.394Z" style="fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(114,0,0,114,15.2962,108.057)">
+                    <path d="M0.296,-0.447C0.268,-0.447 0.245,-0.439 0.227,-0.422C0.209,-0.405 0.197,-0.378 0.191,-0.341L0.384,-0.341C0.382,-0.377 0.374,-0.404 0.36,-0.421C0.346,-0.438 0.325,-0.447 0.296,-0.447ZM0.53,-0.028C0.511,-0.018 0.486,-0.009 0.453,0C0.42,0.009 0.38,0.013 0.332,0.013C0.227,0.013 0.148,-0.013 0.097,-0.065C0.046,-0.117 0.02,-0.189 0.02,-0.28C0.02,-0.321 0.027,-0.359 0.04,-0.394C0.053,-0.429 0.071,-0.458 0.095,-0.484C0.119,-0.509 0.148,-0.528 0.182,-0.542C0.216,-0.556 0.254,-0.563 0.295,-0.563C0.335,-0.563 0.371,-0.557 0.404,-0.544C0.437,-0.531 0.464,-0.512 0.486,-0.485C0.508,-0.458 0.524,-0.424 0.534,-0.383C0.544,-0.341 0.546,-0.291 0.541,-0.233L0.189,-0.233C0.196,-0.191 0.212,-0.161 0.238,-0.143C0.263,-0.125 0.3,-0.116 0.348,-0.116C0.387,-0.116 0.42,-0.12 0.447,-0.128C0.474,-0.135 0.499,-0.145 0.523,-0.156L0.53,-0.153L0.53,-0.028Z" style="fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(114,0,0,114,79.5922,108.057)">
+                    <path d="M0.319,0.013C0.273,0.013 0.232,0.007 0.195,-0.006C0.158,-0.019 0.126,-0.037 0.101,-0.062C0.075,-0.087 0.055,-0.117 0.041,-0.153C0.027,-0.189 0.02,-0.23 0.02,-0.276C0.02,-0.323 0.028,-0.364 0.043,-0.4C0.058,-0.436 0.078,-0.466 0.105,-0.49C0.131,-0.514 0.162,-0.532 0.199,-0.545C0.235,-0.557 0.274,-0.563 0.316,-0.563C0.35,-0.563 0.38,-0.56 0.405,-0.554C0.43,-0.547 0.451,-0.539 0.466,-0.53L0.466,-0.403L0.459,-0.4C0.442,-0.411 0.425,-0.419 0.406,-0.426C0.387,-0.432 0.365,-0.435 0.338,-0.435C0.319,-0.435 0.3,-0.432 0.283,-0.426C0.266,-0.419 0.251,-0.41 0.238,-0.397C0.225,-0.384 0.215,-0.367 0.208,-0.347C0.201,-0.327 0.197,-0.303 0.197,-0.276C0.197,-0.221 0.21,-0.18 0.237,-0.153C0.264,-0.126 0.298,-0.113 0.34,-0.113C0.369,-0.113 0.393,-0.117 0.414,-0.125C0.434,-0.132 0.453,-0.142 0.47,-0.154L0.478,-0.151L0.478,-0.03C0.463,-0.019 0.442,-0.009 0.416,0C0.389,0.009 0.357,0.013 0.319,0.013Z" style="fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(114,0,0,114,136.934,108.057)">
+                    <path d="M0.307,-0.427C0.29,-0.427 0.274,-0.424 0.26,-0.419C0.245,-0.413 0.231,-0.405 0.218,-0.394L0.218,0L0.046,0L0.046,-0.722L0.218,-0.751L0.218,-0.483C0.227,-0.494 0.238,-0.504 0.249,-0.514C0.26,-0.523 0.272,-0.532 0.286,-0.539C0.299,-0.546 0.314,-0.552 0.331,-0.557C0.347,-0.561 0.365,-0.563 0.385,-0.563C0.437,-0.563 0.479,-0.548 0.511,-0.517C0.542,-0.486 0.558,-0.437 0.558,-0.37L0.558,0L0.385,0L0.385,-0.342C0.385,-0.373 0.378,-0.395 0.364,-0.408C0.349,-0.421 0.33,-0.427 0.307,-0.427Z" style="fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(114,0,0,114,205.448,108.057)">
+                    <path d="M0.296,-0.447C0.268,-0.447 0.245,-0.439 0.227,-0.422C0.209,-0.405 0.197,-0.378 0.191,-0.341L0.384,-0.341C0.382,-0.377 0.374,-0.404 0.36,-0.421C0.346,-0.438 0.325,-0.447 0.296,-0.447ZM0.53,-0.028C0.511,-0.018 0.486,-0.009 0.453,0C0.42,0.009 0.38,0.013 0.332,0.013C0.227,0.013 0.148,-0.013 0.097,-0.065C0.046,-0.117 0.02,-0.189 0.02,-0.28C0.02,-0.321 0.027,-0.359 0.04,-0.394C0.053,-0.429 0.071,-0.458 0.095,-0.484C0.119,-0.509 0.148,-0.528 0.182,-0.542C0.216,-0.556 0.254,-0.563 0.295,-0.563C0.335,-0.563 0.371,-0.557 0.404,-0.544C0.437,-0.531 0.464,-0.512 0.486,-0.485C0.508,-0.458 0.524,-0.424 0.534,-0.383C0.544,-0.341 0.546,-0.291 0.541,-0.233L0.189,-0.233C0.196,-0.191 0.212,-0.161 0.238,-0.143C0.263,-0.125 0.3,-0.116 0.348,-0.116C0.387,-0.116 0.42,-0.12 0.447,-0.128C0.474,-0.135 0.499,-0.145 0.523,-0.156L0.53,-0.153L0.53,-0.028Z" style="fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(114,0,0,114,269.744,108.057)">
+                    <path d="M0.352,-0.394C0.321,-0.394 0.295,-0.391 0.274,-0.385C0.253,-0.378 0.234,-0.366 0.218,-0.349L0.218,0L0.046,0L0.046,-0.55L0.197,-0.55L0.209,-0.456C0.216,-0.469 0.225,-0.481 0.235,-0.494C0.245,-0.506 0.256,-0.517 0.269,-0.527C0.282,-0.536 0.296,-0.544 0.312,-0.55C0.327,-0.556 0.344,-0.559 0.362,-0.559C0.371,-0.559 0.379,-0.559 0.387,-0.558C0.394,-0.557 0.401,-0.556 0.406,-0.555L0.406,-0.393L0.4,-0.389C0.385,-0.392 0.369,-0.394 0.352,-0.394Z" style="fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(114,0,0,114,317.282,108.057)">
+                    <path d="M0.319,0.013C0.273,0.013 0.232,0.007 0.195,-0.006C0.158,-0.019 0.126,-0.037 0.101,-0.062C0.075,-0.087 0.055,-0.117 0.041,-0.153C0.027,-0.189 0.02,-0.23 0.02,-0.276C0.02,-0.323 0.028,-0.364 0.043,-0.4C0.058,-0.436 0.078,-0.466 0.105,-0.49C0.131,-0.514 0.162,-0.532 0.199,-0.545C0.235,-0.557 0.274,-0.563 0.316,-0.563C0.35,-0.563 0.38,-0.56 0.405,-0.554C0.43,-0.547 0.451,-0.539 0.466,-0.53L0.466,-0.403L0.459,-0.4C0.442,-0.411 0.425,-0.419 0.406,-0.426C0.387,-0.432 0.365,-0.435 0.338,-0.435C0.319,-0.435 0.3,-0.432 0.283,-0.426C0.266,-0.419 0.251,-0.41 0.238,-0.397C0.225,-0.384 0.215,-0.367 0.208,-0.347C0.201,-0.327 0.197,-0.303 0.197,-0.276C0.197,-0.221 0.21,-0.18 0.237,-0.153C0.264,-0.126 0.298,-0.113 0.34,-0.113C0.369,-0.113 0.393,-0.117 0.414,-0.125C0.434,-0.132 0.453,-0.142 0.47,-0.154L0.478,-0.151L0.478,-0.03C0.463,-0.019 0.442,-0.009 0.416,0C0.389,0.009 0.357,0.013 0.319,0.013Z" style="fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(114,0,0,114,374.624,108.057)">
+                    <path d="M0.307,-0.427C0.29,-0.427 0.274,-0.424 0.26,-0.419C0.245,-0.413 0.231,-0.405 0.218,-0.394L0.218,0L0.046,0L0.046,-0.722L0.218,-0.751L0.218,-0.483C0.227,-0.494 0.238,-0.504 0.249,-0.514C0.26,-0.523 0.272,-0.532 0.286,-0.539C0.299,-0.546 0.314,-0.552 0.331,-0.557C0.347,-0.561 0.365,-0.563 0.385,-0.563C0.437,-0.563 0.479,-0.548 0.511,-0.517C0.542,-0.486 0.558,-0.437 0.558,-0.37L0.558,0L0.385,0L0.385,-0.342C0.385,-0.373 0.378,-0.395 0.364,-0.408C0.349,-0.421 0.33,-0.427 0.307,-0.427Z" style="fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(114,0,0,114,443.138,108.057)">
+                    <path d="M0.296,-0.447C0.268,-0.447 0.245,-0.439 0.227,-0.422C0.209,-0.405 0.197,-0.378 0.191,-0.341L0.384,-0.341C0.382,-0.377 0.374,-0.404 0.36,-0.421C0.346,-0.438 0.325,-0.447 0.296,-0.447ZM0.53,-0.028C0.511,-0.018 0.486,-0.009 0.453,0C0.42,0.009 0.38,0.013 0.332,0.013C0.227,0.013 0.148,-0.013 0.097,-0.065C0.046,-0.117 0.02,-0.189 0.02,-0.28C0.02,-0.321 0.027,-0.359 0.04,-0.394C0.053,-0.429 0.071,-0.458 0.095,-0.484C0.119,-0.509 0.148,-0.528 0.182,-0.542C0.216,-0.556 0.254,-0.563 0.295,-0.563C0.335,-0.563 0.371,-0.557 0.404,-0.544C0.437,-0.531 0.464,-0.512 0.486,-0.485C0.508,-0.458 0.524,-0.424 0.534,-0.383C0.544,-0.341 0.546,-0.291 0.541,-0.233L0.189,-0.233C0.196,-0.191 0.212,-0.161 0.238,-0.143C0.263,-0.125 0.3,-0.116 0.348,-0.116C0.387,-0.116 0.42,-0.12 0.447,-0.128C0.474,-0.135 0.499,-0.145 0.523,-0.156L0.53,-0.153L0.53,-0.028Z" style="fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g transform="matrix(0.990455,0,0,1.37051,1.44272,1.03247)">
+                <path d="M320.999,596.351L771.843,659.231L774.33,641.404L323.486,578.524L320.999,596.351Z"/>
+            </g>
+        </g>
+    </g>
+</svg>
+</div>
+      <h1><a href="https://designenrecherche.org/">Design en recherche</a></h1> 
+    </div>
+
+
+    <div id="navigation">
+    
+      <ul id="list-nav">
+        <li>
+          <a href="https://designenrecherche.org/"> Accueil </a>
         </li>
         
         
         
         
         
-        <li class="nav-item ">
-          <a class="nav-link" href="http://contentSite.com/about">About</a>
+        <li class="">
+          <a href="https://designenrecherche.org/about">L’association</a>
         </li>
         
         
         
         
         
-        <li class="nav-item ">
-          <a class="nav-link" href="http://contentSite.com/breves">Brèves</a>
+        <li class="">
+          <a href="https://designenrecherche.org/actions">Nos actions</a>
         </li>
         
         
         
         
         
-        <li class="nav-item ">
-          <a class="nav-link" href="http://contentSite.com/membres">Membres</a>
+        <li class="">
+          <a href="https://designenrecherche.org/membres">Annuaire des membres</a>
         </li>
         
         
         
         
         
-        <li class="nav-item ">
-          <a class="nav-link" href="http://contentSite.com/contact">Contact</a>
+        <li class="">
+          <a href="https://designenrecherche.org/breves">Brèves</a>
+        </li>
+        
+        
+        
+        
+        
+        <li class="">
+          <a href="https://designenrecherche.org/tags">Mot-clés</a>
+        </li>
+        
+        
+        
+        
+        
+        <li class="">
+          <a href="https://designenrecherche.org/contact-adhesion">Nous contacter &amp; Adhérer</a>
         </li>
         
         
       </ul>
+
+      <ul class="socials">
+        
+        <li><span class="icon-svg" aria-hidden="true"><svg version="1.1" class="icon-twitter-wvg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve"> <path d="M53.9,19c2.4-1.7,4.4-3.8,6.1-6.3v0c-2.2,1-4.5,1.6-7,1.9c2.5-1.5,4.4-3.8,5.3-6.7c-2.3,1.4-4.9,2.4-7.7,2.9 c-2.2-2.4-5.4-3.8-8.8-3.8c-6.7,0-12.1,5.4-12.1,12.1c0,1,0.1,1.9,0.3,2.8C20,21.4,11.1,16.6,5.1,9.3c-1,1.8-1.7,3.9-1.7,6.1 c0,4.2,2.2,7.9,5.4,10.1c-1.9,0-3.8-0.6-5.5-1.5v0.1c0,5.9,4.2,10.8,9.7,11.9c-1,0.3-2.1,0.4-3.2,0.4c-0.8,0-1.6,0-2.3-0.2 c1.6,4.8,6,8.3,11.3,8.4c-4.1,3.2-9.3,5.2-15,5.2c-1,0-1.9,0-2.9-0.2C6.4,53,12.7,55,19.6,55C40.9,55,54.8,37.2,53.9,19L53.9,19z"/></svg></span><a target="_blank" href="https://twitter.com/DesignRecherche">Twitter</a></li>
+        
+        <li><span class="icon-svg" aria-hidden="true"><svg version="1.1" class="icon-instagram-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve"><g><path d="M59.8,17.6c-0.1-3.2-0.7-5.4-1.4-7.3c-0.8-2-1.9-3.8-3.5-5.3c-1.5-1.5-3.3-2.7-5.3-3.5c-1.9-0.7-4.1-1.3-7.3-1.4 C39.2,0,38.2,0,30,0s-9.2,0-12.4,0.2c-3.2,0.1-5.4,0.7-7.3,1.4C8.3,2.3,6.5,3.5,5,5c-1.5,1.5-2.7,3.3-3.5,5.3 c-0.7,1.9-1.3,4.1-1.4,7.3C0,20.8,0,21.9,0,30s0,9.2,0.2,12.4c0.1,3.2,0.7,5.4,1.4,7.3c0.8,2,1.9,3.8,3.5,5.3 c1.5,1.5,3.3,2.7,5.3,3.5c1.9,0.7,4.1,1.3,7.3,1.4C20.8,60,21.9,60,30,60s9.2,0,12.4-0.2c3.2-0.1,5.4-0.7,7.3-1.4 c4-1.6,7.2-4.7,8.8-8.8c0.7-1.9,1.3-4.1,1.4-7.3C60,39.2,60,38.1,60,30S60,20.8,59.8,17.6z M54.4,42.1c-0.1,2.9-0.6,4.5-1,5.6 c-1,2.6-3.1,4.7-5.7,5.7c-1.1,0.4-2.6,0.9-5.6,1C39,54.6,38,54.6,30,54.6s-9,0-12.1-0.2c-2.9-0.1-4.5-0.6-5.6-1 c-1.3-0.5-2.5-1.2-3.4-2.2c-1-1-1.8-2.1-2.2-3.4c-0.4-1.1-0.9-2.6-1-5.6C5.5,39,5.4,38,5.4,30s0-9,0.2-12.1c0.1-2.9,0.6-4.5,1-5.6 C7.1,11,7.9,9.8,8.9,8.9c1-1,2.1-1.8,3.4-2.2c1.1-0.4,2.6-0.9,5.6-1C21.1,5.5,22,5.4,30,5.4c8,0,9,0,12.1,0.2 c2.9,0.1,4.5,0.6,5.6,1c1.3,0.5,2.5,1.2,3.4,2.2c1,1,1.8,2.1,2.2,3.4c0.4,1.1,0.9,2.6,1,5.6c0.1,3.2,0.2,4.1,0.2,12.1 S54.6,39,54.4,42.1z"/><path d="M30,14.6c-8.5,0-15.4,6.9-15.4,15.4S21.5,45.4,30,45.4c8.5,0,15.4-6.9,15.4-15.4S38.5,14.6,30,14.6z M30,40 c-5.5,0-10-4.5-10-10s4.5-10,10-10c5.5,0,10,4.5,10,10S35.5,40,30,40z"/><path d="M49.6,14c0,2-1.6,3.6-3.6,3.6c-2,0-3.6-1.6-3.6-3.6c0-2,1.6-3.6,3.6-3.6C48,10.4,49.6,12,49.6,14z"/></g></svg></span><a target="_blank" href="https://www.instagram.com/designenrecherche/">Instagram</a></li>
+        
+        <li><span class="icon-svg" aria-hidden="true"><svg version="1.1" class="icon-facebook-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve"><path d="M38.5,10H44V0.4C43.1,0.3,39.8,0,36,0c-7.9,0-13.3,5-13.3,14.1v8.4H14v10.7h8.7V60h10.7V33.2h8.4l1.3-10.7h-9.7v-7.3C33.4,12.1,34.2,10,38.5,10L38.5,10z"/></svg></span><a target="_blank" href="https://www.facebook.com/designrecherche/">Facebook</a></li>
+        
+        <li><span class="icon-svg" aria-hidden="true"><svg version="1.1" class="icon-open-edition" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve"><path d="M31.8,0c1.4,0.3,2.8,0.6,4.2,0.9c10.1,2.3,17.2,12.2,16.1,22.2c-0.3,2.3-1.3,4-3.2,5.3C44.6,31,40,31,35,30 c1.2-1.4,2.3-2.5,3.1-3.8C40.8,22.2,39.8,17,36,14c-3.7-3-8.6-2.6-12,0.8c-3.3,3.4-3.8,8.6-1,12.7c3.3,4.8,8.3,6.6,13.8,7.1 c4.7,0.4,9.1-0.8,13.6-3.1c-1.4,3.5-3.6,6-6.2,8.1c-2.7,2.1-5.7,3.7-9.2,4.2c-1.7,0.3-2.3,1.1-2.4,2.7c-0.3,4-0.7,8-1.1,12 c-0.1,0.5-0.8,1-1.2,1.5c-0.4-0.5-1.1-1-1.1-1.5c-0.5-4-0.9-8-1.2-12c-0.1-1.7-0.8-2.4-2.6-2.8C15,41.2,8.1,31.7,8.8,20.5 C9.3,10.4,17.6,1.7,27.9,0.5C28.5,0.4,29,0.2,29.5,0C30.3,0,31,0,31.8,0z"/><path d="M4,39c7.6-0.7,18.9,5.7,21.9,14.9C20.1,56.1,5.6,47.5,4,39z"/><path d="M34.5,59.8c2.7-7.3,15.4-15.4,22.4-14.5C54.5,53.8,42.7,61,34.5,59.8z"/></svg></span><a target="_blank" href="http://design.hypotheses.org/">Hypotheses</a></li>
+        
+      </ul>
     </div>
-  </nav>
+
+
+  
+
+
+
 </header>
 
-  
-  <section class="hero-area bg-primary overflow-hidden" id="parallax">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-11 mx-auto">
-          <h1 class="text-white font-tertiary">Design en recherche</h1>
-          <h2 class="text-white font-tertiary">Le réseau des jeunes chercheur•euse•s en design</h2>
-        </div>
-      </div>
-    </div>
-    <div class="layer-bg w-100">
-      <img class="img-fluid w-100" src="/images/illustrations/leaf-bg.png" alt="bg-shape">
-    </div>
-    <div class="layer" id="l2">
-      <img src="/images/illustrations/dots-cyan.svg" alt="bg-shape">
-    </div>
-    <div class="layer" id="l3">
-      <img src="/images/illustrations/leaf-orange.svg" alt="bg-shape">
-    </div>
-    <div class="layer" id="l4">
-      <img src="/images/illustrations/dots-orange.svg" alt="bg-shape">
-    </div>
-    <div class="layer" id="l5">
-      <img src="/images/illustrations/leaf-yellow.svg" alt="bg-shape">
-    </div>
-    <div class="layer" id="l6">
-      <img src="/images/illustrations/leaf-cyan.svg" alt="bg-shape">
-    </div>
-    <div class="layer" id="l7">
-      <img src="/images/illustrations/dots-group-orange.svg" alt="bg-shape">
-    </div>
-    <div class="layer" id="l8">
-      <img src="/images/illustrations/leaf-pink-round.svg" alt="bg-shape">
-    </div>
-    <div class="layer" id="l9">
-      <img src="/images/illustrations/leaf-cyan-2.svg" alt="bg-shape">
-    </div>
-    
-    <ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
+<p id="baseline" aria-hidden="true">le&nbsp;réseau des&nbsp;jeunes&nbsp;chercheur·e·s en&nbsp;design</p>
+<main role="main" id="main-page">
+ 
+<div id="cache">
+  <h1>Design en recherche</h1>
+    <p>Notre site se refait une beauté,<br>
+    on revient très vite :)</p>
+    <p>En attendant, retrouvez-nous sur les réseaux sociaux: </p>
+    <ul>
       
-      <li class="mb-3"><a class="text-white" href="#"><i class="ti-facebook"></i></a></li>
+      <li><a target="_blank" href="https://twitter.com/DesignRecherche"><span class="icon-svg" aria-hidden="true"><svg version="1.1" class="icon-twitter-wvg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve"> <path d="M53.9,19c2.4-1.7,4.4-3.8,6.1-6.3v0c-2.2,1-4.5,1.6-7,1.9c2.5-1.5,4.4-3.8,5.3-6.7c-2.3,1.4-4.9,2.4-7.7,2.9 c-2.2-2.4-5.4-3.8-8.8-3.8c-6.7,0-12.1,5.4-12.1,12.1c0,1,0.1,1.9,0.3,2.8C20,21.4,11.1,16.6,5.1,9.3c-1,1.8-1.7,3.9-1.7,6.1 c0,4.2,2.2,7.9,5.4,10.1c-1.9,0-3.8-0.6-5.5-1.5v0.1c0,5.9,4.2,10.8,9.7,11.9c-1,0.3-2.1,0.4-3.2,0.4c-0.8,0-1.6,0-2.3-0.2 c1.6,4.8,6,8.3,11.3,8.4c-4.1,3.2-9.3,5.2-15,5.2c-1,0-1.9,0-2.9-0.2C6.4,53,12.7,55,19.6,55C40.9,55,54.8,37.2,53.9,19L53.9,19z"/></svg></span>Twitter</a></li>
       
-      <li class="mb-3"><a class="text-white" href="#"><i class="ti-instagram"></i></a></li>
+      <li><a target="_blank" href="https://www.instagram.com/designenrecherche/"><span class="icon-svg" aria-hidden="true"><svg version="1.1" class="icon-instagram-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve"><g><path d="M59.8,17.6c-0.1-3.2-0.7-5.4-1.4-7.3c-0.8-2-1.9-3.8-3.5-5.3c-1.5-1.5-3.3-2.7-5.3-3.5c-1.9-0.7-4.1-1.3-7.3-1.4 C39.2,0,38.2,0,30,0s-9.2,0-12.4,0.2c-3.2,0.1-5.4,0.7-7.3,1.4C8.3,2.3,6.5,3.5,5,5c-1.5,1.5-2.7,3.3-3.5,5.3 c-0.7,1.9-1.3,4.1-1.4,7.3C0,20.8,0,21.9,0,30s0,9.2,0.2,12.4c0.1,3.2,0.7,5.4,1.4,7.3c0.8,2,1.9,3.8,3.5,5.3 c1.5,1.5,3.3,2.7,5.3,3.5c1.9,0.7,4.1,1.3,7.3,1.4C20.8,60,21.9,60,30,60s9.2,0,12.4-0.2c3.2-0.1,5.4-0.7,7.3-1.4 c4-1.6,7.2-4.7,8.8-8.8c0.7-1.9,1.3-4.1,1.4-7.3C60,39.2,60,38.1,60,30S60,20.8,59.8,17.6z M54.4,42.1c-0.1,2.9-0.6,4.5-1,5.6 c-1,2.6-3.1,4.7-5.7,5.7c-1.1,0.4-2.6,0.9-5.6,1C39,54.6,38,54.6,30,54.6s-9,0-12.1-0.2c-2.9-0.1-4.5-0.6-5.6-1 c-1.3-0.5-2.5-1.2-3.4-2.2c-1-1-1.8-2.1-2.2-3.4c-0.4-1.1-0.9-2.6-1-5.6C5.5,39,5.4,38,5.4,30s0-9,0.2-12.1c0.1-2.9,0.6-4.5,1-5.6 C7.1,11,7.9,9.8,8.9,8.9c1-1,2.1-1.8,3.4-2.2c1.1-0.4,2.6-0.9,5.6-1C21.1,5.5,22,5.4,30,5.4c8,0,9,0,12.1,0.2 c2.9,0.1,4.5,0.6,5.6,1c1.3,0.5,2.5,1.2,3.4,2.2c1,1,1.8,2.1,2.2,3.4c0.4,1.1,0.9,2.6,1,5.6c0.1,3.2,0.2,4.1,0.2,12.1 S54.6,39,54.4,42.1z"/><path d="M30,14.6c-8.5,0-15.4,6.9-15.4,15.4S21.5,45.4,30,45.4c8.5,0,15.4-6.9,15.4-15.4S38.5,14.6,30,14.6z M30,40 c-5.5,0-10-4.5-10-10s4.5-10,10-10c5.5,0,10,4.5,10,10S35.5,40,30,40z"/><path d="M49.6,14c0,2-1.6,3.6-3.6,3.6c-2,0-3.6-1.6-3.6-3.6c0-2,1.6-3.6,3.6-3.6C48,10.4,49.6,12,49.6,14z"/></g></svg></span>Instagram</a></li>
       
-      <li class="mb-3"><a class="text-white" href="#"><i class="ti-dribbble"></i></a></li>
+      <li><a target="_blank" href="https://www.facebook.com/designrecherche/"><span class="icon-svg" aria-hidden="true"><svg version="1.1" class="icon-facebook-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve"><path d="M38.5,10H44V0.4C43.1,0.3,39.8,0,36,0c-7.9,0-13.3,5-13.3,14.1v8.4H14v10.7h8.7V60h10.7V33.2h8.4l1.3-10.7h-9.7v-7.3C33.4,12.1,34.2,10,38.5,10L38.5,10z"/></svg></span>Facebook</a></li>
       
-      <li class="mb-3"><a class="text-white" href="#"><i class="ti-twitter-alt"></i></a></li>
+      <li><a target="_blank" href="http://design.hypotheses.org/"><span class="icon-svg" aria-hidden="true"><svg version="1.1" class="icon-open-edition" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve"><path d="M31.8,0c1.4,0.3,2.8,0.6,4.2,0.9c10.1,2.3,17.2,12.2,16.1,22.2c-0.3,2.3-1.3,4-3.2,5.3C44.6,31,40,31,35,30 c1.2-1.4,2.3-2.5,3.1-3.8C40.8,22.2,39.8,17,36,14c-3.7-3-8.6-2.6-12,0.8c-3.3,3.4-3.8,8.6-1,12.7c3.3,4.8,8.3,6.6,13.8,7.1 c4.7,0.4,9.1-0.8,13.6-3.1c-1.4,3.5-3.6,6-6.2,8.1c-2.7,2.1-5.7,3.7-9.2,4.2c-1.7,0.3-2.3,1.1-2.4,2.7c-0.3,4-0.7,8-1.1,12 c-0.1,0.5-0.8,1-1.2,1.5c-0.4-0.5-1.1-1-1.1-1.5c-0.5-4-0.9-8-1.2-12c-0.1-1.7-0.8-2.4-2.6-2.8C15,41.2,8.1,31.7,8.8,20.5 C9.3,10.4,17.6,1.7,27.9,0.5C28.5,0.4,29,0.2,29.5,0C30.3,0,31,0,31.8,0z"/><path d="M4,39c7.6-0.7,18.9,5.7,21.9,14.9C20.1,56.1,5.6,47.5,4,39z"/><path d="M34.5,59.8c2.7-7.3,15.4-15.4,22.4-14.5C54.5,53.8,42.7,61,34.5,59.8z"/></svg></span>Hypotheses</a></li>
       
     </ul>
-    
+    <p class="contact">Contact: designenrecherche@gmail.com – <a href="https://www.helloasso.com/associations/design-en-recherche-le-reseau-des-jeunes-chercheurs-en-design">Adhérer</a></p> 
+</div> 
+
+
+
+
+
+  <section id="about" class="section-home">
+    <div class="container-about">
+      
+
+      <h1 class="section-title"><a href="">L&#39;association</a></h1>
+
+      
+      <p>Le groupe de travail «&#8239;Design en recherche&#8239;», formé en mars&nbsp;2013, est&nbsp;un&nbsp;réseau de doctorant·e·s et&nbsp;jeunes docteur·e·s dont les&nbsp;recherches portent sur les&nbsp;thématiques émergentes d’étude et&nbsp;de&nbsp;pratique du&nbsp;design. Constituée en&nbsp;association (loi&nbsp;1901) depuis décembre&nbsp;2013, nous&nbsp;sommes persuadé·e·s de&nbsp;l’intérêt scientifique des espaces de collaboration entre les jeunes chercheur·se·s issu·e·s d’horizons disciplinaires, institutionnels et géographiques divers, mais travaillant sur des thèmes communs.</p>
+      
+
+      
+      <p class="socials-baseline">Retrouvez-nous sur les réseaux sociaux:</p>
+        
+        <ul class="socials">
+          
+          <li><span class="icon-svg" aria-hidden="true"><svg version="1.1" class="icon-twitter-wvg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve"> <path d="M53.9,19c2.4-1.7,4.4-3.8,6.1-6.3v0c-2.2,1-4.5,1.6-7,1.9c2.5-1.5,4.4-3.8,5.3-6.7c-2.3,1.4-4.9,2.4-7.7,2.9 c-2.2-2.4-5.4-3.8-8.8-3.8c-6.7,0-12.1,5.4-12.1,12.1c0,1,0.1,1.9,0.3,2.8C20,21.4,11.1,16.6,5.1,9.3c-1,1.8-1.7,3.9-1.7,6.1 c0,4.2,2.2,7.9,5.4,10.1c-1.9,0-3.8-0.6-5.5-1.5v0.1c0,5.9,4.2,10.8,9.7,11.9c-1,0.3-2.1,0.4-3.2,0.4c-0.8,0-1.6,0-2.3-0.2 c1.6,4.8,6,8.3,11.3,8.4c-4.1,3.2-9.3,5.2-15,5.2c-1,0-1.9,0-2.9-0.2C6.4,53,12.7,55,19.6,55C40.9,55,54.8,37.2,53.9,19L53.9,19z"/></svg></span><a target="_blank" href="https://twitter.com/DesignRecherche">Twitter</a></li>
+          
+          <li><span class="icon-svg" aria-hidden="true"><svg version="1.1" class="icon-instagram-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve"><g><path d="M59.8,17.6c-0.1-3.2-0.7-5.4-1.4-7.3c-0.8-2-1.9-3.8-3.5-5.3c-1.5-1.5-3.3-2.7-5.3-3.5c-1.9-0.7-4.1-1.3-7.3-1.4 C39.2,0,38.2,0,30,0s-9.2,0-12.4,0.2c-3.2,0.1-5.4,0.7-7.3,1.4C8.3,2.3,6.5,3.5,5,5c-1.5,1.5-2.7,3.3-3.5,5.3 c-0.7,1.9-1.3,4.1-1.4,7.3C0,20.8,0,21.9,0,30s0,9.2,0.2,12.4c0.1,3.2,0.7,5.4,1.4,7.3c0.8,2,1.9,3.8,3.5,5.3 c1.5,1.5,3.3,2.7,5.3,3.5c1.9,0.7,4.1,1.3,7.3,1.4C20.8,60,21.9,60,30,60s9.2,0,12.4-0.2c3.2-0.1,5.4-0.7,7.3-1.4 c4-1.6,7.2-4.7,8.8-8.8c0.7-1.9,1.3-4.1,1.4-7.3C60,39.2,60,38.1,60,30S60,20.8,59.8,17.6z M54.4,42.1c-0.1,2.9-0.6,4.5-1,5.6 c-1,2.6-3.1,4.7-5.7,5.7c-1.1,0.4-2.6,0.9-5.6,1C39,54.6,38,54.6,30,54.6s-9,0-12.1-0.2c-2.9-0.1-4.5-0.6-5.6-1 c-1.3-0.5-2.5-1.2-3.4-2.2c-1-1-1.8-2.1-2.2-3.4c-0.4-1.1-0.9-2.6-1-5.6C5.5,39,5.4,38,5.4,30s0-9,0.2-12.1c0.1-2.9,0.6-4.5,1-5.6 C7.1,11,7.9,9.8,8.9,8.9c1-1,2.1-1.8,3.4-2.2c1.1-0.4,2.6-0.9,5.6-1C21.1,5.5,22,5.4,30,5.4c8,0,9,0,12.1,0.2 c2.9,0.1,4.5,0.6,5.6,1c1.3,0.5,2.5,1.2,3.4,2.2c1,1,1.8,2.1,2.2,3.4c0.4,1.1,0.9,2.6,1,5.6c0.1,3.2,0.2,4.1,0.2,12.1 S54.6,39,54.4,42.1z"/><path d="M30,14.6c-8.5,0-15.4,6.9-15.4,15.4S21.5,45.4,30,45.4c8.5,0,15.4-6.9,15.4-15.4S38.5,14.6,30,14.6z M30,40 c-5.5,0-10-4.5-10-10s4.5-10,10-10c5.5,0,10,4.5,10,10S35.5,40,30,40z"/><path d="M49.6,14c0,2-1.6,3.6-3.6,3.6c-2,0-3.6-1.6-3.6-3.6c0-2,1.6-3.6,3.6-3.6C48,10.4,49.6,12,49.6,14z"/></g></svg></span><a target="_blank" href="https://www.instagram.com/designenrecherche/">Instagram</a></li>
+          
+          <li><span class="icon-svg" aria-hidden="true"><svg version="1.1" class="icon-facebook-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve"><path d="M38.5,10H44V0.4C43.1,0.3,39.8,0,36,0c-7.9,0-13.3,5-13.3,14.1v8.4H14v10.7h8.7V60h10.7V33.2h8.4l1.3-10.7h-9.7v-7.3C33.4,12.1,34.2,10,38.5,10L38.5,10z"/></svg></span><a target="_blank" href="https://www.facebook.com/designrecherche/">Facebook</a></li>
+          
+          <li><span class="icon-svg" aria-hidden="true"><svg version="1.1" class="icon-open-edition" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve"><path d="M31.8,0c1.4,0.3,2.8,0.6,4.2,0.9c10.1,2.3,17.2,12.2,16.1,22.2c-0.3,2.3-1.3,4-3.2,5.3C44.6,31,40,31,35,30 c1.2-1.4,2.3-2.5,3.1-3.8C40.8,22.2,39.8,17,36,14c-3.7-3-8.6-2.6-12,0.8c-3.3,3.4-3.8,8.6-1,12.7c3.3,4.8,8.3,6.6,13.8,7.1 c4.7,0.4,9.1-0.8,13.6-3.1c-1.4,3.5-3.6,6-6.2,8.1c-2.7,2.1-5.7,3.7-9.2,4.2c-1.7,0.3-2.3,1.1-2.4,2.7c-0.3,4-0.7,8-1.1,12 c-0.1,0.5-0.8,1-1.2,1.5c-0.4-0.5-1.1-1-1.1-1.5c-0.5-4-0.9-8-1.2-12c-0.1-1.7-0.8-2.4-2.6-2.8C15,41.2,8.1,31.7,8.8,20.5 C9.3,10.4,17.6,1.7,27.9,0.5C28.5,0.4,29,0.2,29.5,0C30.3,0,31,0,31.8,0z"/><path d="M4,39c7.6-0.7,18.9,5.7,21.9,14.9C20.1,56.1,5.6,47.5,4,39z"/><path d="M34.5,59.8c2.7-7.3,15.4-15.4,22.4-14.5C54.5,53.8,42.7,61,34.5,59.8z"/></svg></span><a target="_blank" href="http://design.hypotheses.org/">Hypotheses</a></li>
+          
+        </ul>
+        
+
+        <button><a href="">En savoir plus</a></button>
+        
+        </div>
+
   </section>
   
 
 
-  
-  
-  
 
 
   
-  
+  <section id="membres" class="section-home">
+    <div class="container">
+
+      <div class="container-grid">
+      
        
-          <h2>Rose Dumesny</h2>
-          <div class="text-center testimonial-content">
-            <div class="content-instagram-list">
-              <div class="embed embed1"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/ByQA513JTX3/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/ByQA513JTX3/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> Voir cette publication sur Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/ByQA513JTX3/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Une publication partagée par Design en Recherche (@designenrecherche)</a> le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2019-06-03T14:01:42+00:00">3 Juin 2019 à 7 :01 PDT</time></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script></div>
-              <div class="embed embed2"><blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/ByXQ1qpp5Iw/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/ByXQ1qpp5Iw/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> Voir cette publication sur Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div></a> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/ByXQ1qpp5Iw/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Vous ne voyez pas le rapport entre cette photo et un smartphone ? C’est là tout le sujet de ma recherche : enquêter sur une forme de médiation sensible - et plus particulièrement tangible - au numérique. 🔹🦠📱✨🧶Autrement dit, j’ai développé des dispositifs de médiation qui permette d’ouvrir les boites noires technologique, et notamment la plus ancrée dans nos quotidiens : le smartphone. Je suis partie d’une interrogation personnelle : comment fonctionne mon téléphone ? et comment transmettre ces connaissances autrement que par la programmation sur un écran ou par l’angle d’explication technique parfois rebutant ? La suite sous la prochaine photo ! #PhD #médiationssensibles #sujetdethèse</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Une publication partagée par <a href="https://www.instagram.com/designenrecherche/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Design en Recherche</a> (@designenrecherche) le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2019-06-06T09:35:37+00:00">6 Juin 2019 à 2 :35 PDT</time></p></div></blockquote></div>
-              <div class="embed embed3"><blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/ByiKYIopCGd/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/ByiKYIopCGd/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> Voir cette publication sur Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div></a> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/ByiKYIopCGd/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Comme beaucoup de chercheurs en design du réseau Design en Recherche j’ai été formée comme designeuse avant de devenir chercheuse. Je suis ainsi diplômée du Master Stratégie du Design de l’ENSAAMA - Olivier de Serres. Avant ça j’ai obtenu un BTS et un DSAA en design de produits dans la même école. En parallèle de cette formation je me suis intéressée au numérique et au design d’interaction et c’est ce qui a nourri mon projet de recherche. Je cherche, en effet, à voir dans quelle mesure mes compétences de designeuse d’objet peuvent permettre de percevoir et de comprendre autrement les objets numériques - physiques ou virtuels - qui peuplent nos environnements domestiques. Cette photo est issue de mon projet de diplôme de DSAA intitulé « la part sensible du numérique ». Si vous voulez en voir plus sur mes projet, rendez-vous sur www.rosedumesny.com ! #PhD #formation #design #objets</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Une publication partagée par <a href="https://www.instagram.com/designenrecherche/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Design en Recherche</a> (@designenrecherche) le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2019-06-10T15:10:48+00:00">10 Juin 2019 à 8 :10 PDT</time></p></div></blockquote> </div>
-            </div>
-
-          </div>
-  
+      
        
-          <h2>Renaud Mignerey</h2>
-          <div class="text-center testimonial-content">
-            <div class="content-instagram-list">
-              <div class="embed embed1"><blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BzcXn_spAP6/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/BzcXn_spAP6/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> Voir cette publication sur Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div></a> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BzcXn_spAP6/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Salut à tous ! Je suis Renaud Mignerey, et j’aborderai avec vous le sujet de ma thèse qui s’attaque aux interactions inter-conducteurs et la conception d’un dispositif technique facilitant la relation sur la route. BTW je soutiens demain #PhD #designenrecherche #theseendesign</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Une publication partagée par <a href="https://www.instagram.com/designenrecherche/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Design en Recherche</a> (@designenrecherche) le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2019-07-03T05:42:31+00:00">2 Juil. 2019 à 10 :42 PDT</time></p></div></blockquote></div>
-              <div class="embed embed2"><blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BzkVYUuI9W_/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/BzkVYUuI9W_/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> Voir cette publication sur Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div></a> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BzkVYUuI9W_/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Ma thèse porte sur les interactions à valeur émotionnelle, via le véhicule, en situation de conduite -soit les rapports entretenus avec les autres usagers de la route. Au-delà de la simple interaction homme-machine, je m’intéresse ainsi au rôle émotionnel du véhicule dans la relation que le conducteur entretient avec son environnement. Je suis un processus itératif propre à une démarche de recherche-projet pour ça et m’appuie sur une réalisation conceptuelle qui n’est pas une finalité mais un préalable. Elle propose des pistes de conceptions pour le design d’une nouvelle fonctionnalité intégrée dans le véhicule, tirant parti du contexte social de la conduite pour susciter des émotions positives entre conducteurs. C’est ce que j’ai défendu pendant 3 heures le 4 juillet dernier 😉</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Une publication partagée par <a href="https://www.instagram.com/designenrecherche/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Design en Recherche</a> (@designenrecherche) le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2019-07-06T07:56:50+00:00">6 Juil. 2019 à 12 :56 PDT</time></p></div></blockquote> </div>
-              <div class="embed embed3"><blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BzsGDiiocDp/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/BzsGDiiocDp/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> Voir cette publication sur Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div></a> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BzsGDiiocDp/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Fut un temps où j’étais designer industriel (produits) à @Strate. J’ai poursuivi avec une école de commerce à @GEM dans l’idée de maitriser les aspects business du travail de designer. J’ai finalement atterrit à l’ @UTC pour faire une thèse en design et SHS (Sciences Humaines et Sociales), motivé par le fait d’aborder le design par la recherche et la perspective de réductions étudiantes pendant au moins trois ans. En photo, mon projet de diplôme de master en design #souvenir. Ca fait trois ans que je dois le mettre sur Behance mais bon la thèse c’est super chronophage :/</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Une publication partagée par <a href="https://www.instagram.com/designenrecherche/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Design en Recherche</a> (@designenrecherche) le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2019-07-09T08:16:50+00:00">9 Juil. 2019 à 1 :16 PDT</time></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script></div>
-            </div>
+      
+      <article data-membre="Julie Blanc">
+        <figure>
+          <a href="https://designenrecherche.org/membres/julie-blanc/"  alt="Julie Blanc">
+          <img src="/images/julie-blanc.jpg">
+          </a>
+        </figure>
+      </article>
+      
+       
+      
+      <article data-membre="Rose Dumesny">
+        <figure>
+          <a href="https://designenrecherche.org/membres/rose-dumesny/"  alt="Rose Dumesny">
+          <img src="/images/dumesny-rose.png">
+          </a>
+        </figure>
+      </article>
+      
+       
+      
+      <article data-membre="Zoé Bonnardot">
+        <figure>
+          <a href="https://designenrecherche.org/membres/zoe-bonnardot/"  alt="Zoé Bonnardot">
+          <img src="/images/bonnardot-zoe.png">
+          </a>
+        </figure>
+      </article>
+      
+      
+      
 
-          </div>
-  
-  
 
 
-  
-  
-  <section class="section">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-10 mx-auto text-center">
-          
-          <p class="font-secondary lead text-dark">Le groupe de travail « Design en recherche », formé en mars 2013, est un réseau de doctorant-e-s et jeunes docteur-e-s dont les recherches portent sur les thématiques émergentes d’étude et de pratique du design. Constituée en association (loi 1901) depuis décembre 2013, nous sommes persuadé-e-s de l’intérêt scientifique des espaces de collaboration entre les jeunes chercheur-e-s issu(e)s d’horizons disciplinaires, institutionnels et géographiques divers, mais travaillant sur des thèmes communs.</p>
-          
-          
-          <a href="http://contentSite.com/about" class="btn btn-transparent">En savoir plus</a>
-          
-          
-          
-          
-          <a href="http://contentSite.com/membres" class="btn btn-transparent">Annuaire des membres</a>
-          
-          
-          
-        </div>
       </div>
+      <button><a href="membres">Annuaire des membres</a></button>
+
     </div>
-  </section>
-  
-  
-
+    </section>
 
   
 
+    
 
 
 
 
+    
+    
+    <section id="actions" class="section-home">
+      <div class="container">
 
-  
-  
-  <section class="section">
-    <div class="container">
-      <div class="row"> 
-        <div class="col-12 text-center"> 
-          <h2 class="section-title">Évènements de l&rsquo;Association</h2>
+        <h1 class="section-title"><a href="actions">Nos actions</a></h1>
+
+      
+        <div class="highlights-actions">
+          
+          
+          
+          <article>
+            <span aria-hidden="true">
+
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<g>
+		<path d="M503.981,256.992l-52.891-10.828c-7.854-1.611-14.609-6.178-19.023-12.862l-17.777-26.926
+			c-7.124-10.79-20.299-15.79-32.782-12.437c-5.478,1.47-10.203,4.376-13.875,8.206c-0.263-0.832-0.516-1.669-0.743-2.516
+			c-4.399-16.423-19.355-72.255-23.727-88.579c-1.428-5.333-6.9-8.501-12.245-7.071l-38.635,10.349
+			c-5.333,1.429-8.5,6.911-7.07,12.246c0.027,0.1,23.695,88.42,23.736,88.575c4.025,15.051,1.955,30.758-5.829,44.232
+			c-7.394,12.808-10.98,27.591-10.399,42.331c-11.293,6.701-17.255,20.177-13.697,33.559c1.932,7.205,6.368,13.306,12.57,17.346
+			c-3.244,6.396-4.204,13.809-2.22,21.278c1.931,7.206,6.369,13.308,12.572,17.352c-3.284,6.469-4.188,13.893-2.224,21.284
+			c1.989,7.418,6.612,13.432,12.588,17.33c-3.243,6.383-4.22,13.813-2.232,21.295c3.418,12.794,14.529,21.294,26.805,22.171
+			l9.084,31.447c1.517,5.25,6.95,8.289,12.194,6.883l115.896-31.056c2.58-0.691,4.775-2.386,6.099-4.705
+			c1.322-2.32,1.662-5.073,0.943-7.645l-11.688-41.79l38.434-27.874c2.594-1.881,4.129-4.89,4.129-8.094V266.788
+			C511.975,262.038,508.634,257.945,503.981,256.992z M336.783,164.515l10.792,40.287c5.29,19.735,18.271,37.029,36.472,47.523
+			c13.488,7.793,23.131,20.362,27.151,35.395l0.442,1.652l-59.607,15.978c-6.999-10.171-19.895-15.368-32.479-11.997l-6.803,1.82
+			c0.531-9.039,3.141-17.919,7.686-25.794c10.455-18.095,13.235-39.189,7.83-59.406l-10.8-40.284L336.783,164.515z M376.988,391.825
+			c-1.932-7.209-6.373-13.312-12.58-17.352c3.278-6.465,4.184-13.925,2.232-21.274c-1.988-7.412-6.6-13.431-12.568-17.332
+			c1.796-3.538,2.855-7.333,3.155-11.205l59.588-15.971c2.429,9.057,25.277,94.315,25.884,96.579l-59.609,15.977
+			c-2.241-3.256-5.082-6.001-8.329-8.119C378.054,406.64,378.951,399.211,376.988,391.825z M307.116,131.056l19.318-5.174
+			l5.175,19.319l-19.319,5.174L307.116,131.056z M298.343,330.111c-1.435-5.405,1.718-10.616,6.737-12.166
+			c0.101-0.018,19.544-5.246,19.645-5.274c5.323-1.429,10.813,1.745,12.24,7.069c1.43,5.336-1.728,10.809-7.068,12.241
+			c-0.001,0-0.003,0.001-0.004,0.001l-19.316,5.178C305.255,338.59,299.766,335.416,298.343,330.111z M308.693,368.737
+			c-1.476-5.55,1.892-10.871,7.061-12.26c0.001,0,0.001,0,0.002-0.001c0.001,0,0.003-0.001,0.004-0.001l19.314-5.177
+			c5.328-1.431,10.822,1.748,12.245,7.059c1.446,5.431-1.819,10.85-7.078,12.26c-0.002,0-0.003,0.001-0.005,0.002l-19.313,5.178
+			C315.582,377.231,310.113,374.032,308.693,368.737z M319.042,407.372c-1.474-5.552,1.895-10.872,7.063-12.261
+			c0.001,0,0.001,0,0.002,0c0,0,0,0,0.001,0l19.315-5.178c5.428-1.455,10.847,1.834,12.246,7.049
+			c1.482,5.573-1.914,10.887-7.067,12.271c-0.001,0-0.001,0.001-0.002,0.001l-19.313,5.167
+			C325.934,415.858,320.462,412.665,319.042,407.372z M341.636,453.058c-5.337,1.431-10.816-1.735-12.237-7.051
+			c-1.479-5.563,1.905-10.885,7.06-12.269h0.002c0,0,0.001,0,0.002,0h0.001l19.317-5.168c5.33-1.429,10.81,1.753,12.238,7.059
+			c1.47,5.542-1.891,10.868-7.067,12.251L341.636,453.058z M362.458,489.803l-5.798-20.072l9.464-2.538
+			c12.342-3.299,21.17-14.065,22.147-26.633l59.625-15.981c0.19,0.948,0.521,1.876,0.996,2.759l10.226,36.563L362.458,489.803z
+			 M463.667,405.922l-2.208-7.895c-0.003-0.013-0.009-0.024-0.012-0.037c-19.689-73.476-11.352-42.354-30.933-115.439
+			c-5.398-20.19-18.349-37.073-36.472-47.543c-5.581-3.218-10.532-7.289-14.749-12.126c0.027-4.042,2.507-8.319,7.397-9.631
+			c4.153-1.112,8.539,0.548,10.912,4.141l17.777,26.927c7.354,11.14,18.61,18.752,31.695,21.435l44.901,9.192v110.446h0.001
+			L463.667,405.922z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M219.279,301.703c0.58-14.738-3.007-29.519-10.402-42.329c-7.782-13.47-9.853-29.177-5.828-44.223
+			c0.04-0.151,23.479-87.615,23.737-88.581c0.687-2.562,0.327-5.291-0.999-7.587c-1.326-2.297-3.511-3.973-6.071-4.658
+			l-38.635-10.349c-5.337-1.427-10.817,1.738-12.245,7.071c-2.178,8.131-21.145,78.939-23.726,88.576
+			c-0.228,0.849-0.481,1.686-0.745,2.519c-3.673-3.831-8.396-6.737-13.873-8.206c-12.48-3.351-25.661,1.647-32.782,12.436
+			L79.93,233.302c-4.412,6.684-11.168,11.252-19.019,12.861L8.019,256.992c-4.652,0.953-7.993,5.046-7.993,9.796v123.705
+			c0,3.204,1.535,6.213,4.128,8.094l38.601,27.999l-11.373,41.728c-1.456,5.341,1.711,10.854,7.06,12.288l115.896,31.056
+			c5.281,1.417,10.758-1.681,12.227-6.997l8.655-31.344c12.221-0.917,23.286-9.378,26.715-22.172
+			c1.859-6.987,1.202-14.498-2.248-21.286c5.978-3.901,10.606-9.921,12.596-17.349c1.916-7.203,1.131-14.659-2.239-21.286
+			c5.973-3.902,10.597-9.923,12.588-17.349c1.974-7.428,1.026-14.851-2.225-21.259c6.2-4.041,10.638-10.143,12.572-17.366
+			C236.555,321.799,230.486,308.351,219.279,301.703z M185.566,125.882l19.318,5.174l-5.174,19.319l-19.319-5.174L185.566,125.882z
+			 M150.138,233.188c0.048-0.061,0.088-0.126,0.134-0.188c0.054-0.069,0.104-0.14,0.157-0.209c0.01-0.014,0.021-0.026,0.03-0.04
+			c6.517-8.32,11.221-17.716,13.964-27.949l10.792-40.286l19.316,5.174l-10.8,40.289c-5.404,20.211-2.624,41.305,7.829,59.396
+			c4.546,7.876,7.157,16.759,7.688,25.798l-6.799-1.82c-12.821-3.437-25.642,1.978-32.5,11.991l-59.591-15.971
+			c0.378-0.783,4.321-23.6,27.579-37.039C136.525,247.392,143.994,240.95,150.138,233.188z M147.588,374.475
+			c-6.206,4.04-10.647,10.144-12.582,17.369c-1.968,7.402-1.039,14.83,2.228,21.269c-3.326,2.167-6.143,4.925-8.339,8.129
+			L69.301,405.27c0.457-1.706,21.891-81.685,25.883-96.579l59.601,15.974c0.309,3.968,1.414,7.748,3.154,11.18
+			c-6.207,4.045-10.646,10.152-12.575,17.374C143.415,360.542,144.294,367.978,147.588,374.475z M48.375,405.96l-28.352-20.567
+			V274.947l44.903-9.192c13.083-2.683,24.339-10.295,31.692-21.434l17.779-26.928c2.371-3.591,6.754-5.256,10.912-4.14
+			c4.889,1.312,7.37,5.591,7.396,9.634c-4.209,4.833-9.16,8.903-14.758,12.127c-18.114,10.467-31.063,27.35-36.462,47.535
+			C17.674,520.679,76.247,302.087,48.375,405.96z M149.929,489.773l-96.611-25.889l10.175-37.334c0.276-0.641,0.484-1.3,0.618-1.967
+			l59.618,15.979c0.978,12.568,9.805,23.334,22.14,26.631l9.587,2.571L149.929,489.773z M182.614,445.988
+			c-1.431,5.337-6.911,8.5-12.25,7.069l-19.325-5.181c-5.164-1.381-8.531-6.705-7.06-12.249c1.43-5.312,6.887-8.494,12.242-7.058
+			l19.311,5.167C180.798,435.149,184.052,440.575,182.614,445.988z M192.963,407.352c-1.43,5.334-6.908,8.503-12.25,7.069
+			c-0.001,0-0.002,0-0.002-0.001h-0.001l-19.311-5.167c-5.179-1.395-8.54-6.732-7.072-12.252c1.43-5.333,6.907-8.498,12.246-7.07
+			h0.001c0.002,0,0.004,0.001,0.006,0.001l19.312,5.178C191.068,396.5,194.431,401.833,192.963,407.352z M203.312,368.716
+			c-1.429,5.33-6.919,8.505-12.241,7.079c-0.001,0-0.003-0.001-0.004-0.001l-19.308-5.177h-0.001
+			c-5.179-1.39-8.541-6.719-7.071-12.249c1.426-5.331,6.898-8.5,12.234-7.072h0.001c0.002,0,0.004,0.001,0.006,0.001l19.313,5.177
+			C201.417,357.865,204.782,363.198,203.312,368.716z M213.66,330.092c-1.429,5.334-6.9,8.502-12.24,7.068
+			c-0.001,0-0.003-0.001-0.004-0.001l-19.309-5.176h-0.001c-5.168-1.388-8.543-6.711-7.072-12.241v-0.001v-0.001
+			c1.42-5.298,6.862-8.509,12.245-7.066c0.101,0.027,19.55,5.257,19.651,5.275C211.925,319.48,215.093,324.706,213.66,330.092z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M256.004,0c-5.521,0-9.999,4.476-9.999,9.999v35.996c0,5.522,4.477,9.999,9.999,9.999c5.521,0,9.999-4.476,9.999-9.999
+			V9.999C266.003,4.476,261.526,0,256.004,0z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M223.079,48.923l-19.998-19.998c-3.906-3.904-10.235-3.904-14.141,0c-3.905,3.905-3.905,10.236,0,14.141l19.998,19.998
+			c3.907,3.905,10.235,3.904,14.141,0C226.984,59.16,226.984,52.829,223.079,48.923z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M323.068,28.925c-3.906-3.904-10.236-3.904-14.141,0l-19.998,19.998c-3.905,3.904-3.905,10.236,0,14.141
+			c3.907,3.905,10.235,3.904,14.141,0l19.998-19.998C326.973,39.162,326.973,32.831,323.068,28.925z"/>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+</span>
+            <h1>Bière des doctorant·e·s</h1>
+            <p class="date">8 septembre 2020, 19h30</p>
+            <p class="lieu">Le grand Breguet, Paris (11e)</p>
+            <p class="summary">Pour tout ceux qui veulent boire des coups et discuter de leurs joies et peines de doctorant·es.</p>
+          </article>
+          
+          
+
+          
+          
+          <article>
+            <span aria-hidden="true">
+<svg width="100%" height="100%" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,19.9711,-2.13892)">
+        <g transform="matrix(1,0,0,1,0,84.0953)">
+            <path d="M218.508,168.016C149.908,168.016 94.097,223.994 94.097,292.799C94.097,361.605 149.908,417.582 218.508,417.582C287.108,417.582 342.918,361.605 342.918,292.799C342.918,223.994 287.107,168.016 218.508,168.016ZM218.508,387.582C166.45,387.582 124.097,345.062 124.097,292.799C124.097,240.535 166.45,198.016 218.508,198.016C270.566,198.016 312.918,240.536 312.918,292.799C312.918,345.063 270.565,387.582 218.508,387.582Z" style="fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,84.0953)">
+            <path d="M218.508,237.772C188.371,237.772 163.853,262.457 163.853,292.799C163.853,323.141 188.371,347.827 218.508,347.827C248.644,347.827 273.162,323.141 273.162,292.799C273.162,262.457 248.644,237.772 218.508,237.772ZM218.508,317.827C204.913,317.827 193.853,306.599 193.853,292.799C193.853,278.999 204.913,267.772 218.508,267.772C232.102,267.772 243.162,278.999 243.162,292.799C243.162,306.599 232.102,317.827 218.508,317.827Z" style="fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,84.0953)">
+            <path d="M490.916,21.549C477.116,7.653 458.743,0 439.183,0C417.975,0 398.281,9.305 384.728,24.627C371.176,9.305 351.481,0 330.272,0C310.83,0 292.562,7.606 278.834,21.417C265.183,35.151 257.591,53.438 257.456,72.91C257.454,73.139 257.466,73.369 257.467,73.598L91.002,73.598C40.824,73.598 0,114.421 0,164.6L0,420.998C0,471.177 40.824,512 91.002,512L346.012,512C396.192,512 437.015,471.176 437.015,420.998L437.015,175.62C441.28,172.527 445.649,169.235 450.029,165.763C490.948,133.33 511.798,102.16 511.999,73.118C512.133,53.686 504.646,35.372 490.916,21.549ZM407.016,420.998C407.016,454.635 379.65,482 346.013,482L91.002,482C57.366,482 30,454.635 30,420.998L30,164.6C30,130.963 57.366,103.598 91.002,103.598L264.622,103.598C273.889,123.625 292.117,144.435 319.143,165.78C348.005,188.574 376.517,203.733 377.716,204.367C379.909,205.526 382.319,206.106 384.727,206.106C387.15,206.106 389.574,205.519 391.777,204.346C392.304,204.065 398.161,200.928 407.015,195.544L407.015,420.998L407.016,420.998ZM431.72,141.994C413.242,156.679 394.526,168.182 384.702,173.899C374.823,168.188 355.974,156.677 337.412,141.978C305.067,116.365 287.326,91.91 287.456,73.117C287.619,49.343 306.827,30 330.272,30C348.333,30 364.532,41.519 370.582,58.664C372.699,64.661 378.367,68.672 384.728,68.672C391.087,68.672 396.756,64.661 398.873,58.664C404.924,41.52 421.123,30 439.183,30C450.692,30 461.504,34.506 469.63,42.688C477.685,50.799 482.078,61.532 481.999,72.91C481.869,91.796 464.013,116.33 431.72,141.994Z" style="fill-rule:nonzero;"/>
+        </g>
+    </g>
+    <g transform="matrix(0.889509,0.456918,-0.456918,0.889509,300.064,-99.8201)">
+        <path d="M256.004,0C250.483,0 246.005,4.476 246.005,9.999L246.005,45.995C246.005,51.517 250.482,55.994 256.004,55.994C261.525,55.994 266.003,51.518 266.003,45.995L266.003,9.999C266.003,4.476 261.526,0 256.004,0Z" style="fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(0.889509,0.456918,-0.456918,0.889509,300.064,-99.8201)">
+        <path d="M223.079,48.923L203.081,28.925C199.175,25.021 192.846,25.021 188.94,28.925C185.035,32.83 185.035,39.161 188.94,43.066L208.938,63.064C212.845,66.969 219.173,66.968 223.079,63.064C226.984,59.16 226.984,52.829 223.079,48.923Z" style="fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(0.889509,0.456918,-0.456918,0.889509,300.064,-99.8201)">
+        <path d="M323.068,28.925C319.162,25.021 312.832,25.021 308.927,28.925L288.929,48.923C285.024,52.827 285.024,59.159 288.929,63.064C292.836,66.969 299.164,66.968 303.07,63.064L323.068,43.066C326.973,39.162 326.973,32.831 323.068,28.925Z" style="fill-rule:nonzero;"/>
+    </g>
+</svg>
+</span>
+            <h1>Résidence instagram</h1>
+            <p class="summary">Chaque mois, un·e doctorant·e est en résidence sur notre compte instagram pour parler de son travail de recherche.</p>  
+            <p class="instagram">juin 2020&#8239;: Julie Blanc </p>
+            <a class="more" target="_blank" href="https://www.instagram.com/designenrecherche/">Toutes les résidences Instagram</a>
+          </article>
+          
+          
+
         </div>
-        
-        
-        <div class="col-lg-4 col-sm-6 mb-4">
-  <article class="card shadow">
+
+        <div class="actions">
+          
+           
+          <article class="post-actions">
     
-    <div class="card-body">
-      <h4 class="card-title"><a class="text-dark" href="http://contentSite.com/association/conception-corps-et-fiction/">Conception, Corps et Fiction</a>
-      </h4>
-      <p class="section-cnu">26-27 avril 2017</p>
-      <p class="section-cnu">Université de Strasbourg</p>
-      <p class="cars-text">Thématique Corps Jusqu’où les hommes seraient-ils prêts à interagir corporellement avec les technologies ?</p>
-      <a href="http://contentSite.com/association/conception-corps-et-fiction/" class="btn btn-xs btn-primary">Read More</a>
-    </div>
-  </article>
-</div>
+      <h1><a href="https://designenrecherche.org/actions/docteur-et-apres/">Docteur, et après ?</a></h1>
+      <p class="type">Conférence</p>
+      <div>
+        <p class="date">  
+          <time datetime="2019-03-14">
+          
+          14
+          mars
+          2019<span class="horaire">, 
+          18h</time></span>
+        </p>
+        <p class="lieu">Gaîté Lyrique, 3 bis rue Papin 75003 Paris</p>
+        </div>
+      <p class="summary">
+        <span class="description">Cette table ronde est dédiée au post-doctorat. Elle engage la discussion sur les débouchés de la recherche dans le champ du design et les différentes perspectives professionnelles.</span>
         
-        <div class="col-lg-4 col-sm-6 mb-4">
-  <article class="card shadow">
+      </p>
+      
+      <ul class="tags">
+        
+           <li><a href="/tags/doctorat">doctorat</a></li> <li><a href="/tags/post-doctorat">post-doctorat</a></li> <li><a href="/tags/th%C3%A8se">thèse</a></li> <li><a href="/tags/profession">profession</a></li> 
+      </ul>
+      
+      <a class="more" href="https://designenrecherche.org/actions/docteur-et-apres/">Voir plus</a>
+  </article>
+
+           
+          <article class="post-actions">
     
-    <div class="card-body">
-      <h4 class="card-title"><a class="text-dark" href="http://contentSite.com/association/chantiers-2018/">Chantiers 2018</a>
-      </h4>
-      <p class="section-cnu">12 janvier 2018</p>
-      <p class="section-cnu">CRI – Paris</p>
-      <p class="cars-text">La recherche en design évolue rapidement et les jeunes chercheurs sont de plus en plus nombreux à rejoindre l’association tous les ans.</p>
-      <a href="http://contentSite.com/association/chantiers-2018/" class="btn btn-xs btn-primary">Read More</a>
-    </div>
-  </article>
-</div>
+      <h1><a href="https://designenrecherche.org/actions/atelier-1-how-to-faire-un-plan-de-these/">Atelier 1 : How to faire un plan de these</a></h1>
+      <p class="type">Atelier</p>
+      <div>
+        <p class="date">  
+          <time datetime="2018-04-26">
+          
+          26
+          avril
+          2018<span class="horaire">, 
+          14h</time></span>
+        </p>
+        <p class="lieu">CRI, Centre de recherches Interdisciplinaires</p>
+        </div>
+      <p class="summary">
+        <span class="description">Summary / Cet atelier proposait d&#39;analyser des plans de thèse en construction dans différents domaines de recherche en design. </span>
         
-        <div class="col-lg-4 col-sm-6 mb-4">
-  <article class="card shadow">
+      </p>
+      
+      <a class="more" href="https://designenrecherche.org/actions/atelier-1-how-to-faire-un-plan-de-these/">Voir plus</a>
+  </article>
+
+           
+          <article class="post-actions">
     
-    <div class="card-body">
-      <h4 class="card-title"><a class="text-dark" href="http://contentSite.com/association/situations-graphiques/">Situations graphiques</a>
-      </h4>
-      <p class="section-cnu">2 décembre 2017</p>
-      <p class="section-cnu">Les grands voisins – Paris, France</p>
-      <p class="cars-text">Pour une construction de situations en design graphique Guy Debord annonçait en 1960 que l’idée centrale de l’Internationale Situationniste était la «construction de situations» au sens «d’ambiances momentanées de la vie».</p>
-      <a href="http://contentSite.com/association/situations-graphiques/" class="btn btn-xs btn-primary">Read More</a>
-    </div>
+      <h1><a href="https://designenrecherche.org/actions/chantiers-2018/">Chantiers 2018</a></h1>
+      <p class="type">RDV asso</p>
+      <div>
+        <p class="date">  
+          <time datetime="2018-01-12">
+          
+          12
+          janvier
+          2018<span class="horaire">, 
+          10h</time></span>
+        </p>
+        <p class="lieu">CRI – Paris</p>
+        </div>
+      <p class="summary">
+        <span class="description"></span>
+        
+      </p>
+      
+      <a class="more" href="https://designenrecherche.org/actions/chantiers-2018/">Voir plus</a>
   </article>
-</div>
-        
-        
+
+          
+          
+        </div>
+
+        <button><a href="actions">Toutes nos actions</a></button>
       </div>
-    </div>
-  </section>
-  
-  
+    </section>
+    
+    
 
 
 
 
 
-  
-  
-  <section class="section">
-    <div class="container">
-      <div class="row"> 
-        <div class="col-12 text-center"> 
-          <h2 class="section-title">Brèves</h2>
+
+
+    
+    
+    <section id="breves" class="section-home">
+      <div class="container">
+
+          <h1 class="section-title"><a href="/breves">Brèves</a></h1>
+          
+          
+          <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": ".grid-sizer", "percentPosition": true }'>
+            <div class="grid-sizer"></div>
+            
+            
+                <article class="breve grid-item">
+        <h1>Contrat doctoral ou postdoc à Rise (Suède)</h1>
+        <div class="content">
+          <p>RISE, le principal institut de recherche en Suède, embauche un.e doctorant.e ou un.e postdoc pour un projet sur l’éthique numérique.<br />
+Le projet sera réalisé en collaboration avec l’Université de Technologie d’Eindhoven aux Pays-Bas. Le recherche sera intégralement en anglais.</p>
+
+<p>Date limite: 10 août 2020</p>
+
         </div>
-        
-        
-        <div class="col-lg-4 col-sm-6 mb-4">
-    <article class="card shadow">
-      <div class="card-body">
-        <p class="type">Appel à communication</p>
-        <h4 class="card-title">Et si les défis en santé passaient par des enjeux de communication et de design ?</h4>
-        <p class="cars-text"><p><a href="https://designenrecherche.us18.list-manage.com/track/click?u=f8bf65efa8159fabee0f76978&amp;id=002ff30d1c&amp;e=a7ef7afb19">88e Congrès de l&rsquo;Acfas</a><br />
+        <a class="more" target="_blank" href="https://www.ri.se/en/work-with-us/open-job-positions/phd-or-postdoc-focus-digital-ethics">Plus d'infos</a>
+    </article>
+
+            
+                <article class="breve grid-item">
+        <h1>Appel à projet XIIe Biennale Internationale Design 2021</h1>
+        <div class="content">
+          <p><strong>La XIIe édition de la Biennale Internationale Design Saint-Étienne aura lieu du mercredi 28 avril au dimanche 22 août 2021.</strong> La Biennale Internationale Design a pour thème les « Bifurcations ». Ce thème est né d&rsquo;un désir fortement répandu chez les designers de « changer de société » ou de « réorienter le futur ». Mais depuis, l&rsquo;événement historique qu&rsquo;a constitué la crise planétaire de la COVID-19 avec le confinement et la distanciation sociale imposés à des milliards d&rsquo;individus, notre monde a bifurqué radicalement. En un temps record, le déroulé de nos vies a changé, expérimentant un ralentissement mondial généralisé. L&rsquo;expérience du confinement vécue par tous et en même temps est devenue hors-norme, exceptionnelle et bouleversante.</p>
+
+<p><strong>Date limite : 30.09.2020</strong></p>
+
+        </div>
+        <a class="more" target="_blank" href="https://www.citedudesign.com/fr/actualites/060720-aap_biennale-dans-la-ville-et-resonance">Plus d'infos</a>
+    </article>
+
+            
+                <article class="breve grid-item">
+        <h1>6 offres de contrats de recherche à L’ANRT de Nancy</h1>
+        <div class="content">
+          <p>Contrats de recherche, d’une durée de 18 mois. Le recrutement est international, et le nombre de places est limité à six. Il est ouvert à des candidats diplômés des écoles d’art en communication visuelle et en design graphique (niveau master/bac +5), ainsi qu’à des professionnels, sans limite d’âge, et quelle que soit leur nationalité. Chaque étudiant-chercheur reçoit une allocation de recherche individuelle de 4450 € pour 18 mois (d’octobre à mars). Les candidats peuvent présenter un projet de recherche personnel ou s&rsquo;inscrire à l&rsquo;un des programmes de recherche ouverts en 2020.</p>
+
+<p><strong>Délai de candidature 20 juin 2020</strong></p>
+
+        </div>
+        <a class="more" target="_blank" href="https://anrt-nancy.fr/fr/candidature/#admission">Plus d'infos</a>
+    </article>
+
+            
+                <article class="breve grid-item">
+        <h1>2 offres de doctorats à L’École Universitaire de Recherche ArTeC</h1>
+        <div class="content">
+          <p>Contrats doctoraux, d’une durée de trois ans. Il n’y a pas de conditions d’âge ou d’année d’obtention du Master. Cependant, la candidature au contrat doctoral financé par l’EUR ArTeC n’est recevable que pour les étudiant.e.s inscrit.e.s en 1e année de thèse en 2020-2021. Le projet de chaque candidat.e devra clairement s’inscrire dans le programme scientifique de l’EUR ArTeC. Le ou la directeur(trice) de recherche pressenti(e) doit être membre titulaire d’une équipe de recherche de l’EUR ArTeC.</p>
+
+<p><strong>Délai de candidature 3 juin 2020</strong></p>
+
+        </div>
+        <a class="more" target="_blank" href="http://eur-artec.fr/2020/03/16/appel-a-candidature-contrats-doctoraux/">Plus d'infos</a>
+    </article>
+
+            
+                <article class="breve grid-item">
+        <h1>Contrat de recherche pour l&#39;ouverture d’un DSRD (Diplôme Supérieur de Recherche en Design), Écolab (Orléans)</h1>
+        <div class="content">
+          <p>Contrat de recherche pour l&rsquo;ouverture d’un DSRD (Diplôme Supérieur de Recherche en Design). <em>« Quatre mentions sont proposées en lien direct avec les orientations de recherche développées au sein d’ÉCOLAB : « Éditions nouveaux média » ; « Archéologie des média » ; « Design des communs » ; « Sculpture des données ». Le projet de recherche soumis par les candidat·e·s doit s’inscrire dans l’une de ces mentions ou s’articuler explicitement avec l’une d’entre elles.»</em></p>
+
+<p><strong>Délai de candidature 15 juin 2020</strong></p>
+
+        </div>
+        <a class="more" target="_blank" href="https://www.esad-orleans.fr/diplome-superieur-recherche-design/">Plus d'infos</a>
+    </article>
+
+            
+                <article class="breve grid-item">
+        <h1>Contrat doctoral à la HEAD Genève</h1>
+        <div class="content">
+          <p>Assistant-e HES Doctorant-e FNSEn Études urbaines / Arts visuels, à 80%. Ce projet de recherche étudie les relations entre le socialisme international et la décolonisation à travers le prisme de l’urbanisme. Une attention particulière est portée aux projets datant de la Guerre froide, encore peu exploités, situés au croisement de l’urbanisme, l’architecture, l’art, les médias, le cinéma et la cybernétique. Dans ce contexte, l’analyse critique et transnationale de ces projets historiques vise à contribuer aux débats contemporains en art et en urbanisme portant sur les processus de décolonisation. Le projet interroge la manière dont des expériences datant de l’époque de la Guerre froide dans l’urbanisme et les arts ont stimulé les mouvements anticoloniaux et solidaires, et comment cette intersection historique peut éclairer la pratique urbaine et artistique/curatoriale contemporaine.</p>
+
+<p><strong>Délai de candidature 22 mai 2020</strong></p>
+
+        </div>
+        <a class="more" target="_blank" href="https://www.hesge.ch/head/sites/default/files/places_vacantes/ass_phd_position_vf_mai_2020.pdf">Plus d'infos</a>
+    </article>
+
+            
+                <article class="breve grid-item">
+        <h1>Et si les défis en santé passaient par des enjeux de communication et de design ?</h1>
+        <div class="content">
+          <p><a href="https://designenrecherche.us18.list-manage.com/track/click?u=f8bf65efa8159fabee0f76978&amp;id=002ff30d1c&amp;e=a7ef7afb19">88e Congrès de l&rsquo;Acfas</a><br />
  <strong>4 mai 2020<br />
  Université de Sherbrooke</strong></p>
 
 <p>Depuis quelques années, les méthodes du co-design sont introduites en santé favorisant des démarches interdisciplinaires afin de faire face aux défis que posent l’humanisation des soins. Le vieillissement de la population, l’introduction du numérique dans les services, les problématiques de surcharge de travail ainsi que le cadre bâti moins adaptés aux réalités des personnes rendent les contextes de santé propices à un renouvellement. Sur la base de ces méthodes, plusieurs projets en santé sont expérimentés, tant au Québec qu’en France, renouvelant ainsi le dialogue entre design, communication, et plus globalement sciences humaines et sociales (SHS) et santé.</p>
 
 <p>Vous trouverez l’appel à communication en pièces jointes. Nous vous invitons à nous envoyer vos propositions de communication d&rsquo;ici le <strong>20 février 2020.</strong></p>
-</p>
+
+        </div>
         
-      </div>
     </article>
-  </div>
-        
-        <div class="col-lg-4 col-sm-6 mb-4">
-    <article class="card shadow">
-      <div class="card-body">
-        <p class="type">Appel à communication</p>
-        <h4 class="card-title">Sciences du Design — 12 — Varia</h4>
-        <p class="cars-text"><p><em>Sciences du Design</em> lance un appel à articles sur thème libre pour son numéro 12, à paraître à l&rsquo;automne 2020. Les numéros d&rsquo;automne sont désormais intégralement des numéros <em>Varia</em>, permettant à une plus grande diversité de recherches de trouver un chemin vers la publication, conformément à la mission généraliste et pluraliste de la revue.</p>
+
+            
+                <article class="breve grid-item">
+        <h1>Sciences du Design — 12 — Varia</h1>
+        <div class="content">
+          <p><em>Sciences du Design</em> lance un appel à articles sur thème libre pour son numéro 12, à paraître à l&rsquo;automne 2020. Les numéros d&rsquo;automne sont désormais intégralement des numéros <em>Varia</em>, permettant à une plus grande diversité de recherches de trouver un chemin vers la publication, conformément à la mission généraliste et pluraliste de la revue.</p>
 
 <p><strong>Date limite de soumission :</strong> 15 février 2020</p>
-</p>
-        <a href="http://www.sciences-du-design.org/index.php/sdd/announcement/view/7">Lien (en savoir plus)</a>
-      </div>
+
+        </div>
+        <a class="more" target="_blank" href="http://www.sciences-du-design.org/index.php/sdd/announcement/view/7">Plus d'infos</a>
     </article>
-  </div>
-        
-        <div class="col-lg-4 col-sm-6 mb-4">
-    <article class="card shadow">
-      <div class="card-body">
-        <p class="type">Évènements</p>
-        <h4 class="card-title">Ceci est une brève</h4>
-        <p class="cars-text"><p>Test texte de la brève</p>
-</p>
-        
-      </div>
-    </article>
-  </div>
-        
-        
-      </div>
-    </div>
-  </section>
-  
-  
 
-
-  
-
-  
-  <section class="section bg-primary position-relative testimonial-bg-shapes">
-    <div class="container">
-      <div class="row">
-        <div class="col-12 text-center">
-          <h2 class="section-title text-white mb-5">Residence instagram</h2>
-        </div>
-        <div class="col-lg-10 mx-auto testimonial-slider">
-          
-          
-          
-       
-          <h2>Rose Dumesny</h2>
-          <div class="text-center testimonial-content">
-            <div class="content-instagram-list">
-              <div class="embed embed1"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/ByQA513JTX3/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/ByQA513JTX3/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> Voir cette publication sur Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/ByQA513JTX3/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Une publication partagée par Design en Recherche (@designenrecherche)</a> le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2019-06-03T14:01:42+00:00">3 Juin 2019 à 7 :01 PDT</time></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script></div>
-              <div class="embed embed2"><blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/ByXQ1qpp5Iw/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/ByXQ1qpp5Iw/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> Voir cette publication sur Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div></a> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/ByXQ1qpp5Iw/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Vous ne voyez pas le rapport entre cette photo et un smartphone ? C’est là tout le sujet de ma recherche : enquêter sur une forme de médiation sensible - et plus particulièrement tangible - au numérique. 🔹🦠📱✨🧶Autrement dit, j’ai développé des dispositifs de médiation qui permette d’ouvrir les boites noires technologique, et notamment la plus ancrée dans nos quotidiens : le smartphone. Je suis partie d’une interrogation personnelle : comment fonctionne mon téléphone ? et comment transmettre ces connaissances autrement que par la programmation sur un écran ou par l’angle d’explication technique parfois rebutant ? La suite sous la prochaine photo ! #PhD #médiationssensibles #sujetdethèse</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Une publication partagée par <a href="https://www.instagram.com/designenrecherche/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Design en Recherche</a> (@designenrecherche) le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2019-06-06T09:35:37+00:00">6 Juin 2019 à 2 :35 PDT</time></p></div></blockquote></div>
-              <div class="embed embed3"><blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/ByiKYIopCGd/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/ByiKYIopCGd/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> Voir cette publication sur Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div></a> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/ByiKYIopCGd/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Comme beaucoup de chercheurs en design du réseau Design en Recherche j’ai été formée comme designeuse avant de devenir chercheuse. Je suis ainsi diplômée du Master Stratégie du Design de l’ENSAAMA - Olivier de Serres. Avant ça j’ai obtenu un BTS et un DSAA en design de produits dans la même école. En parallèle de cette formation je me suis intéressée au numérique et au design d’interaction et c’est ce qui a nourri mon projet de recherche. Je cherche, en effet, à voir dans quelle mesure mes compétences de designeuse d’objet peuvent permettre de percevoir et de comprendre autrement les objets numériques - physiques ou virtuels - qui peuplent nos environnements domestiques. Cette photo est issue de mon projet de diplôme de DSAA intitulé « la part sensible du numérique ». Si vous voulez en voir plus sur mes projet, rendez-vous sur www.rosedumesny.com ! #PhD #formation #design #objets</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Une publication partagée par <a href="https://www.instagram.com/designenrecherche/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Design en Recherche</a> (@designenrecherche) le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2019-06-10T15:10:48+00:00">10 Juin 2019 à 8 :10 PDT</time></p></div></blockquote> </div>
-            </div>
-
+            
+            
           </div>
-          
-       
-          <h2>Renaud Mignerey</h2>
-          <div class="text-center testimonial-content">
-            <div class="content-instagram-list">
-              <div class="embed embed1"><blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BzcXn_spAP6/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/BzcXn_spAP6/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> Voir cette publication sur Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div></a> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BzcXn_spAP6/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Salut à tous ! Je suis Renaud Mignerey, et j’aborderai avec vous le sujet de ma thèse qui s’attaque aux interactions inter-conducteurs et la conception d’un dispositif technique facilitant la relation sur la route. BTW je soutiens demain #PhD #designenrecherche #theseendesign</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Une publication partagée par <a href="https://www.instagram.com/designenrecherche/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Design en Recherche</a> (@designenrecherche) le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2019-07-03T05:42:31+00:00">2 Juil. 2019 à 10 :42 PDT</time></p></div></blockquote></div>
-              <div class="embed embed2"><blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BzkVYUuI9W_/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/BzkVYUuI9W_/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> Voir cette publication sur Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div></a> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BzkVYUuI9W_/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Ma thèse porte sur les interactions à valeur émotionnelle, via le véhicule, en situation de conduite -soit les rapports entretenus avec les autres usagers de la route. Au-delà de la simple interaction homme-machine, je m’intéresse ainsi au rôle émotionnel du véhicule dans la relation que le conducteur entretient avec son environnement. Je suis un processus itératif propre à une démarche de recherche-projet pour ça et m’appuie sur une réalisation conceptuelle qui n’est pas une finalité mais un préalable. Elle propose des pistes de conceptions pour le design d’une nouvelle fonctionnalité intégrée dans le véhicule, tirant parti du contexte social de la conduite pour susciter des émotions positives entre conducteurs. C’est ce que j’ai défendu pendant 3 heures le 4 juillet dernier 😉</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Une publication partagée par <a href="https://www.instagram.com/designenrecherche/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Design en Recherche</a> (@designenrecherche) le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2019-07-06T07:56:50+00:00">6 Juil. 2019 à 12 :56 PDT</time></p></div></blockquote> </div>
-              <div class="embed embed3"><blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BzsGDiiocDp/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/BzsGDiiocDp/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> Voir cette publication sur Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div></a> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BzsGDiiocDp/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Fut un temps où j’étais designer industriel (produits) à @Strate. J’ai poursuivi avec une école de commerce à @GEM dans l’idée de maitriser les aspects business du travail de designer. J’ai finalement atterrit à l’ @UTC pour faire une thèse en design et SHS (Sciences Humaines et Sociales), motivé par le fait d’aborder le design par la recherche et la perspective de réductions étudiantes pendant au moins trois ans. En photo, mon projet de diplôme de master en design #souvenir. Ca fait trois ans que je dois le mettre sur Behance mais bon la thèse c’est super chronophage :/</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Une publication partagée par <a href="https://www.instagram.com/designenrecherche/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Design en Recherche</a> (@designenrecherche) le <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2019-07-09T08:16:50+00:00">9 Juil. 2019 à 1 :16 PDT</time></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script></div>
-            </div>
 
-          </div>
-          
-          
-        </div>
+          <button><a href="breves">Toutes les brèves</a></button>
       </div>
-    </div>
-    <img src="/images/backgrounds/map.png" alt="map" class="img-fluid bg-map">
-    <img src="/images/illustrations/dots-group-v.svg" alt="bg-shape" class="img-fluid bg-shape-1">
-    <img src="/images/illustrations/leaf-orange.svg" alt="bg-shape" class="img-fluid bg-shape-2">
-    <img src="/images/illustrations/dots-group-sm.svg" alt="bg-shape" class="img-fluid bg-shape-3">
-    <img src="/images/illustrations/leaf-pink-round.svg" alt="bg-shape" class="img-fluid bg-shape-4">
-    <img src="/images/illustrations/leaf-cyan.svg" alt="bg-shape" class="img-fluid bg-shape-5">
-  </section>
+    </section>
+    
+    
+
+
+
+
+
+
+
+        </main>
+<footer id="footer">
   
-  
+  <ul>
+    
+    <li><a target="_blank" href="https://twitter.com/DesignRecherche"><span class="icon-svg" aria-hidden="true"><svg version="1.1" class="icon-twitter-wvg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve"> <path d="M53.9,19c2.4-1.7,4.4-3.8,6.1-6.3v0c-2.2,1-4.5,1.6-7,1.9c2.5-1.5,4.4-3.8,5.3-6.7c-2.3,1.4-4.9,2.4-7.7,2.9 c-2.2-2.4-5.4-3.8-8.8-3.8c-6.7,0-12.1,5.4-12.1,12.1c0,1,0.1,1.9,0.3,2.8C20,21.4,11.1,16.6,5.1,9.3c-1,1.8-1.7,3.9-1.7,6.1 c0,4.2,2.2,7.9,5.4,10.1c-1.9,0-3.8-0.6-5.5-1.5v0.1c0,5.9,4.2,10.8,9.7,11.9c-1,0.3-2.1,0.4-3.2,0.4c-0.8,0-1.6,0-2.3-0.2 c1.6,4.8,6,8.3,11.3,8.4c-4.1,3.2-9.3,5.2-15,5.2c-1,0-1.9,0-2.9-0.2C6.4,53,12.7,55,19.6,55C40.9,55,54.8,37.2,53.9,19L53.9,19z"/></svg></span>Twitter</a></li>
+    
+    <li><a target="_blank" href="https://www.instagram.com/designenrecherche/"><span class="icon-svg" aria-hidden="true"><svg version="1.1" class="icon-instagram-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve"><g><path d="M59.8,17.6c-0.1-3.2-0.7-5.4-1.4-7.3c-0.8-2-1.9-3.8-3.5-5.3c-1.5-1.5-3.3-2.7-5.3-3.5c-1.9-0.7-4.1-1.3-7.3-1.4 C39.2,0,38.2,0,30,0s-9.2,0-12.4,0.2c-3.2,0.1-5.4,0.7-7.3,1.4C8.3,2.3,6.5,3.5,5,5c-1.5,1.5-2.7,3.3-3.5,5.3 c-0.7,1.9-1.3,4.1-1.4,7.3C0,20.8,0,21.9,0,30s0,9.2,0.2,12.4c0.1,3.2,0.7,5.4,1.4,7.3c0.8,2,1.9,3.8,3.5,5.3 c1.5,1.5,3.3,2.7,5.3,3.5c1.9,0.7,4.1,1.3,7.3,1.4C20.8,60,21.9,60,30,60s9.2,0,12.4-0.2c3.2-0.1,5.4-0.7,7.3-1.4 c4-1.6,7.2-4.7,8.8-8.8c0.7-1.9,1.3-4.1,1.4-7.3C60,39.2,60,38.1,60,30S60,20.8,59.8,17.6z M54.4,42.1c-0.1,2.9-0.6,4.5-1,5.6 c-1,2.6-3.1,4.7-5.7,5.7c-1.1,0.4-2.6,0.9-5.6,1C39,54.6,38,54.6,30,54.6s-9,0-12.1-0.2c-2.9-0.1-4.5-0.6-5.6-1 c-1.3-0.5-2.5-1.2-3.4-2.2c-1-1-1.8-2.1-2.2-3.4c-0.4-1.1-0.9-2.6-1-5.6C5.5,39,5.4,38,5.4,30s0-9,0.2-12.1c0.1-2.9,0.6-4.5,1-5.6 C7.1,11,7.9,9.8,8.9,8.9c1-1,2.1-1.8,3.4-2.2c1.1-0.4,2.6-0.9,5.6-1C21.1,5.5,22,5.4,30,5.4c8,0,9,0,12.1,0.2 c2.9,0.1,4.5,0.6,5.6,1c1.3,0.5,2.5,1.2,3.4,2.2c1,1,1.8,2.1,2.2,3.4c0.4,1.1,0.9,2.6,1,5.6c0.1,3.2,0.2,4.1,0.2,12.1 S54.6,39,54.4,42.1z"/><path d="M30,14.6c-8.5,0-15.4,6.9-15.4,15.4S21.5,45.4,30,45.4c8.5,0,15.4-6.9,15.4-15.4S38.5,14.6,30,14.6z M30,40 c-5.5,0-10-4.5-10-10s4.5-10,10-10c5.5,0,10,4.5,10,10S35.5,40,30,40z"/><path d="M49.6,14c0,2-1.6,3.6-3.6,3.6c-2,0-3.6-1.6-3.6-3.6c0-2,1.6-3.6,3.6-3.6C48,10.4,49.6,12,49.6,14z"/></g></svg></span>Instagram</a></li>
+    
+    <li><a target="_blank" href="https://www.facebook.com/designrecherche/"><span class="icon-svg" aria-hidden="true"><svg version="1.1" class="icon-facebook-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve"><path d="M38.5,10H44V0.4C43.1,0.3,39.8,0,36,0c-7.9,0-13.3,5-13.3,14.1v8.4H14v10.7h8.7V60h10.7V33.2h8.4l1.3-10.7h-9.7v-7.3C33.4,12.1,34.2,10,38.5,10L38.5,10z"/></svg></span>Facebook</a></li>
+    
+    <li><a target="_blank" href="http://design.hypotheses.org/"><span class="icon-svg" aria-hidden="true"><svg version="1.1" class="icon-open-edition" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve"><path d="M31.8,0c1.4,0.3,2.8,0.6,4.2,0.9c10.1,2.3,17.2,12.2,16.1,22.2c-0.3,2.3-1.3,4-3.2,5.3C44.6,31,40,31,35,30 c1.2-1.4,2.3-2.5,3.1-3.8C40.8,22.2,39.8,17,36,14c-3.7-3-8.6-2.6-12,0.8c-3.3,3.4-3.8,8.6-1,12.7c3.3,4.8,8.3,6.6,13.8,7.1 c4.7,0.4,9.1-0.8,13.6-3.1c-1.4,3.5-3.6,6-6.2,8.1c-2.7,2.1-5.7,3.7-9.2,4.2c-1.7,0.3-2.3,1.1-2.4,2.7c-0.3,4-0.7,8-1.1,12 c-0.1,0.5-0.8,1-1.2,1.5c-0.4-0.5-1.1-1-1.1-1.5c-0.5-4-0.9-8-1.2-12c-0.1-1.7-0.8-2.4-2.6-2.8C15,41.2,8.1,31.7,8.8,20.5 C9.3,10.4,17.6,1.7,27.9,0.5C28.5,0.4,29,0.2,29.5,0C30.3,0,31,0,31.8,0z"/><path d="M4,39c7.6-0.7,18.9,5.7,21.9,14.9C20.1,56.1,5.6,47.5,4,39z"/><path d="M34.5,59.8c2.7-7.3,15.4-15.4,22.4-14.5C54.5,53.8,42.7,61,34.5,59.8z"/></svg></span>Hypotheses</a></li>
+    
+  </ul>
 
-
-
-
- 
-
-
-  
-  
-  
-  
-  
-
-
-
-
-
-
-<section class="section section-on-footer" data-background="http://contentSite.com/images/backgrounds/bg-dots.png">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h2 class="section-title">Contact Info</h2>
-      </div>
-      <div class="col-lg-8 mx-auto">
-        <div class="bg-white rounded text-center p-5 shadow-down">
-          <h4 class="mb-80">Contact Form</h4>
-          <form action="#" method="POST" class="row">
-            <div class="col-md-6">
-              <input type="text" id="name" name="name" placeholder="Full Name" class="form-control px-0 mb-4">
-            </div>
-            <div class="col-md-6">
-              <input type="email" id="email" name="email" placeholder="Email Address" class="form-control px-0 mb-4">
-            </div>
-            <div class="col-12">
-              <textarea name="message" id="message" class="form-control px-0 mb-4"
-                placeholder="Type Message Here"></textarea>
-            </div>
-            <div class="col-lg-6 col-10 mx-auto">
-              <button class="btn btn-primary w-100">send</button>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-
-
-<footer class="bg-dark footer-section">
-  <div class="section">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-4">
-          <h5 class="text-light">Email</h5>
-          <p class="text-white paragraph-lg font-secondary">steve.fruits@email.com</p>
-        </div>
-        <div class="col-md-4">
-          <h5 class="text-light">Phone</h5>
-          <p class="text-white paragraph-lg font-secondary">&#43;880 2544 658 256</p>
-        </div>
-        <div class="col-md-4">
-          <h5 class="text-light">Address</h5>
-          <p class="text-white paragraph-lg font-secondary">125/A, CA Commercial Area, California, USA</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="border-top text-center border-dark py-5">
-    <p class="mb-0 text-light">Copyrighht &copy; 2020 a theme by <a href="https://gethugothemes.com">gethugothemes</a></p>
-  </div>
+<p>designenrecherche@gmail.com</p>
+<p>Association loi 1901 à but non-lucratif.</p>
 </footer>
 
 
 <!-- JS Plugins -->
 
-<script src="http://contentSite.com/plugins/jQuery/jquery.min.js"></script>
-
-<script src="http://contentSite.com/plugins/bootstrap/bootstrap.min.js"></script>
-
-<script src="http://contentSite.com/plugins/slick/slick.min.js"></script>
-
-<script src="http://contentSite.com/plugins/shuffle/shuffle.min.js"></script>
-
 
 <!-- Main Script -->
 
-<script src="http://contentSite.com/js/script.min.js"></script>
+<script src="https://designenrecherche.org/js/script.min.js"></script>
 
-<!-- google analitycs -->
 </body>
 </html>

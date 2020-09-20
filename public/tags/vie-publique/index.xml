@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vie publique on Design en Recherche</title>
+    <link>https://designenrecherche.org/tags/vie-publique/</link>
+    <description>Recent content in vie publique on Design en Recherche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 15 Sep 2016 08:12:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://designenrecherche.org/tags/vie-publique/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design, innovation sociale et vie publique</title>
+      <link>https://designenrecherche.org/actions/design-innovation-sociale-et-vie-publique/</link>
+      <pubDate>Thu, 15 Sep 2016 08:12:51 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/actions/design-innovation-sociale-et-vie-publique/</guid>
+      <description>Argument Pour cette septième journée d’étude organisée par le réseau Design en Recherche, nous proposons d’exposer et de débattre les différentes positions prises par les designers lorsqu’elles.</description>
+    </item>
+    
+  </channel>
+</rss>

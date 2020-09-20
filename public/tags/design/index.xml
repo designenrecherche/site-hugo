@@ -2,30 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>design on Design en Recherche</title>
-    <link>http://contentSite.com/tags/design/</link>
+    <link>https://designenrecherche.org/tags/design/</link>
     <description>Recent content in design on Design en Recherche</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
+    <lastBuildDate>Thu, 15 Sep 2016 08:12:51 +0000</lastBuildDate>
     
-	<atom:link href="http://contentSite.com/tags/design/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://designenrecherche.org/tags/design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Design, innovation sociale et vie publique</title>
+      <link>https://designenrecherche.org/actions/design-innovation-sociale-et-vie-publique/</link>
+      <pubDate>Thu, 15 Sep 2016 08:12:51 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/actions/design-innovation-sociale-et-vie-publique/</guid>
+      <description>Argument Pour cette septième journée d’étude organisée par le réseau Design en Recherche, nous proposons d’exposer et de débattre les différentes positions prises par les designers lorsqu’elles.</description>
+    </item>
+    
+    <item>
+      <title>Design &amp; genre | Gender &amp; Design</title>
+      <link>https://designenrecherche.org/actions/design-genre-gender-design/</link>
+      <pubDate>Thu, 19 Nov 2015 09:00:25 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/actions/design-genre-gender-design/</guid>
+      <description>Pour cette quatrième journée d’étude organisée par le réseau Design en Recherche, nous proposons d’interroger les liens et intersections des études de genre (gender studies) et du design.</description>
+    </item>
+    
+    <item>
+      <title>Faut-il rédiger les méthodes de la recherche en design ?</title>
+      <link>https://designenrecherche.org/actions/faut-il-rediger-les-methodes-de-la-recherche-en-design/</link>
+      <pubDate>Thu, 02 Oct 2014 07:30:20 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/actions/faut-il-rediger-les-methodes-de-la-recherche-en-design/</guid>
+      <description>Ainsi mon dessein n’est pas d’enseigner la méthode que chacun doit suivre pour bien conduire sa raison, mais de faire voir en quelle sorte j’ai tâché de conduire la mienne.</description>
+    </item>
+    
+    <item>
       <title> Estelle Berger</title>
-      <link>http://contentSite.com/membres/estelle-berger/</link>
+      <link>https://designenrecherche.org/membres/estelle-berger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://contentSite.com/membres/estelle-berger/</guid>
-      <description></description>
+      <guid>https://designenrecherche.org/membres/estelle-berger/</guid>
+      <description>Résumé de thèse Cette recherche, menée par un designer-chercheur en immersion dans le monde professionnel, interroge la problématique de la conciliation entre pratique réelle et prise de recul réflexive sur le métier.</description>
     </item>
     
     <item>
       <title>Rose Dumesny</title>
-      <link>http://contentSite.com/membres/rose-dumesny/</link>
+      <link>https://designenrecherche.org/membres/rose-dumesny/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://contentSite.com/membres/rose-dumesny/</guid>
-      <description></description>
+      <guid>https://designenrecherche.org/membres/rose-dumesny/</guid>
+      <description>Résumé de thèse Le design des données, ou expérience sensible de la donnée, désigne un champ de recherche, d’exploration et d’expérimentation autour des données numériques permettant de créer des “objets“ (représentation visuelle, matérialisation, etc.</description>
     </item>
     
   </channel>

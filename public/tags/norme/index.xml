@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>norme on Design en Recherche</title>
+    <link>https://designenrecherche.org/tags/norme/</link>
+    <description>Recent content in norme on Design en Recherche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 19 Nov 2015 09:00:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://designenrecherche.org/tags/norme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design &amp; genre | Gender &amp; Design</title>
+      <link>https://designenrecherche.org/actions/design-genre-gender-design/</link>
+      <pubDate>Thu, 19 Nov 2015 09:00:25 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/actions/design-genre-gender-design/</guid>
+      <description>Pour cette quatrième journée d’étude organisée par le réseau Design en Recherche, nous proposons d’interroger les liens et intersections des études de genre (gender studies) et du design.</description>
+    </item>
+    
+  </channel>
+</rss>

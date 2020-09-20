@@ -2,101 +2,300 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Design en Recherche</title>
-    <link>http://contentSite.com/tags/</link>
+    <link>https://designenrecherche.org/tags/</link>
     <description>Recent content in Tags on Design en Recherche</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
+    <lastBuildDate>Thu, 14 Mar 2019 19:00:32 +0000</lastBuildDate>
     
-	<atom:link href="http://contentSite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://designenrecherche.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title> poïétique</title>
-      <link>http://contentSite.com/tags/po%C3%AF%C3%A9tique/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>doctorat</title>
+      <link>https://designenrecherche.org/tags/doctorat/</link>
+      <pubDate>Thu, 14 Mar 2019 19:00:32 +0000</pubDate>
       
-      <guid>http://contentSite.com/tags/po%C3%AF%C3%A9tique/</guid>
+      <guid>https://designenrecherche.org/tags/doctorat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post-doctorat</title>
+      <link>https://designenrecherche.org/tags/post-doctorat/</link>
+      <pubDate>Thu, 14 Mar 2019 19:00:32 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/post-doctorat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>profession</title>
+      <link>https://designenrecherche.org/tags/profession/</link>
+      <pubDate>Thu, 14 Mar 2019 19:00:32 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/profession/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thèse</title>
+      <link>https://designenrecherche.org/tags/th%C3%A8se/</link>
+      <pubDate>Thu, 14 Mar 2019 19:00:32 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/th%C3%A8se/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>http://contentSite.com/tags/design/</link>
+      <link>https://designenrecherche.org/tags/design/</link>
+      <pubDate>Thu, 15 Sep 2016 08:12:51 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>innovation sociale</title>
+      <link>https://designenrecherche.org/tags/innovation-sociale/</link>
+      <pubDate>Thu, 15 Sep 2016 08:12:51 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/innovation-sociale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vie publique</title>
+      <link>https://designenrecherche.org/tags/vie-publique/</link>
+      <pubDate>Thu, 15 Sep 2016 08:12:51 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/vie-publique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> cultural studies</title>
+      <link>https://designenrecherche.org/tags/cultural-studies/</link>
+      <pubDate>Thu, 19 Nov 2015 09:00:25 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/cultural-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> genre</title>
+      <link>https://designenrecherche.org/tags/genre/</link>
+      <pubDate>Thu, 19 Nov 2015 09:00:25 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/genre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>norme</title>
+      <link>https://designenrecherche.org/tags/norme/</link>
+      <pubDate>Thu, 19 Nov 2015 09:00:25 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/norme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>méthodes</title>
+      <link>https://designenrecherche.org/tags/m%C3%A9thodes/</link>
+      <pubDate>Thu, 02 Oct 2014 07:30:20 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/m%C3%A9thodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>méthodologie</title>
+      <link>https://designenrecherche.org/tags/m%C3%A9thodologie/</link>
+      <pubDate>Thu, 02 Oct 2014 07:30:20 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/m%C3%A9thodologie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>réduire en art</title>
+      <link>https://designenrecherche.org/tags/r%C3%A9duire-en-art/</link>
+      <pubDate>Thu, 02 Oct 2014 07:30:20 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/r%C3%A9duire-en-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> poïétique</title>
+      <link>https://designenrecherche.org/tags/po%C3%AF%C3%A9tique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://contentSite.com/tags/design/</guid>
+      <guid>https://designenrecherche.org/tags/po%C3%AF%C3%A9tique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>activité</title>
+      <link>https://designenrecherche.org/tags/activit%C3%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/activit%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>approche instrumentale</title>
+      <link>https://designenrecherche.org/tags/approche-instrumentale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/approche-instrumentale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>https://designenrecherche.org/tags/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design graphique</title>
+      <link>https://designenrecherche.org/tags/design-graphique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/design-graphique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>engagement</title>
+      <link>https://designenrecherche.org/tags/engagement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/engagement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>expérience</title>
-      <link>http://contentSite.com/tags/exp%C3%A9rience/</link>
+      <link>https://designenrecherche.org/tags/exp%C3%A9rience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://contentSite.com/tags/exp%C3%A9rience/</guid>
+      <guid>https://designenrecherche.org/tags/exp%C3%A9rience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>interdisciplinarité</title>
-      <link>http://contentSite.com/tags/interdisciplinarit%C3%A9/</link>
+      <link>https://designenrecherche.org/tags/interdisciplinarit%C3%A9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://contentSite.com/tags/interdisciplinarit%C3%A9/</guid>
+      <guid>https://designenrecherche.org/tags/interdisciplinarit%C3%A9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>perception sensible</title>
-      <link>http://contentSite.com/tags/perception-sensible/</link>
+      <link>https://designenrecherche.org/tags/perception-sensible/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://contentSite.com/tags/perception-sensible/</guid>
+      <guid>https://designenrecherche.org/tags/perception-sensible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pratique</title>
+      <link>https://designenrecherche.org/tags/pratique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/pratique/</guid>
       <description></description>
     </item>
     
     <item>
       <title>représentation des données</title>
-      <link>http://contentSite.com/tags/repr%C3%A9sentation-des-donn%C3%A9es/</link>
+      <link>https://designenrecherche.org/tags/repr%C3%A9sentation-des-donn%C3%A9es/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://contentSite.com/tags/repr%C3%A9sentation-des-donn%C3%A9es/</guid>
+      <guid>https://designenrecherche.org/tags/repr%C3%A9sentation-des-donn%C3%A9es/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tactique</title>
-      <link>http://contentSite.com/tags/tactique/</link>
+      <link>https://designenrecherche.org/tags/tactique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://contentSite.com/tags/tactique/</guid>
+      <guid>https://designenrecherche.org/tags/tactique/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tangible</title>
-      <link>http://contentSite.com/tags/tangible/</link>
+      <link>https://designenrecherche.org/tags/tangible/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://contentSite.com/tags/tangible/</guid>
+      <guid>https://designenrecherche.org/tags/tangible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technologies du web</title>
+      <link>https://designenrecherche.org/tags/technologies-du-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/technologies-du-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transition énergétique</title>
+      <link>https://designenrecherche.org/tags/transition-%C3%A9nerg%C3%A9tique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/transition-%C3%A9nerg%C3%A9tique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>usagers</title>
+      <link>https://designenrecherche.org/tags/usagers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/usagers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>usages</title>
-      <link>http://contentSite.com/tags/usages/</link>
+      <link>https://designenrecherche.org/tags/usages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://contentSite.com/tags/usages/</guid>
+      <guid>https://designenrecherche.org/tags/usages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>édition</title>
+      <link>https://designenrecherche.org/tags/%C3%A9dition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/tags/%C3%A9dition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>éthique</title>
-      <link>http://contentSite.com/tags/%C3%A9thique/</link>
+      <link>https://designenrecherche.org/tags/%C3%A9thique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://contentSite.com/tags/%C3%A9thique/</guid>
+      <guid>https://designenrecherche.org/tags/%C3%A9thique/</guid>
       <description></description>
     </item>
     

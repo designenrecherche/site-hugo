@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>doctorat on Design en Recherche</title>
+    <link>https://designenrecherche.org/tags/doctorat/</link>
+    <description>Recent content in doctorat on Design en Recherche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 14 Mar 2019 19:00:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://designenrecherche.org/tags/doctorat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Docteur, et après ?</title>
+      <link>https://designenrecherche.org/actions/docteur-et-apres/</link>
+      <pubDate>Thu, 14 Mar 2019 19:00:32 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/actions/docteur-et-apres/</guid>
+      <description>La table ronde vise, à travers la diversité des parcours de ses invité·e·s, à dresser un état des lieux non exhaustif des opportunités pour un docteur en design mais aussi à comprendre comment l’expérience de thèse a pu être structurante dans leurs parcours professionnels respectifs.</description>
+    </item>
+    
+  </channel>
+</rss>

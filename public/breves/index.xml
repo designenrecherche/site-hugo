@@ -2,21 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Breves on Design en Recherche</title>
-    <link>http://contentSite.com/breves/</link>
+    <link>https://designenrecherche.org/breves/</link>
     <description>Recent content in Breves on Design en Recherche</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 16 Mar 2020 15:52:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2020 10:20:47 +0000</lastBuildDate>
     
-	<atom:link href="http://contentSite.com/breves/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://designenrecherche.org/breves/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Contrat doctoral ou postdoc à Rise (Suède)</title>
+      <link>https://designenrecherche.org/breves/contrat-doctoral-ou-postdoc-a-rise/</link>
+      <pubDate>Sat, 11 Jul 2020 10:20:47 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/breves/contrat-doctoral-ou-postdoc-a-rise/</guid>
+      <description>RISE, le principal institut de recherche en Suède, embauche un.e doctorant.</description>
+    </item>
+    
+    <item>
+      <title>Appel à projet XIIe Biennale Internationale Design 2021</title>
+      <link>https://designenrecherche.org/breves/appel-a-projet-xiie-biennale-internationale-design-2021/</link>
+      <pubDate>Fri, 10 Jul 2020 09:50:20 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/breves/appel-a-projet-xiie-biennale-internationale-design-2021/</guid>
+      <description>La XIIe édition de la Biennale Internationale Design Saint-Étienne aura lieu du mercredi 28 avril au dimanche 22 août 2021.</description>
+    </item>
+    
+    <item>
+      <title>6 offres de contrats de recherche à L’ANRT de Nancy</title>
+      <link>https://designenrecherche.org/breves/6-offres-de-contrats-de-recherche-a-l-anrt-de-nancy/</link>
+      <pubDate>Fri, 10 Jul 2020 09:49:38 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/breves/6-offres-de-contrats-de-recherche-a-l-anrt-de-nancy/</guid>
+      <description>Contrats de recherche, d’une durée de 18 mois. Le recrutement est international, et le nombre de places est limité à six.</description>
+    </item>
+    
+    <item>
+      <title>2 offres de doctorats à L’École Universitaire de Recherche ArTeC</title>
+      <link>https://designenrecherche.org/breves/2-offres-de-doctorats-a-l-ecole-universitaire-de-recherche-artec/</link>
+      <pubDate>Fri, 10 Jul 2020 09:48:00 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/breves/2-offres-de-doctorats-a-l-ecole-universitaire-de-recherche-artec/</guid>
+      <description>Contrats doctoraux, d’une durée de trois ans. Il n’y a pas de conditions d’âge ou d’année d’obtention du Master.</description>
+    </item>
+    
+    <item>
+      <title>Contrat de recherche pour l&#39;ouverture d’un DSRD (Diplôme Supérieur de Recherche en Design), Écolab (Orléans)</title>
+      <link>https://designenrecherche.org/breves/contrat-de-recherche-pour-l-ouverture-d-un-dsrd-diplome-superieur-de-recherche-en-design-ecolab-orleans/</link>
+      <pubDate>Fri, 10 Jul 2020 09:46:17 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/breves/contrat-de-recherche-pour-l-ouverture-d-un-dsrd-diplome-superieur-de-recherche-en-design-ecolab-orleans/</guid>
+      <description>Contrat de recherche pour l&amp;rsquo;ouverture d’un DSRD (Diplôme Supérieur de Recherche en Design).</description>
+    </item>
+    
+    <item>
+      <title>Contrat doctoral à la HEAD Genève</title>
+      <link>https://designenrecherche.org/breves/contrat-doctoral-a-la-head-geneve/</link>
+      <pubDate>Fri, 10 Jul 2020 09:44:53 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/breves/contrat-doctoral-a-la-head-geneve/</guid>
+      <description>Assistant-e HES Doctorant-e FNSEn Études urbaines / Arts visuels, à 80%.</description>
+    </item>
+    
+    <item>
       <title>Et si les défis en santé passaient par des enjeux de communication et de design ?</title>
-      <link>http://contentSite.com/breves/et-si-les-d%C3%A9fis-en-sant%C3%A9-passaient-par-des-enjeux-de-communication-et-de-design/</link>
+      <link>https://designenrecherche.org/breves/et-si-les-d%C3%A9fis-en-sant%C3%A9-passaient-par-des-enjeux-de-communication-et-de-design/</link>
       <pubDate>Mon, 16 Mar 2020 15:52:24 +0000</pubDate>
       
-      <guid>http://contentSite.com/breves/et-si-les-d%C3%A9fis-en-sant%C3%A9-passaient-par-des-enjeux-de-communication-et-de-design/</guid>
+      <guid>https://designenrecherche.org/breves/et-si-les-d%C3%A9fis-en-sant%C3%A9-passaient-par-des-enjeux-de-communication-et-de-design/</guid>
       <description>88e Congrès de l&amp;rsquo;Acfas
 4 mai 2020
 Université de Sherbrooke</description>
@@ -24,20 +78,11 @@ Université de Sherbrooke</description>
     
     <item>
       <title>Sciences du Design — 12 — Varia</title>
-      <link>http://contentSite.com/breves/sciences-du-design-12-varia/</link>
+      <link>https://designenrecherche.org/breves/sciences-du-design-12-varia/</link>
       <pubDate>Mon, 16 Mar 2020 15:42:14 +0000</pubDate>
       
-      <guid>http://contentSite.com/breves/sciences-du-design-12-varia/</guid>
+      <guid>https://designenrecherche.org/breves/sciences-du-design-12-varia/</guid>
       <description>Sciences du Design lance un appel à articles sur thème libre pour son numéro 12, à paraître à l&amp;rsquo;automne 2020.</description>
-    </item>
-    
-    <item>
-      <title>Ceci est une brève</title>
-      <link>http://contentSite.com/breves/ceci-est-une-br%C3%A8ve/</link>
-      <pubDate>Mon, 16 Mar 2020 15:14:52 +0000</pubDate>
-      
-      <guid>http://contentSite.com/breves/ceci-est-une-br%C3%A8ve/</guid>
-      <description>Test texte de la brève</description>
     </item>
     
   </channel>

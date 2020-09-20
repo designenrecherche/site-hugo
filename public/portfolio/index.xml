@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on Design en Recherche</title>
-    <link>http://contentSite.com/portfolio/</link>
+    <link>https://designenrecherche.org/portfolio/</link>
     <description>Recent content in Portfolio on Design en Recherche</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
     
-	<atom:link href="http://contentSite.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://designenrecherche.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

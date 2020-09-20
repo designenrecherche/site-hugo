@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transition énergétique on Design en Recherche</title>
+    <link>https://designenrecherche.org/tags/transition-%C3%A9nerg%C3%A9tique/</link>
+    <description>Recent content in transition énergétique on Design en Recherche</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    
+	<atom:link href="https://designenrecherche.org/tags/transition-%C3%A9nerg%C3%A9tique/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zoé Bonnardot</title>
+      <link>https://designenrecherche.org/membres/zoe-bonnardot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://designenrecherche.org/membres/zoe-bonnardot/</guid>
+      <description>Résumé de thèse Les usagers des services énergétiques (résidentiels, tertiaires et collectivités) aujourd&amp;rsquo;hui receveurs, seront demain producteurs ou engagés dans un réseau de production locale.</description>
+    </item>
+    
+  </channel>
+</rss>

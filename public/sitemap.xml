@@ -3,270 +3,398 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://contentSite.com/association/</loc>
-    <lastmod>2020-03-17T08:41:12+00:00</lastmod>
+    <loc>https://designenrecherche.org/breves/</loc>
+    <lastmod>2020-07-11T10:20:47+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://contentSite.com/title/conception-corps-et-fiction/</loc>
-    <lastmod>2020-03-17T08:41:12+00:00</lastmod>
+    <loc>https://designenrecherche.org/breves/contrat-doctoral-ou-postdoc-a-rise/</loc>
+    <lastmod>2020-07-11T10:20:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/association/conception-corps-et-fiction/</loc>
-    <lastmod>2020-03-17T08:41:12+00:00</lastmod>
+    <loc>https://designenrecherche.org/</loc>
+    <lastmod>2020-07-11T10:20:47+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://contentSite.com/</loc>
-    <lastmod>2020-03-17T08:41:12+00:00</lastmod>
+    <loc>https://designenrecherche.org/breves/appel-a-projet-xiie-biennale-internationale-design-2021/</loc>
+    <lastmod>2020-07-10T09:50:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/title/</loc>
-    <lastmod>2020-03-17T08:41:12+00:00</lastmod>
+    <loc>https://designenrecherche.org/breves/6-offres-de-contrats-de-recherche-a-l-anrt-de-nancy/</loc>
+    <lastmod>2020-07-10T09:49:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/title/chantiers-2018/</loc>
-    <lastmod>2020-03-16T20:23:40+00:00</lastmod>
+    <loc>https://designenrecherche.org/breves/2-offres-de-doctorats-a-l-ecole-universitaire-de-recherche-artec/</loc>
+    <lastmod>2020-07-10T09:48:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/association/chantiers-2018/</loc>
-    <lastmod>2020-03-16T20:23:40+00:00</lastmod>
+    <loc>https://designenrecherche.org/breves/contrat-de-recherche-pour-l-ouverture-d-un-dsrd-diplome-superieur-de-recherche-en-design-ecolab-orleans/</loc>
+    <lastmod>2020-07-10T09:46:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/title/situations-graphiques/</loc>
-    <lastmod>2020-03-16T20:20:56+00:00</lastmod>
+    <loc>https://designenrecherche.org/breves/contrat-doctoral-a-la-head-geneve/</loc>
+    <lastmod>2020-07-10T09:44:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/association/situations-graphiques/</loc>
-    <lastmod>2020-03-16T20:20:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://contentSite.com/breves/</loc>
+    <loc>https://designenrecherche.org/breves/et-si-les-d%C3%A9fis-en-sant%C3%A9-passaient-par-des-enjeux-de-communication-et-de-design/</loc>
     <lastmod>2020-03-16T15:52:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/title/et-si-les-d%C3%A9fis-en-sant%C3%A9-passaient-par-des-enjeux-de-communication-et-de-design/</loc>
-    <lastmod>2020-03-16T15:52:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://contentSite.com/breves/et-si-les-d%C3%A9fis-en-sant%C3%A9-passaient-par-des-enjeux-de-communication-et-de-design/</loc>
-    <lastmod>2020-03-16T15:52:24+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://contentSite.com/title/sciences-du-design-12-varia/</loc>
+    <loc>https://designenrecherche.org/breves/sciences-du-design-12-varia/</loc>
     <lastmod>2020-03-16T15:42:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/breves/sciences-du-design-12-varia/</loc>
-    <lastmod>2020-03-16T15:42:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://contentSite.com/title/ceci-est-une-br%C3%A8ve/</loc>
-    <lastmod>2020-03-16T15:14:52+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://contentSite.com/breves/ceci-est-une-br%C3%A8ve/</loc>
-    <lastmod>2020-03-16T15:14:52+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://contentSite.com/title/test-programme/</loc>
+    <loc>https://designenrecherche.org/blog/test-programme/</loc>
     <lastmod>2020-03-14T14:20:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/blog/test-programme/</loc>
-    <lastmod>2020-03-14T14:20:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://contentSite.com/blog/test-date/</loc>
+    <loc>https://designenrecherche.org/blog/test-date/</loc>
     <lastmod>2020-03-14T14:02:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/instagram/</loc>
-    <lastmod>2019-07-03T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://contentSite.com/title/renaud-mignerey/</loc>
-    <lastmod>2019-07-03T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://contentSite.com/instagram/renaud-mignerey/</loc>
-    <lastmod>2019-07-03T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://contentSite.com/title/rose-dumesny/</loc>
-    <lastmod>2019-06-03T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://contentSite.com/instagram/membres-rose-dumesny-md/</loc>
-    <lastmod>2019-06-03T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://contentSite.com/about/</loc>
+    <loc>https://designenrecherche.org/about/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/title/amazon-increase-income-1.5-million/</loc>
+    <loc>https://designenrecherche.org/blog/amazon-increase-income.1/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/blog/amazon-increase-income.1/</loc>
+    <loc>https://designenrecherche.org/blog/amazon-increase-income.2/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/blog/amazon-increase-income.2/</loc>
+    <loc>https://designenrecherche.org/blog/amazon-increase-income.3/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/blog/amazon-increase-income.3/</loc>
+    <loc>https://designenrecherche.org/blog/amazon-increase-income.4/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/blog/amazon-increase-income.4/</loc>
+    <loc>https://designenrecherche.org/blog/amazon-increase-income.5/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/blog/amazon-increase-income.5/</loc>
+    <loc>https://designenrecherche.org/blog/amazon-increase-income/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/blog/amazon-increase-income/</loc>
+    <loc>https://designenrecherche.org/blog/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/blog/</loc>
+    <loc>https://designenrecherche.org/portfolio/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/contact/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <loc>https://designenrecherche.org/actions/</loc>
+    <lastmod>2019-03-14T19:00:32+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://contentSite.com/portfolio/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+    <loc>https://designenrecherche.org/actions/docteur-et-apres/</loc>
+    <lastmod>2019-03-14T19:00:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/title/estelle-berger/</loc>
+    <loc>https://designenrecherche.org/tags/</loc>
+    <lastmod>2019-03-14T19:00:32+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://contentSite.com/membres/estelle-berger/</loc>
+    <loc>https://designenrecherche.org/tags/doctorat/</loc>
+    <lastmod>2019-03-14T19:00:32+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://contentSite.com/tags/po%C3%AF%C3%A9tique/</loc>
+    <loc>https://designenrecherche.org/tags/post-doctorat/</loc>
+    <lastmod>2019-03-14T19:00:32+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://contentSite.com/categories/appels-%C3%A0-communication/</loc>
+    <loc>https://designenrecherche.org/tags/profession/</loc>
+    <lastmod>2019-03-14T19:00:32+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://contentSite.com/categories/</loc>
+    <loc>https://designenrecherche.org/tags/th%C3%A8se/</loc>
+    <lastmod>2019-03-14T19:00:32+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://contentSite.com/title/ceci-est-le-titre-du-post/</loc>
+    <loc>https://designenrecherche.org/actions/atelier-1-how-to-faire-un-plan-de-these/</loc>
+    <lastmod>2018-04-26T14:00:21+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/blog/ceci-est-le-titre-du-post/</loc>
+    <loc>https://designenrecherche.org/actions/chantiers-2018/</loc>
+    <lastmod>2018-01-12T21:00:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/tags/design/</loc>
+    <loc>https://designenrecherche.org/actions/conception-corps-et-fiction/</loc>
+    <lastmod>2017-04-26T08:00:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/tags/exp%C3%A9rience/</loc>
+    <loc>https://designenrecherche.org/actions/situations-graphiques/</loc>
+    <lastmod>2017-02-12T21:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/tags/interdisciplinarit%C3%A9/</loc>
+    <loc>https://designenrecherche.org/actions/design-innovation-sociale-et-vie-publique/</loc>
+    <lastmod>2016-09-15T08:12:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/categories/journ%C3%A9es-d%C3%A9tudes-et-colloques/</loc>
+    <loc>https://designenrecherche.org/tags/design/</loc>
+    <lastmod>2016-09-15T08:12:51+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://contentSite.com/membres/</loc>
+    <loc>https://designenrecherche.org/tags/innovation-sociale/</loc>
+    <lastmod>2016-09-15T08:12:51+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://contentSite.com/categories/opportunit%C3%A9s/</loc>
+    <loc>https://designenrecherche.org/tags/vie-publique/</loc>
+    <lastmod>2016-09-15T08:12:51+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://contentSite.com/tags/perception-sensible/</loc>
+    <loc>https://designenrecherche.org/tags/cultural-studies/</loc>
+    <lastmod>2015-11-19T09:00:25+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://contentSite.com/tags/repr%C3%A9sentation-des-donn%C3%A9es/</loc>
+    <loc>https://designenrecherche.org/tags/genre/</loc>
+    <lastmod>2015-11-19T09:00:25+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://contentSite.com/membres/rose-dumesny/</loc>
+    <loc>https://designenrecherche.org/actions/design-genre-gender-design/</loc>
+    <lastmod>2015-11-19T09:00:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/categories/r%C3%A9sidence-instagram/</loc>
+    <loc>https://designenrecherche.org/tags/norme/</loc>
+    <lastmod>2015-11-19T09:00:25+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://contentSite.com/tags/tactique/</loc>
+    <loc>https://designenrecherche.org/actions/faut-il-rediger-les-methodes-de-la-recherche-en-design/</loc>
+    <lastmod>2014-10-02T07:30:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://contentSite.com/tags/</loc>
+    <loc>https://designenrecherche.org/tags/m%C3%A9thodes/</loc>
+    <lastmod>2014-10-02T07:30:20+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://contentSite.com/tags/tangible/</loc>
+    <loc>https://designenrecherche.org/tags/m%C3%A9thodologie/</loc>
+    <lastmod>2014-10-02T07:30:20+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://contentSite.com/tags/usages/</loc>
+    <loc>https://designenrecherche.org/tags/r%C3%A9duire-en-art/</loc>
+    <lastmod>2014-10-02T07:30:20+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://contentSite.com/tags/%C3%A9thique/</loc>
+    <loc>https://designenrecherche.org/actions/une-action/</loc>
   </url>
   
   <url>
-    <loc>http://contentSite.com/categories/%C3%A9v%C3%A8nements/</loc>
+    <loc>https://designenrecherche.org/membres/estelle-berger/</loc>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/po%C3%AF%C3%A9tique/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/contact-adhesion/</loc>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/categories/appels-%C3%A0-communication/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/categories/journ%C3%A9es-d%C3%A9tudes-et-colloques/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/membres/julie-blanc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/membres/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/categories/opportunit%C3%A9s/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/membres/rose-dumesny/</loc>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/categories/r%C3%A9sidence-instagram/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/membres/zoe-bonnardot/</loc>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/activit%C3%A9/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/approche-instrumentale/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/blog/ceci-est-le-titre-du-post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/code/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/design-graphique/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/engagement/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/exp%C3%A9rience/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/interdisciplinarit%C3%A9/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/perception-sensible/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/pratique/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/repr%C3%A9sentation-des-donn%C3%A9es/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/tactique/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/tangible/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/technologies-du-web/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/transition-%C3%A9nerg%C3%A9tique/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/usagers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/usages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/categories/%C3%A9v%C3%A8nements/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/%C3%A9dition/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://designenrecherche.org/tags/%C3%A9thique/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
