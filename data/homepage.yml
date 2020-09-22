@@ -18,14 +18,6 @@ aboutHome:
 
 
 
-# Highlight 1: Beer
-beer:
-  enable : true
-  title: "Bière des doctorant·e·s"
-  summary: "Pour tout ceux qui veulent boire des coups et discuter de leurs joies et peines de doctorant·es."
-  date: "8 septembre 2020, 19h30"
-  lieu: "Le grand Breguet, Paris (11e)"
-
 # Highlight 2: Résidences instagram
 instagramresidence:
   enable : true
