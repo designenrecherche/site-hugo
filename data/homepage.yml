@@ -18,16 +18,6 @@ aboutHome:
 
 
 
-# Highlight 2: Résidences instagram
-instagramresidence:
-  enable : true
-  title: "Résidence instagram"
-  summary: "Chaque mois, un·e doctorant·e est en résidence sur notre compte instagram pour parler de son travail de recherche."
-  link: "https://www.instagram.com/designenrecherche/"
-  membre: "Julie Blanc"
-  mois: "juin 2020"
-
-
   
 # Évènements de l'association
 actions:

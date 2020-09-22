@@ -108,14 +108,14 @@
           {{ end }}
           {{ end }}
 
-          {{ if .Site.Data.homepage.instagramresidence.enable }}
-          {{ with .Site.Data.homepage.instagramresidence }}
+          {{ if .Site.Data.instagram_home.instagramresidence.enable }}
+          {{ with .Site.Data.instagram_home.instagramresidence }}
           <article>
             <span aria-hidden="true">{{ partial "icons/insta-coeur.html" . | safeHTML}}</span>
             <h1>{{ .title }}</h1>
             <p class="summary">{{ .summary }}</p>  
             <p class="instagram">{{ .mois }}&#8239;: {{ .membre }} </p>
-            <a class="more" target="_blank" href="{{ .link }}">Toutes les résidences Instagram</a>
+            <a class="more" target="_blank" href="{{ .link }}">{{ .titleLink }}</a>
           </article>
           {{ end }}
           {{ end }}
