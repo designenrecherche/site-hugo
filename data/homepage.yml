@@ -28,7 +28,7 @@ actions:
   # blog post comes from "content/actions" folder
 
 
-# Évènements de l'association
+# Annuaire des membres
 membres:
   enable : true
   title : "Membres actifs"

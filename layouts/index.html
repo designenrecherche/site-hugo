@@ -28,14 +28,15 @@
       {{ end }}
 
       {{ if .Site.Data.homepage.aboutHome.socials.enable }}
-      <p class="socials-baseline">{{ .Site.Data.homepage.aboutHome.socials.baseline }}</p>
-        
+      {{ with site.Data.socials.socials }}
+      <p class="socials-baseline">{{ .Site.Data.homepage.aboutHome.socials.baseline }}</p>     
         <ul class="socials">
-          {{ range .Site.Params.social }}
+          {{ range .items}}
           <li><span class="icon-svg" aria-hidden="true">{{ .icon | safeHTML }}</span><a target="_blank" href="{{.URL | safeURL }}">{{.title }}</a></li>
           {{ end }}
         </ul>
-        {{ end }}
+      {{ end }}
+      {{ end }}
 
         <button><a href="{{ .Site.Data.homepage.about.URL }}">{{ .Site.Data.homepage.aboutHome.button }}</a></button>
         

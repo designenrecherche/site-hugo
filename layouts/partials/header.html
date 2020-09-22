@@ -41,11 +41,15 @@
         {{ end }}
       </ul>
 
+      {{ with site.Data.socials.socials }}
       <ul class="socials">
-        {{ range .Site.Params.social }}
+        {{ range .items}}
         <li><span class="icon-svg" aria-hidden="true">{{ .icon | safeHTML }}</span><a target="_blank" href="{{.URL | safeURL }}">{{.title }}</a></li>
         {{ end }}
       </ul>
+    {{ end }}
+
+
     </div>
 
 
