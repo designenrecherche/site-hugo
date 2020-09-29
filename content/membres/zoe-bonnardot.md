@@ -1,15 +1,16 @@
 +++
+etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"
 membre_actif = true
-type_page = "membres"
-etablissement = "Unîme, équipe PROJEKT"
 photo = "/images/bonnardot-zoe.png"
 section_cnu = "71 Sciences de l'information et de la communication"
-tags = ["expérience", "transition énergétique", "usagers", "engagement"]
-these_start = 2018
+tags = ["expérience", "transition énergétique", "usagers", "engagement", "anticipation", "simulation", "ludicité"]
+these_end = nil
 these_soutenue = false
+these_start = 2018
 title = "Zoé Bonnardot"
-titrethese = "Concevoir l'engagement multi-échelle des utilisateurs : le design d'expérience dans la transition énergétique et numérique"
-titretheseEn = "Designing multi-scales user engagement: user experience design for energetic and digital transition"
+titrethese = "Anticiper les expériences futures des énergies renouvelables : un dispositif de simulation ludique et participatif pour le design de services en contexte industriel"
+titretheseEn = "Anticipate future experiences of renewable energy : a playful and participatory simulation tool for the design of services in an industrial context."
+type_page = "membres"
 url_hal = ""
 url_thesesfr = "http://theses.fr/s193598"
 [contact]
@@ -18,9 +19,11 @@ github = ""
 gitlab = ""
 hypotheses = ""
 instagram = ""
-linkedin = ""
+linkedin = "https://www.linkedin.com/in/zo%C3%A9-bonnardot-1082969a/"
 mail = "bonnardot.z@gmail.com"
+medium = ""
 site = ""
+telephone = ""
 twitter = ""
 [instagram_1]
 post1 = ""
@@ -59,20 +62,20 @@ post9link = "https://www.instagram.com/p/B6krvOcikAL/"
 
 {{% lang class="fr" %}}
 
-Les usagers des services énergétiques (résidentiels, tertiaires et collectivités) aujourd'hui receveurs, seront demain producteurs ou engagés dans un réseau de production locale. Ils seront alors amenés à être acteur de la gestion de leur énergie. Dans ce contexte, ce travail de thèse vise à comprendre et concevoir des modalités d'engagement de la part des utilisateurs dans la transition énergétique et numérique. Une attention particulière est portée sur l'articulation entre l'engagement individuel et collectif des utilisateurs. Cette recherche aboutira à la conception d'outils et méthodes qui nous permettent : l'anticipation et la projection de situations d'usages de l'énergie probable à moyen terme mais aussi de faciliter un engagement des utilisateurs à la fois seuls et en collectivité par la conception d'outils ou services numériques.
+Les usagers des services énergétiques (résidentiels, tertiaires et collectivités) aujourd'hui receveurs, seront demain producteurs ou engagés dans un réseau de production locale. Ils seront alors amenés à être acteurs de la gestion de leur énergie. Dans ce contexte, ce travail de thèse vise à anticiper les comportements des utilisateurs dans des situations probables de partage d'énergie à l'échelle locale. Une attention particulière est portée sur l'articulation entre l'engagement individuel et collectif des utilisateurs. Cette recherche aboutira à l'élaboration d'une méthodologie pour la conception de service centré-usager qui s'appuie sur un dispositif de simulation ludique et participatif.
 
 {{% /lang %}}
 
 {{% lang class="fr" %}}
 
-Today, energetic services users (residential, tertiary and communities) are receivers, but tomorrow they will be producers themself or engaged in a local production network. They will then be required to be active in the management of their own energy. In this context, this research work aims at understanding and designing user engagement modality in the energetic and digital transition. Particular attention will be paid to the link between the individual and collective commitment of the users. This research will lead to design tools and methods that allow us: to anticipate and project probable uses of energy in the medium term, but also to facilitate a commitment of users both alone and in community by the design of digital tools or services.
+The users of energy services (residential, tertiary and local authorities), who are today's recipients, will tomorrow be producers or involved in a local production network. They will then be called upon to be actors in the management of their energy. In this context, this thesis work aims at anticipate the behaviors of users in probable future situations of energy sharing at the local scale. Particular attention is paid to the articulation between the individual and collective involvement of users. This research will lead to the elaboration of a methodology for the design of user-centered services based on a playful and participative simulation tool.
 
 {{% /lang %}}
 
 ## Direction de thèse
 
-* **Stéphane Vial**, Unîmes, équipe PROJEKT
-* **Pascal Salembier**
+* **Stéphane Vial**, Unîmes, laboratoire PROJEKT
+* **Pascal Salembier,** UTT, laboratoire Tech-CICO
 
 # Biographie
 
