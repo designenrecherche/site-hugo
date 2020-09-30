@@ -12,7 +12,7 @@ titrethese = " Une cité d'expériences entre patrimoine et récits : étude cri
 titretheseEn = ""
 type_page = "membres"
 url_hal = ""
-url_thesesfr = ""
+url_thesesfr = "http://www.theses.fr/2015PA010531"
 [contact]
 facebook = ""
 github = ""
