@@ -347,6 +347,7 @@ fields:
     hidden: false
     default: ''
 pages:
+- content/membres/anne-charlotte-baudequin.md
 - content/membres/gwenaelle-bertrand.md
 - content/membres/julie-blanc.md
 - content/membres/lorene-ceccon.md
