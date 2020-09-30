@@ -1,6 +1,6 @@
 +++
 category = "Soutenance de thèse"
-description = ""
+description = "Soutenance de thèse de doctorat en Sciences de l'Information et de la Communication mention Design de Rose Dumesny"
 descriptiontemp = ""
 documents = ""
 lieu = "Orange Gardens, Châtillon, France"
