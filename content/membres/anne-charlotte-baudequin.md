@@ -1,12 +1,12 @@
 +++
-etablissement = ""
+etablissement = "LARA-SEPPIA ,ALLPH@, Université Toulouse-Jean Jaurès"
 membre_actif = true
 photo = "/images/default-profil.jpg"
 section_cnu = "18 Sciences de l'art"
 tags = []
 these_end = 0
 these_soutenue = false
-these_start = nil
+these_start = 2018
 title = "Anne-Charlotte Baudequin"
 titrethese = " Le Design Sensoriel Olfactif pour une Anthropologie de l'Espace"
 titretheseEn = ""
