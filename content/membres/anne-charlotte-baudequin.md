@@ -12,7 +12,7 @@ titrethese = " Le Design Sensoriel Olfactif pour une Anthropologie de l'Espace"
 titretheseEn = ""
 type_page = "membres"
 url_hal = ""
-url_thesesfr = ""
+url_thesesfr = "http://www.theses.fr/s215523"
 [contact]
 facebook = ""
 github = ""
