@@ -110,6 +110,7 @@ fields:
   type: number
   label: Date d'inscription en thèse
   description: ''
+  default: 0
   required: true
   config:
     min: 

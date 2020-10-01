@@ -4,7 +4,6 @@ membre_actif = true
 photo = "/images/bonnardot-zoe.png"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["expérience", "transition énergétique", "usagers", "engagement", "anticipation", "simulation", "ludicité"]
-these_end = nil
 these_soutenue = false
 these_start = 2018
 title = "Zoé Bonnardot"
