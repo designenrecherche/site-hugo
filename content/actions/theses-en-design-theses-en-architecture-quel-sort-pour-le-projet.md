@@ -13,17 +13,17 @@ type_page = "actions"
 +++
 “ Le projet aux différentes échelles est considéré ici comme un dispositif cognitif, producteur d’un nouveau savoir, outil d’exploration d’un contexte et d’intégration de nouveaux éléments aux connaissances existantes. Le projet est une forme d’étude et de recherche ; c’est une reconstruction, une contextualisation et une réorganisation de la réalité. ” Paola Vigano, Les territoires de l’urbanisme - Le projet comme producteur de connaissance, MétisPresses, 2012.
 
-### **Les disciplines du projet face à la recherche**
+### Les disciplines du projet face à la recherche
 
 Le design, dans son acceptation anglo-saxonne de conception, est l’art de projeter, d’imaginer, de concevoir et de réaliser. Le design fait partie des « disciplines du projet », au même titre que l’architecture, l’urbanisme et le paysage qui construisent leur corpus par projets successifs (réels ou fictifs, aboutis ou non). Si ces disciplines ont en commun le projet comme expertise partagée, quel sort lui réservent-elles dans leur recherche doctorale ?
 
 La recherche connaît une crise du savoir expert, un savoir nourri aux théories baignant souvent dans l’abstraction. Le projet lui, qu’il soit de design ou d’architecture, se nourrit de situations hybrides, il s’inscrit dans des mondes réels ou imaginaires. Il a la capacité de créer du lien entre différents acteurs, savoirs, disciplines et échelles. Il incarne une forme de connaissance empirique et ancrée dans le monde.
 
-### **Doctorats en design, doctorats en architecture : quelle place pour le projet ?**
+### Doctorats en design, doctorats en architecture : quelle place pour le projet ?
 
 Le propre des thèses en design ou en architecture, est de s’intéresser au(x) projet(s). Leur apparition récente confronte la recherche à la question de la pratique et par elle, à celle du projet. Si la conduite et la réalisation de projets est au coeur de ces deux disciplines, comment la recherche -en design et en architecture- s’atèle-t-elle à définir cette notion de projet ? Quel statut ce projet prend-t-il dans les thèses déjà soutenues ou en cours ? Existe-t-il une spécificité de la recherche en design et en architecture vis-à-vis de cette notion de projet ?
 
-### **Objectifs de la journée d'étude**
+### Objectifs de la journée d'étude
 
 Nous souhaitons que cette journée soit l’occasion de fédérer une communauté dépassant les frontières disciplinaires établies entre architecture et design. L’un des objectifs sera de faire dialoguer des chercheurs en architecture et des chercheurs en design avec des acteurs professionnels de ces deux disciplines. Cette journée abordera les questions suivantes : De quelle manière l’étude, la critique ou la production de projets contribue-t-elle à la singularité de la recherche en design et en architecture ? En quoi cette recherche sur le projet, ou par le projet, se distingue-t-elle de celles menées dans d’autres disciplines ? Le projet produit-il en lui-même une nouvelle forme de connaissance, de savoir empirique ?
 
@@ -83,50 +83,35 @@ Animé par **Jil Daniel**, graphisme culturel et social
 
 ### Pause déjeuner
 
-## 14h00-15h00
+## 14h30-16h30
 
-### Table ronde: Titre de la table ronde
-
-#### Modération
-
-**Pierre Paul**, doctorant ECO \\
-
-#### Invités
-
-* **Marie Bon**, doctorante à Paris 8
-* **Jaques Smith**, grand ponte international
-
-{{% /programme %}}
-
-##### 
-
-14h30-16h30
-
-##### Que fait-on de ces projets, quel statut ont-ils dans la thèse ?
+### Table ronde: Que fait-on de ces projets, quel statut ont-ils dans la thèse ?
 
 Ce débat porte sur le rôle que prennent ces projets au sein de la recherche : sont-ils étudiés à titre d’exemple, suivis comme une complexité autonome, considérés comme un terrain, critiqués éthiquement ou formellement ? La recherche dans ces disciplines doit-elle aller jusqu’à produire du projet ?
 
-Modératrice :
+#### Modération
 
-Olympe Rabaté - Designer, Doctorante en design & en esthétique, Université Paris 1 - Panthéon Sorbonne
+**Olympe Rabaté**, Designer, Doctorante en design & en esthétique, Université Paris 1 - Panthéon Sorbonne
 
-Discutants :
+#### Discutants
 
-Pauline Gourlet, Graphiste, designer diplômée de l’ENSAD, doctorante à l’Université Paris 8 en partenariat avec l’EnsadLab
+* **Pauline Gourlet**, Graphiste, designer diplômée de l’ENSAD, doctorante à l’Université Paris 8 en partenariat avec l’EnsadLab
+* **Margaux Vigne**, Paysagiste, doctorante à l’École d’Architecture de Nantes
+* **Étienne Delprat**, Architecte, artiste, membre du collectif YA+K, doctorant à l’Université Paris 1 - Panthéon-Sorbonne
 
-Margaux Vigne, Paysagiste, doctorante à l’École d’Architecture de Nantes
+  ## 16h-16h30
 
-Étienne Delprat, Architecte, artiste, membre du collectif YA+K, doctorant à l’Université Paris 1 - Panthéon-Sorbonne
+  ### Échanges avec la salle
 
-16h-16h30
+  ## 16h30-17h
 
-Échanges avec la salle
+  ### Conclusion de la journée
+  * **Robert Prost** 
+  * **Olympe Rabaté**
+  * **Amandine Langlois**
+  * **Caroline Bougourd**
 
-16h30-17h
-
-Conclusion de la journée
-
-Robert Prost et les organisatrices : Olympe Rabaté, Amandine Langlois et Caroline Bougourd
+{{% /programme %}}
 
 # Comité d'organisation
 
