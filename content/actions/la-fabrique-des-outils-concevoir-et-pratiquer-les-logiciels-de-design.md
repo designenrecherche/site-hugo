@@ -5,7 +5,7 @@ descriptiontemp = ""
 documents = ""
 lieu = "ENSCI, Salle Viénot 2, 48 Rue St Sabin, 75011 Paris"
 publishDate = 2016-04-15T12:22:08Z
-tags = []
+tags = ["journée d'étude ", "outils", "logiciels de design", "logiciels libres"]
 time = "9h"
 title = "La fabrique des outils : concevoir et pratiquer les logiciels de design"
 type_page = "actions"
@@ -17,5 +17,5 @@ Nous remercions chaleureusement tous les membres du réseau et les autres person
 
 # Comité d'organisation
 
-* Nolwenn Maudet 
-* Frédéric Valentin
+* **Nolwenn Maudet**
+* **Frédéric Valentin**
