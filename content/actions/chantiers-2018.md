@@ -5,9 +5,10 @@ date_event = "12 janvier 2018"
 date_start = "2018-01-11T23:00:00.000+00:00"
 description = ""
 documents = ""
-lieu = "CRI – Paris"
+lieu = "CRI, Tour Montparnasse, Paris"
 publishDate = 2018-01-12T21:00:40Z
-time = "10h"
+tags = ["Chantiers", "RDV internes", "Organisation"]
+time = "14h"
 title = "Chantiers 2018"
 type_page = "actions"
 
@@ -20,8 +21,4 @@ Elle se découpera en deux temps et trois pôles de recherches :
 
 * Chantier 1 : Le positionnement de l'association
 * Chantier 2 : Les supports de communication
-* Chantier 3 : L'organisation et la valorisation des contenus et activités produits par l'association  
-    
-  Une équipe est mise en place pour chaque pôle et vous pouvez vous inscrire via le doodle ci-dessous dans la limite des 30 places disponibles :
-
-[https://doodle.com/poll/vvymiscz3bhagsmd](https://doodle.com/poll/vvymiscz3bhagsmd "https://doodle.com/poll/vvymiscz3bhagsmd")
+* Chantier 3 : L'organisation et la valorisation des contenus et activités produits par l'association
