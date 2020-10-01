@@ -111,8 +111,8 @@ fields:
   label: Date d'inscription en thèse
   description: ''
   default: 0
-  required: true
   config:
+    required: true
     min: 
     max: 
     step: 
