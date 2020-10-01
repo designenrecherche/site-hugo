@@ -1,12 +1,12 @@
 +++
-category = "RDV asso"
-description = ""
+category = "Journée d'étude"
+description = "Journée d'étude organisée par Pauline Gourlet et Sarah Garcin"
 descriptiontemp = ""
 documents = ""
 lieu = ""
-publishDate = 2020-10-01T12:00:11Z
+publishDate = 2016-06-14T22:00:00Z
 tags = []
-time = "18h"
+time = "10h"
 title = "Matière à réflexion, les techniques d’inscription comme objet du design"
 type_page = "actions"
 
@@ -19,26 +19,42 @@ Pour tenter d’apporter des réponses à nos questions, la journée s’organis
 
 À travers ces deux moments, nous tenterons:
 
-• de trouver un vocabulaire adéquat permettant de parler de ces techniques.
-
-• de discuter des enjeux liés au design de telles techniques et de cartographier un espace de design.
-
-• d’imaginer des méthodologies de recherche pour les étudier. À moins que ces nouvelles techniques d’inscription ne soient en elles-mêmes les moyens de nouvelles méthodologies ?
+* de trouver un vocabulaire adéquat permettant de parler de ces techniques.
+* de discuter des enjeux liés au design de telles techniques et de cartographier un espace de design.
+* d’imaginer des méthodologies de recherche pour les étudier. À moins que ces nouvelles techniques d’inscription ne soient en elles-mêmes les moyens de nouvelles méthodologies ?
 
 Cette journée a bénéficié du soutien financier du Living Lab de la Cité des sciences et de l’industrie et du Campus Condorcet.
 
-**Programme**
+<!-- Garder les niveaux de titres comme dans cet exemple -->
 
-10h-13h
+# Programme
 
-Workshop | État de l’art avec Benoît Verjat, Structure Bâtons, Collectif Bam, l’atelier des chercheurs, Nolwenn Maudet
+{{% programme %}}
 
-14h-15h30
+### 9h30-10h
 
-Interventions : Benoît Autiquet — Conception de l’objet, inscriptions et autorité dans l’œuvre de Francis Ponge.
+### Accueil des participants
 
-Questions ouvertes à Pierre-Damien Huyghe
+## 10h-13h
 
-15h45-17h30
+### Workshop | État de l’art
 
-Table ronde : Les inscriptions et la recherche en design
+* **Benoît Verjat**, 
+* **Structure Bâtons**, 
+* **Collectif Bam**, 
+* **l’atelier des chercheurs**, 
+* **Nolwenn Maudet**
+
+## 14h-15h30
+
+### Conception de l’objet, inscriptions et autorité dans l’œuvre de Francis Ponge
+
+**Benoît Autiquet**
+
+### Questions ouvertes à Pierre-Damien Huyghe
+
+## 15h45-17h30
+
+### Table ronde : Les inscriptions et la recherche en design
+
+{{% /programme %}}
