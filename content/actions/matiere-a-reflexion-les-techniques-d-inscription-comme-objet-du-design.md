@@ -1,11 +1,11 @@
 +++
 category = "Journée d'étude"
-description = "Journée d'étude organisée par Pauline Gourlet et Sarah Garcin"
+description = "Journée d'étude "
 descriptiontemp = ""
 documents = ""
-lieu = ""
+lieu = "Carrefour numérique2, Cité des sciences et de l’industrie (niveau -1, classe numérique), 30 Avenue Corentin Cariou, 75019 Paris"
 publishDate = 2016-06-14T22:00:00Z
-tags = []
+tags = ["techniques d'inscription", "journée d'étude", "organisation"]
 time = "10h"
 title = "Matière à réflexion, les techniques d’inscription comme objet du design"
 type_page = "actions"
@@ -39,10 +39,10 @@ Cette journée a bénéficié du soutien financier du Living Lab de la Cité des
 
 ### Workshop | État de l’art
 
-* **Benoît Verjat**, 
-* **Structure Bâtons**, 
-* **Collectif Bam**, 
-* **l’atelier des chercheurs**, 
+* **Benoît Verjat**,
+* **Structure Bâtons**,
+* **Collectif Bam**,
+* **l’atelier des chercheurs**,
 * **Nolwenn Maudet**
 
 ## 14h-15h30
@@ -58,3 +58,8 @@ Cette journée a bénéficié du soutien financier du Living Lab de la Cité des
 ### Table ronde : Les inscriptions et la recherche en design
 
 {{% /programme %}}
+
+# Comité d'organisation
+
+* Pauline Gourlet
+* Sarah Garcin 
