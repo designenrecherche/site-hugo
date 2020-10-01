@@ -1,5 +1,4 @@
 +++
-draft = true
 etablissement = ""
 membre_actif = false
 photo = "/images/default-profil.jpg"
