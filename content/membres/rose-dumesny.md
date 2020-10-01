@@ -1,16 +1,16 @@
 +++
-membre_actif = true
 etablissement = "Unîmes, groupe Projekt. Orange Labs, Sense."
-photo = "/images/dumesny-rose.png"
+membre_actif = true
+photo = "/images/img_8790.jpg"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["tangible", "représentation des données", "design", "perception sensible", "usages"]
 these_end = 2019
-these_start = 2015
 these_soutenue = true
+these_start = 2015
 title = "Rose Dumesny"
-type_page = "membres"
 titrethese = "Médiation sensible: des dispositifs d'expression tangibles pour s'approprier et comprendre l'objet smartphone"
 titretheseEn = "Understand issues of representation for a sensitive perception of digital data"
+type_page = "membres"
 url_hal = "https://tel.archives-ouvertes.fr/tel-02861634"
 url_thesesfr = "http://theses.fr/s193577"
 [contact]
@@ -49,7 +49,8 @@ The design of data describes a field of research, exploration and experimentatio
 
 ## Direction de thèse
 
-* **Stéphane Vial**, Unîmes, groupe PROJEKT
+* **Stéphane Vial** (directeur), Unîmes, groupe PROJEKT
+* **Catherine Ramus** (co-encadrante), Orange
 
 # Biographie
 
@@ -57,7 +58,7 @@ Formée au design de produit à l’ENSAAMA - Olivier de Serres, j’ai progress
 
 # Soutenance de thèse
 
-**Date** – lieu
+**6 décembre 2019** – Orange Gardens, Châtillon, France.
 
 Pour en savoir plus: [lien vers article de design en recherche](https://designenrecherche.org/)
 
@@ -70,4 +71,3 @@ Pour en savoir plus: [lien vers article de design en recherche](https://designen
 * **Nicolas Nova**, professeur associé, HEAD-Genève (examinateur)
 * **Catherine Ramus**, ingénieure de recherche et designeuses, Orange (Co-endacrante)
 * **Stéphane Vial**, maître de conférence HDR, Université de Nîmes et professeur, université du Québec à Montréal
-
