@@ -1,32 +1,24 @@
 +++
-category = "RDV asso"
+category = "Atelier"
 description = ""
 descriptiontemp = ""
 documents = ""
-lieu = ""
-publishDate = 2020-10-01T13:14:33Z
-tags = []
-time = "18h"
+lieu = "CRI, 8 bis Rue Charles V, 75004 Paris"
+publishDate = 2019-06-18T13:14:33Z
+tags = ["Atelier", "Markdown", "Redaction", "Bibliographie"]
+time = "14h"
 title = "Atelier #3 : Markdown et bibliographie"
 type_page = "actions"
 
 +++
-## 
+# Organisation
 
-18 Juin 2019
+* **Julie Blanc**
+* **Antoine Fauchier**
 
-Animé par Julie Blanc et Antoine Fauchier
+# Présents
 
-### **Présents :**
-
-Julie Blanc
-
-Marion Voillot
-
-Rose Dumesny
-
-Zoé Bonnardot
-
-Aurélie Daanen
-
-* 1 personne dont je n’ai pas le nom
+* **Marion Voillot**
+* **Rose Dumesny**
+* **Zoé Bonnardot**
+* **Aurélie Daanen**
