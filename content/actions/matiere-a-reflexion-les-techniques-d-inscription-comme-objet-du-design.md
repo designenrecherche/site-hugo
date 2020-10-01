@@ -1,6 +1,6 @@
 +++
 category = "Journée d'étude"
-description = "Cette journée d'étude interroge l'articulation entre design et nouvelles techniques d'inscription"
+description = "L’objectif de cette journée est d’interroger comment le design peut intervenir dans la conception et la diffusion de nouvelles techniques d’inscription dans l’objectif de développer de nouveaux moyens de réflexion individuels et collectifs"
 descriptiontemp = ""
 documents = ""
 lieu = "Carrefour numérique, Cité des sciences et de l’industrie, 30 Avenue Corentin Cariou, 75019 Paris"
@@ -11,9 +11,7 @@ title = "Matière à réflexion, les techniques d’inscription comme objet du d
 type_page = "actions"
 
 +++
-_L’objectif de cette journée est d’interroger comment le design peut intervenir dans la conception et la diffusion de nouvelles techniques d’inscription dans l’objectif de développer de nouveaux moyens de réflexion individuels et collectifs._
-
-Nous vivons une transformation des modes d’organisation des hommes et des manières d’habiter le monde. Des techniques d’inscription nouvelles apparaissent, plus ouvertes, mettant à mal la distinction classique entre concepteur et usager, et cherchant à rendre disponibles et transparents les traces d’activités. La question de leur conception se retrouve aujourd’hui dans tous les contextes. On comprend les enjeux et la responsabilité liés au design de ces techniques. Nous choisissons de considérer ces nouvelles techniques d’inscription sous l’angle des possibilités qu’elles offrent pour de nouvelles modalités de réflexion. Comment les designer et qui doit le faire ? Pour quels contextes, pour quels usages et avec quel degré d’ouverture ? Si le travail du designer se déplace aujourd’hui vers la conception d’outils pour encourager des processus de réflexion multiples, ouverts, et partageables, quels guides a-t-il pour orienter ses choix de design?Et ne devrait-il pas appliquer à son processus de conception la même discipline d’ouverture et de transparence ?
+Nous vivons une transformation des modes d’organisation des hommes et des manières d’habiter le monde. Des techniques d’inscription nouvelles apparaissent, plus ouvertes, mettant à mal la distinction classique entre concepteur et usager, et cherchant à rendre disponibles et transparents les traces d’activités. La question de leur conception se retrouve aujourd’hui dans tous les contextes. On comprend les enjeux et la responsabilité liés au design de ces techniques. Nous choisissons de considérer ces nouvelles techniques d’inscription sous l’angle des possibilités qu’elles offrent pour de nouvelles modalités de réflexion. Comment les designer et qui doit le faire ? Pour quels contextes, pour quels usages et avec quel degré d’ouverture ? Si le travail du designer se déplace aujourd’hui vers la conception d’outils pour encourager des processus de réflexion multiples, ouverts, et partageables, quels guides a-t-il pour orienter ses choix de design? Et ne devrait-il pas appliquer à son processus de conception la même discipline d’ouverture et de transparence ?
 
 Pour tenter d’apporter des réponses à nos questions, la journée s’organisera en deux temps. Dans un premier temps de workshop, un état de l’art sera dressé—état de l’art qui permettra d’identifier certaines de ces nouvelles «techniques d’inscription» dans leurs manifestations et usages actuels. Puis dans l’après-midi, nous discuterons de concepts qui peuvent nous venir en aide pour orienter nos choix de design et pour regarder ces objets. Ainsi, nous discuterons des notions de «prudence» et de «circonstances » appliquées au design, et nous chercherons des articulations pouvant nourrir la conception d’artefact entre le concept d’«expérience» ou de « réflexivité » et le développement de « sujets capables » ou d’«esprit critique ».
 
@@ -62,4 +60,4 @@ Cette journée a bénéficié du soutien financier du Living Lab de la Cité des
 # Comité d'organisation
 
 * Pauline Gourlet
-* Sarah Garcin 
+* Sarah Garcin
