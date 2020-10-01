@@ -1,6 +1,6 @@
 +++
 category = "Journée d'étude"
-description = "Journée d'étude "
+description = "L’objectif de cette journée d'étude est d’interroger comment le design peut intervenir dans la conception et la diffusion de nouvelles techniques d’inscription dans l’objectif de développer de nouveaux moyens de réflexion individuels et collectifs."
 descriptiontemp = ""
 documents = ""
 lieu = "Carrefour numérique2, Cité des sciences et de l’industrie (niveau -1, classe numérique), 30 Avenue Corentin Cariou, 75019 Paris"
