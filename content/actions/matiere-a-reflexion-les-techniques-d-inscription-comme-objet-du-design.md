@@ -59,5 +59,5 @@ Cette journée a bénéficié du soutien financier du Living Lab de la Cité des
 
 # Comité d'organisation
 
-* Pauline Gourlet
-* Sarah Garcin
+* **Pauline Gourlet**
+* **Sarah Garcin**
