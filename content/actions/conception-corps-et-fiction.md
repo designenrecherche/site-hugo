@@ -3,10 +3,12 @@ banner = "/uploads/2017/12/31/placeholder.jpg"
 category = "Journée d'étude"
 date_event = "2017-04-26T10:00:00+00:00"
 date_start = "2017-04-25T22:00:00.000+00:00"
-description = "Jusqu’où les hommes seraient-ils prêts à interagir corporellement avec les technologies ? Sans doute très loin lorsqu’il s’agit de raisons vitales ou encore, vénales. Dans une disposition méliorative, nous pensons notamment aux applications récentes de cœurs..."
+description = "Cette journée d'étude met en écho et en tension le rapport entre corps et fiction "
+descriptiontemp = ""
 documents = ""
 lieu = "Université de Strasbourg"
 publishDate = 2017-04-26T08:00:12Z
+tags = ["Conception", "fictions", "corps", "hybrides", "biodesign", "technologies", "écart", "environnement", "politique"]
 time = "10h"
 title = "Conception, Corps et Fiction"
 type_page = "actions"
@@ -20,28 +22,28 @@ Jusqu’où les hommes seraient-ils prêts à interagir corporellement avec les 
 
 ## Fiction
 
-La fiction est propre à l’espèce humaine qui, par l’imaginaire, la produit. Mais comment le design, entendu comme manière de concevoir de l’utile et par là même de prétendre à la satisfaction d’un besoin, peut-il, par la fiction, trouver une légitimité ? De cette chimère entendue comme instrument de manipulation, on pense à la mimésis platonicienne, il s’agirait d’en saisir un autre versant que Jean-Marie Schaeffer appelle la « feintise ludique », processus à partir duquel la fiction est saisie par une personne qui, en toute conscience, se laisse prendre au jeu. Également, Kendall Walton démontre tout le divertissement d’un « faire-semblant ». L’argument de ces deux auteurs apparaît alors tenir de la jouabilité, condition nécessaire afin que la fiction permette aux individus, qui s’y laissent prendre et surprendre, d’en tirer un certain avantage. D’après le projet de design fictionnel, une telle mise en attention de l’individu suscite un déplacement de son rôle d’« utilisateur » à celui de « regardeur ». Ainsi, le second sujet de cet appel invite à interroger les fictions dans leurs capacités à troubler nos représentations. Car même si la finalité « utile » de l’artefact n’est plus aussi facilement perceptible, il semblerait que produire des mondes autres pourrait être l’une des conditions nécessaires à la construction du monde réel.  
-  
-Il ne s’agit pas de dissocier les notions de FICTIONS et de CORPS, mais au contraire de discuter d’une mise en écho et/ou en tension de ces dernières.  
-  
+La fiction est propre à l’espèce humaine qui, par l’imaginaire, la produit. Mais comment le design, entendu comme manière de concevoir de l’utile et par là même de prétendre à la satisfaction d’un besoin, peut-il, par la fiction, trouver une légitimité ? De cette chimère entendue comme instrument de manipulation, on pense à la mimésis platonicienne, il s’agirait d’en saisir un autre versant que Jean-Marie Schaeffer appelle la « feintise ludique », processus à partir duquel la fiction est saisie par une personne qui, en toute conscience, se laisse prendre au jeu. Également, Kendall Walton démontre tout le divertissement d’un « faire-semblant ». L’argument de ces deux auteurs apparaît alors tenir de la jouabilité, condition nécessaire afin que la fiction permette aux individus, qui s’y laissent prendre et surprendre, d’en tirer un certain avantage. D’après le projet de design fictionnel, une telle mise en attention de l’individu suscite un déplacement de son rôle d’« utilisateur » à celui de « regardeur ». Ainsi, le second sujet de cet appel invite à interroger les fictions dans leurs capacités à troubler nos représentations. Car même si la finalité « utile » de l’artefact n’est plus aussi facilement perceptible, il semblerait que produire des mondes autres pourrait être l’une des conditions nécessaires à la construction du monde réel.
+
+Il ne s’agit pas de dissocier les notions de FICTIONS et de CORPS, mais au contraire de discuter d’une mise en écho et/ou en tension de ces dernières.
+
 Mots clés : CONCEPTION, FICTIONS, CORPS, HYBRIDES, BIODESIGN, TECHNOLOGIES, ÉCART, ENVIRONNEMENT, POLITIQUE
 
 # Appel à communication
 
-## Modalités de soumission | Communications 
+## Modalités de soumission | Communications
 
 Langue : français (anglais éventuellement).  
 Un résumé de votre communication de 500 mots accompagné de votre nom complet, statut, établissement d’appartenance ainsi que du titre de votre communication.  
 Les propositions sont à envoyer avant le 11 mars 2017. Attention, le déplacement et l’hébergement ne sont pas pris en charge, nous pouvons cependant vous fournir un justificatif qui atteste votre participation. À la suite de cet événement, les participants pourront proposer leur article en vue de la publication du quatrième numéro de la collection Poïétiques du design aux éditions L’Harmattan.
 
-## Comité organisateur 
+## Comité organisateur
 
-- **Gwenaëlle Bertrand**, docteur en design et designer associée  
-ATER en histoire, théorie et pratique du design, Faculté des Arts, Université de Strasbourg / gwbertrand@unistra.fr  
-- [**Maxime Favard**](http://designenrecherche.org/membres/favard-maxime), docteur en design et designer associé  
-ATER en histoire, théorie et pratique du design, Faculté des Arts, Université de Strasbourg  / mfavard@unistra.fr
+* **Gwenaëlle Bertrand**, docteur en design et designer associée  
+  ATER en histoire, théorie et pratique du design, Faculté des Arts, Université de Strasbourg / gwbertrand@unistra.fr
+* [**Maxime Favard**](http://designenrecherche.org/membres/favard-maxime), docteur en design et designer associé  
+  ATER en histoire, théorie et pratique du design, Faculté des Arts, Université de Strasbourg  / mfavard@unistra.fr
 
-## Partenaires 
+## Partenaires
 
-- Laboratoire | Approches contemporaines de la création et de la réflexion artistiques | ACCRA, Université de Strasbourg  
-- Association | Design en Recherche | Le réseau des jeunes chercheurs en design
+* Laboratoire | Approches contemporaines de la création et de la réflexion artistiques | ACCRA, Université de Strasbourg
+* Association | Design en Recherche | Le réseau des jeunes chercheurs en design
