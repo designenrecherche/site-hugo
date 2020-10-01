@@ -49,7 +49,8 @@ The design of data describes a field of research, exploration and experimentatio
 
 ## Direction de thèse
 
-* **Stéphane Vial**, Unîmes, groupe PROJEKT
+* **Stéphane Vial** (directeur), Unîmes, groupe PROJEKT
+* **Catherine Ramus** (co-encadrante), Orange
 
 # Biographie
 
