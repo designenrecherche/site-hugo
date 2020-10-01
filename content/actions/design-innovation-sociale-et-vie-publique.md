@@ -9,6 +9,7 @@ tags = ["vie publique", "innovation sociale", "design"]
 time = "10h"
 title = "Design, innovation sociale et vie publique"
 type_page = "actions"
+
 +++
 # Argument
 
@@ -40,8 +41,8 @@ On peut aussi retrouver des traces sur Twitter #DesignPublic
 
 ## Comité d'organisation
 
-* Emeline Brulé
-* Estelle Berger
+* **Emeline Brulé**
+* **Estelle Berger**
 
 ## Soutiens
 
