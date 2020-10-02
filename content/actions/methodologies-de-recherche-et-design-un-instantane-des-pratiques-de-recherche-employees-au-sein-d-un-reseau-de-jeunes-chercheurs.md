@@ -5,9 +5,9 @@ descriptiontemp = ""
 documents = ""
 draft = true
 lieu = ""
-publishDate = ""
+publishDate = 2020-10-02T08:00:00Z
 tags = ["méthodologie", "recherche en design", "modèle", "réduction en art", "recherche-projet"]
-time = "-"
+time = "."
 title = "Méthodologies de recherche et design : un instantané des pratiques de recherche employées au sein d’un réseau de jeunes chercheurs"
 type_page = "actions"
 
