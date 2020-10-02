@@ -1,5 +1,5 @@
 +++
-etablissement = ""
+etablissement = "Université Paris 8, Art des images et Art contemporain EA4010"
 membre_actif = true
 photo = "/images/default-profil.jpg"
 section_cnu = "18 Esthétique"
@@ -56,50 +56,9 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
-
-# Résumé de thèse
-
-{{% lang class="fr" %}}
-
-Ici le résumé de la thèse en français
-
-{{% /lang %}}
-
-{{% lang class="en" %}}
-
-Ici le résumé de la thèse en anglais
-
-{{% /lang %}}
 
 ## Direction de thèse
 
-* **Jean-Philippe Antoine**, laboratoire de rattachement
-* **Catherine De Smet**, laboratoire de rattachement
-
-# Biographie
-
-{{% lang class="fr" %}}
-
-Ici la biographie en français
-
-{{% /lang %}}
-
-{{% lang class="en" %}}
-
-Ici la biographie en anglais
-
-{{% /lang %}}
-
-# Soutenance de thèse
-
-**Date** – lieu
-
-Pour en savoir plus: [lien vers article de design en recherche]()
-
-## Composition du jury
-
-* **Prénom nom**, laboratoire de ratachement (rapporteur)
-* **Prénom nom**, laboratoire de ratachement
-* **Prénom nom**, laboratoire de ratachement
+* **Jean-Philippe Antoine**, Université Paris 8, EPHA
+* **Catherine De Smet**, Université Paris 8, TEAMED
