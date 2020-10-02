@@ -1,5 +1,5 @@
 +++
-etablissement = "Télécom Paris, Institut Polytechnique de Paris"
+etablissement = "Télécom Paristech, Institut Polytechnique de Paris"
 membre_actif = true
 photo = "/images/default-profil.jpg"
 section_cnu = "71 Sciences de l'information et de la communication"
@@ -11,7 +11,7 @@ title = "Emeline Brulé"
 titrethese = "Expériences scolaires des enfants aveugles et malvoyants en France."
 titretheseEn = "Visually impaired children's experiences of schooling in France."
 type_page = "membres"
-url_hal = ""
+url_hal = "https://hal.archives-ouvertes.fr/tel-02176245"
 url_thesesfr = ""
 [contact]
 facebook = ""
@@ -56,43 +56,16 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
-
-# Résumé de thèse
-
-{{% lang class="fr" %}}
-
-{{% /lang %}}
-
-{{% lang class="en" %}}
-
-{{% /lang %}}
 
 ## Direction de thèse
 
-* **Annie Gentes**, laboratoire de rattachement
-* **Gilles Bailly**, laboratoire de rattachement
-
-# Biographie
-
-{{% lang class="fr" %}}
-
-Ici la biographie en français
-
-{{% /lang %}}
-
-{{% lang class="en" %}}
-
-Ici la biographie en anglais
-
-{{% /lang %}}
+* **Annie Gentes**, Telecom Paris, Institut Interdisciplinaire de l’Innovation (i3)
+* **Gilles Bailly**, Université de la Rochelle, Laboratoire MIA
 
 # Soutenance de thèse
 
-**2018** – lieu
-
-Pour en savoir plus: [lien vers article de design en recherche]()
+**2018**
 
 ## Composition du jury
 
