@@ -3,7 +3,6 @@ category = "Publication"
 description = "Cette communication, présentée lors de la conférence IASDR 2019,  propose une discussion sur les enjeux linguistiques et culturelles dans la recherche en design, du point de vue de la recherche en design française."
 descriptiontemp = ""
 documents = ""
-draft = true
 lieu = ""
 publishDate = 2020-10-02T08:03:46Z
 tags = ["traduction", "linguistique", "format", "accessibilité de la recherche", "recherche en design", "épistémologie"]
