@@ -4,9 +4,9 @@ description = "Cette communication, présentée lors de la conférence IASDR 201
 descriptiontemp = ""
 documents = ""
 lieu = ""
-publishDate = 2020-10-02T08:03:46Z
-tags = ["traduction", "linguistique", "format", "accessibilité de la recherche", "recherche en design", "épistémologie"]
-time = "18h"
+publishDate = 2019-09-03T08:03:46Z
+tags = ["traduction", "linguistique", "format", "accessibilité de la recherche", "recherche en design", "épistémologie", "publication"]
+time = "."
 title = "Design of Translation: Reflections on Linguistic Practices in Design Research"
 type_page = "actions"
 
