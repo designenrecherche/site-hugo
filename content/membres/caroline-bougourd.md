@@ -1,5 +1,5 @@
 +++
-etablissement = ""
+etablissement = "Université Paris 1, Arts plastiques, esthétique et sciences de l'art, Institut ACTE"
 membre_actif = true
 photo = "/images/default-profil.jpg"
 section_cnu = "18 Esthétique"
@@ -78,9 +78,7 @@ Focusing on the case of the prefabricated houses in the cité of Merlan in Noisy
 
 # Soutenance de thèse
 
-28/11/2015 – Paris
-
-Pour en savoir plus: [lien vers article de design en recherche]()
+28 novembre 2015 – Paris
 
 ## Composition du jury
 
