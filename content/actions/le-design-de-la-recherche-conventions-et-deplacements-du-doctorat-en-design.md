@@ -4,9 +4,9 @@ description = "Cet article, paru dans le numéro 1 de la revue Sciences du desig
 descriptiontemp = ""
 documents = ""
 lieu = ""
-publishDate = 2020-10-02T07:40:28Z
-tags = ["thèse de doctorat", "norme", "format", "édition", "recherche en design"]
-time = "18h"
+publishDate = 2015-05-27T07:40:28Z
+tags = ["thèse de doctorat", "norme", "format", "édition", "recherche en design", "publication"]
+time = "."
 title = "Le design de la recherche : conventions et déplacements du doctorat en design"
 type_page = "actions"
 
