@@ -4,7 +4,7 @@ membre_actif = true
 photo = "/images/default-profil.jpg"
 section_cnu = "18 Sciences de l'art"
 tags = ["Sciences humaines", "Humanités"]
-these_end = 0
+these_end = nil
 these_soutenue = false
 these_start = 2018
 title = "Anne-Charlotte Baudequin"
@@ -56,3 +56,7 @@ post8link = ""
 post9link = ""
 
 +++
+## Direction de thèse
+
+* **Patrick Barres**, Université Toulouse Jean-Jaurès, LARA-SEPPIA
+* **Delphine Talbot**, Université Toulouse Jean-Jaurès, IUP Couleur, Image, Design de Montauban.
