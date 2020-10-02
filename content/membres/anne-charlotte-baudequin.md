@@ -1,5 +1,5 @@
 +++
-etablissement = "LARA-SEPPIA ,ALLPH@, Université Toulouse-Jean Jaurès"
+etablissement = "Université Toulouse-Jean Jaurès, ALLPH@, LARA-SEPPIA"
 membre_actif = true
 photo = "/images/default-profil.jpg"
 section_cnu = "18 Sciences de l'art"
