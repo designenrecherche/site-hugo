@@ -11,8 +11,8 @@ title = "Outils d'animation de l'association Design en Recherche"
 type_page = "actions"
 
 +++
-Design en Recherche est avant tout un espace d'échange entre doctorants, son objectif premier est donc de trouver des formats qui soient réellement utiles à chacun dans ses recherches.   
-Après avoir essentiellement proposer des journées d'études et des newsletters via une mailing-list, l'association teste depuis 2019 de nouveaux formats. Nous avons ainsi mis en place une résidence sur _Instagram_ pour rendre visible, un _Slack_ pour échanger et un _Drive_ pour documenter.
+Design en Recherche est avant tout un espace d'échange entre doctorants, son objectif premier est donc de trouver des formats qui soient réellement utiles à chacun dans ses recherches.  
+Après avoir essentiellement proposé des journées d'études et des newsletters via une mailing-list, l'association teste depuis 2019 de nouveaux formats. Nous avons ainsi mis en place une résidence sur _Instagram_ pour rendre visible, un _Slack_ pour échanger et un _Drive_ pour documenter.
 
 ![](/images/capture-d-ecran-2020-10-02-a-14-11-07.png)
 
