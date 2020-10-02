@@ -6,12 +6,12 @@ section_cnu = "18 Esthétique"
 tags = ["cité d'expériences", "design", "prefabricated houses", "memory", "historical monuments", "Noisy-le-sec", "héritage", "stories", "reconstruction", "translation", "webdocumentary"]
 these_end = 2015
 these_soutenue = true
-these_start = 0
+these_start = 2010
 title = "Caroline Bougourd"
 titrethese = " Une cité d'expériences entre patrimoine et récits : étude critique de la patrimonialisation, le cas des maisons préfabriquées de Noisy-le-Sec"
 titretheseEn = "A cité d'expériences between heritage and stories : a critic of patrimonialisation, the case of prefabricated homes at Noisy-le-Sec"
 type_page = "membres"
-url_hal = ""
+url_hal = "https://tel.archives-ouvertes.fr/tel-02307861"
 url_thesesfr = "http://www.theses.fr/2015PA010531"
 [contact]
 facebook = ""
@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
@@ -75,21 +74,7 @@ Focusing on the case of the prefabricated houses in the cité of Merlan in Noisy
 
 ## Direction de thèse
 
-* **Pierre-Damien Huyghe**, Université Paris 1
-
-# Biographie
-
-{{% lang class="fr" %}}
-
-Ici la biographie en français
-
-{{% /lang %}}
-
-{{% lang class="en" %}}
-
-Ici la biographie en anglais
-
-{{% /lang %}}
+* **Pierre-Damien Huyghe**, Université Paris 1, Laboratoire d’esthétique théorique et appliquée (LETA).
 
 # Soutenance de thèse
 
@@ -99,6 +84,6 @@ Pour en savoir plus: [lien vers article de design en recherche]()
 
 ## Composition du jury
 
-* **Pierre Litzler**, laboratoire de ratachement (rapporteur)
-* **Sophie Fétro**, laboratoire de ratachement
-* **Laurent Baridon**, laboratoire de ratachement
+* **Pierre Litzler**, Université de Strasbourg, ACCRA
+* **Sophie Fétro**, Université Paris 1, ACTE
+* **Laurent Baridon**, Université Lyon 2, LARHRA
