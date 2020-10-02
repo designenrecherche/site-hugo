@@ -61,4 +61,4 @@ post9link = ""
 ## Direction de thèse
 
 * **Jean-Philippe Antoine**, Université Paris 8, EPHA
-* **Catherine De Smet**, Université Paris 8, TEAMED
+* **Catherine De Smet**, Université Paris 8, TEAMeD
