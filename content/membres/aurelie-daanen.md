@@ -1,5 +1,5 @@
 +++
-etablissement = " Université de Technologie de Troyes, Institut Charles Delaunay / EnsadLab"
+etablissement = " Université de Technologie de Troyes, Institut Charles Delaunay (CNRS), Équipe Tech-CICO / EnsadLab"
 membre_actif = true
 photo = "/images/default-profil.jpg"
 section_cnu = ""
