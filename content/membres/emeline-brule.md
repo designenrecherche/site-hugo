@@ -8,7 +8,7 @@ these_end = 2018
 these_soutenue = true
 these_start = 2014
 title = "Emeline Brulé"
-titrethese = "Expériences scolaires des enfants aveugles et malvoyants en France."
+titrethese = "Comprendre les expériences scolaires des enfants déficients visuelsen France: Approche mixte par l’ethnographie et le design"
 titretheseEn = "Visually impaired children's experiences of schooling in France."
 type_page = "membres"
 url_hal = "https://hal.archives-ouvertes.fr/tel-02176245"
@@ -65,10 +65,11 @@ post9link = ""
 
 # Soutenance de thèse
 
-**2018**
+**19 octobre 2018**
 
 ## Composition du jury
 
-* **Prénom nom**, laboratoire de ratachement (rapporteur)
-* **Prénom nom**, laboratoire de ratachement
-* **Prénom nom**, laboratoire de ratachement
+* **Madeleine Akrich**, Mines ParisTech, CNRS i3, PSL University
+* **Ann Heylighen**, Université KU Leven
+* **Wendy Mackay**, Paris Saclay, INRIA
+* **Marine Royer**, Université de Nîmes, PROJEKT
