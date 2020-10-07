@@ -348,6 +348,7 @@ fields:
     hidden: false
     default: ''
 pages:
+- content/membres/alice-martin.md
 - content/membres/anne-charlotte-baudequin.md
 - content/membres/aurelie-daanen.md
 - content/membres/caroline-bougourd.md
