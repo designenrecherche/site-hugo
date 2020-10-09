@@ -8,9 +8,13 @@
     padding: 1px 10px;
     margin-bottom: calc(var(--baseline)*0.25);
     &:before{ content: "# " }
-    a{ color: var(--curent-color); }
+    a{ 
+      color: var(--curent-color);
+      border-bottom: none;
+     }
     &:hover{
-      border: 1px solid var(--current-color)
+      border: 1px solid var(--current-color);
+      a{ border-bottom: none;}
     }
     // a{ @include links(); }
   }
@@ -43,12 +47,12 @@
     li{ @include tags(); }
     padding-top: calc(var(--baseline)*0.5);
    
-    @media screen and (min-width: 1400px){
-      width: 180px;
-      position: absolute;
-      top: 0;
-      right: calc((180px + var(--unit)*3)*-1);
-    }
+    // @media screen and (min-width: 1400px){
+    //   width: 180px;
+    //   position: absolute;
+    //   top: 0;
+    //   right: calc((180px + var(--unit)*3)*-1);
+    // }
     @media screen and (min-width: 1480px){
      
       width: 230px;

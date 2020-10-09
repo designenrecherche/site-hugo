@@ -9,6 +9,7 @@
         h1{
             @include title-big();
             margin-bottom: calc(var(--baseline)*1.5);
+            margin-top: calc(var(--baseline)*2);
         }
 
         .date, .lieu{
@@ -18,7 +19,8 @@
         }
     
         .type{
-            float: right;
+            position: absolute;
+            right: var(--unit);
             display: inline-block;
             text-transform: uppercase;
             font-size: 0.7em;
