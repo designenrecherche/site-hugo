@@ -9,19 +9,17 @@
 
       <div class="highlights-actions">
           
-        {{ if .Site.Data.homepage.biere_home.enable }}
-        {{ with .Site.Data.homepage.biere_home }}
-        <article>
-          <span aria-hidden="true">{{ partial "icons/beer.html" . | safeHTML}}</span>
-          <h1>{{ .title }}</h1>
-         
-          <p class="date">{{  .date }}</p>
-          <p class="lieu">{{ .lieu }}</p>
-          <p class="summary">{{.summary}}</p>
-
-        </article>
-        {{ end }}
-        {{ end }}
+        {{ if .Site.Data.biere_home.beer.enable }}
+          {{ with .Site.Data.biere_home.beer }}
+          <article>
+            <span aria-hidden="true">{{ partial "icons/beer.html" . | safeHTML}}</span>
+            <h1>{{ .title }}</h1>
+            <p class="date">{{  .date }}</p>
+            <p class="lieu">{{ .lieu }}</p>
+            <p class="summary">{{.summary}}</p>
+          </article>
+          {{ end }}
+          {{ end }}
 
         {{ if .Site.Data.instagram_home.instagramresidence.enable }}
         {{ with .Site.Data.instagram_home.instagramresidence }}
