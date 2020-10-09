@@ -4,11 +4,11 @@ membre_actif = true
 photo = "/images/img_0417.jpg"
 section_cnu = "18 Arts appliqués"
 tags = ["Design", "Singularité", "Diversité", "Inclusion", "Design graphique", "Autisme", "Pédagogie"]
-these_end = 0
+these_end = nil
 these_soutenue = false
 these_start = 2019
 title = "Manon Ménard"
-titrethese = "De la culture des singularités à l'inclusion sociale et pédagogique par le design ? "
+titrethese = "De la culture des singularités à l'inclusion sociale et pédagogique par le design"
 titretheseEn = ""
 type_page = "membres"
 url_hal = ""
@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
