@@ -71,7 +71,7 @@ header#header{
             margin-top: var(--padding-header);
             margin-bottom: calc(var(--baseline)*0.7);
             font-size: var(--font-size);
-            font-weight: 600;
+            font-weight: 500;
             letter-spacing: 0.3px;
             a{ color: currentColor; }
         }
@@ -207,7 +207,7 @@ header#header{
          top: 13px;
          #close-menu{
             font-size: 50px;
-            font-weight: 300;
+            font-weight: 400;
             left: 8px; 
             top: 10px;
          }

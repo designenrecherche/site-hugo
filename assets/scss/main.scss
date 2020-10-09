@@ -1,7 +1,6 @@
 // @import "normalize";
 // @import "queries";
 
-// @import "theme.scss";
 @import "reset.scss";
 @import "parts/colors.scss";
 
@@ -24,8 +23,6 @@
 /* home */
 @import "parts/home";
 
-// @import "parts/hero";
-// @import "parts/home-slider";
 
 /* Type */
 @import "types/about";
