@@ -2,9 +2,9 @@
 etablissement = "Institut Polytechnique de Paris, CoDesign Lab"
 membre_actif = true
 photo = "/images/default-profil.jpg"
-section_cnu = "05 Sciences économiques"
+section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["Exposition", "Design", "Intelligibilité", "Agir téléologique", "Agentivité", "Médiation"]
-these_end = 0
+these_end = nil
 these_soutenue = false
 these_start = 2018
 title = "Dorian Reunkrilerk"
@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
