@@ -41,6 +41,8 @@
   
   @mixin tags-block-content(){
     li{ @include tags(); }
+    padding-top: calc(var(--baseline)*0.5);
+   
     @media screen and (min-width: 1400px){
       width: 180px;
       position: absolute;
@@ -48,7 +50,7 @@
       right: calc((180px + var(--unit)*3)*-1);
     }
     @media screen and (min-width: 1480px){
-      
+     
       width: 230px;
       position: absolute;
       top: 0;

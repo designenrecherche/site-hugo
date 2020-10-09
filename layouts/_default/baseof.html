@@ -9,5 +9,11 @@
         </main>
         
         {{- partial "footer.html" . -}}
+
+        {{ $balance := resources.Get "js/balancetext.min.js" }}
+        <script src="{{ $balance.Permalink }}"></script>
+        <script>
+            balanceText();
+        </script>
     </body>
 </html>

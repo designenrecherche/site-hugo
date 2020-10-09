@@ -16,6 +16,9 @@
             @include title();
             margin-top: 0;
             color: var(--color-3);
+            max-width: 70%;
+            text-wrap: balance; 
+            // color: red!important;
         }
 
  
