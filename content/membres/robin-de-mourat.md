@@ -8,7 +8,7 @@ these_end = 2020
 these_soutenue = true
 these_start = 2013
 title = "Robin De Mourat"
-titrethese = " Le remix comme pratique critique dans un monde de données"
+titrethese = "La vacillement des formats. Matérialité, écriture et enquête: le design des publications en Sciences Humaines et Sociales"
 titretheseEn = ""
 type_page = "membres"
 url_hal = ""
@@ -68,4 +68,18 @@ La profusion des données numériques et leur interconnexion croissante (web des
 
 ## Direction de thèse
 
-* **Nicolas Thély**, Université de Rennes 2, APP
+* **Nicolas Thély**, professeur des universités, Université de Rennes 2
+* **Donato Ricci**, designer et chercheur, Sciences Po
+
+# Soutenance de thèse
+
+18 septembre 2020, Université de Rennes 2
+
+## Composition du jury
+
+* **Leszek Brogowski**, professeur des universités, Université de Rennes 2
+* **Nicolas Thély**, professeur des universités, Université Rennes 2
+* **Annie Gentès**, maîtresse de conférence HDR, Télécom Paris
+* **Clarisse Bardiot**, maîtresse de conférence, Université Polytechnique Hauts-de-France
+* **Jean-François Bert**, maître de conférence HDR, Télécom Paris
+* **Marcello Vitali-Rosati**, professeur agrégé, Université de Montréal

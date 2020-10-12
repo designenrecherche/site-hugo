@@ -122,9 +122,8 @@ fields:
 - name: these_end
   type: number
   label: Date de soutenance de thèse
-  description: Indiquer "0" si la thèse n'a pas encore été soutenue
-  default: 0
   description: ''
+  default: 0
   config:
     required: true
 - name: tags
