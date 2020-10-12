@@ -34,8 +34,8 @@
 
         .tags{     
             @include tags-block-content();   
-            @media screen and (min-width: 1400px){
-                margin-top: calc(var(--baseline)*5);
+            @media screen and (min-width: 1480px){
+                margin-top: calc(var(--baseline)*7);
             }
             @include for-size(phone) {
                 margin-top: calc(var(--baseline)*0.5);
