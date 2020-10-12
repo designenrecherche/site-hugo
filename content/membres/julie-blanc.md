@@ -76,12 +76,12 @@ Ce travail de recherche, basé sur la pratique, s'inscrit dans le contexte d'une
 
 {{% lang class="fr" %}}
 
-Julie Blanc est designeuse graphique et étudiante-chercheuse. Elle prépare un doctorat en ergonomie et design. Elle prend aussi part aux recherches collectives du groupe PrePostPrint et travaille au développement de Paged.js, une bibliothèque JavaScript libre et open source pour concevoir des livres imprimés depuis les navigateurs web. Son travail de recherche fait suite à sa pratique du design graphique tournée vers des objets éditoriaux numériques et imprimés. Elle a ainsi travaillé pour le Médialab Sciences Po ou le musée Saint Raymond.
+Julie Blanc est designeuse graphique et étudiante-chercheuse. Elle prépare un doctorat en ergonomie et design. Elle prend aussi part aux recherches collectives du groupe PrePostPrint et travaille au développement de \[Paged.js\]([https://www.pagedjs.org/](https://www.pagedjs.org/ "https://www.pagedjs.org/")), une bibliothèque JavaScript libre et open source pour concevoir des livres imprimés depuis les navigateurs web. Son travail de recherche fait suite à sa pratique du design graphique tournée vers des objets éditoriaux numériques et imprimés. Elle a ainsi travaillé pour le Médialab Sciences Po ou le musée Saint Raymond.
 
 {{% /lang %}}
 
 {{% lang class="en" %}}
 
-Julie Blanc is a graphic designer and student researcher. She is preparing a PhD in ergonomics ans design. She also takes part in the collective research of the PrePostPrint group and works on the development of Paged.js, a free and open source JavaScript library for designing printed books from web browsers. Her research work and her design practice focus on digital and printed editorial objects. She has worked for the Medialab Sciences Po and the Saint Raymond museum.
+Julie Blanc is a graphic designer and student researcher. She is preparing a PhD in ergonomics ans design. She also takes part in the collective research of the PrePostPrint group and works on the development of  \[Paged.js\]([https://www.pagedjs.org/](https://www.pagedjs.org/ "https://www.pagedjs.org/")), a free and open source JavaScript library for designing printed books from web browsers. Her research work and her design practice focus on digital and printed editorial objects. She has worked for the Medialab Sciences Po and the Saint Raymond museum.
 
 {{% /lang %}}
