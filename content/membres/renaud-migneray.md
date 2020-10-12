@@ -1,7 +1,7 @@
 +++
 etablissement = "Université de Technologie de Compiègne, Costech"
 membre_actif = true
-photo = "/images/default-profil.jpg"
+photo = "/images/mignerey-renaud.png"
 section_cnu = "72 Epistémologie, histoire des sciences et des techniques"
 tags = ["Interaction", "Expérience Vécue", "Relation", "Perception", "Dynamique interpersonnelle", "Relations humaines", "Relations intergroupes", "Émotions", "Design", "Toucher", "Automobiles", "Conduite automobile", "Automobiliste"]
 these_end = 2019
@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
