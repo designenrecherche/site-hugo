@@ -1,10 +1,10 @@
 +++
 etablissement = "Paris-Nanterre"
 membre_actif = false
-photo = "/images/default-profil.jpg"
+photo = "/images/bonhomme-max.jpg"
 section_cnu = "22 Histoire de l'art"
 tags = []
-these_end = 0
+these_end = nil
 these_soutenue = false
 these_start = 2015
 title = "Max Bonhomme"
@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
