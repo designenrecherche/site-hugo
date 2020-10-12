@@ -2,7 +2,9 @@
 beer:
   enable: true
   title: Bière des doctorant·e·s
-  summary: La bière de la rentrée ! Si tu veux en savoir plus sur l'asso rejoins-nous
-    pour discuter autour d'un verre.
+  summary: "La bière de la rentrée ! Si tu veux en savoir plus sur l'asso rejoins-nous
+    pour discuter autour d'un verre...chacun chez soi. Comme vous le savez, les bars
+    sont fermés, alors on vous propose de vous retrouver avec ou sans bière, en visio
+    : https://meet.jit.si/BiereDeRentreeDesignEnRecherche \n"
   date: 15 octobre 2020, 19h00
-  lieu: https://meet.jit.si/BiereDeRentreeDesignEnRecherche
+  lieu: 'En ligne '
