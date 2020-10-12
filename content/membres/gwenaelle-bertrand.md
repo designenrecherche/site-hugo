@@ -1,7 +1,7 @@
 +++
 etablissement = "Université de Strasbourg, Laboratoire ACCRA (Approches Contemporaines de la Création et de la Réflexion Artistiques), équipe EA 3402"
 membre_actif = false
-photo = "/images/default-profil.jpg"
+photo = "/images/bertrand-gwenaelle.png"
 section_cnu = "18 Esthétique"
 tags = ["Desin critique", "Crise", "déplacement", "espacement", "désadaptation", "hybridation", "fragment", "préférable", "corps", "dispositif", "protoforme", "prothèse", "dysfonction"]
 these_end = 2016
@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
