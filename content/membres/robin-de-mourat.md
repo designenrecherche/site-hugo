@@ -1,7 +1,7 @@
 +++
 etablissement = "Université Rennes 2, APP / MédiaLab Sciences Po"
 membre_actif = true
-photo = "/images/default-profil.jpg"
+photo = "/images/de-mourat-robin.png"
 section_cnu = "18 Esthétique"
 tags = []
 these_end = 2020
@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
