@@ -22,37 +22,42 @@ Si le design est traversé par des enjeux sociaux, économiques et politiques ma
 <h1>Composition des bureaux</h1>
 <div class="title"><div>
 
-{{% bureau year="2019-2020" %}}
+{{% bureau year="2020-2021" %}}
 
-* Zoé Bonnardot, présidente
-* Julie Blanc, trésorière
-* Marion Voillot, secrétaire
-* Manon Ménard, secrétaire
+* [Zoé Bonnardot](https://designenrecherche.org/membres/zoe-bonnardot/), présidente
+* [Julie Blanc](https://designenrecherche.org/membres/julie-blanc/), trésorière
+* [Marion Voillot](https://designenrecherche.org/membres/marion-voillot/), secrétaire
+* [Manon Ménard,](https://designenrecherche.org/membres/manon-menard/) secrétaire
   {{% /bureau %}}
+
+  {{% bureau year="2019-2020" %}}
+  * [Léonore Conte,](https://designenrecherche.org/membres/leonore-conte/) présidente
+  * [Aurélie Daanen,](https://designenrecherche.org/membres/aurelie-daanen/) trésorière
+  * [Zoé Bonnardot](https://designenrecherche.org/membres/zoe-bonnardot/), secrétaire
+  * [Julie Blanc](https://designenrecherche.org/membres/julie-blanc/), chargée des outils numériques
+  * [Marion Voillot](https://designenrecherche.org/membres/marion-voillot/), Chargée de communication {{% /bureau %}}
 
 {{% bureau year="2018-2019" %}}
 
-* Léonore Conte, présidente
-* Zoé Bonnardot, trésorière
-* [Rose Dumesny](/membres/rose-dumesny/), secrétaire
-* [Julie Blanc](https://designenrecherche.org/membres/julie-blanc/), chargée des outils numériques
-* Marion Voillot, chargée de communication
+* [Léonore Conte](https://designenrecherche.org/membres/leonore-conte/), présidente
+* [Aurélie Daanen,](https://designenrecherche.org/membres/aurelie-daanen/) trésorière
+* [Zoé Bonnardot](), secrétaire
   {{% /bureau %}}
 
 {{% bureau year="2017-2018" %}}
 
-* Nolwenn Maudet, présidente
-* Emeline Brulé, trésorière
+* [Nolwenn Maudet](https://designenrecherche.org/membres/nolwenn-maudet/), présidente
+* [Emeline Brulé](https://designenrecherche.org/membres/emeline-brule/), trésorière
 * [Rose Dumesny](/membres/rose-dumesny/), secrétaire
-* Léonore Conte, chargée de com - Licorne
+* [Léonore Conte](https://designenrecherche.org/membres/leonore-conte/), chargée de com - Licorne
   {{% /bureau %}}
 
 {{% bureau year="2016-2017" %}}
 
-* Nolwenn Maudet, présidente
-* Emeline Brulé, vice-présidente
+* [Nolwenn Maudet](https://designenrecherche.org/membres/nolwenn-maudet/), présidente
+* [Emeline Brulé](https://designenrecherche.org/membres/emeline-brule/), vice-présidente
 * Anne-lise Rias, trésorière
-* Rose Dumesny, secrétaire
+* [Rose Dumesny](https://designenrecherche.org/membres/rose-dumesny/), secrétaire
 * Frédérique Ampilhac, secrétaire-adjointe
   {{% /bureau %}}
 
@@ -60,15 +65,15 @@ Si le design est traversé par des enjeux sociaux, économiques et politiques ma
 
 * Olympe Rabaté, présidente
 * Apolline Le Gall, secrétaire
-* Emeline Brulé, trésorière
-* Robin de Mourat, vice-secrétaire aux questions numériques
+* [Emeline Brulé](https://designenrecherche.org/membres/emeline-brule/), trésorière
+* [Robin de Mourat](https://designenrecherche.org/membres/robin-de-mourat/), vice-secrétaire aux questions numériques
 * Pathum Bila-Deroussy, vice-trésorier
   {{% /bureau %}}
 
 {{% bureau year="2014" %}}
 
 * Marine Royer, présidente
-* Caroline Bougourd, secrétaire
+* [Caroline Bougourd](), secrétaire
 * Anne-Lyse Renon, trésorière
 * Anthony Masure, vice-secrétaire
   {{% /bureau %}}
