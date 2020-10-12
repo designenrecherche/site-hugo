@@ -1,7 +1,7 @@
 +++
 etablissement = "Université Paris-Saclay, STIC"
 membre_actif = true
-photo = "/images/default-profil.jpg"
+photo = "/images/maudet-nolwenn.png"
 section_cnu = "27 Informatique"
 tags = ["Interaction humain-machine", "Design graphique", "Outils de support de la créativité", "Systèmes homme-machine", "Interaction homme-ordinateur", "Design interactif", "Arts graphiques", "Conception assistée par ordinateur"]
 these_end = 2017
@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
