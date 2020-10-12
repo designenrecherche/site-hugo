@@ -1,10 +1,10 @@
 +++
 etablissement = "Université de Nîmes (Unîmes), Laboratoire PROJEKT"
 membre_actif = true
-photo = "/images/default-profil.jpg"
+photo = "/images/petruzzellis-stacie.png"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["Enfant", "Récit", "Design", "Vécu", "Jeu", "Émotions"]
-these_end = 0
+these_end = nil
 these_soutenue = false
 these_start = 2016
 title = "Stacie Petruzzelis"
