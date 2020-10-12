@@ -74,8 +74,8 @@ Si le design est traversé par des enjeux sociaux, économiques et politiques ma
 
 * Marine Royer, présidente
 * [Caroline Bougourd](), secrétaire
-* Anne-Lyse Renon, trésorière
-* Anthony Masure, vice-secrétaire
+* [Anne-Lyse Renon](https://designenrecherche.org/membres/anne-lyse-renon/), trésorière
+* [Anthony Masure](https://designenrecherche.org/membres/anthony-masure/), vice-secrétaire
   {{% /bureau %}}
 
 </section>
