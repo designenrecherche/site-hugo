@@ -1,5 +1,5 @@
 +++
-etablissement = "EHESS Paris, LIAS, en partenariat avec Institut Marcel Mauss (Paris)"
+etablissement = "EHESS Paris & LIAS, Institut Marcel Mauss (Paris)"
 membre_actif = false
 photo = "/images/renon-anne-lyse.png"
 section_cnu = "18 Esthétique"
@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 # Résumé de thèse
 
 Le rôle grandissant des techniques modernes de présentation et d’imagerie dans la mise en forme du discours et des résultats scientifiques conduit à s’interroger sur le rôle du design et des déterminations esthétiques dans les pratiques de la science. L’intuition générale qui guide notre recherche est que toute mise en forme comprend une dimension esthétique et stylistique (cf. Denkstil), et qu’elle procède d’un « design ». Par design, on entend ici à la fois le moyen de donner une forme à un champ de recherches (concepts, observations, données) et le processus de conception lui-même. De même que la perception du « réel » ne se départ jamais des dimensions expressives et physionomiques qui traversent toute expérience sensible, la mise en forme du réel (théories, modèles, données), par le savant, est toujours soumise à la tension d’une esthétique étroitement dépendante des médiations sémiotiques en jeu. Par exemple, les thèmes génériques, récurrents dans la pensée scientifique (conflit, équilibre, stabilité/instabilité, symétrie, conservation, isomorphisme, figure/fond, circularité) représentent des véritables patterns esthétiques qui configurent le champ théorique, homologuent les styles de recherche, et fondent la hiérarchie des valeurs factuelles. Sur le plan anthropologique, le projet consiste à analyser en détail tout un éventail de pratiques scientifiques contemporaines ainsi que les techniques de visualisation et de médiatisation. Sur le plan théorique et épistémologique, nous nous intéressons à la formation de l’imaginaire scientifique et son articulation avec les conduites esthétiques à l’œuvre dans les différentes phases d’un programme de recherche.
