@@ -1,8 +1,8 @@
 +++
-etablissement = "Université de Technologie de Compiègne, Costech"
+etablissement = "Université de Technologie de Compiègne, COSTECH"
 membre_actif = true
-photo = "/images/mignerey-renaud.png"
-section_cnu = "72 Epistémologie, histoire des sciences et des techniques"
+photo = "/images/image1-copie.jpg"
+section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["Interaction", "Expérience Vécue", "Relation", "Perception", "Dynamique interpersonnelle", "Relations humaines", "Relations intergroupes", "Émotions", "Design", "Toucher", "Automobiles", "Conduite automobile", "Automobiliste"]
 these_end = 2019
 these_soutenue = true
@@ -19,8 +19,8 @@ github = ""
 gitlab = ""
 hypotheses = ""
 instagram = ""
-linkedin = ""
-mail = ""
+linkedin = "https://www.linkedin.com/in/renaudmignerey/"
+mail = "renaudmignerey@gmail.com"
 medium = ""
 site = ""
 telephone = ""
@@ -74,8 +74,8 @@ In a context of strong competition and regulatory pressures, the vehicles on the
 
 ## Direction de thèse
 
-* **Charles Lenay**, Université de Technologie de Compiègne, Costech
-* **Anne Guénand**, Université de Technologie de Compiègne, Costech
+* **Charles Lenay** (Directeur), Université de Technologie de Compiègne, Costech
+* **Anne Guénand** (Co-directrice), Université de Technologie de Compiègne, Costech
 
 # Soutenance de thèse
 
@@ -85,7 +85,14 @@ Pour en savoir plus: [lien vers article de design en recherche]()
 
 ## Composition du jury
 
-* **Pierre Lévy**, Eindhoven University of Technology
-* **Daniel Schmitt**, Université Polytechnique Hauts-de-France
-* **Pascal Salembier**, Université de Technologie de Troyes
-* **Olivier Gapenne**, Université de Technologie de Compiègne
+* **Pierre Lévy** (Rapporteur), Eindhoven University of Technology
+* **Daniel Schmitt** (Rapporteur), Université Polytechnique Hauts-de-France
+* **Pascal Salembier (**Examinateur), Université de Technologie de Troyes
+* **Olivier Gapenne (**Examinateur), Université de Technologie de Compiègne
+* **Charles Lenay** (Directeur), Université de Technologie de Compiègne, Costech
+* **Anne Guénand** (Co-directrice), Université de Technologie de Compiègne, Costech
+
+Et en qualité de membre invité du jury :
+
+* **Nathie Herbeth**, Groupe Renault
+* **Estelle Berger**, Strate École de Design
