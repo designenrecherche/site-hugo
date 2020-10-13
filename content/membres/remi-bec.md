@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
@@ -95,8 +94,9 @@ As a conclusion, the processes and techniques used in this research demonstrate 
 
 ## Direction de thèse
 
-* **Directeur•ice de thèse**, laboratoire de rattachement **Prof Andy Dearden, User-Centred Healthcare Design, Sheffield Hallam University**
-* **Co-directeur•ice de thèse**, laboratoire de rattachement **Prof Paul Chamberlain, Director of the Lab4Living and Art & Design Research Centre + Prof Rob Copeland, Director of the Advanced Wellbeing Research Centre**
+* **Prof Andy Dearden,** User-Centred Healthcare Design, Sheffield Hallam University
+* **Prof Paul Chamberlain,** Director of the Lab4Living and Art & Design Research Centre
+* **Prof Rob Copeland,** Director of the Advanced Wellbeing Research Centre
 
 # Biographie
 
@@ -108,5 +108,5 @@ As a conclusion, the processes and techniques used in this research demonstrate 
 
 ## Composition du jury
 
-* **Prof Alastair Macdonald** (rapporteur), Senior Researcher at Glagow School of Art 
+* **Prof Alastair Macdonald** (rapporteur), Senior Researcher at Glagow School of Art
 * **Dr Helen Crank,** Centre for Sport and Exercise Science at Sheffield Hallam University
