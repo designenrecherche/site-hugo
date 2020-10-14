@@ -1,5 +1,5 @@
 +++
-etablissement = "Université Jean Monnet - Saint-Étienne, CIEREC"
+etablissement = "Université Jean Monnet - Saint-Étienne, CIEREC & ESADSE, laboratoire DDL"
 membre_actif = true
 photo = "/images/default-profil.jpg"
 section_cnu = "18 Arts appliqués"
@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 ## Direction de thèse
