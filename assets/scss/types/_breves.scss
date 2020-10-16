@@ -38,10 +38,11 @@
 
     article{
 
-        @include links();
+        p a{ 
+            border-bottom: 1px dotted var(--current-color)!important;
+            @include links(); 
+        }
         
-       
-     
          margin-bottom: calc(var(--baseline)*1.5);
         @include for-size(desktop){
             
