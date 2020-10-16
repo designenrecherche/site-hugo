@@ -22,7 +22,6 @@
             top: 0!important;
             left: 0!important;
         }
-
         .grid{
             height: auto!important;
         }
@@ -38,6 +37,9 @@
     }
 
     article{
+
+        @include links();
+        
        
      
          margin-bottom: calc(var(--baseline)*1.5);
