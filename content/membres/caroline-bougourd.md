@@ -1,6 +1,6 @@
 +++
 etablissement = "Université Paris 1, Arts plastiques, esthétique et sciences de l'art, Institut ACTE"
-membre_actif = true
+membre_actif = false
 photo = "/images/default-profil.jpg"
 section_cnu = "18 Esthétique"
 tags = ["cité d'expériences", "design", "prefabricated houses", "memory", "historical monuments", "Noisy-le-sec", "héritage", "stories", "reconstruction", "translation", "webdocumentary"]

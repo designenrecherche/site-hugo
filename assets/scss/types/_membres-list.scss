@@ -1,5 +1,12 @@
 #container-list-membres{
     max-width: var(--max-width-list);
+
+    > h2{
+        @include section-title();
+        &:after { @include borderDotted(1deg); }
+        margin-top: calc(var(--baseline)*3);
+        margin-bottom: calc(var(--baseline)*3)!important;
+    }
 }
 
 @include for-size(phone){
