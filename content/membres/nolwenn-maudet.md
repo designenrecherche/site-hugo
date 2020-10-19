@@ -81,13 +81,13 @@ Mainstream digital graphic design tools seldom evolved since their creation, mor
 
 {{% lang class="fr" %}}
 
-Diplômée en design produit (école Boulle) et design d’interaction (UTC), Nolwenn est actuellement docteure en Interaction Homme-Machine où elle travaille sur les outils du design.
+Diplômée en design produit (école Boulle) et design d’interaction (UTC), Nolwenn a fait sa thèse en interaction humain-machine sur les outils numériques des designers. Elle est actuellement maître de conférences en design à l'université de Strasbourg.
 
 {{% /lang %}}
 
 {{% lang class="en" %}}
 
-Gratuated in Product Design from Ecole Boulle and UX Design from UTC, interested in new tools for design
+Gratuated in Product Design from Ecole Boulle and UX Design from UTC, interested in developing digital tools for design. She is now assistant professor in design at the University of Strasbourg.
 
 {{% /lang %}}
 
