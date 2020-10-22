@@ -1,18 +1,18 @@
 +++
-etablissement = "Paris-Nanterre"
+etablissement = "Université Gustave-Eiffel, Champs-sur-Marne"
 membre_actif = false
 photo = "/images/bonhomme-max.jpg"
 section_cnu = "22 Histoire de l'art"
-tags = []
-these_end = 0
+tags = ["histoire du design graphique, histoire de la photographie, histoire de la presse illustrée, culture visuelle, iconographie politique", "Histoire du design grapjhique", "Histoire de la photographie", "Histoire de la presse illustrée", "Culture visuelle", "Iconographie politique"]
+these_end = 2020
 these_soutenue = false
 these_start = 2015
 title = "Max Bonhomme"
-titrethese = "Graphisme et persuasion : les usages politiques du photomontage en France (1919-1939)."
-titretheseEn = ""
+titrethese = "Propagande graphique : le photomontage dans la culture visuelle de la gauche française (1925-1939)"
+titretheseEn = "Graphic Propaganda : Photomontage and the Visual Culture of the Left in France (1925-1939)"
 type_page = "membres"
 url_hal = ""
-url_thesesfr = ""
+url_thesesfr = "http://theses.fr/s240542"
 [contact]
 facebook = ""
 github = ""
@@ -20,7 +20,7 @@ gitlab = ""
 hypotheses = ""
 instagram = ""
 linkedin = ""
-mail = ""
+mail = "maxbonhomme@protonmail.com"
 medium = ""
 site = ""
 telephone = ""
@@ -56,12 +56,53 @@ post8link = ""
 post9link = ""
 
 +++
+
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
 
 {{% lang class="fr" %}}
 
-Né au sein des avant-gardes dadaïstes et constructivistes, le photomontage devient à partir des années 1920 un élément essentiel de la culture visuelle moderne. Si ses développements en URSS et en Allemagne sont bien connus, le cas spécifique de la France révèle une certaine opposition à cette technique de la part des professionnels de la photographie et du graphisme, qui privilégient souvent un modernisme mesuré et un ancrage dans le dessin. Malgré cette relative résistance, le photomontage trouve sa place parmi les nouveaux outils de communication visuelle : dans les couvertures et les maquettes de magazines (VU, Regards, Voilà, Le Document), dans l’affiche (Cassandre, Jean Carlu) dans les expositions didactiques, puis dans la plupart des pavillons de l’exposition de 1937 ; il irrigue de nouvelles images l’environnement urbain des années 1930. Outre les photographes, se révèle alors l’importance d’acteurs comme les typographes (Maximilien Vox), les maquettistes (Alexander Liberman), les designers (Charlotte Perriand) ou les cinéastes (Marcel Ichac, Lou Bonin). Notre hypothèse est que l’introduction du photomontage en France est indissociable d’un questionnement sur l’impact de l’image comme moyen d’agitation politique, et d’une redéfinition du rôle de l’art dans le contexte de la crise des années 1930. Les réseaux communistes, en particulier, ont joué un rôle central à cet égard. La France ne peut alors pas être étudiée de manière isolée, étant donnée l’importance des circulations transnationales (URSS, Allemagne et Pays-Bas). En mobilisant les outils critiques des visual studies et de l’iconographie politique, nous montrons comment ces images révèlent les tensions idéologiques qui traversent cette période : dépassement de l’homme par la machine, crise économique, crainte d’une nouvelle guerre mondiale, montée du fascisme.
+Cette étude porte sur la place du photomontage dans le graphisme français de l’entre-deux-guerres, plus particulièrement dans la presse illustrée, l’affiche et la propagande politique. Fondé sur la combinaison d’éléments photographiques de façon à créer des images composites, généralement reproduites par impression photomécanique, le photomontage a été promu par les graphistes d’avant-garde mais aussi par les éditeurs de presse à grand tirage. Il devient à partir des années 1920 un élément caractéristique de la culture visuelle moderne, jusqu’à investir très largement les pavillons de l’Exposition internationale de 1937. Si les développements du photomontage en URSS et en Allemagne sont bien connus, la France a souvent été considérée comme réticente à l’usage de ce procédé, privilégiant un modernisme mesuré et un ancrage dans le dessin. En analysant le rôle des réseaux culturels communistes dans le développement du photomontage politique, nous identifions des phénomènes de transferts culturels étroitement liés à la sociabilité militante. L’étude de la production imprimée des organisations de gauche permet d’expliciter les fonctions attribuées à l’image comme moyen d’influence politique. Sur le plan iconographique, les photomontages se caractérisent par des procédés rhétoriques qui orientent la lecture du document photographique. Sur le plan du montage, s’opère une conjonction de temporalités hétérogènes. En prêtant une attention particulière à la fois aux conditions de production, aux réseaux d’acteurs et aux discours de légitimation, nous proposons un essai en iconologie politique qui en même temps se situe au plus près de la matérialité des images.
 
 {{% /lang %}}
+
+{{% lang class="en" %}}
+
+This study examines the place of photomontage in French graphic design between the two world wars, particularly in the illustrated press, posters and political propaganda. Based on the combination of photographic elements to create composite images, generally reproduced by photomechanical printing, photomontage was promoted by avant-garde graphic designers but also by editors of large-circulation magazines. From the 1920s onwards, it became a characteristic element of modern visual culture, until it was widely used in the pavilions of the 1937 International Exhibition in Paris. While the developments of photomontage in the USSR and Germany are well known, France was often considered to be reluctant to this technique, favouring instead a measured modernism and drawn illustrations. By analysing the role of communist cultural networks in the development of political photomontage, we identify phenomena of cultural transfer closely linked to militant sociability. The study of the printed production of left-wing organisations makes it possible to clarify the functions attributed to the image as a means of political influence. On the iconographic level, photomontages are characterised by rhetorical processes which guide the reading of the photographic document. On the level of montage, they allow for a conjunction of heterogeneous temporalities in a single image. By paying attention to the conditions of production, to the networks of actors and to the discourses of legitimation, this essay in political iconology remains as close as possible to the materiality of images.
+
+{{% /lang %}}
+
+## Direction de thèse
+
+* **Rémi Labrusse,** Université Paris Nanterre, laboratoire HAR
+* **Christian Joschke**, Université Paris Nanterre, laboratoire HAR
+
+# Biographie
+
+{{% lang class="fr" %}}
+
+Diplômé de l’École du Louvre et doctorant en histoire de l’art à l’Université Paris-Nanterre, sous la direction de Rémi Labrusse et Christian Joschke. Il soutient en novembre 2020 une thèse intitulée « Propagande graphique. Le photomontage dans la culture visuelle de la gauche française (1925-1939). » Entre histoire du graphisme et histoire de la photographie, ses travaux interrogent le rôle des réseaux militants transnationaux dans la propagation de nouvelles stratégies graphiques, qui détournent le document photographique pour en faire un outil de critique idéologique. Il a publié des articles dans les revues _Études photographiques_, _SHIFT: Graduate Journal of Visual and Material Culture_, _Image\[&\]Narrative_, _Artefact_, ainsi que dans le catalogue de l’exposition _Photographie arme de classe_ (Centre Pompidou, 2018). Plus récemment, il a contribué au volume collectif Technique & design graphique, dirigé par Vivien Philizot et Jérôme Saint-Loubert Bié (éditions B42, 2020).
+
+{{% /lang %}}
+
+{{% lang class="en" %}}
+
+Graduate of the Ecole du Louvre and PhD student in art history at the University of Paris Nanterre, under the supervision of Rémi Labrusse and Christian Joschke. In November 2020, he will defend a dissertation entitled "Graphic Propaganda : Photomontage and the Visual Culture of the Left in France (1925-1939)". Between the history of graphic design and the history of photography, his work questions the role of transnational militant networks in the propagation of new graphic strategies, which subvert the photographic document to turn it into a tool for ideological criticism. He has published articles in the journals _Études photographiques_, _SHIFT: Graduate Journal of Visual and Material Culture_, _Image\[&\]Narrative_, _Artefact_, as well as in the catalogue of the exhibition _Photographie, arme de classe_ (Centre Pompidou, 2018). More recently, he contributed to the collective volume _Technique & design graphique_, edited by Vivien Philizot and Jérôme Saint-Loubert Bié (B42 editions, 2020).
+
+{{% /lang %}}
+
+# Soutenance de thèse
+
+**13 novembre 2020** – Institut national d’histoire de l’art (INHA), Paris
+
+Pour en savoir plus: [lien vers article de design en recherche]()
+
+## Composition du jury
+
+* **Catherine de Smet**, Université Paris 8 - Saint-Denis, laboratoire TEAMED (rapporteur)
+* **Bertrand Tillier**, Université Paris 1 Panthéon-Sorbonne, laboratoire ISOR (rapporteur)
+* **André Gunthert**, EHESS, CRAL (examinateur)
+* **Romy Golan**, Graduate Center, City University of New York (examinateur)
+* **Rémi Labrusse**, Université Paris Nanterre, laboratoire HAR (directeur)
+* **Christian Joschke**, Université Paris Nanterre, laboratoire HAR (co-directeur)
