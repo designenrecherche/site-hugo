@@ -83,9 +83,27 @@ The diffusion of digital technologies in research practices, as well as the soci
 
 ## Composition du jury
 
-* **Leszek Brogowski**, professeur des universités, Université de Rennes 2
-* **Nicolas Thély**, professeur des universités, Université Rennes 2
-* **Annie Gentès**, maîtresse de conférence HDR, Télécom Paris
+* **Annie Gentès**, maîtresse de conférence HDR, Télécom Paris (rapporteure)
+* **Leszek Brogowski**, professeur des universités, Université de Rennes 2 (rapporteur)
+* **Nicolas Thély**, professeur des universités, Université Rennes 2 
 * **Clarisse Bardiot**, maîtresse de conférence, Université Polytechnique Hauts-de-France
 * **Jean-François Bert**, maître de conférence HDR, Télécom Paris
 * **Marcello Vitali-Rosati**, professeur agrégé, Université de Montréal
+
+# Biographie
+
+{{% lang class="fr" %}}
+
+Robin de Mourat est designer de recherche au laboratoire médialab de Sciences Po. Il contribue à la conduite d’enquêtes interdisciplinaires variées dans lesquelles il expérimente des techniques de recherche en design en dialogue avec les _science and technology studies_, la sociologie des médias, l’histoire et les sciences politiques. Il participe également à la conception de logiciels de recherche pour les Sciences Humaines et Sociales (écriture savante, annotation de matériaux, étude du web, …) qui sont mis à disposition de la communauté des chercheur.e.s en SHS, gratuitement et sous licence libre.
+
+Issu d’un parcours pluridisciplinaire articulé par une passion ancienne pour les liens entre pratiques de design et pratiques savantes, il est titulaire d'un DSAA en design produit (école Boulle), d’un master en informatique (CNAM/ENSCI/Paris-8), d’une agrégation en Arts Appliqués (préparation ENS Paris-Saclay) et d'un doctorat en Esthétique et Arts Appliqués (Université Rennes 2).
+
+{{% /lang %}}
+
+{{% lang class="en" %}}
+
+Robin de Mourat is designer and researcher at the médialab of Sciences Po. He contributes to the conduct of various interdisciplinary investigations in which he experiments design research techniques in dialogue with science and technology studies, media sociology, history and political science. He also participates in the design of research software for the Human and Social Sciences (scholarly writing, annotation of materials, study of the web, ...) which are made available to the SHS research community under free license.
+
+Coming from a pluridisciplinary background articulated by a passion for the connections betwen design and schoarly practices and their mutations in the current social and technological context, he holds degrees in product design and computer science, an _agrégation_ in applied arts (ENS Paris-Saclay), and a Ph.D. in Aesthetics & Design (Université Rennes 2).
+
+{{% /lang %}}
