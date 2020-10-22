@@ -3,7 +3,7 @@ etablissement = "School of Communication, Royal College of Art"
 membre_actif = true
 photo = "/images/img_3664_pp.jpg"
 section_cnu = ""
-tags = ["algorithme, archéologie des média, diagrammes, programme, humanités numériques, pratique, design critique, approche instrumentale", "Algorithme", "Archéologie des médias", "Diagrammes", "Programme", "Humanités numériques", "Pratique", "Design critique", "Approche instrumentale"]
+tags = ["Algorithme", "Archéologie des médias", "Diagrammes", "Programme", "Humanités numériques", "Pratique", "Design critique", "Approche instrumentale"]
 these_end = 2020
 these_soutenue = true
 these_start = 2015
@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
@@ -91,8 +90,6 @@ My original contribution to knowledge is an approach to practice-based research 
 # Soutenance de thèse
 
 **4 mai 2020** – Zoom
-
-Pour en savoir plus: [lien vers article de design en recherche]()
 
 ## Composition du jury
 
