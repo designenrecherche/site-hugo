@@ -77,19 +77,6 @@ The diffusion of digital technologies in research practices, as well as the soci
 * **Nicolas Thély**, professeur des universités, Université de Rennes 2, PTAC
 * **Donato Ricci**, designer et chercheur, Sciences Po, médialab
 
-# Soutenance de thèse
-
-18 septembre 2020, Université de Rennes 2
-
-## Composition du jury
-
-* **Annie Gentès**, maîtresse de conférence HDR, Télécom Paris (rapporteure)
-* **Leszek Brogowski**, professeur des universités, Université de Rennes 2 (rapporteur)
-* **Nicolas Thély**, professeur des universités, Université Rennes 2 
-* **Clarisse Bardiot**, maîtresse de conférence, Université Polytechnique Hauts-de-France
-* **Jean-François Bert**, maître de conférence HDR, Télécom Paris
-* **Marcello Vitali-Rosati**, professeur agrégé, Université de Montréal
-
 # Biographie
 
 {{% lang class="fr" %}}
@@ -107,3 +94,16 @@ Robin de Mourat is designer and researcher at the médialab of Sciences Po. He c
 Coming from a pluridisciplinary background articulated by a passion for the connections betwen design and schoarly practices and their mutations in the current social and technological context, he holds degrees in product design and computer science, an _agrégation_ in applied arts (ENS Paris-Saclay), and a Ph.D. in Aesthetics & Design (Université Rennes 2).
 
 {{% /lang %}}
+
+# Soutenance de thèse
+
+18 septembre 2020, Université de Rennes 2
+
+## Composition du jury
+
+* **Annie Gentès**, maîtresse de conférence HDR, Télécom Paris (rapporteure)
+* **Leszek Brogowski**, professeur des universités, Université de Rennes 2 (rapporteur)
+* **Nicolas Thély**, professeur des universités, Université Rennes 2
+* **Clarisse Bardiot**, maîtresse de conférence, Université Polytechnique Hauts-de-France
+* **Jean-François Bert**, maître de conférence HDR, Télécom Paris
+* **Marcello Vitali-Rosati**, professeur agrégé, Université de Montréal
