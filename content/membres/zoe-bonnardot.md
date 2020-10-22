@@ -4,6 +4,7 @@ membre_actif = true
 photo = "/images/bonnardot-zoe.png"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["expérience", "transition énergétique", "usagers", "engagement", "anticipation", "simulation", "ludicité"]
+these_end = 0
 these_soutenue = false
 these_start = 2018
 title = "Zoé Bonnardot"
@@ -65,7 +66,7 @@ Les usagers des services énergétiques (résidentiels, tertiaires et collectivi
 
 {{% /lang %}}
 
-{{% lang class="fr" %}}
+{{% lang class="en" %}}
 
 The users of energy services (residential, tertiary and local authorities), who are today's recipients, will tomorrow be producers or involved in a local production network. They will then be called upon to be actors in the management of their energy. In this context, this thesis work aims at anticipate the behaviors of users in probable future situations of energy sharing at the local scale. Particular attention is paid to the articulation between the individual and collective involvement of users. This research will lead to the elaboration of a methodology for the design of user-centered services based on a playful and participative simulation tool.
 
