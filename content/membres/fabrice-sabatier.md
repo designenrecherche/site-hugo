@@ -1,7 +1,7 @@
 +++
 etablissement = "Ecole polytechnique de Bruxelles, Laboratoire Iridia, ULB + ERG Bruxelles "
 membre_actif = false
-photo = "/images/default-profil.jpg"
+photo = "/images/fabrice_sabatier.jpg"
 section_cnu = ""
 tags = ["visualisation de données, économie, sorcellerie, visual studies, design graphique", "Visualisation de données", "Économies", "Sorcellerie", "Visual studies", "Design graphique"]
 these_end = 0
