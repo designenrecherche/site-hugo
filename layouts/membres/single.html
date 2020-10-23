@@ -29,7 +29,7 @@
 
            <ul class="contact">
             {{ if .Params.contact.mail }}<li class="mail"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.mail | safeHTML }}</span>{{ .Params.contact.mail }}</li>{{ end }}
-            {{ if .Params.contact.site }}<li class="site"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.site | safeHTML }}</span><a href="{{ $.Site.Data.icons.site | safeHTML }}">{{ .Params.contact.site }}</a></li>{{ end }}
+            {{ if .Params.contact.site }}<li class="site"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.site | safeHTML }}</span><a target="_blank" href="{{ .Params.contact.site | safeHTML }}">{{ .Params.contact.site }}</a></li>{{ end }}
             {{ if .Params.contact.telephone }}<li class="site"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.phone | safeHTML }}</span>{{ .Params.contact.telephone }}</li>{{ end }}
            </ul>
            <ul class="socials">
