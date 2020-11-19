@@ -3,7 +3,7 @@ etablissement = "Université Gustave-Eiffel, Champs-sur-Marne"
 membre_actif = false
 photo = "/images/bonhomme-max.jpg"
 section_cnu = "22 Histoire de l'art"
-tags = ["histoire du design graphique", "Histoire de la photographie", "Histoire de la presse illustrée", "Culture visuelle", "Iconographie politique"]
+tags = ["Histoire de la photographie", "Histoire de la presse illustrée", "Culture visuelle", "Iconographie politique", "histoire du design graphique"]
 these_end = 2020
 these_soutenue = false
 these_start = 2015
@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
