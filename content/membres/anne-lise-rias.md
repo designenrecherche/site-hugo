@@ -1,6 +1,6 @@
 +++
 etablissement = "Laboratoire de Conception Produits et Innovation / École Nationale Supérieure d’Arts et Métiers Paris (LCPI)"
-membre_actif = true
+membre_actif = false
 photo = "/images/photo-identite-alr.jpg"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["Fabrication additive", "Créativité", "Objets intermédiaires", "AMIO", "Exploration des connaissances", "Stimuli", "Conception créative", "DFAM"]
