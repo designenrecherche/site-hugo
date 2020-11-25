@@ -13,8 +13,8 @@ type_page = "actions"
 +++
 Markdown est un langage de balisage léger qui permet une interopérabilité entre différents logiciels; ainsi vous gardez la structuration de votre texte peu importe votre format de sortie (markdown peut être converti en HTML, LaTeX, Indesign et même en Word).  
 Zotero est un logiciel de gestion de références qui permet de gérer des données bibliographiques et des documents de recherche. L’utilisation de références dans vos articles ou votre manuscrit de thèse peut être ainsi automatisée.  
-Nous verrons dans cet atelier comment créer des références bibliographiques et des notes de bas de page issues de Zotero en utilisant Markdown. Il existe différentes manières que nous aborderons.  
-  
+Nous verrons dans cet atelier comment créer des références bibliographiques et des notes de bas de page issues de Zotero en utilisant Markdown. Il existe différentes manières que nous aborderons.
+
 L’atelier s’adresse à tous les niveaux. C'est aussi un moment d'échange, nous ferons en sorte que vous ne soyez jamais perdus. Voici la répartition proposée:
 
 * 11h - 12h30 : Initiation / remise à niveau Markdown
@@ -24,7 +24,7 @@ L’atelier s’adresse à tous les niveaux. C'est aussi un moment d'échange, n
 # Organisation
 
 * **Julie Blanc**
-* **Antoine Fauchier**
+* **Antoine Fauchié**
 
 # Présents
 
