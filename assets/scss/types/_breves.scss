@@ -76,7 +76,7 @@
             font-style: italic;
             background-color: var(--background-color);
         }
-        p{
+        p, li{
             margin-bottom: calc(var(--baseline)*0.25);   
             font-size: var(--font-size-small);
             line-height: calc(var(--baseline)*0.75);
