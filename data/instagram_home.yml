@@ -1,8 +1,10 @@
+---
 instagramresidence:
-  enable : true
-  title: "Résidence instagram"
-  summary: "Chaque mois, un·e doctorant·e est en résidence sur notre compte instagram pour parler de son travail de recherche."
-  link: "https://www.instagram.com/designenrecherche/"
-  titleLink: "Toutes les résidences Instagram"
-  membre: "Julie Blanc"
-  mois: "juin 2020"
+  enable: true
+  title: Résidence instagram
+  summary: Chaque mois, un·e doctorant·e est en résidence sur notre compte instagram
+    pour parler de son travail de recherche.
+  link: https://www.instagram.com/designenrecherche/
+  titleLink: Toutes les résidences Instagram
+  membre: Aurélie Daanen
+  mois: Novembre 2020
