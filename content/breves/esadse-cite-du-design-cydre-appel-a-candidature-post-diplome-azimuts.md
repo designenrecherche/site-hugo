@@ -1,7 +1,6 @@
 +++
 description = ""
 documents = ""
-draft = true
 link = "https://www.citedudesign.com/fr/a/cycle-design-recherche-cydre--1147"
 publishDate = 2020-11-30T17:01:26Z
 title = "ESADSE- Cité du Design-CyDRE: Appel à candidature (Post-Diplôme Azimuts)"
