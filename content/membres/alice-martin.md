@@ -1,7 +1,7 @@
 +++
 etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"
 membre_actif = true
-photo = "/images/default-profil.jpg"
+photo = "/images/photo-profil2.jpg"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["Design", "Politique publique", "Appropriation", "Diffusion"]
 these_end = 0
