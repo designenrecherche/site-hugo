@@ -22,7 +22,7 @@ instagram = "https://www.instagram.com/lorene_ceccon/"
 linkedin = ""
 mail = "lorene.ceccon@univ-st-etienne.fr"
 medium = ""
-site = "lrcn.fr "
+site = "www.lrcn.fr "
 telephone = ""
 twitter = "https://twitter.com/lorenececcon "
 [instagram_1]
