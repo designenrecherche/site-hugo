@@ -3,7 +3,7 @@ etablissement = "CIEREC EA no 3068, Université Jean Monnet Saint-Étienne / Ran
 membre_actif = true
 photo = "/images/default-profil.jpg"
 section_cnu = "18 Esthétique"
-tags = ["Spacialité", "Transparence", "Base de données", "Dématérialisation", "Société numérique", "Déconstruction", "Informatique", "Complexité", "Habiter", "Imaginaires", "Internet", "Net.Art", "Art contemporain", "Design", "Graphisme"]
+tags = ["Transparence", "Base de données", "Dématérialisation", "Société numérique", "Déconstruction", "Informatique", "Complexité", "Habiter", "Imaginaires", "Internet", "Net.Art", "Art contemporain", "Design", "Graphisme", "Spatialité"]
 these_end = 0
 these_soutenue = false
 these_start = 2015
@@ -12,7 +12,7 @@ titrethese = "Transparence(s). Déconstruction artistique de l’« immatériali
 titretheseEn = "Transparences. How artists deconstruct The Web"
 type_page = "membres"
 url_hal = ""
-url_thesesfr = "https://www.theses.fr/s141059 "
+url_thesesfr = "https://www.theses.fr/s141059"
 [contact]
 facebook = ""
 github = ""
@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 ## Direction de thèse
