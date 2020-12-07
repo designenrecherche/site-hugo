@@ -1,5 +1,5 @@
 +++
-etablissement = "Université Gustave-Eiffel, Champs-sur-Marne"
+etablissement = "Université Gustave-Eiffel, Champs-sur-Marne, Laboratoire Littératures, Savoirs et Arts (LISAA)."
 membre_actif = false
 photo = "/images/bonhomme-max.jpg"
 section_cnu = "22 Histoire de l'art"
