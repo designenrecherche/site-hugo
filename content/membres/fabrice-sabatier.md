@@ -3,7 +3,7 @@ etablissement = "Ecole polytechnique de Bruxelles, Laboratoire Iridia, ULB + ERG
 membre_actif = false
 photo = "/images/fabrice_sabatier.jpg"
 section_cnu = ""
-tags = ["visualisation de données, économie, sorcellerie, visual studies, design graphique", "Visualisation de données", "Économies", "Sorcellerie", "Visual studies", "Design graphique"]
+tags = ["Visualisation de données", "Économies", "Sorcellerie", "Visual studies", "Design graphique"]
 these_end = 0
 these_soutenue = false
 these_start = 2013
@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 ## Direction de thèse
