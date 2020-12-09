@@ -1,7 +1,7 @@
 +++
 etablissement = "Université de Nîmes, EA PROJEKT 7447"
 membre_actif = false
-photo = "/images/default-profil.jpg"
+photo = "/images/bgisclard-2020.png"
 section_cnu = "23 Géographie physique, humaine, économique et régionale"
 tags = ["Risques", "Crues rapides", "Innovation sociale", "Territoire", "Capacitation"]
 these_end = 2017
@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
@@ -103,7 +102,7 @@ Pour en savoir plus: [lien vers article de design en recherche]()
 ## Composition du jury
 
 * **Johnny Douvinet**, Avignon Université, UMR ESPACE 7300 CNRS
-* **PAlain Findeli**, Université de Nîmes, EA PROJEKT 7447
+* **Alain Findeli**, Université de Nîmes, EA PROJEKT 7447
 * **Loïc Grasland**, Avignon Université, UMR ESPACE 7300 CNRS
 * **Guillaume Lacquement**, Université de Perpignan, ARTDev (rapporteur)
 * **Nathalie Pottier**, Université de Versailles-Saint-Quentin-en-Yvelines, CEMOTEV (examinatrice)
