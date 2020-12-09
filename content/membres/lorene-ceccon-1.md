@@ -1,8 +1,8 @@
 +++
 etablissement = "CIEREC EA no 3068, Université Jean Monnet Saint-Étienne / Random(Lab), Cycle Design et Recherche, École Supérieure d’Art et Design / Saint-Étienne, Unité de recherche numérique Art et Design ENSBA/ESADSE"
 membre_actif = true
-photo = "/images/default-profil.jpg"
-section_cnu = "18 Esthétique"
+photo = "/images/profil.jpg"
+section_cnu = "18 Sciences de l'art"
 tags = ["Transparence", "Base de données", "Dématérialisation", "Société numérique", "Déconstruction", "Informatique", "Complexité", "Habiter", "Imaginaires", "Internet", "Net.Art", "Art contemporain", "Design", "Graphisme", "Spatialité"]
 these_end = 0
 these_soutenue = false
