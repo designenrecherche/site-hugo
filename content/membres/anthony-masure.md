@@ -1,7 +1,7 @@
 +++
 etablissement = "Université Paris1, Panthéon-Sorbonne  – UFR Arts Plastiques"
 membre_actif = false
-photo = "/images/masure-anthony.png"
+photo = "/images/img_0157_1.jpg"
 section_cnu = "18 Esthétique"
 tags = ["algorithme", "appareil", "écriture", "fragmentation", "langage", "numérique", "programmation", "programme", "technique", "traduction"]
 these_end = 2014
@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
