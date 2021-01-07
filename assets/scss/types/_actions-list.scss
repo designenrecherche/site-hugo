@@ -1,157 +1,187 @@
+#container-list-actions {
+    max-width: var(--max-width-list);
+}
 
-  
-        
-        
-#container-list-actions{  max-width: var(--max-width-list); }
+.post-actions,
+.highlights-actions {
+    margin-bottom: calc(var(--baseline)*2);
+    color: var(--color-3);
+}
 
-        .post-actions, .highlights-actions {
-            margin-bottom: calc(var(--baseline)*2);
-            color: var(--color-3);
+
+.post-actions h1,
+.highlights-actions h1 {
+    display: inline-block;
+    @include title();
+    margin-top: 0;
+    color: var(--color-3);
+    max-width: 70%;
+    text-wrap: balance;
+    // color: red!important;
+}
+
+
+
+
+
+.post-actions {
+    @include for-size(phone) {
+        margin-top: calc(var(--baseline)*5);
+        margin-bottom: calc(var(--baseline)*3);
+    }
+
+    h1 {
+        font-weight: 500;
+        font-size: var(--font-size);
+        display: inline-block;
+        color: var(--color-3);
+        font-size: var(--font-size);
+        line-height: calc(var(--baseline)*1);
+        font-weight: 500;
+        margin-bottom: calc(var(--baseline)*1);
+
+        a {
+            color: currentColor;
         }
 
+        &:hover::after {
+            transform: rotate(0deg);
+        }
+    }
 
-        .post-actions h1,
-        .highlights-actions h1{
-            display: inline-block;
-            @include title();
-            margin-top: 0;
-            color: var(--color-3);
-            max-width: 70%;
-            text-wrap: balance; 
-            // color: red!important;
+    .type {
+
+        font-size: 0.6em;
+        text-transform: uppercase;
+        font-weight: 400;
+        letter-spacing: 0.2px;
+        @include surligne();
+
+        @include for-size(desktop) {
+            position: absolute;
+            right: 0;
+            top: 3px;
+            margin-bottom: 0;
         }
 
- 
-
-        .post-actions {
-            @include for-size(phone){ 
-                margin-top: calc(var(--baseline)*5);
-                margin-bottom: calc(var(--baseline)*3); 
-            }
-
-            h1 {
-                font-weight: 500;
-                font-size: var(--font-size);
-                display: inline-block;
-                color: var(--color-3);
-                font-size: var(--font-size);
-                line-height: calc(var(--baseline)*1);                
-                font-weight: 500;
-                margin-bottom: calc(var(--baseline)*1); 
-                a{ color: currentColor; }
-                &:hover::after{
-                    transform: rotate(0deg);
-                }
-            }
-
-            .type{
-               
-                font-size: 0.6em;
-                text-transform: uppercase;
-                font-weight: 400;
-                letter-spacing: 0.2px; 
-                @include surligne();
-
-                @include for-size(desktop){
-                    position: absolute;
-                    right: 0;
-                    top: 3px;
-                    margin-bottom: 0;
-                }
-
-                @include for-size(phone){
-                    position: absolute;
-                    left: 10px;;
-                    top: -40px;
-                    margin-bottom: 0;
-                }
-               
-            }
-
-            .date, .lieu{
-                display: inline;
-                margin-right:  calc(var(--unit)*2);
-                @include trait(2px);     
-                @include for-size(phone){ 
-                    display: block; 
-                    padding-left: 24px;
-                    text-indent: -24px;
-                }          
-            }
-
-            .summary{
-                margin-top: calc(var(--baseline)*0.25);
-            }
-
-            .tags{
-                @include tags-block-list();   
-            }
-
-            .more{
-                @include for-size(phone){ 
-                    width: 80px;
-                    position: absolute;
-                    right: -5px;
-                    bottom: -30px;
-                }
-            }
-
+        @include for-size(phone) {
+            position: absolute;
+            left: 10px;
+            ;
+            top: -40px;
+            margin-bottom: 0;
         }
 
+    }
+
+    .date,
+    .lieu {
+        display: inline;
+        margin-right: calc(var(--unit)*2);
+        @include trait(2px);
+
+        @include for-size(phone) {
+            display: block;
+            padding-left: 24px;
+            text-indent: -24px;
+        }
+    }
 
 
-        .highlights-actions article{
+    .summary {
+        margin-top: calc(var(--baseline)*0.25);
+    }
 
-            @media screen and (min-width: 980px){
-                display: inline-block;
-                vertical-align: top;
-                width: 46%;
-                &:first-of-type{ margin-right: 7%; }
-                &:nth-of-type(2){
-                    position: relative;
-                    left: 10px;
-                }
-            }
+    .tags {
+        @include tags-block-list();
+    }
 
-            @media screen and (max-width: 980px){
-                margin-top: calc(var(--baseline)*0.5);
-                margin-bottom: calc(var(--baseline)*2.5);
+    .more {
+        @include for-size(phone) {
+            width: 80px;
+            position: absolute;
+            right: -5px;
+            bottom: -30px;
+        }
+    }
 
-            }
-                
+}
 
-                svg {
-                    display: inline-block;
-                    width: 60px;
-                    fill: var(--color-3);
-                    @include for-size(desktop){
-                    margin-bottom: calc(var(--baseline)*1);
-                    }
-                }
 
-                h1{
-                    margin-top: calc(var(--baseline)*0.8);
-                    margin-left: 20px;
-                    vertical-align: top;
-                }
 
-                .date, .lieu{
-                    display: block;
-                    font-weight: 500;
-                    &:before{ display: none; }
-                }
+.highlights-actions article {
 
-                .instagram{
-                    text-transform: capitalize;
-                    @include trait(1px);
-                }
-                .date{
-                    margin-bottom: 0;
-                }
-                .summary{
-                    margin-top: calc(var(--baseline)*0.5);
-                }
+    @media screen and (min-width: 980px) {
+        display: inline-block;
+        vertical-align: top;
+        width: 46%;
 
-            }
+        &:first-of-type {
+            margin-right: 7%;
+        }
+
+        &:nth-of-type(2) {
+            position: relative;
+            left: 10px;
+        }
+    }
+
+    @media screen and (max-width: 980px) {
+        margin-top: calc(var(--baseline)*0.5);
+        margin-bottom: calc(var(--baseline)*2.5);
+
+    }
+
+
+    svg {
+        display: inline-block;
+        width: 60px;
+        fill: var(--color-3);
+
+        @include for-size(desktop) {
+            margin-bottom: calc(var(--baseline)*1);
+        }
+    }
+
+    h1 {
+        margin-top: calc(var(--baseline)*0.8);
+        margin-left: 20px;
+        vertical-align: top;
+    }
+
+    .date,
+    .lieu {
+        display: block;
+        font-weight: 500;
+
+        &:before {
+            display: none;
+        }
+    }
+
+    .instagram {
+        text-transform: capitalize;
+        @include trait(1px);
+    }
+
+    .date {
+        margin-bottom: 0;
+    }
+
+    .summary {
+        margin-top: calc(var(--baseline)*0.5);
+    }
+
+    .lieu span{
+        font-weight: normal;
+        font-size: var(--font-size-small);
+        padding-left: 6px;
+        top: -1px;
         
-    
+        a { 
+            @include trait-double-small();
+            color: var(--current-color);
+        }
+    }
+
+}

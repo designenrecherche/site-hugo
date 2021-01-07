@@ -99,19 +99,20 @@
           
           {{ if .Site.Data.biere_home.beer.enable }}
           {{ with .Site.Data.biere_home.beer }}
-          <article>
+          <article id="beer">
             <span aria-hidden="true">{{ partial "icons/beer.html" . | safeHTML}}</span>
             <h1>{{ .title }}</h1>
             <p class="date">{{  .date }}</p>
-            <p class="lieu">{{ .lieu }}</p>
-            <p class="summary">{{.summary}}</p>
+            <p class="lieu">{{ .lieu }}</p>           
+            <p class="summary">{{.summary}}</p>     
+            {{ if eq .visio true }}<a class="more" target="_blank" href="{{ .linkVisio }}">lien de la visio</a>{{ end }}     
           </article>
           {{ end }}
           {{ end }}
 
           {{ if .Site.Data.instagram_home.instagramresidence.enable }}
           {{ with .Site.Data.instagram_home.instagramresidence }}
-          <article>
+          <article id="instagram">
             <span aria-hidden="true">{{ partial "icons/insta-coeur.html" . | safeHTML}}</span>
             <h1>{{ .title }}</h1>
             <p class="summary">{{ .summary }}</p>  
