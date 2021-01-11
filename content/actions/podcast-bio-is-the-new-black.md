@@ -1,11 +1,11 @@
 +++
 category = "Partenariat"
+dateevent = 2020-01-31T17:00:41Z
 description = "Le podcast 📻 Bio Is The New Black 🦑 organise un dialogue enregistré en public entre Xavier Guchet et Anthony Masure. "
 descriptiontemp = ""
 documents = ""
 lieu = "CRI - Paris, Classroom 3.11  8 bis rue Charles V, 75004 Paris"
 publishDate = 2020-01-31T16:58:41Z
-dateevent = 2020-01-31T16:58:41Z
 tags = ["Partenariat", "Podcast", "Biologie"]
 time = "10h15"
 title = "Podcast : Bio is The New Black"
