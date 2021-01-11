@@ -4,11 +4,11 @@
       <p class="type">{{ .Params.category }}</p>
       <div>
         <p class="date">  
-          <time datetime="{{ .Date.Format "2006-01-02" | safeHTML }}">
+          <time datetime="{{ .Params.dateevent.Format "2006-01-02" | safeHTML }}">
           
-          {{ .Date.Day }}
-          {{ index $.Site.Data.mois (printf "%d" .Date.Month) }}
-          {{ .Date.Year }}<span class="horaire">, 
+          {{ .Params.dateevent.Day }}
+          {{ index $.Site.Data.mois (printf "%d" .Params.dateevent.Month) }}
+          {{ .Params.dateevent.Year }}<span class="horaire">, 
           {{ if .Params.time }}{{ .Params.time }}{{ end }}</time></span>
         </p>
         {{ if .Params.lieu }}<p class="lieu">{{ .Params.lieu }}</p>{{ end }}

@@ -8,6 +8,7 @@ descriptiontemp = "description temportaire"
 documents = ""
 lieu = "CRI, Centre de recherches Interdisciplinaires"
 publishDate = 2018-04-26T14:00:21Z
+dateevent = 2018-04-26T14:00:21Z
 tags = ["Atelier", "Plan de thèse", "Méthodologie"]
 time = "14h"
 title = "Atelier #1 : How to faire un plan de these"

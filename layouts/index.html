@@ -1,4 +1,16 @@
 {{ define "main" }}
+
+
+<input type="checkbox" id="input-popup" hidden>
+      <div id="popup">
+        <label for="input-popup">✕</label>
+        <img src="/images/pratique-de-la-recherche-en-design.jpg">
+        <ul>
+          <li><a href="/actions/de-la-scientificite-du-design-l-experience-du-faire-dans-le-processus-de-recherche/">Plus d'informations</a></li>
+          <li><a href="https://www.eventbrite.fr/e/billets-pratiques-de-la-recherche-en-design-1-135835637047">Inscription sur EventBrite</a></li>
+        </ul>
+      
+      </div>
  
 <div id="cache">
   <h1>Design en recherche</h1>
@@ -13,6 +25,7 @@
     <p class="contact">Contact: designenrecherche@gmail.com – <a href="https://www.helloasso.com/associations/design-en-recherche-le-reseau-des-jeunes-chercheurs-en-design">Adhérer</a></p> 
 </div> 
 <!-- document.getElementById("cache").style.display="none" -->
+
 
 
 
@@ -90,6 +103,8 @@
     {{ if .Site.Data.homepage.actions.enable }}
     <!-- Actions-->
     <section id="actions" class="section-home">
+
+
       <div class="container">
 
         <h1 class="section-title"><a href="{{ .Site.Data.homepage.actions.URL }}">{{ .Site.Data.homepage.actions.title }}</a></h1>

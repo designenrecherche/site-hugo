@@ -27,6 +27,10 @@ fields:
   hidden: false
 - name: publishDate
   default: Now
+  hidden: true
+  type: datetime
+- name: dateevent
+  default: Now
   label: Date de l'évènement
   hidden: false
   type: datetime

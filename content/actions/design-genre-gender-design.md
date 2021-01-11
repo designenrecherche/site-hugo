@@ -5,6 +5,7 @@ descriptiontemp = ""
 documents = "/images/aacdesignetgenre.pdf"
 lieu = "Télécom Paris, Institut Polytechnique de Paris"
 publishDate = 2015-11-19T09:00:25Z
+dateevent = 2015-11-19T09:00:25Z
 tags = [" genre", " cultural studies", "norme", "design"]
 time = "10h"
 title = "Design & genre | Gender & Design"

@@ -7,6 +7,7 @@ description = ""
 documents = ""
 lieu = "Les grands voisins – Paris, France"
 publishDate = 2017-02-12T21:00:00Z
+dateevent = 2017-02-12T21:00:00Z
 time = "10h"
 title = "Situations graphiques"
 type_page = "actions"

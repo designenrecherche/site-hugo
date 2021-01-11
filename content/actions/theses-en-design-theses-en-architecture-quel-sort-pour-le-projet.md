@@ -5,6 +5,7 @@ descriptiontemp = ""
 documents = ""
 lieu = "ENSAD, Amphi Bachelier, 31 Rue d'Ulm, 75240 Paris"
 publishDate = 2015-03-02T13:52:20Z
+dateevent = 2015-03-02T13:52:20Z
 tags = ["Journée d'étude", "Projet", "Thèse en design", "Thèse en architecture", "Disciplines du projet"]
 time = "9h"
 title = "Thèses en design, thèses en architecture : quel sort pour le projet ?"

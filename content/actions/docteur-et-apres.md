@@ -8,6 +8,7 @@ descriptiontemp = "description temportaire"
 documents = ""
 lieu = "Gaîté Lyrique, 3 bis rue Papin 75003 Paris"
 publishDate = 2019-03-14T19:00:32Z
+dateevent = 2019-03-14T19:00:32Z
 tags = ["doctorat", "post-doctorat", "thèse", "profession"]
 time = "18h"
 title = "Docteur, et après ?"

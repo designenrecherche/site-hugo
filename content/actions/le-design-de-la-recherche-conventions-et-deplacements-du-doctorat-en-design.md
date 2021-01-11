@@ -5,6 +5,7 @@ descriptiontemp = ""
 documents = ""
 lieu = ""
 publishDate = 2015-05-27T07:40:28Z
+dateevent = 2015-05-27T07:40:28Z
 tags = ["thèse de doctorat", "norme", "format", "édition", "recherche en design", "publication"]
 time = "."
 title = "Le design de la recherche : conventions et déplacements du doctorat en design"

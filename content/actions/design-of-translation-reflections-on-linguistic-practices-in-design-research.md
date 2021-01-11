@@ -5,6 +5,7 @@ descriptiontemp = ""
 documents = ""
 lieu = ""
 publishDate = 2019-09-03T08:03:46Z
+dateevent = 2019-09-03T08:03:46Z
 tags = ["traduction", "linguistique", "format", "accessibilité de la recherche", "recherche en design", "épistémologie", "publication"]
 time = "."
 title = "Design of Translation: Reflections on Linguistic Practices in Design Research"

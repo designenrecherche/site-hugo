@@ -4,13 +4,17 @@ description = "Design en Recherche lance son cycle de conférence « Pratiques d
 descriptiontemp = ""
 documents = ""
 lieu = "En ligne"
-publishDate = 2021-01-21T17:00:15Z
+dateevent = 2021-01-21T18:00:15Z
+publishDate = 2021-01-10T17:00:15Z
 tags = ["design ", "recherche", "sciences"]
 time = "18h"
 title = "De la scientificité du design : l’expérience du faire dans le processus de recherche"
 type_page = "actions"
 
 +++
+
+
+
 En tant qu’”in-discipline”, la recherche en design interroge les codes de la recherche universitaire — sujets, formes, pratiques de recherche, etc. Se trouve au cœur de ces travaux de recherche, l’expérience du “faire”. Dans cette première conférence du cycle de conférences _Pratiques de la recherche en design_,nos intervenant.e.s s’appuieront sur leurs travaux de recherche afin d’interroger le lien entre science, design et création artistique. Docteur.e.s (ou presque), ils reviendront sur leurs expériences.
 
 **Marguerite Benony**
@@ -34,6 +38,8 @@ avec le soutien de l'EUR ArTeC
 * La conférence sera enregistrée et diffusée ultérieurement.
 * Attention, le nombre de place est limité. Les places sont réservées en priorité aux membres de l'association Design en Recherche et aux doctorant·es de l'EUR ArTeC.
 
+
+
 ## Le cycle de conférence « Pratiques de la recherche en design »
 
 Avec le cycle de conférence « Pratiques de la recherche en design », l'association Design en Recherche propose de montrer la recherche en train de se faire. Quelles questions les doctorant·es et jeunes chercheur·euses en design se posent-ils aujourd'hui ? Quels thématiques et enjeux animent leurs travaux ? Comment leurs expériences de designers est-elle intégrée au travail théorique, et vice-versa ?
@@ -43,3 +49,5 @@ La recherche en design est une discipline récente dont la reconnaissance instit
 En nous appuyant sur les pratiques singulières engagées par les chercheur·euses de notre milieu, nous aimerions rendre compte de la diversité des problématiques posées et des méthodologies propres à la recherche en design. Il s‘agit également de montrer les différentes manières dont le travail des designers est intégré à la dynamique universitaire. En invitant ces chercheur·euses à témoigner, nous souhaitons ouvrir des espaces de réflexions autour de thématiques qui nous animent et nous semblent indispensables à aborder dans la société d'aujourd'hui.
 
 Ce projet est destiné à un public aux profils multiples. D’abord aux jeunes chercheur·euses qui pourront bénéficier par ces conférences d’un espace de travail et de discussion ouvert. Mais aussi aux professionnel·les du milieu, aux enseignant·es et aux publics non initiés qui y trouveront des démonstrations variées de la recherche universitaire en design.
+
+![](/images/pratique-de-la-recherche-en-design.jpg)

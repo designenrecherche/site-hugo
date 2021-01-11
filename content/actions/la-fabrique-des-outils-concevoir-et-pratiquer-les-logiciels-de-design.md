@@ -5,6 +5,7 @@ descriptiontemp = ""
 documents = ""
 lieu = "ENSCI, Salle Viénot 2, 48 Rue St Sabin, 75011 Paris"
 publishDate = 2016-04-15T12:22:08Z
+dateevent = 2016-04-15T12:22:08Z
 tags = ["journée d'étude ", "outils", "logiciels de design", "logiciels libres"]
 time = "9h"
 title = "La fabrique des outils : concevoir et pratiquer les logiciels de design"

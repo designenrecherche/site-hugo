@@ -185,3 +185,59 @@
     }
 
 }
+
+
+
+#popup{
+    --curent-color: var(--color-3);
+    color: var(--color-3);
+    position: fixed;
+    top: 30px;
+    right: 30px;
+    background-color: white;
+    z-index: 9999;
+    border: 2px solid var(--color-3);
+    padding: 30px;
+    width: 400px;
+    transition: right .2s;
+    label{
+        position: absolute;
+        right: 30px;
+        text-align: right; 
+        margin-bottom: 20px;
+    }
+    img{ 
+        width: 100%;
+        margin-top: 60px;
+        margin-bottom: 30px;
+    }
+    ul li {
+        @include trait(2px);
+        color: var(--color-3);
+    }
+    ul li a {
+        color: var(--color-3);
+        @include links();
+        color: var(--color-3);
+    }
+
+    @include for-size(phone) {
+        position: relative;
+        width: 100%;
+        left: 0px;
+        z-index: 10;
+        img {
+            
+            // width: 60%;
+            margin: 0 auto;
+            margin-bottom: 20px;
+        }
+    }
+
+
+}
+
+
+#input-popup:checked ~ #popup {
+    right: -600px;
+}

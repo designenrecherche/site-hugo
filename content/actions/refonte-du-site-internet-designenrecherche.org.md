@@ -5,6 +5,7 @@ descriptiontemp = "Notre site se refait une beauté, on revient très vite :)  E
 documents = ""
 lieu = ""
 publishDate = 2020-10-15T12:34:01Z
+dateevent = 2020-10-15T12:34:01Z
 tags = ["RDV Asso", "UX", "UI", "Chantier interne", "Identité"]
 time = "18h"
 title = "Refonte du site internet designenrecherche.org "

@@ -5,6 +5,7 @@ descriptiontemp = ""
 documents = ""
 lieu = ""
 publishDate = 2019-06-03T12:14:42Z
+dateevent = 2019-06-03T12:14:42Z
 tags = ["RDV Asso ", "Réseaux sociaux", "Résidence", "Instagram", "Slack", "Drive"]
 time = "18h"
 title = "Outils d'animation de l'association Design en Recherche"

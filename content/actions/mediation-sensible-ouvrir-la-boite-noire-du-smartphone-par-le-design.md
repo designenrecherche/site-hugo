@@ -5,6 +5,7 @@ descriptiontemp = ""
 documents = ""
 lieu = "Orange Gardens, Châtillon, France"
 publishDate = 2019-12-06T12:51:41Z
+dateevent = 2019-12-06T12:51:41Z
 tags = ["Dispositif tangible", "Probes", "Désopacification", "Médiation sensible", "Smartphone", "Design ludique", "Soutenance"]
 time = "9h"
 title = "Médiation sensible : ouvrir la boîte noire du smartphone par le design"

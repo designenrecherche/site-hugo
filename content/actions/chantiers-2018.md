@@ -7,6 +7,7 @@ description = ""
 documents = ""
 lieu = "CRI, Tour Montparnasse, Paris"
 publishDate = 2018-01-12T21:00:40Z
+dateevent = 2018-01-12T21:00:40Z
 tags = ["Organisation", "Chantier interne", "RDV asso"]
 time = "14h"
 title = "Chantiers 2018"

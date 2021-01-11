@@ -5,6 +5,7 @@ descriptiontemp = ""
 documents = ""
 lieu = "UTC, Compiègne, France"
 publishDate = 2019-07-04T11:57:18Z
+dateevent = 2019-07-04T11:57:18Z
 tags = ["Interaction", "Expérience vécue", "Relation", "Perception", "Dynamique interpersonnelle", "Soutenance"]
 time = "14h"
 title = "Designer les interactions humain-monde pour susciter des émotions positives : application à l’automobile"

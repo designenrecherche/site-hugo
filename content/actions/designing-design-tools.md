@@ -5,6 +5,7 @@ descriptiontemp = ""
 documents = ""
 lieu = "INRIA, Paris - Saclay, France"
 publishDate = 2017-12-11T13:47:09Z
+dateevent = 2017-12-11T13:47:09Z
 tags = ["Interaction humain-machine", " Design graphique", "Outils de support de la créativité", "Soutenance"]
 time = "14h"
 title = "Designing Design Tools"

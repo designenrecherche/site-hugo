@@ -5,6 +5,7 @@ descriptiontemp = ""
 documents = ""
 lieu = ""
 publishDate = 2015-05-27T08:00:00Z
+dateevent = 2015-05-27T08:00:00Z
 tags = ["méthodologie", "recherche en design", "modèle", "réduction en art", "recherche-projet", "publication"]
 time = "."
 title = "Méthodologies de recherche et design : un instantané des pratiques de recherche employées au sein d’un réseau de jeunes chercheurs"

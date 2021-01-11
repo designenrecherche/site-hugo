@@ -5,6 +5,7 @@ descriptiontemp = ""
 documents = ""
 lieu = "Carrefour numérique, Cité des sciences et de l’industrie, 30 Avenue Corentin Cariou, 75019 Paris"
 publishDate = 2016-06-14T22:00:00Z
+dateevent = 2016-06-14T22:00:00Z
 tags = ["techniques d'inscription", "journée d'étude", "organisation"]
 time = "10h"
 title = "Matière à réflexion, les techniques d’inscription comme objet du design"

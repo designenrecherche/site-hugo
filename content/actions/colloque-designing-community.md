@@ -5,6 +5,7 @@ descriptiontemp = ""
 documents = ""
 lieu = "Espace Niemeyer, 2 Place du Colonel Fabien, 75019 Paris"
 publishDate = 2019-04-19T16:06:25Z
+dateevent = 2019-04-19T16:06:25Z
 tags = ["Partenariat", "Colloque", "Communauté", "Processus", "Communs"]
 time = "9h"
 title = "Colloque : Designing community"

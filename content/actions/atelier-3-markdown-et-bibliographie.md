@@ -5,6 +5,7 @@ descriptiontemp = ""
 documents = ""
 lieu = "CRI, 8 bis Rue Charles V, 75004 Paris"
 publishDate = 2019-06-18T13:14:33Z
+dateevent = 2019-06-18T13:14:33Z
 tags = ["Atelier", "Markdown", "Redaction", "Bibliographie", "Outils"]
 time = "14h"
 title = "Atelier #3 : Markdown et bibliographie"

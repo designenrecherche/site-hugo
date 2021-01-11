@@ -8,6 +8,7 @@ descriptiontemp = ""
 documents = ""
 lieu = "Université de Strasbourg"
 publishDate = 2017-04-26T08:00:12Z
+dateevent = 2017-04-26T08:00:12Z
 tags = ["Conception", "fictions", "corps", "hybrides", "biodesign", "technologies", "écart", "environnement", "politique"]
 time = "10h"
 title = "Conception, Corps et Fiction"

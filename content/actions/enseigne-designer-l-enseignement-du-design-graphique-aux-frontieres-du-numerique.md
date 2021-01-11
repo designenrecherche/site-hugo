@@ -5,6 +5,7 @@ descriptiontemp = ""
 documents = ""
 lieu = "EHESS, 54 Boulevard Raspail, 75006 Paris"
 publishDate = 2015-05-07T12:34:46Z
+dateevent = 2015-05-07T12:34:46Z
 tags = ["journée d'étude", "enseignement", "design graphique", "numérique", "écoles d'art et de design"]
 time = "9h"
 title = "Enseigne/Designer : l’enseignement du design graphique aux frontières du numérique"
