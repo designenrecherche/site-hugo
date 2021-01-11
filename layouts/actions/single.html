@@ -16,9 +16,9 @@
             <p class="date">  
               <time>
               
-              {{ .Params.dateevent.Day }}
-              {{ index $.Site.Data.mois (printf "%d" .Params.dateevent.Month) }}
-              {{ .Params.dateevent.Year }}<span class="horaire">, 
+                {{ .Date.Day }}
+          {{ index $.Site.Data.mois (printf "%d" .Date.Month) }}
+          {{ .Date.Year }}<span class="horaire">, 
               {{ if .Params.time }}{{ .Params.time }}{{ end }}</time></span>
             </p>
             {{ if .Params.lieu }}<p class="lieu">{{ .Params.lieu }}</p>{{ end }}
@@ -54,6 +54,14 @@
           <p class="publish-date">Publié le {{ .PublishDate.Format "Jan 02, 2006" }}</span></p>
     </div>
   </section>
+
+  <script>
+    window.onload = function(){ 
+      let date = document.getElementsByTagName("time")[0];
+      date.innerHTML = "<time>21 janvier 2021, 18h</time>"
+      console.log(date)
+    }
+  </script>
 
 </div>
 {{ end }}

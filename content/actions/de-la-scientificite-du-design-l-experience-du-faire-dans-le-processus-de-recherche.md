@@ -12,6 +12,9 @@ title = "De la scientificité du design : l’expérience du faire dans le proce
 type_page = "actions"
 
 +++
+
+**21 janvier 2021, 18h**
+
 En tant qu’”in-discipline”, la recherche en design interroge les codes de la recherche universitaire — sujets, formes, pratiques de recherche, etc. Se trouve au cœur de ces travaux de recherche, l’expérience du “faire”. Dans cette première conférence du cycle de conférences _Pratiques de la recherche en design_,nos intervenant.e.s s’appuieront sur leurs travaux de recherche afin d’interroger le lien entre science, design et création artistique. Docteur.e.s (ou presque), ils reviendront sur leurs expériences.
 
 **Marguerite Benony**
