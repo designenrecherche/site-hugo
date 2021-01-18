@@ -1,5 +1,5 @@
 +++
-etablissement = "Université de Nîmes, EA PROJEKT 7447"
+etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"
 membre_actif = false
 photo = "/images/bgisclard-2020.png"
 section_cnu = "23 Géographie physique, humaine, économique et régionale"
