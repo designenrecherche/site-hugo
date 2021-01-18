@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
@@ -94,15 +93,3 @@ Adrien est doctorant au Centre for IT and Architecture (Royal Danish Academy) et
 Adrien is a Ph.D. researcher at the Centre for IT and Architecture (Royal Danish Academy) and President-Founder of the NGO design studio thr34d5.
 
 {{% /lang %}}
-
-# Soutenance de thèse
-
-**Date** – lieu
-
-Pour en savoir plus: [lien vers article de design en recherche]()
-
-## Composition du jury
-
-* **Prénom nom**, laboratoire de ratachement (rapporteur)
-* **Prénom nom**, laboratoire de ratachement
-* **Prénom nom**, laboratoire de ratachement
