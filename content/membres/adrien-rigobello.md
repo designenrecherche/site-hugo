@@ -2,7 +2,7 @@
 etablissement = "Center for IT and Architecture (CITA), Royal Danish Academy"
 membre_actif = true
 photo = "/images/iaac-osr-cropped.jpg"
-section_cnu = "18 Architecture"
+section_cnu = ""
 tags = ["Fungi", "Vernacular", "Material semiotics", "Architectural theory", "Mycélium", "Vernaculaire", "Sémiotique", "Théorie de l'architecture"]
 these_end = 0
 these_soutenue = false
