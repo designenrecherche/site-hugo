@@ -8,7 +8,7 @@ these_end = 0
 these_soutenue = false
 these_start = 2017
 title = "Karen Polesello"
-titrethese = " thèse suivante L'innovation pédagogique par le design en milieu élémentaire : la pratique comme nouvelle forme d'apprentissage."
+titrethese = "L'innovation pédagogique par le design en milieu élémentaire : la pratique comme nouvelle forme d'apprentissage."
 titretheseEn = "Educational innovation through design in elementary school : learning by doing."
 type_page = "membres"
 url_hal = ""
@@ -56,7 +56,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
