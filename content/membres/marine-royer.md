@@ -1,5 +1,5 @@
 +++
-etablissement = "Université de Nîmes, laboratoire PROJEKT (EA 7447)"
+etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"
 membre_actif = false
 photo = "/images/unnamed-2.jpg"
 section_cnu = "18 Esthétique"
