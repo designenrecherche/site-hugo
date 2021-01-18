@@ -1,5 +1,5 @@
 +++
-etablissement = "Unîmes, groupe Projekt. Orange Labs, Sense."
+etablissement = "Unîmes, groupe Projekt / Orange Labs, Sense."
 membre_actif = true
 photo = "/images/img_8790.jpg"
 section_cnu = "71 Sciences de l'information et de la communication"
