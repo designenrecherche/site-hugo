@@ -348,6 +348,7 @@ fields:
     hidden: false
     default: ''
 pages:
+- content/membres/adrien-rigobello.md
 - content/membres/alice-martin.md
 - content/membres/anne-charlotte-baudequin.md
 - content/membres/anne-lise-rias.md
