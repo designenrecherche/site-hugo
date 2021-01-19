@@ -13,9 +13,15 @@ type_page = "actions"
 
 +++
 
-**21 janvier 2021, 18h**
+
 
 En tant qu’”in-discipline”, la recherche en design interroge les codes de la recherche universitaire — sujets, formes, pratiques de recherche, etc. Se trouve au cœur de ces travaux de recherche, l’expérience du “faire”. Dans cette première conférence du cycle de conférences _Pratiques de la recherche en design_,nos intervenant.e.s s’appuieront sur leurs travaux de recherche afin d’interroger le lien entre science, design et création artistique. Docteur.e.s (ou presque), ils reviendront sur leurs expériences.
+
+- **Live youtube** : [https://www.youtube.com/channel/UCIGwUDEA2gPZ0dZ2m85xNfA](https://www.youtube.com/channel/UCIGwUDEA2gPZ0dZ2m85xNfA)
+- **Framapad (pour questions)**: [https://hebdo.framapad.org/p/design-en-recherche-21janvier-9lax?lang=fr](https://hebdo.framapad.org/p/design-en-recherche-21janvier-9lax?lang=fr) 
+
+
+# Intervenant·es
 
 **Marguerite Benony**
 
@@ -32,15 +38,11 @@ Emile De Visscher est ingénieur, designer et chercheur en design. Il a réalis�
 Organisation et modération: Marion Voillot,  
 avec le soutien de l'EUR ArTeC
 
-**Inscription sur eventbrite** :  [https://www.eventbrite.fr/e/billets-pratiques-de-la-recherche-en-design-1-135835637047](https://www.eventbrite.fr/e/billets-pratiques-de-la-recherche-en-design-1-135835637047 "https://www.eventbrite.fr/e/billets-pratiques-de-la-recherche-en-design-1-135835637047") (nombre de place limité à 50 personnes)
-
-* La confirmation de l'inscription et le lien de la visio-conférence vous seront envoyé le 20 janvier.
-* La conférence sera enregistrée et diffusée ultérieurement.
-* Attention, le nombre de place est limité. Les places sont réservées en priorité aux membres de l'association Design en Recherche et aux doctorant·es de l'EUR ArTeC.
+*La conférence sera enregistrée et diffusée ultérieurement. Contrairement à ce qui était prévu au départ, il n'y a pas besoin d'inscription pour assister à l'évènement.*
 
 
 
-## Le cycle de conférence « Pratiques de la recherche en design »
+# Le cycle de conférence « Pratiques de la recherche en design »
 
 Avec le cycle de conférence « Pratiques de la recherche en design », l'association Design en Recherche propose de montrer la recherche en train de se faire. Quelles questions les doctorant·es et jeunes chercheur·euses en design se posent-ils aujourd'hui ? Quels thématiques et enjeux animent leurs travaux ? Comment leurs expériences de designers est-elle intégrée au travail théorique, et vice-versa ?
 

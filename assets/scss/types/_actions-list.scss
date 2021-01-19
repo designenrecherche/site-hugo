@@ -189,7 +189,7 @@
 
 
 #popup{
-    --curent-color: var(--color-3);
+    --curent-color: var(--color-3)!important;
     color: var(--color-3);
     position: fixed;
     top: 30px;
@@ -211,15 +211,46 @@
         margin-top: 60px;
         margin-bottom: 30px;
     }
+
+    h1 {
+        font-weight: 500;
+        font-size: var(--font-size);
+        display: inline-block;
+        color: var(--color-3);
+        font-size: var(--font-size);
+        line-height: calc(var(--baseline)*1);
+        font-weight: 500;
+        margin-bottom: calc(var(--baseline)*1);
+        display: inline-block;
+    @include title();
+    margin-top: 0;
+    color: var(--color-3);
+    max-width: 70%;
+    text-wrap: balance;
+
+        // a {
+            
+        // }
+
+        // &:hover::after {
+        //     transform: rotate(0deg);
+        // }
+    }
+
     ul li {
         @include trait(2px);
         color: var(--color-3);
     }
     ul li a {
-        color: var(--color-3);
         @include links();
-        color: var(--color-3);
+        color: var(--curent-color)!important;
+        border-bottom: 1px dotted var(--color-3)!important;
+        &:hover {
+            border-bottom: 1px solid var(--color-3)!important;
+        }
     }
+    p{ margin-bottom: var(--baseline); }
+    // p + p{ margin-top: calc(var(--baseline) * -0.5) }
 
     @include for-size(phone) {
         position: relative;
