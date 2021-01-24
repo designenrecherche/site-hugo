@@ -26,11 +26,11 @@
 
       <div class="bandeau">       
           <div class="dates-these">
-                <p class="these-start">{{ if .Params.these_start }}{{ .Params.these_start }}{{ end }}</p> 
-                <p class="these-end">{{ if .Params.these_soutenue }}{{ .Params.these_end }}{{ end }}</p>
+            {{ if .Params.these_start }}<p class="these-start">{{ .Params.these_start }}</p> {{ end }}
+                {{ if .Params.these_soutenue }}<p class="these-end">{{ .Params.these_end }}</p>{{ end }}
             </div>
-        <p class="these-cnu">{{ if .Params.section_cnu }}{{ .Params.section_cnu }}{{ end }}</p>
-        <p class="these-etablissement">{{ if .Params.etablissement }}{{ .Params.etablissement }}{{ end }}</p>
+            {{ if .Params.section_cnu }} <p class="these-cnu">{{ .Params.section_cnu }}</p>{{ end }}
+            {{ if .Params.etablissement }}<p class="these-etablissement">{{ .Params.etablissement }}</p>{{ end }}
      
     </div>
    
