@@ -13,14 +13,13 @@
         <h1>{{.Title | safeHTML }}</h3>
           
           <div>
-            <p class="date">  
-              <time>       
-                {{ if .Params.dateevent }}{{ .Params.dateevent.Day }} {{ index $.Site.Data.mois (printf "%d" .Params.dateevent.Month) }} {{ .Params.dateevent.Year }}
-                {{ else }}
-                {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
-                {{ end }}{{ if .Params.time }}<span class="horaire">, {{ .Params.time }}</span>{{ end }}
-              </time>
-            </p>
+            <p class="date">      
+              {{ if .Params.dateevent }}
+              <time class="time-change">{{ .Params.dateevent }}</time>
+              {{ else }}
+              {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+              {{ end }}{{ if .Params.time }}<span class="horaire">, {{ .Params.time }}</span>{{ end }}
+          </p>
             {{ if .Params.lieu }}<p class="lieu">{{ .Params.lieu }}</p>{{ end }}
             </div>
 
