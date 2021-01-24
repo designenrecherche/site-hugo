@@ -4,12 +4,12 @@
       <p class="type">{{ .Params.category }}</p>
       <div>
         <p class="date">  
-          <time>
-          
-            {{ .Date.Day }}
-            {{ index $.Site.Data.mois (printf "%d" .Date.Month) }}
-            {{ .Date.Year }}<span class="horaire">, 
-          {{ if .Params.time }}{{ .Params.time }}{{ end }}</time></span>
+          <time>       
+            {{ if .Params.dateevent }}{{ .Params.dateevent.Day }} {{ index $.Site.Data.mois (printf "%d" .Params.dateevent.Month) }} {{ .Params.dateevent.Year }}
+            {{ else }}
+            {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+            {{ end }}{{ if .Params.time }}<span class="horaire">, {{ .Params.time }}</span>{{ end }}
+          </time>
         </p>
         {{ if .Params.lieu }}<p class="lieu">{{ .Params.lieu }}</p>{{ end }}
         </div>
@@ -26,11 +26,3 @@
       <a class="more" href="{{.Permalink}}">Voir plus</a>
   </article>
 
-  <script>
-    window.onload = function(){ 
-      let post = document.getElementsByClassName("post-actions")[0];
-      let date = post.getElementsByClassName("date")[0];
-      date.innerHTML = "<time>21 janvier 2021, 18h</time>"
-      console.log(date)
-    }
-  </script>
