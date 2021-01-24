@@ -1,6 +1,7 @@
 +++
 etablissement = "université Rennes 2, PTAC / Sciences Po, médialab"
 membre_actif = true
+name = "demourat"
 photo = "/images/de-mourat-robin.png"
 section_cnu = "18 Esthétique"
 tags = ["Design", "Sciences humaines et sociales", "Édition", "Écriture", "Multimodalité"]

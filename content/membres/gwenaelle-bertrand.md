@@ -1,6 +1,7 @@
 +++
 etablissement = "Université de Strasbourg, Laboratoire ACCRA (Approches Contemporaines de la Création et de la Réflexion Artistiques), équipe EA 3402"
 membre_actif = false
+name = "bertrand"
 photo = "/images/bertrand-gwenaelle.png"
 section_cnu = "18 Esthétique"
 tags = ["Desin critique", "Crise", "déplacement", "espacement", "désadaptation", "hybridation", "fragment", "préférable", "corps", "dispositif", "protoforme", "prothèse", "dysfonction"]

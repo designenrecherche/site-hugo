@@ -7,29 +7,52 @@
 
       <h2>Bureau </h2>
 
-      {{ range .Data.Pages }}
+        <!-- Président•e-->
+
+        {{ range .Pages }}
         {{ if .Params.membre_bureau }}
+        {{ if  or (eq .Params.bureau  "Présidente") (eq .Params.bureau  "Président")  }}
         {{ .Render "post" }}
         {{ end }}
         {{ end }}
+        {{ end }}
+
+         <!-- Bureau -->
+        {{ range .Pages.ByParam "name" }}
+        {{ if .Params.membre_bureau }}
+        {{ if  not (or (eq .Params.bureau  "Présidente") (eq .Params.bureau  "Président"))  }}
+        {{ .Render "post" }}
+        {{ end }}
+        {{ end }}
+        {{ end }}
+
 
         <h2>Membres actifs </h2>
 
-        {{ range .Data.Pages }}
-        {{ if .Params.membre_actif }}
-        {{ if not .Params.membre_bureau }}
+        <div>
+
+        {{ range .Pages.ByParam "name" }}
+        {{ if and (.Params.membre_actif) (not .Params.membre_bureau) }}
         {{ .Render "post" }}
         {{ end }}
         {{ end }}
-        {{ end }}
 
+      </div>
+
+  
         <h2>Anciens membres </h2>
+
+        <div>
      
-        {{ range .Data.Pages }}
+        {{ range .Pages.ByParam "name" }}
         {{ if not .Params.membre_actif }}
         {{ .Render "post" }}
         {{ end }}
         {{ end }}
+
+      </div>
+
+
       </div>
 
 {{ end }}

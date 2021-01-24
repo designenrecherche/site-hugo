@@ -1,6 +1,7 @@
 +++
 etablissement = "Télécom Paristech, Institut Polytechnique de Paris"
 membre_actif = true
+name = "brule"
 photo = "/images/brule-emeline.png"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["Objets connectés", "Cartes", "Handicap", "Santé", "Design", "Design participatif", "Tournant sensoriel"]

@@ -1,6 +1,7 @@
 +++
 etablissement = "Université Bordeaux Montaigne, MICA, Axe IDEM"
 membre_actif = true
+name = "harmand"
 photo = "/images/default-profil.jpg"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["Sciences de l'hommes et des humanités"]

@@ -1,6 +1,7 @@
 +++
 etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"
 membre_actif = false
+name = "gisclard"
 photo = "/images/bgisclard-2020.png"
 section_cnu = "23 Géographie physique, humaine, économique et régionale"
 tags = ["Risques", "Crues rapides", "Innovation sociale", "Territoire", "Capacitation"]

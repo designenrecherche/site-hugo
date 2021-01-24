@@ -1,6 +1,7 @@
 +++
 etablissement = "EHESS Paris & LIAS, Institut Marcel Mauss (Paris)"
 membre_actif = false
+name = "renon"
 photo = "/images/renon-anne-lyse.png"
 section_cnu = "18 Esthétique"
 tags = ["design", "anthropologie ", "épistémologie"]

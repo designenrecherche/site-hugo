@@ -1,6 +1,7 @@
 +++
 etablissement = "Université Toulouse - Jean Jaurès, LLA CREATIS, LAAS-CNRS"
 membre_actif = true
+name = "rigot"
 photo = "/images/default-profil.jpg"
 section_cnu = "18 Arts appliqués"
 tags = ["Sciences humaines et humanités"]

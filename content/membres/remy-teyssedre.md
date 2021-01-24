@@ -1,6 +1,7 @@
 +++
 etablissement = "Paris Seine Graduate School Humanités, Création et Patrimoine, LAREP Laboratoire de recherche en projet de paysage"
 membre_actif = true
+name = "teyssedre"
 photo = "/images/imageannuaire.jpg"
 section_cnu = "24 Aménagement de l'espace, urbanisme"
 tags = ["Paysage", "Design", "Outil", "Participation", "Territoire", "Ingénierie", "Territoriale"]

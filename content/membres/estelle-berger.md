@@ -1,6 +1,7 @@
 +++
 discipline = ""
 type_page = "membres"
+name = "berger"
 membre_actif = false
 etablissement = "Toulouse Jean Jaurès, LARA - Laboratoire de Recherche en Arts"
 etablissement_s___laboratoire_s_ = "Toulouse Jean Jaurès, LARA - Laboratoire de Recherche en Arts"

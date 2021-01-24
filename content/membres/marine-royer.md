@@ -1,6 +1,7 @@
 +++
 etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"
 membre_actif = false
+name = "royze"
 photo = "/images/unnamed-2.jpg"
 section_cnu = "18 Esthétique"
 tags = ["Objet biotechnologique", "Dispositif médical", "Cancer", "Ajustement", "Incorporation", "Éducation thérapeutique du patient", "Instrument", "Prothèse", "Design", "Ethnographie"]

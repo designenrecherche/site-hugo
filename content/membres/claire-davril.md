@@ -1,6 +1,7 @@
 +++
 etablissement = "Université de Strasbourg, ACCRA"
 membre_actif = true
+name = "davril"
 photo = "/images/default-profil.jpg"
 section_cnu = "18 Sciences de l'art"
 tags = []

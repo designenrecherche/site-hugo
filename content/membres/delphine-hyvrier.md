@@ -1,6 +1,7 @@
 +++
 etablissement = "Université Jean Monnet - Saint-Étienne, CIEREC & ESADSE, laboratoire DDL"
 membre_actif = true
+name = "hyvrier"
 photo = "/images/default-profil.jpg"
 section_cnu = "18 Arts appliqués"
 tags = ["Sciences humaines et sociales"]

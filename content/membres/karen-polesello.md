@@ -1,6 +1,7 @@
 +++
 etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"
 membre_actif = true
+name = "polesello"
 photo = "/images/default-profil.jpg"
 section_cnu = "18 Arts appliqués"
 tags = ["Créativité", "Méthodologie", "Apprentissage", "Innovation"]

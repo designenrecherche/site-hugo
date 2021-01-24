@@ -1,6 +1,7 @@
 +++
 etablissement = "Université Paris-Saclay, STIC"
 membre_actif = true
+name = "maudet"
 photo = "/images/maudet-nolwenn.png"
 section_cnu = "27 Informatique"
 tags = ["Interaction humain-machine", "Design graphique", "Outils de support de la créativité", "Systèmes homme-machine", "Design interactif", "Arts graphiques", "Conception assistée par ordinateur"]

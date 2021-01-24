@@ -1,6 +1,7 @@
 +++
 etablissement = "ENSA Paris-Malaquais, Laboratoire GSA / TU Darmstadt, Digital Design Unit"
 membre_actif = true
+name = "gaudillere"
 photo = "/images/nadja_gaudilliere_415x415.jpg"
 section_cnu = "18 Architecture"
 tags = ["architecture computationnelle", "algorithmes", "processus de conception architectural", "savoir-faire", "calculabilité", "épistémologie de l’architecture"]

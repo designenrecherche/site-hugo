@@ -1,6 +1,7 @@
 +++
 etablissement = "Lab4Living, Sheffield Hallam University, UK"
 membre_actif = false
+name = "bec"
 photo = "/images/remibec.jpg"
 section_cnu = "18 Arts appliqués"
 tags = ["design research", "research-through-design", "interdisciplinary", "health", "user-centered", "physical activity", "exergames", "games for health", "serious games"]

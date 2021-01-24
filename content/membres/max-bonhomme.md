@@ -1,6 +1,7 @@
 +++
 etablissement = "Université Gustave-Eiffel, Champs-sur-Marne, Laboratoire Littératures, Savoirs et Arts (LISAA)."
 membre_actif = false
+name = "bonhomme"
 photo = "/images/bonhomme-max.jpg"
 section_cnu = "22 Histoire de l'art"
 tags = ["Histoire de la photographie", "Histoire de la presse illustrée", "Culture visuelle", "Iconographie politique", "histoire du design graphique"]

@@ -1,6 +1,7 @@
 +++
 etablissement = "TEAMeD, EDESTA, PARIS VIII"
 membre_actif = false
+name = "aucompte"
 photo = "/images/default-profil.jpg"
 section_cnu = "18 Esthétique"
 tags = []

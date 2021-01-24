@@ -1,6 +1,7 @@
 +++
 etablissement = " Université de Technologie de Troyes, Institut Charles Delaunay (CNRS), Équipe Tech-CICO / EnsadLab"
 membre_actif = true
+name = "daanen"
 photo = "/images/default-profil.jpg"
 section_cnu = ""
 tags = []

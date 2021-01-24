@@ -1,6 +1,7 @@
 +++
 etablissement = "IRCAM-STMS"
 membre_actif = true
+name = "voillot"
 membre_bureau = true
 bureau = "Secrétaire"
 photo = "/images/unnamed.jpg"

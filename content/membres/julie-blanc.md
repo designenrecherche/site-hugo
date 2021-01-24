@@ -1,6 +1,7 @@
 +++
 etablissement = "EUR ArTeC / Université Paris 8 - EA349 / EnsadLab"
 membre_actif = true
+name = "blanc"
 membre_bureau = true
 bureau = "Trésorière"
 photo = "/images/julie-blanc.jpg"

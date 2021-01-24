@@ -1,6 +1,7 @@
 +++
 etablissement = "Centrale Nantes, ELICC"
 membre_actif = true
+name = "deuff"
 photo = "/images/default-profil.jpg"
 section_cnu = "16 Psychologie"
 tags = []

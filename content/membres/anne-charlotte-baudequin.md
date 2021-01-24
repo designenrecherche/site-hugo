@@ -1,6 +1,7 @@
 +++
 etablissement = "Université Toulouse-Jean Jaurès, ALLPH@, LARA-SEPPIA"
 membre_actif = true
+name = "baudequin"
 photo = "/images/default-profil.jpg"
 section_cnu = "18 Sciences de l'art"
 tags = ["Sciences humaines", "Humanités"]

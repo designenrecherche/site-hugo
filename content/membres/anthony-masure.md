@@ -1,6 +1,7 @@
 +++
 etablissement = "Université Paris1, Panthéon-Sorbonne  – UFR Arts Plastiques"
 membre_actif = false
+name = "masure"
 photo = "/images/img_0157_1.jpg"
 section_cnu = "18 Esthétique"
 tags = ["algorithme", "appareil", "écriture", "fragmentation", "langage", "numérique", "programmation", "programme", "technique", "traduction"]

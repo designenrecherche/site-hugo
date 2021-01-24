@@ -1,6 +1,7 @@
 +++
 etablissement = "Université de Nîmes (Unîmes), Laboratoire PROJEKT"
 membre_actif = true
+name = "petruzzelis"
 photo = "/images/petruzzellis-stacie.png"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["Enfant", "Récit", "Design", "Vécu", "Jeu", "Émotions"]

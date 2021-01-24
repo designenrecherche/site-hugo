@@ -7,6 +7,11 @@ fields:
   config:
     required: true
   label: Prénom Nom
+- name: name
+  type: text
+  config:
+    required: true
+  label: Nom de famille (pour tri par ordre alphabétique)
 - name: membre_actif
   type: boolean
   label: Membre actif

@@ -1,6 +1,7 @@
 +++
 etablissement = "School of Communication, Royal College of Art"
 membre_actif = true
+name = "benque"
 photo = "/images/img_3664_pp.jpg"
 section_cnu = ""
 tags = ["Algorithme", "Archéologie des médias", "Diagrammes", "Programme", "Humanités numériques", "Pratique", "Design critique", "Approche instrumentale"]

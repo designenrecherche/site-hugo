@@ -1,6 +1,7 @@
 +++
 etablissement = "Unîmes, groupe Projekt / Orange Labs, Sense."
 membre_actif = true
+name = "dumesny"
 photo = "/images/img_8790.jpg"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["Dispositif tangible", "Probes", "Désopacification", "Médiation sensible", "Smartphone", "Design ludique", "Design", "Médiation numérique", "Technologies de l'information et de la communication"]

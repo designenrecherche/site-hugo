@@ -1,6 +1,7 @@
 +++
 etablissement = "Laboratoire Paragraphe, Paris 8"
 membre_actif = false
+name = "gourlet"
 photo = "/images/gourlet-pauline.png"
 section_cnu = "16 Psychologie, Ergonomie"
 tags = ["Agir collectif", "Artefacts composites", "Éducation", "Co-activité", "Versions instrumentales", "Dialogue", "Approche développementale de la conception", "Éducation", "Culture matérielle", "Ergonomie", "Médias audiovisuels", "Production et réalisation"]

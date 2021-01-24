@@ -1,8 +1,8 @@
 +++
 etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"
 membre_actif = true
+name = "bonnardot"
 membre_bureau = true
-name = "Bonnardot"
 bureau = "Présidente"
 photo = "/images/bonnardot-zoe.png"
 section_cnu = "71 Sciences de l'information et de la communication"

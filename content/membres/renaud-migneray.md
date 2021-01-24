@@ -1,6 +1,7 @@
 +++
 etablissement = "Université de Technologie de Compiègne, COSTECH"
 membre_actif = true
+name = "migneray"
 photo = "/images/image1-copie.jpg"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["Interaction", "Expérience Vécue", "Relation", "Perception", "Dynamique interpersonnelle", "Relations humaines", "Relations intergroupes", "Émotions", "Design", "Toucher", "Automobiles", "Conduite automobile"]

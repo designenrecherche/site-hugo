@@ -1,6 +1,7 @@
 +++
 etablissement = "Ecole nationale supérieur des Arts Décoratifs de Paris (EnsAD) /E nsadLab MINES ParisTech / CRI"
 membre_actif = true
+name = "perera"
 photo = "/images/luc-perera.JPG"
 section_cnu = "18 Arts appliqués"
 tags = ["Carnatique, Alzheimer, Interdisciplinaire, Mécatronique et Pédagogie.", "Carnatique", "Alzheimer", "Interdisciplinaire", "Mécatronique", "Pédagogie"]
