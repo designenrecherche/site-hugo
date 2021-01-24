@@ -1,6 +1,8 @@
 +++
 etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"
 membre_actif = true
+membre_bureau = true
+bureau = "Secrétaire"
 photo = "/images/121150500_3406473362772988_4206585022439340864_n.jpg"
 section_cnu = "18 Arts appliqués"
 tags = ["Design", "Singularité", "Diversité", "Inclusion", "Design graphique", "Autisme", "Pédagogie"]

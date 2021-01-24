@@ -5,9 +5,21 @@
 
     <div class="container-main" id="container-list-membres">
 
+      <h2>Bureau </h2>
+
+      {{ range .Data.Pages }}
+        {{ if .Params.membre_bureau }}
+        {{ .Render "post" }}
+        {{ end }}
+        {{ end }}
+
+        <h2>Membres actifs </h2>
+
         {{ range .Data.Pages }}
         {{ if .Params.membre_actif }}
+        {{ if not .Params.membre_bureau }}
         {{ .Render "post" }}
+        {{ end }}
         {{ end }}
         {{ end }}
 

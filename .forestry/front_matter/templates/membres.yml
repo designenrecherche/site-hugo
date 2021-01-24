@@ -10,6 +10,13 @@ fields:
 - name: membre_actif
   type: boolean
   label: Membre actif
+- name: membre_bureau
+  type: boolean
+  label: Membre du bureau
+  default: false
+- name: bureau
+  type: text
+  label: Statut si membre du bureau
 - name: type_page
   type: text
   default: membres

@@ -1,6 +1,8 @@
 +++
 etablissement = "IRCAM-STMS"
 membre_actif = true
+membre_bureau = true
+bureau = "Secrétaire"
 photo = "/images/unnamed.jpg"
 section_cnu = "18 Arts appliqués"
 tags = ["Éducation à la petite enfance", "Culture numérique", "Embodiment"]

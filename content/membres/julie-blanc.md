@@ -1,6 +1,8 @@
 +++
 etablissement = "EUR ArTeC / Université Paris 8 - EA349 / EnsadLab"
 membre_actif = true
+membre_bureau = true
+bureau = "Trésorière"
 photo = "/images/julie-blanc.jpg"
 section_cnu = "16 Psychologie, Ergonomie"
 tags = ["design graphique", "activité", "approche instrumentale", "technologies du web", "code", "édition", "pratique"]
