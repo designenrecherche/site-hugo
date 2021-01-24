@@ -15,6 +15,7 @@ type_page = "actions"
 
 
 
+
 En tant qu’”in-discipline”, la recherche en design interroge les codes de la recherche universitaire — sujets, formes, pratiques de recherche, etc. Se trouve au cœur de ces travaux de recherche, l’expérience du “faire”. Dans cette première conférence du cycle de conférences _Pratiques de la recherche en design_,nos intervenant.e.s s’appuieront sur leurs travaux de recherche afin d’interroger le lien entre science, design et création artistique. Docteur.e.s (ou presque), ils reviendront sur leurs expériences.
 
 - **Live youtube** : [https://www.youtube.com/channel/UCIGwUDEA2gPZ0dZ2m85xNfA](https://www.youtube.com/channel/UCIGwUDEA2gPZ0dZ2m85xNfA)

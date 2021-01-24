@@ -8,7 +8,7 @@ lieu = "ENSCI, salle Richard Lenoir"
 publishDate = 2014-10-02T07:30:20Z
 dateevent = 2014-10-02T07:30:20Z
 time = "9h30"
-title = "Faut-il rédiger les méthodes de la recherche en design ?"
+title = "Faut-il rédiger les méthodes de la recherche en design&nbsp;?"
 tags = ["design", "méthodes", "réduire en art", "méthodologie"]
 type_page = "actions"
 +++

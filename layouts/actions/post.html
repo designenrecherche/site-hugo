@@ -1,16 +1,17 @@
 <article class="post-actions">
     <!-- <img class="rounded card-img-top" src="{{.Params.Image | relURL}}" alt="{{.Title }}"> -->
-      <h1><a href="{{.Permalink}}">{{.Title }}</a></h1>
+      <h1><a href="{{.Permalink}}">{{.Title | safeHTML }}</a></h1>
       <p class="type">{{ .Params.category }}</p>
       <div>
         <p class="date">  
-          <time>       
-            {{ if .Params.dateevent }}{{ .Params.dateevent.Day }} {{ index $.Site.Data.mois (printf "%d" .Params.dateevent.Month) }} {{ .Params.dateevent.Year }}
+             
+            {{ if .Params.dateevent }}
+            <time class="time-change">{{ .Params.dateevent }}</time>
             {{ else }}
             {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
             {{ end }}{{ if .Params.time }}<span class="horaire">, {{ .Params.time }}</span>{{ end }}
-          </time>
         </p>
+        
         {{ if .Params.lieu }}<p class="lieu">{{ .Params.lieu }}</p>{{ end }}
         </div>
       <p class="summary">
@@ -25,4 +26,5 @@
       {{end}}
       <a class="more" href="{{.Permalink}}">Voir plus</a>
   </article>
+
 

@@ -10,7 +10,7 @@
     <div class="container">
       <header>
         <p class="type">{{ .Params.category }}</p>
-        <h1>{{.Title}}</h3>
+        <h1>{{.Title | safeHTML }}</h3>
           
           <div>
             <p class="date">  

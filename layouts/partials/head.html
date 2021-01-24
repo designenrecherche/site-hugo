@@ -39,6 +39,73 @@
   <link rel="icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
 
 
+
+  <script>
+
+    window.onload = function(){ 
+      let time = document.getElementsByClassName("time-change");
+
+      for(let i = 0; i < time.length; i++){
+
+        let arrayStrg = time[i].innerHTML.split(" ")[0];
+        let arrayTime = arrayStrg.split("-");
+        let mounth;
+        
+        switch (arrayTime[1]) {
+          case '01':
+            mounth = "janvier";
+            break;
+          case '02':
+            mounth = "février";
+          break;
+            case '03':
+            mounth = "mars";
+            break;
+          case '04':
+            mounth = "avril";
+            break;
+          case '05':
+            mounth = "mai";
+            break;
+          case '06':
+            mounth = "juin";
+            break;
+          case '07':
+            mounth = "juillet";
+            break;
+          case '08':
+            mounth = "août";
+            break;
+          case '09':
+            mounth = "septembre";
+            break;
+          case '10':
+            mounth = "octobre";
+            break;
+          case '11':
+            mounth = "novembre";
+            break;
+          case '12':
+            mounth = "décembre";
+            break;
+          default:
+            mounth = "janvier";
+        }
+
+        let day;
+        if(arrayTime[2].split('')[0] == "0"){
+          day = arrayTime[2].split('')[1];
+        }else{
+          day = arrayTime[2];
+        }
+
+        time[i].innerHTML = day + " " + mounth + " " + arrayTime[0];
+
+      }
+    
+    } 
+  </script>
+
   
 
 </head>
