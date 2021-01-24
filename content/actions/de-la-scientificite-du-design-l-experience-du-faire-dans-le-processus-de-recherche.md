@@ -1,7 +1,7 @@
 +++
 category = "Conférence"
 dateevent = 2021-01-21T17:00:00Z
-description = "Design en Recherche lance son cycle de conférence « Pratiques de la recherche en design »  et vous invite à sa première en ligne ! Avec Marguerite Benony, Aurélien Peilloux, Emile De Visscher et Marion Voillot (organisation et modération)"
+description = "Première épisode du cycle de conférence « Pratiques de la recherche en design » de l'asso ! Avec Marguerite Benony, Aurélien Peilloux, Emile De Visscher et Marion Voillot (organisation et modération)"
 descriptiontemp = ""
 documents = ""
 lieu = "En ligne"
@@ -18,9 +18,10 @@ type_page = "actions"
 
 En tant qu’”in-discipline”, la recherche en design interroge les codes de la recherche universitaire — sujets, formes, pratiques de recherche, etc. Se trouve au cœur de ces travaux de recherche, l’expérience du “faire”. Dans cette première conférence du cycle de conférences _Pratiques de la recherche en design_,nos intervenant.e.s s’appuieront sur leurs travaux de recherche afin d’interroger le lien entre science, design et création artistique. Docteur.e.s (ou presque), ils reviendront sur leurs expériences.
 
-- **Live youtube** : [https://www.youtube.com/channel/UCIGwUDEA2gPZ0dZ2m85xNfA](https://www.youtube.com/channel/UCIGwUDEA2gPZ0dZ2m85xNfA)
-- **Framapad (pour questions)**: [https://hebdo.framapad.org/p/design-en-recherche-21janvier-9lax?lang=fr](https://hebdo.framapad.org/p/design-en-recherche-21janvier-9lax?lang=fr) 
 
+{{< youtube NgZPjt9IqPc >}}
+
+{{< youtube VZkWavf6l2Y >}}
 
 # Intervenant·es
 
