@@ -54,8 +54,8 @@
 
         <div class="these-infos">
           
-           <p class="title-thesis-fr">{{ if .Params.titretheseEn }}<span class="lang"></span>{{ end }}{{ .Params.titrethese }}</p>
-          {{ if .Params.titretheseEn }} <p class="title-thesis-en" lang="en"><span class="lang"></span>{{ .Params.titretheseEn }}</p> {{ end }}
+           <p class="title-thesis-fr">{{ if .Params.titretheseEn }}<span class="lang"></span>{{ end }}{{ .Params.titrethese | safeHTML }}</p>
+          {{ if .Params.titretheseEn }} <p class="title-thesis-en" lang="en"><span class="lang"></span>{{ .Params.titretheseEn | safeHTML }}</p> {{ end }}
 
 
           {{ if .Params.tags }}
@@ -74,7 +74,7 @@
           </li>
           {{ end }}
             {{ if .Params.section_cnu }} <li><span class="type-info">Section CNU</span> <span class="texte-info">{{ .Params.section_cnu }}</span></li>{{ end }}
-            {{ if .Params.etablissement }} <li><span class="type-info">Laboratoire(s)</span>  <span class="texte-info">{{ .Params.etablissement }}</span></li>{{ end }}
+            {{ if .Params.etablissement }} <li><span class="type-info">Laboratoire(s)</span>  <span class="texte-info">{{ .Params.etablissement | safeHTML }}</span></li>{{ end }}
           </ul>
 
           <ul class="links-these">

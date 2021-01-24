@@ -14,7 +14,7 @@
 
          <h1><a href="{{.Permalink}}">{{.Title }}</a> </h1>
 
-        <h2><span>Thèse: </span>{{ .Params.titrethese }}</h2>
+        <h2><span>Thèse: </span>{{ .Params.titrethese | safeHTML }}</h2>
     </div>
 
     {{ if .Params.tags }}
@@ -30,7 +30,7 @@
                 {{ if .Params.these_soutenue }}<p class="these-end">{{ .Params.these_end }}</p>{{ end }}
             </div>
             {{ if .Params.section_cnu }} <p class="these-cnu">{{ .Params.section_cnu }}</p>{{ end }}
-            {{ if .Params.etablissement }}<p class="these-etablissement">{{ .Params.etablissement }}</p>{{ end }}
+            {{ if .Params.etablissement }}<p class="these-etablissement">{{ .Params.etablissement | safeHTML }}</p>{{ end }}
      
     </div>
    

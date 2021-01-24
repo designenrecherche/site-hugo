@@ -1,5 +1,5 @@
 +++
-etablissement = "Ecole nationale supérieur des Arts Décoratifs de Paris (EnsAD) /E nsadLab MINES ParisTech / CRI"
+etablissement = "Ecole nationale supérieur des Arts Décoratifs de Paris (EnsAD)&nbsp;/ EnsadLab&nbsp;/ MINES ParisTech /&nbsp;CRI"
 membre_actif = true
 name = "perera"
 photo = "/images/luc-perera.JPG"
