@@ -1,14 +1,16 @@
 +++
-etablissement = "CIEREC EA no 3068, Université Jean Monnet Saint-Étienne / Random(Lab), Cycle Design et Recherche, École Supérieure d’Art et Design / Saint-Étienne, Unité de recherche numérique Art et Design ENSBA/ESADSE"
+bureau = ""
+etablissement = "ECLLA, Études du Contemporain en Littératures, Langues et Arts, EA n°3068 "
 membre_actif = true
-name = "ceccon"
+membre_bureau = false
+name = "picard"
 photo = "/images/profil.jpg"
 section_cnu = "18 Sciences de l'art"
 tags = ["Transparence", "Base de données", "Dématérialisation", "Société numérique", "Déconstruction", "Informatique", "Complexité", "Habiter", "Imaginaires", "Internet", "Net.Art", "Art contemporain", "Design", "Graphisme", "Spatialité"]
 these_end = 0
 these_soutenue = false
 these_start = 2015
-title = "Lorène Ceccon"
+title = "Lorène Picard"
 titrethese = "Transparence(s). Déconstruction artistique de l’« immatérialité » du Web"
 titretheseEn = "Transparences. How artists deconstruct The Web"
 type_page = "membres"
@@ -21,11 +23,11 @@ gitlab = ""
 hypotheses = ""
 instagram = "https://www.instagram.com/lorene_ceccon/"
 linkedin = ""
-mail = "lorene.ceccon@univ-st-etienne.fr"
+mail = "lorene.picard@protonmail.com"
 medium = ""
 site = "http://lrcn.fr/"
 telephone = ""
-twitter = "https://twitter.com/lorenececcon"
+twitter = "https://twitter.com/lorene_picard"
 [instagram_1]
 post1 = ""
 post2 = ""
