@@ -1,6 +1,5 @@
 +++
 bureau = "Secrétaire"
-draft = true
 etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"
 membre_actif = true
 membre_bureau = true
