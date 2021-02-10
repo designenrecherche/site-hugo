@@ -1,8 +1,10 @@
 +++
+bureau = ""
 etablissement = "Université Paris 1, Arts plastiques, esthétique et sciences de l'art, Institut ACTE"
 membre_actif = false
+membre_bureau = false
 name = "bougourd"
-photo = "/images/default-profil.jpg"
+photo = "/images/caroline_bougourd-copie.JPG"
 section_cnu = "18 Esthétique"
 tags = ["cité d'expériences", "design", "prefabricated houses", "memory", "historical monuments", "Noisy-le-sec", "héritage", "stories", "reconstruction", "translation", "webdocumentary"]
 these_end = 2015
@@ -76,6 +78,14 @@ Focusing on the case of the prefabricated houses in the cité of Merlan in Noisy
 ## Direction de thèse
 
 * **Pierre-Damien Huyghe**, Université Paris 1, Laboratoire d’esthétique théorique et appliquée (LETA).
+
+# Biographie
+
+{{% lang class="fr" %}}
+
+Docteure en Histoire et Théorie du Design à Paris 1 — Panthéon-Sorbonne, agrégée d’Arts Appliqués, Caroline Bougourd enseigne actuellement à l’École Boulle, au niveau Master en mention Espace, Événementiel et Médiation et intervient également à l’ENSCI dans le suivi des mémoires. En parallèle de l'enseignement, elle cherche à développer des projets permettant une meilleure compréhension des enjeux du design auprès d'un public toujours plus diversifié et élargi. Elle est également coscénariste et productrice du récit numérique _Une balade au Merlan_, qui accompagne la thèse écrite ([www.unebaladeaumerlan.fr](http://www.unebaladeaumerlan.fr)), membre fondatrice du réseau _Design en recherche_, qui vise à fédérer une communauté de jeunes chercheurs en design ([www.designenrecherche.org](http://www.designenrecherche.org)) et membre fondatrice de l’équipe éditoriale et de la rédaction de la revue numérique _Strabic_, qui a pour objectif de porter un autre regard sur le design ([www.strabic.fr](http://www.strabic.fr)).
+
+{{% /lang %}}
 
 # Soutenance de thèse
 
