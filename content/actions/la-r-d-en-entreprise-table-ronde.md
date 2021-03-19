@@ -17,5 +17,3 @@ L’électif recherche de Strate École de Design, l’association Design en Rec
 Nous avons notamment soulevé des question telles que : quelles associations avec les projets d'innovation des entreprises, quelles compétences pour cette typologie d'activités, quels liens avec l'aréopage académique, quel(s) futur(s) pour la R&D dans un contexte de rentabilité à court terme, quelles bonnes pratiques R&D pour les collaborateurs "opérationnels" ?
 
 Merci à Muriel Touaty, Mickael Desmoulin, Laura-Joy Boulos, Albane Imbert et Rose Dumesny pour leur participation !
-
-{{<[https://youtu.be/9x4TCcJF1II](https://youtu.be/9x4TCcJF1II "https://youtu.be/9x4TCcJF1II") >}}
