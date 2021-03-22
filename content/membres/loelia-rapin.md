@@ -1,5 +1,6 @@
 +++
 bureau = ""
+draft = true
 etablissement = "Université de Nantes, Équipe DuKe au LS2N"
 membre_actif = true
 membre_bureau = false
