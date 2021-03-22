@@ -18,4 +18,6 @@ Nous avons notamment soulevé des question telles que : quelles associations ave
 
 Merci à Muriel Touaty, Mickael Desmoulin, Laura-Joy Boulos, Albane Imbert et Rose Dumesny pour leur participation !
 
-{{<[https://youtu.be/9x4TCcJF1II](https://youtu.be/9x4TCcJF1II "Lien vers la vidéo") >}}
+{{< youtube 9x4TCcJF1II >}}
+
+![](/images/img-table-ronde.jpg)
