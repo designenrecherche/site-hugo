@@ -16,9 +16,6 @@ aboutHome:
     baseline: "Retrouvez-nous sur les réseaux sociaux:"
   button: "En savoir plus"
 
-
-
-  
 # Évènements de l'association
 actions:
   enable : true
@@ -43,13 +40,3 @@ breves:
   URL : "breves"
   button: "Toutes les brèves"
   # blog post comes from "content/breves" folder
-
-# Twitter
-twitter_feed:
-  enable : true
-  title : "Twitter"
-
-# Instagram
-instagram_feed:
-  enable : false
-  title : "Instagram"
