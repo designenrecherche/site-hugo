@@ -16,8 +16,8 @@ Portée par la ComUE Université Paris Lumières, l’École Universitaire de Re
 * les nouveaux modes d’écritures et de publication
 * les technologies et les médiations humaines
 
-  
-Fin du dépôt de candidature : **mercredi 2 juin 2021** (8h du matin)
+Fin du dépôt de candidature :   
+**mercredi 2 juin 2021** (8h du matin)
 
-Auditions par le Conseil Académique : 22 juin 2021. \\  
+Auditions par le Conseil Académique : 22 juin 2021.   
 Le contrat prendra effet au 1er septembre 2021.
