@@ -59,7 +59,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
@@ -79,6 +78,6 @@ Thèse interdisciplinaire (design/informatique/santé) porte sur l’expérience
 
 {{% lang class="fr" %}}
 
-Ici la biographie en français : Designer diplômée de l’École de Design Nantes Atlantique en septembre 2020 après un master « _Management du Design et de l’Innovation, parcours Innovation Sociale et Santé_ », en parallèle d’un DU DESSiiN (_Design Services Interactifs Innovants Objets communicants et interfaces tangibles_) à Polytech Nantes, Loélia a pendant ses études travaillé sur des projets en lien avec le design graphique, le numérique, principalement en lien avec les maladies chroniques, notamment le cancer du sein ; ce qui l’a amenée à rédiger un mémoire sur l’épigénétique. Elle débute une thèse CIFRE dans l’entreprise nantaise Sensipode sous la direction de Vincent Pujos et de Denis Charrier, et encadrée au LS2N par Yannick Prié, et co-encadrée par Clémence Montagne du Care Lab à l’École de Design. Cette thèse interdisciplinaire (design/informatique/santé) porte sur l’expérience patient et une méthodologie d’évaluation dans les parcours de santé en alliant le numérique et le co-design.
+Ici la biographie en français : Designer diplômée de l’École de Design Nantes Atlantique en septembre 2020 après un master « _Management du Design et de l’Innovation, parcours Innovation Sociale et Santé_ », en parallèle d’un DU DESSiiN (_Design Services Interactifs Innovants Objets communicants et interfaces tangibles_) à Polytech Nantes, Loélia a pendant ses études travaillé sur des projets en lien avec le design graphique, le numérique, principalement en lien avec les maladies chroniques, notamment le cancer du sein ; ce qui l’a amenée à rédiger un mémoire sur l’épigénétique. Elle débute une thèse CIFRE dans l’entreprise nantaise Sensipode sous la direction de Vincent Pujos et de Denis Charrier, sous la direction au LS2N par Yannick Prié, et co-encadrée par Clémence Montagne du Care Lab à l’École de Design. Cette thèse interdisciplinaire (design/informatique/santé) porte sur l’expérience patient et une méthodologie d’évaluation dans les parcours de santé en alliant le numérique et le co-design.
 
 {{% /lang %}}
