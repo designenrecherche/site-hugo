@@ -3,7 +3,7 @@ description = ""
 documents = ""
 link = "http://koyre.ehess.fr/index.php?3447"
 publishDate = 2021-03-26T08:53:40Z
-title = "Discussion «&nbspDesign & Sciences&nbsp;» d'Anne-Lyse Renon"
+title = "Discussion « Design & Sciences » d'Anne-Lyse Renon"
 
 +++
 A l'occasion de la sortie de [**_Design & sciences_**](https://www.puv-editions.fr/collections/libre-cours/design-sciences-9782379240249-39-698.html) (Grenoble, Presses Universitaires de Vincennes, 2020) de **Anne-Lyse Renon** (Université de Rennes 2, CAK, Head-Genève), le centre Alexandre-Koyré invite l'auteure à présenter cet ouvrage et à débattre avec Elsa de Smet (IRIS OCAV, PSL), Madeleine Akrich (Mines Paris Tech, CSI i3) et l'ensemble de l'auditoire**_._**
