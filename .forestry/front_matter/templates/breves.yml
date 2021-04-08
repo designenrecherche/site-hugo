@@ -25,6 +25,7 @@ fields:
   description: Programme, appel ou tout autre document utile
   hidden: false
 pages:
+- content/breves/14e-conference-internationale-de-la-european-academy-of-design-ead.md
 - content/breves/2-offres-de-doctorats-a-l-ecole-universitaire-de-recherche-artec-2021.md
 - content/breves/2-offres-de-doctorats-a-l-ecole-universitaire-de-recherche-artec.md
 - content/breves/6-offres-de-contrats-de-recherche-a-l-anrt-de-nancy.md
