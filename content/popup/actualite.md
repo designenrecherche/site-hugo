@@ -1,12 +1,12 @@
 +++
-display = true
+display = false
 publishDate = 2021-04-13T13:01:00Z
 title = "Actualité"
 
 +++
-!\[\](/images/pratique-de-la-recherche-en-design.jpg)
+![](/images/pratique-de-la-recherche-en-design.jpg)
 
-**# 21 janvier, 18h TEST AFFICHE**
+**# 21 janvier, 18h** 
 
 \#1 – De la scientificité du design : l’expérience du faire dans le processus de recherche
 
