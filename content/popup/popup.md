@@ -1,7 +1,8 @@
 ---
-title: "Pop-up"
-event: "test popup"
+title: "Actualité"
 date: 2021-01-26T12:14:34.000+06:00
+display: true
+
 ---
 
 ![](/images/pratique-de-la-recherche-en-design.jpg)
