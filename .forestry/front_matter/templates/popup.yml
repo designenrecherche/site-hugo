@@ -1,9 +1,10 @@
+---
 label: Popup
 hide_body: false
 fields:
 - name: title
   type: text
-  default: "Actualité"
+  default: Actualité
   config:
     required: true
 - name: publishDate

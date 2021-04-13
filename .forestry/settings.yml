@@ -36,6 +36,13 @@ sections:
   create: none
   match: "*"
 - type: directory
+  path: content/popup
+  label: Popup
+  create: all
+  match: "**/*"
+  templates:
+  - popup
+- type: directory
   path: data
   label: Data
   create: documents
