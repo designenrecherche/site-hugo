@@ -16,3 +16,5 @@ fields:
   type: boolean
   label: Afficher le Pop Up
   default: true
+pages:
+- content/popup/actualite.md
