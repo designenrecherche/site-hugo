@@ -6,10 +6,9 @@ title = "Actualité"
 +++
 ![](/images/pratique-de-la-recherche-en-design.jpg)
 
-**# 21 janvier, 18h** 
+**# 26 janvier, 18h**
 
-\#1 – De la scientificité du design : l’expérience du faire dans le processus de recherche
+\\#2 – Titre
 
-* \[Live youtube\]([https://www.youtube.com/channel/UCIGwUDEA2gPZ0dZ2m85xNfA](https://www.youtube.com/channel/UCIGwUDEA2gPZ0dZ2m85xNfA "https://www.youtube.com/channel/UCIGwUDEA2gPZ0dZ2m85xNfA"))
-* \[Framapad\]([https://www.youtube.com/channel/UCIGwUDEA2gPZ0dZ2m85xNfA](https://www.youtube.com/channel/UCIGwUDEA2gPZ0dZ2m85xNfA "https://www.youtube.com/channel/UCIGwUDEA2gPZ0dZ2m85xNfA")) (pour questions)
-* \[Plus d'informations\](/actions/de-la-scientificite-du-design-l-experience-du-faire-dans-le-processus-de-recherche/)
+* \[Visio BigBlueButton\]([https://www.youtube.com/channel/UCIGwUDEA2gPZ0dZ2m85xNfA](https://www.youtube.com/channel/UCIGwUDEA2gPZ0dZ2m85xNfA "https://www.youtube.com/channel/UCIGwUDEA2gPZ0dZ2m85xNfA"))
+* \[Plus d'informations\](lien vers l'action)
