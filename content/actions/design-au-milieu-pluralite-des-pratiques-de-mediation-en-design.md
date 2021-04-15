@@ -2,9 +2,8 @@
 category = "Conférence"
 dateevent = 2021-04-26T16:00:00Z
 description = "Second épisode du cycle de conférence « Pratiques de la recherche en design » de l'asso ! Avec Yann Aucompte, Brigitte Auziol, Rose Dumesny et Dorian Reunkrilerk"
-descriptiontemp = "Le 16 avril avril prochain aura lieu le second épisode du cycle de conférence « Pratiques de la recherche en design » de l'asso ! Avec Yann Aucompte, Brigitte Auziol, Rose Dumesny et Dorian Reunkrilerk"
+descriptiontemp = "Le 26 avril avril prochain aura lieu le second épisode du cycle de conférence « Pratiques de la recherche en design » de l'asso ! Avec Yann Aucompte, Brigitte Auziol, Rose Dumesny et Dorian Reunkrilerk"
 documents = ""
-draft = true
 lieu = "En ligne"
 publishDate = 2021-01-10T17:00:15Z
 tags = ["design ", "recherche", "médiation"]
