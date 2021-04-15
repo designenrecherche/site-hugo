@@ -1,45 +1,43 @@
 +++
 category = "Conférence"
-dateevent = 2021-01-21T17:00:00Z
-description = "Première épisode du cycle de conférence « Pratiques de la recherche en design » de l'asso ! Avec Marguerite Benony, Aurélien Peilloux, Emile De Visscher et Marion Voillot (organisation et modération)"
-descriptiontemp = ""
+dateevent = 2021-04-26T16:00:00Z
+description = "Second épisode du cycle de conférence « Pratiques de la recherche en design » de l'asso ! Avec Yann Aucompte, Brigitte Auziol, Rose Dumesny et Dorian Reunkrilerk"
+descriptiontemp = "Le 16 avril avril prochain aura lieu le second épisode du cycle de conférence « Pratiques de la recherche en design » de l'asso ! Avec Yann Aucompte, Brigitte Auziol, Rose Dumesny et Dorian Reunkrilerk"
 documents = ""
 draft = true
 lieu = "En ligne"
 publishDate = 2021-01-10T17:00:15Z
-tags = ["design ", "recherche", "sciences"]
+tags = ["design ", "recherche", "médiation"]
 time = "18h"
 title = "Design au milieu : pluralité des pratiques de médiation en design"
 type_page = "actions"
 
 +++
-En tant qu’”in-discipline”, la recherche en design interroge les codes de la recherche universitaire — sujets, formes, pratiques de recherche, etc. Se trouve au cœur de ces travaux de recherche, l’expérience du “faire”. Dans cette première conférence du cycle de conférences _Pratiques de la recherche en design_,nos intervenant.e.s s’appuieront sur leurs travaux de recherche afin d’interroger le lien entre science, design et création artistique. Docteur.e.s (ou presque), ils reviendront sur leurs expériences.
-
-
-{{< youtube NgZPjt9IqPc >}}
-
-{{< youtube VZkWavf6l2Y >}}
+Au sein de la recherche en design, le terme médiation renvoie à des pratiques, des terrains et des approches à première vue très variés. Toutefois, ce caractère pluriel n’est pas cantonné au design et la notion de médiation, dès lors qu’elle est située, fait éclater sa définition pour désigner des réalités très différentes. Le champ du design s’est ainsi saisi d’un concept, que d’autres disciplines ont du mal à rendre opératoire, afin de décrire tantôt des postures de praticiens ou de pratiques, des situations de conception, des enjeux d’exposition ou de pédaogie. Cette deuxième conférence du cycle de conférences Pratiques de la recherche en design cherche à montrer et faire dialoguer les multiples points d’entrées des recherches de quatre intervenant.e.s autour de la médiation au / en / par le design.
 
 # Intervenant·es
 
-**Marguerite Benony**
+**Yann Aucompte**
 
-Diplômée de l’Ecole Boulle en Design (2013) puis de l’Université Paris Diderot en Biologie (Master Approches Interdisciplinaires du Vivant, 2015), Marguerite Benony réalise un doctorat sur le futur des pratiques de recherche en sciences du vivant. Son travail interroge, par une enquête ethnographique, les formes futures de la recherche dans les laboratoires de biologie moléculaire. Elle questionne les outils et les méthodes de la recherche en biologie en les confrontant aux outils et aux pratiques du design.
+Yann Aucompte est professeur agrégé de section supérieure de design graphique en DNMADe graphisme parcours didactique, médiation, et édition au Lycée Jean-Pierre-Vernant de Sèvres, France. Il est designer graphique. Doctorant à l’EDESTA, sous la direction de Roberto Barbanti, à l’Université Paris-VIII. Il poursuit une thèse sur la question de l’éthique, de l’écologie et de la production dans le design graphique. Il est membre du collectif transdisciplinaire Arts Écologies Transitions.
 
-**Aurélien Peilloux**
+**Brigitte Auziol**
 
-Après des études en sciences, Aurélien Peilloux se dirige vers la réalisation cinématographique et intègre la Fémis. Dans le même temps, il fait une thèse en recherche-création interrogeant l'hybridité de l'art et de la science ainsi que la nature du processus créatif.
+Professeure certifiée, Brigitte Auziol enseigne à l’université de Nîmes où elle est co-responsable du master MEEF parcours arts appliqués et coordonne le parcours « Design & médiations » de la licence design. Designer diplômée de l’ENSAD, elle est docteure en sciences de l’information et de la communication et qualifiée aux fonctions de maitre de conférences (18-71e CNU). Ses recherches portent sur l’exposition du design dans ses dimensions axiologiques et didactiques.
 
-**Emile De Visscher**
+**Rose Dumesny**
 
-Emile De Visscher est ingénieur, designer et chercheur en design. Il a réalisé une thèse par la pratique au sein du programme SACRe de l'Université PSL, rattachée à l'EnsAD. Soutenue en 2018, elle s'intitulait "Manufactures Technophaniques" et avait pour objectif d'analyser les liens possibles entre aspects techniques, politiques, esthétiques et symboliques de procédés de fabrication. Depuis 2019, Emile De Visscher est chercheur associé dans le Cluster de recherche interdisciplinaire "Matters of Activity" de l'Université de la Humboldt à Berlin.
+Rose Dumesny est docteure en Sciences de l’information et de la communication mention design et designer d'interaction. Diplômée de l’ENSAAMA en design de produit, elle a ensuite mené sa thèse entre l’Université de Nîmes et Orange Labs. Ses recherches portent sur la manière dont le design peut créer des médiations sensibles au numérique, permettant à chacun de s’approprier et de comprendre les systèmes complexes. Elle travaille aujourd'hui au sein d'une équipe de chercheur intégrée à frog design autour notamment des impacts de l'IA.
 
-Organisation et modération: Marion Voillot,  
-avec le soutien de l'EUR ArTeC
+**Dorian Reunkrilerk**
 
-*La conférence sera enregistrée et diffusée ultérieurement. Contrairement à ce qui était prévu au départ, il n'y a pas besoin d'inscription pour assister à l'évènement.*
+Dorian Reunkrilerk est doctorant au sein du Codesign Lab & Media Studies de Télécom Paris et membre du collectif pointhuit. Sa double formation en design et commissariat d'exposition lui ont permit de travailler dans le champ muséal en s'intéressant aux modalités de médiation au design. Sa thèse est l'occasion de poursuivre cette réflexion dans un autre champ et vise à saisir la portée et le rôle des objets frontières et intermédiaires comme témoins des cultures matérielles de conception des organisations.
 
+_La conférence se fera en ligne et sans inscription. Elle sera également enregistrée et diffusée ultérieurement._
 
+_Lien de visio-conférence* :_ [https://visio.octopuce.fr/b/des-cl6-eih-sfj](https://visio.octopuce.fr/b/des-cl6-eih-sfj "https://visio.octopuce.fr/b/des-cl6-eih-sfj")
+
+_*La webcam ne fonctionne pas sur Safari._ 
 
 # Le cycle de conférence « Pratiques de la recherche en design »
 
