@@ -1,14 +1,14 @@
 +++
-display = false
+display = true
 publishDate = 2021-04-13T13:01:00Z
 title = "Actualité"
 
 +++
-![](/images/pratique-de-la-recherche-en-design.jpg)
+![](/images/visu_rectangle_cdc-youtube.jpg)
 
-**# 26 janvier, 18h**
+**26 janvier, 18h, en ligne**
 
-\\#2 – Titre
+\#2 – Design au milieu : pluralité des pratiques de médiation en design
 
-* \[Visio BigBlueButton\]([https://www.youtube.com/channel/UCIGwUDEA2gPZ0dZ2m85xNfA](https://www.youtube.com/channel/UCIGwUDEA2gPZ0dZ2m85xNfA "https://www.youtube.com/channel/UCIGwUDEA2gPZ0dZ2m85xNfA"))
-* \[Plus d'informations\](lien vers l'action)
+* Visio BigBlueButton : [https://visio.octopuce.fr/b/des-cl6-eih-sfj](https://visio.octopuce.fr/b/des-cl6-eih-sfj "https://visio.octopuce.fr/b/des-cl6-eih-sfj")
+* [Plus d'informations](https://designenrecherche.org/actions/design-au-milieu-pluralite-des-pratiques-de-mediation-en-design/)
