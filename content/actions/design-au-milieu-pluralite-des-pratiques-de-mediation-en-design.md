@@ -18,7 +18,7 @@ Au sein de la recherche en design, le terme médiation renvoie à des pratiques,
 
 **Yann Aucompte**
 
-Yann Aucompte est professeur agrégé de section supérieure de design graphique en DNMADe graphisme parcours didactique, médiation, et édition au Lycée Jean-Pierre-Vernant de Sèvres, France. Il est designer graphique. Doctorant à l’EDESTA, sous la direction de Roberto Barbanti, à l’Université Paris-VIII. Il poursuit une thèse sur la question de l’éthique, de l’écologie et de la production dans le design graphique. Il est membre du collectif transdisciplinaire Arts Écologies Transitions.
+Yann Aucompte est professeur agrégé de section supérieure de design graphique en DNMADe graphisme parcours didactique, médiation, et édition au Lycée Jean-Pierre-Vernant de Sèvres, France. Il est designer graphique. Doctorant à l’EDESTA, sous la direction de Roberto Barbanti, à l’Université Paris-VIII, il poursuit une thèse sur la question de l’éthique, de l’écologie et de la production dans le design graphique. Il est membre du collectif transdisciplinaire Arts Écologies Transitions.
 
 **Brigitte Auziol**
 
@@ -26,7 +26,7 @@ Professeure certifiée, Brigitte Auziol enseigne à l’université de Nîmes o�
 
 **Rose Dumesny**
 
-Rose Dumesny est docteure en Sciences de l’information et de la communication mention design et designer d'interaction. Diplômée de l’ENSAAMA en design de produit, elle a ensuite mené sa thèse entre l’Université de Nîmes et Orange Labs. Ses recherches portent sur la manière dont le design peut créer des médiations sensibles au numérique, permettant à chacun de s’approprier et de comprendre les systèmes complexes. Elle travaille aujourd'hui au sein d'une équipe de chercheur intégrée à frog design autour notamment des impacts de l'IA.
+Rose Dumesny est docteure en Sciences de l’information et de la communication mention design et designer d'interaction. Diplômée de l’ENSAAMA en design de produit, elle a ensuite mené sa thèse entre l’Université de Nîmes et Orange Labs. Ses recherches portent sur la manière dont le design peut créer des médiations sensibles au numérique, permettant à chacun de s’approprier et de comprendre les systèmes complexes. Elle travaille aujourd'hui au sein d'une équipe de chercheurs intégrée à frog design autour notamment des impacts de l'IA.
 
 **Dorian Reunkrilerk**
 
