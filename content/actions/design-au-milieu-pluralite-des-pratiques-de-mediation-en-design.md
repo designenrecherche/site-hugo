@@ -12,7 +12,7 @@ title = "Design au milieu : pluralité des pratiques de médiation en design"
 type_page = "actions"
 
 +++
-Au sein de la recherche en design, le terme médiation renvoie à des pratiques, des terrains et des approches à première vue très variés. Toutefois, ce caractère pluriel n’est pas cantonné au design et la notion de médiation, dès lors qu’elle est située, fait éclater sa définition pour désigner des réalités très différentes. Le champ du design s’est ainsi saisi d’un concept, que d’autres disciplines ont du mal à rendre opératoire, afin de décrire tantôt des postures de praticiens ou de pratiques, des situations de conception, des enjeux d’exposition ou de pédaogie. Cette deuxième conférence du cycle de conférences Pratiques de la recherche en design cherche à montrer et faire dialoguer les multiples points d’entrées des recherches de quatre intervenant.e.s autour de la médiation au / en / par le design.
+Au sein de la recherche en design, le terme médiation renvoie à des pratiques, des terrains et des approches à première vue très variés. Toutefois, ce caractère pluriel n’est pas cantonné au design et la notion de médiation, dès lors qu’elle est située, fait éclater sa définition pour désigner des réalités très différentes. Le champ du design s’est ainsi saisi d’un concept, que d’autres disciplines ont du mal à rendre opératoire, afin de décrire tantôt des postures de praticiens ou de pratiques, des situations de conception, des enjeux d’exposition ou de pédagogie. Cette deuxième conférence du cycle de conférences « Pratiques de la recherche en design » cherche à montrer et faire dialoguer les multiples points d’entrées des recherches de quatre intervenant.e.s autour de la médiation au / en / par le design.
 
 # Intervenant·es
 
@@ -36,7 +36,7 @@ _La conférence se fera en ligne et sans inscription. Elle sera également enreg
 
 _Lien de visio-conférence* :_ [https://visio.octopuce.fr/b/des-cl6-eih-sfj](https://visio.octopuce.fr/b/des-cl6-eih-sfj "https://visio.octopuce.fr/b/des-cl6-eih-sfj")
 
-_*La webcam ne fonctionne pas sur Safari._ 
+_*La webcam ne fonctionne pas sur Safari._
 
 # Le cycle de conférence « Pratiques de la recherche en design »
 
