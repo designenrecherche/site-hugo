@@ -14,6 +14,8 @@ type_page = "actions"
 +++
 Au sein de la recherche en design, le terme médiation renvoie à des pratiques, des terrains et des approches à première vue très variés. Toutefois, ce caractère pluriel n’est pas cantonné au design et la notion de médiation, dès lors qu’elle est située, fait éclater sa définition pour désigner des réalités très différentes. Le champ du design s’est ainsi saisi d’un concept, que d’autres disciplines ont du mal à rendre opératoire, afin de décrire tantôt des postures de praticiens ou de pratiques, des situations de conception, des enjeux d’exposition ou de pédagogie. Cette deuxième conférence du cycle de conférences « Pratiques de la recherche en design » cherche à montrer et faire dialoguer les multiples points d’entrées des recherches de quatre intervenant.e.s autour de la médiation au / en / par le design.
 
+{{< youtube 9UzgcJJfSW8 >}}
+
 # Intervenant·es
 
 **Yann Aucompte**
@@ -33,10 +35,6 @@ Rose Dumesny est docteure en Sciences de l’information et de la communication 
 Dorian Reunkrilerk est doctorant au sein du Codesign Lab & Media Studies de Télécom Paris et membre du collectif pointhuit. Sa double formation en design et commissariat d'exposition lui ont permit de travailler dans le champ muséal en s'intéressant aux modalités de médiation au design. Sa thèse est l'occasion de poursuivre cette réflexion dans un autre champ et vise à saisir la portée et le rôle des objets frontières et intermédiaires comme témoins des cultures matérielles de conception des organisations.
 
 _La conférence se fera en ligne et sans inscription. Elle sera également enregistrée et diffusée ultérieurement._
-
-_Lien de visio-conférence* :_ [https://visio.octopuce.fr/b/des-cl6-eih-sfj](https://visio.octopuce.fr/b/des-cl6-eih-sfj "https://visio.octopuce.fr/b/des-cl6-eih-sfj")
-
-_*La webcam ne fonctionne pas sur Safari._
 
 # Le cycle de conférence « Pratiques de la recherche en design »
 
