@@ -6,9 +6,9 @@ title = "Actualité"
 +++
 ![](/images/visu_rectangle_cdc-youtube.jpg)
 
-**26 janvier, 18h, en ligne**
+**10 mai, 18h, en ligne**
 
-\#2 – Design au milieu : pluralité des pratiques de médiation en design
+\#3 – Nourrir le design graphique : transmission féministes et décoloniales
 
 * Visio BigBlueButton : [https://visio.octopuce.fr/b/des-cl6-eih-sfj](https://visio.octopuce.fr/b/des-cl6-eih-sfj "https://visio.octopuce.fr/b/des-cl6-eih-sfj")
-* [Plus d'informations](https://designenrecherche.org/actions/design-au-milieu-pluralite-des-pratiques-de-mediation-en-design/)
+* [Plus d'informations](https://designenrecherche.org/actions/nourrir-le-design-graphique-transmission-feministes-et-decoloniales/)
