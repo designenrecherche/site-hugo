@@ -1,9 +1,10 @@
+---
 label: Popup
 hide_body: false
 fields:
 - name: title
   type: text
-  default: "Actualité"
+  default: Actualité
   config:
     required: true
 - name: publishDate
@@ -15,3 +16,5 @@ fields:
   type: boolean
   label: Afficher le Pop Up
   default: true
+pages:
+- content/popup/actualite.md
