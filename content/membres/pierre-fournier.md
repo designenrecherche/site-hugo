@@ -1,8 +1,11 @@
 +++
+bureau = ""
+draft = true
 etablissement = "Université de Nîmes (Unîmes), Laboratoire PROJEKT"
 membre_actif = true
-name = "fournier"
-photo = "/images/default-profil.jpg"
+membre_bureau = false
+name = "Fournier"
+photo = "/images/unnamed-3.jpg"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["Dessin typographique", "Égyptologie", "Épistémologie", "Consistency", "Discours scientifique", "Standardisation"]
 these_end = 0
@@ -57,7 +60,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
