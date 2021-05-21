@@ -46,4 +46,11 @@ En nous appuyant sur les pratiques singulières engagées par les chercheur·eus
 
 Ce projet est destiné à un public aux profils multiples. D’abord aux jeunes chercheur·euses qui pourront bénéficier par ces conférences d’un espace de travail et de discussion ouvert. Mais aussi aux professionnel·les du milieu, aux enseignant·es et aux publics non initiés qui y trouveront des démonstrations variées de la recherche universitaire en design.
 
+Toutes les conférences du cycle:
+
+* #1: [De la scientificité du design : l’expérience du faire dans le processus de recherche](https://designenrecherche.org/actions/de-la-scientificite-du-design-l-experience-du-faire-dans-le-processus-de-recherche/)
+* #2: [Design au milieu : pluralité des pratiques de médiation en design](https://designenrecherche.org/actions/design-au-milieu-pluralite-des-pratiques-de-mediation-en-design/)
+* #3: [Nourrir le design graphique : transmission féministes et décoloniales](https://designenrecherche.org/actions/nourrir-le-design-graphique-transmission-feministes-et-decoloniales/)
+* #4: [Intervenir au cœur des institutions : tactiques et problématiques de designer-chercheur·euse·s](https://designenrecherche.org/actions/intervenir-au-coeur-des-institutions-tactiques-et-problematiques-de-designer-chercheur-euse-s/)
+
 ![](/images/pratique-de-la-recherche-en-design.jpg)
