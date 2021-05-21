@@ -12,11 +12,10 @@ title = "Nourrir le design graphique : transmission féministes et décoloniales
 type_page = "actions"
 
 +++
-
 Dans la continuité du cycle de conférence « Pratiques de la  
- recherche en design » nous vous proposons de nous retrouver à nouveau pour une conférence intitulée "Nourrir le design graphique : transmission féministes et décoloniales". 
+recherche en design » nous vous proposons de nous retrouver à nouveau pour une conférence intitulée "Nourrir le design graphique : transmission féministes et décoloniales".
 
-Nous nous demanderons comment les pratiques féministes et décoloniales nourrissent le design en construisant des réseaux de solidarité. Nous causerons typographies latines et non-latines, identité(s) et transmission de savoir avec : Loraine Furter, Charlotte Attal, et Elise Goutagny. La séance sera animée par Elise Goutagny. 
+Nous nous demanderons comment les pratiques féministes et décoloniales nourrissent le design en construisant des réseaux de solidarité. Nous causerons typographies latines et non-latines, identité(s) et transmission de savoir avec : Loraine Furter, Charlotte Attal, et Elise Goutagny. La séance sera animée par Elise Goutagny.
 
 _La conférence se fera en ligne et sans inscription. Elle sera également enregistrée et diffusée ultérieurement._
 
@@ -33,5 +32,12 @@ La recherche en design est une discipline récente dont la reconnaissance instit
 En nous appuyant sur les pratiques singulières engagées par les chercheur·euses de notre milieu, nous aimerions rendre compte de la diversité des problématiques posées et des méthodologies propres à la recherche en design. Il s‘agit également de montrer les différentes manières dont le travail des designers est intégré à la dynamique universitaire. En invitant ces chercheur·euses à témoigner, nous souhaitons ouvrir des espaces de réflexions autour de thématiques qui nous animent et nous semblent indispensables à aborder dans la société d'aujourd'hui.
 
 Ce projet est destiné à un public aux profils multiples. D’abord aux jeunes chercheur·euses qui pourront bénéficier par ces conférences d’un espace de travail et de discussion ouvert. Mais aussi aux professionnel·les du milieu, aux enseignant·es et aux publics non initiés qui y trouveront des démonstrations variées de la recherche universitaire en design.
+
+Toutes les conférences du cycle:
+
+* #1: [De la scientificité du design : l’expérience du faire dans le processus de recherche](https://designenrecherche.org/actions/de-la-scientificite-du-design-l-experience-du-faire-dans-le-processus-de-recherche/)
+* #2: [Design au milieu : pluralité des pratiques de médiation en design](https://designenrecherche.org/actions/design-au-milieu-pluralite-des-pratiques-de-mediation-en-design/)
+* #3: [Nourrir le design graphique : transmission féministes et décoloniales](https://designenrecherche.org/actions/nourrir-le-design-graphique-transmission-feministes-et-decoloniales/)
+* #4: [Intervenir au cœur des institutions : tactiques et problématiques de designer-chercheur·euse·s](https://designenrecherche.org/actions/intervenir-au-coeur-des-institutions-tactiques-et-problematiques-de-designer-chercheur-euse-s/)
 
 ![](/images/pratique-de-la-recherche-en-design.jpg)
