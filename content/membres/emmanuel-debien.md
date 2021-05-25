@@ -59,7 +59,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
@@ -72,14 +71,6 @@ Un deuxième objectif de ce projet est aussi de relier l’histoire des interfac
 
 Ainsi, il s’agit autant d’éclairer des pratiques du numériques que de reconsidérer les modèles anciens en essayant de tracer une évolution ou du moins liens de parentés entre des productions de design (graphique).
 
-{{% /lang %}}
-
-{{% lang class="en" %}}
-
-Ici le résumé de la thèse en anglais
-
-{{% /lang %}}
-
 ## Direction de thèse
 
 * **Catherine de Smet**, Paris 8, EDESTA Labo EA4010
@@ -91,11 +82,3 @@ Ici le résumé de la thèse en anglais
 Emmanuel Debien est designer graphique et doctorant à l’EDESTA de Paris 8. Après un parcours d'études consacré au design graphique imprimé à Paris, il obtient son Master en 2007 avec un projet sur la question de l'appropriation par l'utilisateur de sa navigation web, via une réflexion autour des marques-page, des historiques de navigation et des flux RSS. Il intègre ensuite un cycle de recherche franco-chinois travaillant sur une histoire comparée de la mise en page en Chine et en occident. Ce projet donne lieu à une résidence de travail en Chine, ainsi qu'une exposition et une publication sur place.
 
 En parallèle, il démarre une carrière de design graphique avec une forte orientation numérique. Il travaille en agence et à son compte sur des projets allant de la scénographie d'exposition aux applications pour smartphone, en passant par l'identité visuelle, les sites web et l'édition. Son parcours professionnel l’amène à passer 4 ans à Montréal au Canada. Il vit et travaille maintenant en Bretagne.
-
-{{% /lang %}}
-
-{{% lang class="en" %}}
-
-Ici la biographie en anglais
-
-{{% /lang %}}
