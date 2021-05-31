@@ -8,7 +8,7 @@ title = "Actualité"
 
 **2 juin, 18h, en ligne**
 
-\#3 – Intervenir au cœur des institutions : tactiques et problématiques de designer-chercheur·euse·s
+\#4 – Intervenir au cœur des institutions : tactiques et problématiques de designer-chercheur·euse·s
 
 * Visio BigBlueButton: [https://visio.octopuce.fr/b/des-cl6-eih-sfj](https://visio.octopuce.fr/b/des-cl6-eih-sfj "https://visio.octopuce.fr/b/des-cl6-eih-sfj")
 * [Plus d'informations](https://designenrecherche.org/actions/intervenir-au-coeur-des-institutions-tactiques-et-problematiques-de-designer-chercheur-euse-s/)
