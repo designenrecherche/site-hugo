@@ -17,11 +17,7 @@ recherche en design » nous vous proposons de nous retrouver à nouveau pour une
 
 Nous nous demanderons comment les pratiques féministes et décoloniales nourrissent le design en construisant des réseaux de solidarité. Nous causerons typographies latines et non-latines, identité(s) et transmission de savoir avec : Loraine Furter, Charlotte Attal, et Elise Goutagny. La séance sera animée par Elise Goutagny.
 
-_La conférence se fera en ligne et sans inscription. Elle sera également enregistrée et diffusée ultérieurement._
-
-_Lien de visio-conférence* :_ [https://visio.octopuce.fr/b/des-cl6-eih-sfj](https://visio.octopuce.fr/b/des-cl6-eih-sfj "https://visio.octopuce.fr/b/des-cl6-eih-sfj")
-
-_*La webcam ne fonctionne pas sur Safari._
+{{< youtube oZcoXPv7pmc >}}
 
 # Le cycle de conférence « Pratiques de la recherche en design »
 
