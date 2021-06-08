@@ -16,11 +16,10 @@ Les designers-chercheur·euse·s sont de plus en plus sollicité·e·s pour inte
 
 Cette discussion vise à spécifier les enjeux, opportunités et limites de telles interactions, en prenant de la distance avec des discours défaitistes (les possibilités d'intervention du design seraient nécessairement limitées, voire « récupérées » dans les contextes institutionnels) ou messianiques (le design serait une nouvelle science de transformation des organisations) pour préférer une description nuancée et située à partir de quelques expériences de terrain. En se fondant sur une série d'anecdotes racontant des situations d'intervention dans des institutions par les participant·e·s, nous discuterons de tensions que nous avons pu éprouver à travers nos expériences structurées autour de 4 thématiques : projeter/déprojeter, (se) placer / (se) déplacer, servir/desservir, affecter / désaffecter.
 
-Conférence en ligne sans inscription: [https://visio.octopuce.fr/b/des-cl6-eih-sfj](https://visio.octopuce.fr/b/des-cl6-eih-sfj "https://visio.octopuce.fr/b/des-cl6-eih-sfj")
+Organisation et modération: Julie Blanc   
+Avec le soutien de l'EUR ArTeC
 
-Organisation et modération: Julie Blanc avec le soutien de l'EUR ArTeC
-
-_Attention, la webcam ne fonctionne pas sur Safari_
+{{< youtube nrlafI2wuyk >}}
 
 # Intervenant·es
 
