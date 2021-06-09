@@ -2,11 +2,10 @@
 beer:
   enable: true
   title: Bière des doctorant·e·s
-  summary: "La bière pour se souhaiter la nouvelle année ! Nous discuterons aussi des (nombreux) projets en coutrs de l'association. Comme vous le savez, les bars
-    sont fermés, alors on vous propose de vous retrouver avec ou sans bière, en visio \n"
-  date: 6 janvier 2021, 18h00
-  lieu: 'En ligne '
-  visio: true
-  linkVisio : "https://visio.octopuce.fr/b/jul-u0f-fsu-pbe"
-  
-
+  summary: 'La bière avant l''AG ! Nous discuterons aussi des (nombreux) projets réalisés
+    cette année par l''association. retrouvons nous au Grand Bréguet 17 Rue Breguet,
+    75011 à partir de 17h, le 15 juin ! '
+  date: 15 Juin 2021
+  lieu: 17 Rue Breguet
+  visio: false
+  linkVisio: https://visio.octopuce.fr/b/jul-u0f-fsu-pbe
