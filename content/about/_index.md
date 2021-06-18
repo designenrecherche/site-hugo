@@ -22,20 +22,35 @@ Si le design est traversé par des enjeux sociaux, économiques et politiques ma
 <h1>Composition des bureaux</h1>
 <div class="title"><div>
 
+{{% bureau year="2021-2022" %}}
+
+* [Julie Blanc](https://designenrecherche.org/membres/julie-blanc/), présidente
+* [Manon Ménard,](https://designenrecherche.org/membres/manon-menard/) secrétaire et vice trésorière
+* [Dorian Reunkrilerk](https://designenrecherche.org/membres/dorian-reunkrilerk/), trésorier et vice secrétaire
+* [Marion Voillot](https://designenrecherche.org/membres/marion-voillot/), responsable Com Événements (“chief emotion officer”)
+* Élise Goutagny, responsable Com Réseaux (“chief memes officer”)
+
+{{% /bureau %}}
+
 {{% bureau year="2020-2021" %}}
 
 * [Zoé Bonnardot](https://designenrecherche.org/membres/zoe-bonnardot/), présidente
 * [Julie Blanc](https://designenrecherche.org/membres/julie-blanc/), trésorière
 * [Marion Voillot](https://designenrecherche.org/membres/marion-voillot/), secrétaire
 * [Manon Ménard,](https://designenrecherche.org/membres/manon-menard/) secrétaire
-  {{% /bureau %}}
+  
 
-  {{% bureau year="2019-2020" %}}
-  * [Léonore Conte,](https://designenrecherche.org/membres/leonore-conte/) présidente
-  * [Aurélie Daanen,](https://designenrecherche.org/membres/aurelie-daanen/) trésorière
-  * [Zoé Bonnardot](https://designenrecherche.org/membres/zoe-bonnardot/), secrétaire
-  * [Julie Blanc](https://designenrecherche.org/membres/julie-blanc/), chargée des outils numériques
-  * [Marion Voillot](https://designenrecherche.org/membres/marion-voillot/), Chargée de communication {{% /bureau %}}
+{{% /bureau %}}
+
+{{% bureau year="2019-2020" %}}
+
+* [Léonore Conte,](https://designenrecherche.org/membres/leonore-conte/) présidente
+* [Aurélie Daanen,](https://designenrecherche.org/membres/aurelie-daanen/) trésorière
+* [Zoé Bonnardot](https://designenrecherche.org/membres/zoe-bonnardot/), secrétaire
+* [Julie Blanc](https://designenrecherche.org/membres/julie-blanc/), chargée des outils numériques
+* [Marion Voillot](https://designenrecherche.org/membres/marion-voillot/), Chargée de communication 
+
+{{% /bureau %}}
 
 {{% bureau year="2018-2019" %}}
 
