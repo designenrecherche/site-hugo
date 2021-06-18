@@ -1,9 +1,9 @@
 +++
+bureau = "Responsable Com Événements"
 etablissement = "IRCAM-STMS"
 membre_actif = true
-name = "voillot"
 membre_bureau = true
-bureau = "Secrétaire"
+name = "voillot"
 photo = "/images/unnamed.jpg"
 section_cnu = "18 Arts appliqués"
 tags = ["Éducation à la petite enfance", "Culture numérique", "Embodiment"]
@@ -59,7 +59,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
