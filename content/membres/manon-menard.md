@@ -1,5 +1,5 @@
 +++
-bureau = "Secrétaire"
+bureau = "Secrétaire et vice trésorière"
 etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"
 membre_actif = true
 membre_bureau = true
