@@ -1,6 +1,8 @@
 +++
+bureau = "Trésorier et vice secrétaire"
 etablissement = "Institut Polytechnique de Paris, CoDesign Lab"
 membre_actif = true
+membre_bureau = true
 name = "reunkrilerk"
 photo = "/images/unnamed-1.jpg"
 section_cnu = "71 Sciences de l'information et de la communication"
