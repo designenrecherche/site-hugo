@@ -1,9 +1,9 @@
 +++
+bureau = ""
 etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"
 membre_actif = true
+membre_bureau = false
 name = "bonnardot"
-membre_bureau = true
-bureau = "Présidente"
 photo = "/images/bonnardot-zoe.png"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["expérience", "transition énergétique", "usagers", "engagement", "anticipation", "simulation", "ludicité"]
