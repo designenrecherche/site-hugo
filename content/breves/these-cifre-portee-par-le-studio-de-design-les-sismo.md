@@ -10,11 +10,6 @@ Appel à candidature pour une thèse CIFRE portée par le studio de design [les 
 
 L'objet sera de faire appel, dans la question du soin et de sa conception, aux liens entre sciences de la nature (écologie, botanique, biologie, etc.) et sciences humaines et sociales (philosophie, anthropologie, éthique, histoire, etc.).
 
-Cette thèse reposera notamment sur une méthodologie ethnographique d’immersion au long cours, au sein de trois terrains définis.
-
-* Ecole doctorale de rattachement : École doctorale Abbé-Grégoire (ED 546), Conservatoire National des Arts et Métiers
-* Doctorant, contrat 36 mois, début dernier trimestre 2021 (inscriptions doctorales
-
-  avant le 1er novembre)
-* Pour candidater merci d’envoyer CV + lettre de motivation à [nicolas.ehw@chaire-philo.fr](mailto:nicolas.ehw@chaire-philo.fr)
+* École doctorale de rattachement : École doctorale Abbé-Grégoire (ED 546), Conservatoire National des Arts et Métiers
+* Doctorant, contrat 36 mois, début dernier trimestre 2021 (inscriptions doctorales avant le 1er novembre)
 * Date limite de candidature : **27 août 2021**
