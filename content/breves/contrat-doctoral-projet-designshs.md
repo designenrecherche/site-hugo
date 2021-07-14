@@ -11,9 +11,6 @@ Offre de contrat doctoral en histoire des sciences humaines et sociales dans le 
 La thèse a pour but d’explorer la genèse, les transformations, les évolutions et la portée épistémologique des représentations graphiques entre 1954 et 2000, à partir du lieu majeur de réflexion et d’élaboration qu’a été le Laboratoire de cartographie de Jacques Bertin au cours de cette période.
 
 * Début du contrat entre le 1er novembre 2021 et le 1er avril 2022
-* Lieu de travail : laboratoire Géographie-Cités (Aubervilliers)
-* Rémunération : 2135 € brut mensuel
-* Les candidatures sont à soumettre exclusivement par le portail emploi du CNRS :[https://bit.ly/3Aw3JM3](https://bit.ly/3Aw3JM3 "https://bit.ly/3Aw3JM3")
 * La date limite de soumission des candidatures est le **15 septembre 2021** (NB : la date limite indiquée sur le portail sera prolongée)
 
 Plus d'information sur le projet : [http://laboratoire-graphique.fr/](http://laboratoire-graphique.fr/ "http://laboratoire-graphique.fr/")
