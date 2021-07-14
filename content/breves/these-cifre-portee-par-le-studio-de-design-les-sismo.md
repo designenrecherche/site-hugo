@@ -1,7 +1,6 @@
 +++
 description = ""
 documents = "/images/fiche-poste-cifre-nature-et-soins-chaire-philo-sismo.pdf"
-draft = true
 link = ""
 publishDate = 2021-07-14T08:29:26Z
 title = "Thèse CIFRE portée par le studio de design les sismo "
