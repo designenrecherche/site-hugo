@@ -2,12 +2,9 @@
 beer:
   enable: true
   title: Bière des doctorant·e·s
-  summary: "Pour bien commencer cette nouvelle année universitaire, nous vous invitons
+  summary: 'Pour bien commencer cette nouvelle année universitaire, nous vous invitons
     à notre traditionnelle bière de rentrée ! La bière est aussi ouverte à celles
-    et ceux qui ne sont pas encore dans l’association et hésitent à nous rejoindre.
-    \nCela sera l’occasion de discuter et échanger de cette nouvelle année pour l’association,
-    de nous rejoindre si vous le souhaitez, et d'envisager de nouveaux projets et
-    manière de s'impliquer dans l’association. "
+    et ceux qui ne sont pas encore dans l’association et hésitent à nous rejoindre. '
   date: 18 octobre à 18h30
   lieu: 'Grand Bréguet, 17 Rue Breguet, 75011 Paris '
   visio: false
