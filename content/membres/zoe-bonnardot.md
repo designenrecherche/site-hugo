@@ -4,10 +4,10 @@ etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"
 membre_actif = true
 membre_bureau = false
 name = "bonnardot"
-photo = "/images/bonnardot-zoe.png"
+photo = "/images/photo-instagram.jpg"
 section_cnu = "71 Sciences de l'information et de la communication"
-tags = ["expérience", "transition énergétique", "usagers", "engagement", "anticipation", "simulation", "ludicité"]
-these_end = 0
+tags = ["expérience", "transition énergétique", "engagement", "anticipation", "simulation", "ludicité", "ergonomie", "transition design"]
+these_end = 2021
 these_soutenue = false
 these_start = 2018
 title = "Zoé Bonnardot"
@@ -79,6 +79,8 @@ The users of energy services (residential, tertiary and local authorities), who 
 
 * **Stéphane Vial**, Unîmes, laboratoire PROJEKT
 * **Pascal Salembier,** UTT, laboratoire Tech-CICO
+* **Elise Prieur,** EDF R&D, laboratoire ICAME
+* **Yvon Haradji**, EDF R&D, laboratoire ICAME
 
 # Biographie
 
