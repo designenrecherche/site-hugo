@@ -11,8 +11,8 @@ these_end = 2021
 these_soutenue = false
 these_start = 2018
 title = "Zoé Bonnardot"
-titrethese = "Anticiper les expériences futures des énergies renouvelables : un dispositif de simulation ludique et participatif pour le design de services en contexte industriel"
-titretheseEn = "Anticipate future experiences of renewable energy : a playful and participatory simulation tool for the design of services in an industrial context."
+titrethese = "Anticiper l’expérience de systèmes de partage d’énergies renouvelables : un dispositif de simulation ludique pour l’exploration des futurs"
+titretheseEn = "Anticipate future experiences of renewable energy : a playful and participatory simulation tool for futures exploration"
 type_page = "membres"
 url_hal = ""
 url_thesesfr = "http://theses.fr/s193598"
@@ -65,33 +65,44 @@ post9link = "https://www.instagram.com/p/B6krvOcikAL/"
 
 {{% lang class="fr" %}}
 
-Les usagers des services énergétiques (résidentiels, tertiaires et collectivités) aujourd'hui receveurs, seront demain producteurs ou engagés dans un réseau de production locale. Ils seront alors amenés à être acteurs de la gestion de leur énergie. Dans ce contexte, ce travail de thèse vise à anticiper les comportements des utilisateurs dans des situations probables de partage d'énergie à l'échelle locale. Une attention particulière est portée sur l'articulation entre l'engagement individuel et collectif des utilisateurs. Cette recherche aboutira à l'élaboration d'une méthodologie pour la conception de service centré-usager qui s'appuie sur un dispositif de simulation ludique et participatif.
+L’un des aspects principaux de la transition énergétique est le développement des énergies renouvelables à l’échelle locale, qui sollicite la participation des acteurs locaux (résidentiels, tertiaires et collectivités) dans sa mise en œuvre. Cette décentralisation s’accompagne d’une collectivisation de la relation à l’énergie : les habitants d’un quartier ou d’une ville aujourd’hui receveurs de l’énergie, seront demain producteurs ou engagés dans un réseau de production locale. Ils seront alors amenés à être acteurs de la gestion de leur énergie. Cette transition est principalement guidée par des préoccupations environnementales et technologiques, et il apparaît que le grand public participe peu à cette démarche. Dans ce contexte, l’entreprise de production et de distribution d’électricité EDF cherche à concevoir des services et systèmes qui favorisent leur participation au développement et au fonctionnement des systèmes de production et de partage d’énergies renouvelables à l’échelle locale. L’objectif de cette thèse est d’anticiper l’expérience des usagers dans des situations probables de partage d’énergie renouvelable à l’échelle locale afin d’alimenter la connaissance sur les conditions de leur engagement dans un tel système. Pour cela, une méthode pour la production et l’analyse de données d’expériences plausibles dans une situation aujourd’hui non observable est présentée. Cette méthode qui articule des connaissances issues du design participatif, de design de jeu et d’ergonomie de l’activité, permet la conception d’un dispositif de simulation ludique pour l’exploration participative de situations futures considérées comme probables. L’expérience simulée des situations futures à l’aide du dispositif peut alors être analysée. Une version du dispositif de simulation ludique sous la forme d’un jeu de plateau a été expérimentée lors de la Biennale du Design de Saint-Etienne édition 2019 avec un public non choisi. L’analyse des quatorze sessions d’expérimentation a permis de déterminer des conditions qui favorisent l’engagement du grand public dans un système de production et de partage de l’énergie renouvelable à l’échelle locale.
 
 {{% /lang %}}
 
 {{% lang class="en" %}}
 
-The users of energy services (residential, tertiary and local authorities), who are today's recipients, will tomorrow be producers or involved in a local production network. They will then be called upon to be actors in the management of their energy. In this context, this thesis work aims at anticipate the behaviors of users in probable future situations of energy sharing at the local scale. Particular attention is paid to the articulation between the individual and collective involvement of users. This research will lead to the elaboration of a methodology for the design of user-centered services based on a playful and participative simulation tool.
+One of the main aspects of the energy transition is the development of renewable energies on a local scale, which requires the participation of local actors (residential, tertiary and local authorities) in its implementation. This decentralization is accompanied by a collectivization of the relationship with energy: the inhabitants of a district or a city who are today only receivers, will tomorrow be producers or involved in a local production network. They will then have to be actors in the management of their energy. This transition is mainly guided by environmental and technological concerns, and it appears that users are not so much involved in this process. In this context, the electricity generation and distribution company EDF is looking to design services and systems that encourage their participation in the development and operation of local renewable energy production and sharing systems. The aim of this thesis is to anticipate the experience of users in probable situations of renewable energy sharing at the local scale, in order to feed the knowledge on the conditions of their engagement in such a system. To this end, a method for generation and analysis of plausible experiences data in a currently unobservable situation is presented. This method, which articulates knowledge from participatory design, game design and human factors, allows the conception of a playful simulation apparatus for the participatory exploration of future situations considered as probable. The simulated experience of future situations using the apparatus can then be analyzed. A version of the ludic simulation apparatus in the form of a board game was experimented during the 2019 Saint-Etienne Design Biennial with an unselected audience. The analysis of the fourteen experimentation sessions enabled us to determine conditions that favor the engagement of the general public in a system of production and sharing of renewable energy on a local scale.
 
 {{% /lang %}}
 
 ## Direction de thèse
 
-* **Stéphane Vial**, Unîmes, laboratoire PROJEKT
-* **Pascal Salembier,** UTT, laboratoire Tech-CICO
-* **Elise Prieur,** EDF R&D, laboratoire ICAME
-* **Yvon Haradji**, EDF R&D, laboratoire ICAME
+* **Stéphane Vial,** Professeur à l’École de design de l’UQAM, _Directeur HDR pour l’ED 583_
+* **Pascal Salembier,** Professeur, Université de technologie de Troyes, _Co-directeur_
+* **Elise Prieur,** Ingénieure-chercheure et Chef de projet, EDF, R&D, _Co-encadrante_
+* **Yvon Haradji,** Chercheur Sénior, EDF R&D, _Co-encadrant_
+
+# Soutenance de Thèse 
+
+Le 7 octobre 2021 à l'Université de Nîmes et sur Zoom
+
+## Composition du Jury 
+
+* **Mme Sylvie Grosjean,** Full Professor à l’Université d’Ottawa, _Rapporteure_ 
+* **Mme Sophie Pène,** Professeure à l’Université Paris Descartes, _Rapporteure_
+*  **Mme Marie-Julie Catoir-Brisson,** Professeure à Audencia SciencesCom, _Examinatrice_
+*  **M. Daniel Schmitt,** Professeur à l’Université polytechnique des Hauts-de-France, _Examinateur_
 
 # Biographie
 
 {{% lang class="fr" %}}
 
-Formée au design de service à l'Université de Nîmes et au design urbain à l'école des Beaux-Arts du Mans, j'ai également passé 5 mois au sein du master Codesign de l'école KADK à Copenhague. Je suis désormais doctorante en Design et ergonomie à l'Université de Nîmes, l'université technologique de Troyes et EDF R&D.
+Formée au design de service à l'Université de Nîmes et au design urbain à l'école des Beaux-Arts du Mans, j'ai également passé 5 mois au sein du master Codesign de l'école KADK à Copenhague. Après avoir mené ma thèse de doctorat en CIFRE entre EDF R&D, l'Université de Technologie de Troyes, et l'Université de Nîmes, je suis désormais docteure en Sciences de l'Information et de la Communication, avec une spécialité Design. 
 
 {{% /lang %}}
 
 {{% lang class="en" %}}
 
-Trained as a social designer (university of Nîmes), and as a urban designer (fine art school of Le Mans), I also made a stop by the co-design master program of KADK, Copenhagen. I’m currently in the middle of my first year as a PhD student in design and ergonomics, which is spread in between the university of Nîmes, technologic university of Troyes and the electric company EDF, in Paris.
+Trained as a social designer (university of Nîmes), and as a urban designer (fine art school of Le Mans), I also made a stop by the co-design master program of KADK, Copenhagen. After leading my doctoral thesis in CIFRE between EDF R&D, the University of Technology of Troyes, and the University of Nimes, I am now a doctor in Information and Communication Sciences, with a specialization in Design.
 
 {{% /lang %}}
