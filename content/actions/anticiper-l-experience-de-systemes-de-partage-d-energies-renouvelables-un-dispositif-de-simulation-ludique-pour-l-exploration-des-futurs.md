@@ -14,7 +14,7 @@ type_page = "actions"
 +++
 **Cadre de la recherche :**
 
-Thèse CIFRE entre : EDF R&D, l'Université de Technologie de Troyes et l'Université de Nîmes**
+Thèse CIFRE entre : EDF R&D, l'Université de Technologie de Troyes et l'Université de Nîmes
 
 **Résumé de thèse** _(rédigée en Français)_ :
 
@@ -31,6 +31,6 @@ L’un des aspects principaux de la transition énergétique est le développeme
 * **M. Daniel SCHMITT**, Professeur, Université Polytechnique Hauts-de-France _(Examinateur)_
 * **M. Stéphane VIAL**, Professeur, Université de Nîmes Co-directeur _(Directeur)_
 
-La manuscrit sera bientôt accessible.  
-  
+La manuscrit sera bientôt accessible.
+
 ![](/images/img_4976-copie.JPG)
