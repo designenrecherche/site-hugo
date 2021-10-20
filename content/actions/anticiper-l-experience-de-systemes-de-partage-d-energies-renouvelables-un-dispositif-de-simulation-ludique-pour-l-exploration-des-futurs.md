@@ -14,7 +14,7 @@ type_page = "actions"
 +++
 **Cadre de la recherche :**
 
-Thèse CIFRE entre : EDF R&D, L'université de technologie de Troyes et l'Université de Nîmes**
+Thèse CIFRE entre : EDF R&D, l'Université de Technologie de Troyes et l'Université de Nîmes**
 
 **Résumé de thèse** _(rédigée en Français)_ :
 
