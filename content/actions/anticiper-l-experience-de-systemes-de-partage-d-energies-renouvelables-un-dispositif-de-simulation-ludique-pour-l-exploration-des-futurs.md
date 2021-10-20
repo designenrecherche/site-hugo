@@ -33,4 +33,4 @@ L’un des aspects principaux de la transition énergétique est le développeme
 
 La manuscrit sera bientôt accessible.
 
-![](/images/img_4976-copie.JPG)
+![](/images/img_4976-copie.JPG)![](/images/img_4964.JPG)
