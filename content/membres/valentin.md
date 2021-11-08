@@ -1,6 +1,5 @@
 +++
 bureau = ""
-draft = true
 etablissement = "Université de Tours, CITERES/DATE"
 membre_actif = true
 membre_bureau = false
