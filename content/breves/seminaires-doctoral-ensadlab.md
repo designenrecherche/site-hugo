@@ -10,9 +10,9 @@ Le séminaire doctoral EnsadLab est un espace de réflexion sur les méthodes ex
 
 Programme:
 
-* 18 Novembre : **Diego Landivar** (Professeur en Economie et Humanité numériques, - ESC Clermont)
-* 16 Décembre : **Anthony Masure** (professeur associé et responsable de la recherche à la Haute école d’art et de design de Genève (HEAD – Genève, HES-SO).
-* 10 Février : **Claudia Banz,** (historienne de l’art et du design, Curatrice Design au Kunstgewerbemuseum de Berlin).
-* 17 Mars : **Sandra Delacourt** (critique d’art et professeure d’histoire de l’art contemporain à l’ESAD TALM-Tours et chercheuse associée à l’HiCSA (Université Paris 1).
-* 14 avril : **Craig Bremner,** (designer, professeur Charles Sturt University, Australie).
-* 19 mai : **Virginia Tassinari,** (théoricienne du design) séance en collaboration avec le Polytechnique de Milan.
+* **18 Novembre 2021** : Diego Landivar (Professeur en Economie et Humanité numériques, - ESC Clermont)
+* **16 Décembre 2021** : Anthony Masure (professeur associé et responsable de la recherche à la Haute école d’art et de design de Genève (HEAD – Genève, HES-SO).
+* **10 Février 2022** : Claudia Banz (historienne de l’art et du design, Curatrice Design au Kunstgewerbemuseum de Berlin).
+* **17 Mars 2022** : Sandra Delacourt (critique d’art et professeure d’histoire de l’art contemporain à l’ESAD TALM-Tours et chercheuse associée à l’HiCSA (Université Paris 1).
+* **14 avril 2022** : Craig Bremner (designer, professeur Charles Sturt University, Australie).
+* **19 mai 2022** : Virginia Tassinari (théoricienne du design), séance en collaboration avec le Polytechnique de Milan.
