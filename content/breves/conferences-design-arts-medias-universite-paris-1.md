@@ -6,7 +6,7 @@ publishDate = 2022-01-15T18:44:45Z
 title = "Conférences Design Arts Médias (Université Paris 1)"
 
 +++
-Conférences organisé par Catherine Chomarat-Ruiz et les étudiantes et étudiants du Master 2 « Design, Arts, Médias ». Tous les mercredis de 16h à 19h dans l'amphithéâtre du centre Saint-Charles (47 rue des bergers, 75015 Paris). Entrée libre et visioconférence sur demande, réservation auprès de confdesign.ufr04@gmail.com.
+Conférences organisé par Catherine Chomarat-Ruiz et les étudiantes et étudiants du Master 2 « **Design, Arts, Médias** ». Tous les mercredis de 16h à 19h dans l'amphithéâtre du centre Saint-Charles (47 rue des bergers, 75015 Paris). Entrée libre et visioconférence sur demande, réservation auprès de confdesign.ufr04@gmail.com.
 
 * **19 janvier 2022**, « Le textile au fil des siècles » /  Intervant·e·s: Bahéra Oujlakh, Azza Stambouli et Eva Taieb
 * **26 janvier 2022**, « Vidéos, nouveaux médias, archéologie des médias: une histoire de transmission à Saint Charles » / Intervant·e·s: Anne-Marie Duguet et Françoise Parfait
