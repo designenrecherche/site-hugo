@@ -79,11 +79,3 @@ Nowadays, organizations develop through an intensive use of innovative projects.
 
 * **Annie Gentes**, Télécom Paris, CoDesign Lab
 * **Estelle Berger**, École de design STRATE, Exalt Design Lab
-
-# Biographie
-
-{{% lang class="fr" %}}
-
-Formé à la recherche en design et au curating, Dorian Reunkrilerk entreprend une recherche autour des enjeux et des formes d’exposition du design.
-
-{{% /lang %}}
