@@ -1,6 +1,5 @@
 +++
 bureau = ""
-draft = true
 etablissement = "Ecole doctorale Bordeaux Montaigne Humanité / Laboratoire MICA (Médiations, Informations, Communication, Arts) / Laboratoire Digital Design Lab de l’Ecole de design Nantes Atlantique"
 membre_actif = true
 membre_bureau = false
