@@ -1,12 +1,12 @@
 +++
-category = "RDV asso"
+category = "Autre"
 dateevent = 2022-03-29T09:41:59Z
-description = ""
+description = "Design en recherche se lance dans une nouvelle aventure: un podcast pour discuter de nos expériences de la recherche en design ! Pour ce premier épisode, parlons de la naissance de nos thèse en design « Démarrer une thèse » "
 descriptiontemp = ""
 documents = ""
 lieu = ""
 publishDate = 2022-03-29T09:41:59Z
-tags = []
+tags = ["Podcast", "Thèse", "Vie de thèse"]
 time = "18h"
 title = "1er épisode du podcast Design en Recherche"
 type_page = "actions"
