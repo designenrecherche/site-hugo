@@ -12,8 +12,6 @@ title = "1er épisode du podcast Design en Recherche"
 type_page = "actions"
 
 +++
-Design en recherche se lance dans une nouvelle aventure: un podcast pour discuter de nos expériences de la recherche en design !
-
 Des cafés de gare aux laboratoires, les thèses de chacun et chacune d’entre nous s’inventent et s’écrivent à la frontière de nos vies professionnelles et personnelles. Parfois projet d’une vie ou hasard d’un parcours sinueux, ces expériences de la découverte de la recherche en design rencontrent les récits individuels, hétérogènes, parfois intimes de celles et ceux qui la vivent. Le podcast de Design en Recherche entend ouvrir un espace de discussion où les jeunes chercheur.euse.s partagent leur expérience de la recherche en design à travers leur parcours de vie, qu’elle marque, anime et oriente. Ce podcast est envisagé comme un espace protéiforme, un lieu d’expression libre dont la forme s’adaptera au sujet abordé et à celles et ceux qui l’animent. Avec ce nouveau format, Design en Recherche entend poursuivre sa mission, de rendre visible la jeune recherche en design francophone en favorisant la circulation d’information, la capitalisation des expériences et la réflexion collective entre jeunes chercheur.euse.s dont les travaux portent sur le design.
 
 {{< youtube gEAw4RiPtQo >}}
