@@ -20,19 +20,21 @@ Des cafés de gare aux laboratoires, les thèses de chacun et chacune d’entre 
 
 # Épisode 1: Démarrer une thèse
 
-Le premier épisode du podcast de l’association Design en Recherche parle de la naissance de quatre thèses en design : à quoi se confronte-t-on avant de commencer une thèse ? Comment parvenir à lancer ce projet ? Existe-t-il un ou plusieurs points de départ ? 
+Le premier épisode du podcast de l’association Design en Recherche parle de la naissance de quatre thèses en design : à quoi se confronte-t-on avant de commencer une thèse ? Comment parvenir à lancer ce projet ? Existe-t-il un ou plusieurs points de départ ?
 
-{{< youtube ma8P4rgVr2o >}}  
-  
+{{< youtube ma8P4rgVr2o >}}
+
+.
+
 Podcast enregistré le 10 septembre 2021, avec :
 
 * **Julie Blanc**, doctorante en ergonomie et design graphique, en dernière année de thèse, EUR ArTeC / Université Paris 8 - EA349 / EnsadLab.
 * **Alice Martin**, doctorante CIFRE dans une collectivité, en troisième année de thèse, PROJEKT / Université de Nîmes.
-* **Dorian Reunkrilerk**, doctorant CIFRE en Sciences de l’Information et de la Communication, dans une industrie, en dernière année de thèse, Codesign Lab & Media Studies / Telecom Paris / IP Paris 
-* **Rose Dumesny**, docteure en Sciences de l’Information et de la Communication dans une entreprise de télécommunications mention design, PROJEKT / Université de Nîmes & SENSe / XDLab / Orange. 
+* **Dorian Reunkrilerk**, doctorant CIFRE en Sciences de l’Information et de la Communication, dans une industrie, en dernière année de thèse, Codesign Lab & Media Studies / Telecom Paris / IP Paris
+* **Rose Dumesny**, docteure en Sciences de l’Information et de la Communication dans une entreprise de télécommunications mention design, PROJEKT / Université de Nîmes & SENSe / XDLab / Orange.
 
 Disponible sur [Youtube](https://www.youtube.com/watch?v=ma8P4rgVr2o "Youtube"), [Spotify](https://open.spotify.com/episode/4dZc2R697C3ZtwyAoSDMcV?si=cbb844ba09c84db7&nd=1 "Spotify") et [Apple Podcast](https://podcasts.apple.com/us/podcast/d%C3%A9marrer-une-th%C3%A8se/id1614277217?i=1000555095586 "Apple Podcast").
 
-Voix d’introduction et de conclusion : Rose Dumesny.   
-Montage : Zoé Bonnardot, Rose Dumesny.   
+Voix d’introduction et de conclusion : Rose Dumesny.  
+Montage : Zoé Bonnardot, Rose Dumesny.  
 Musique : Florent Chardevel.
