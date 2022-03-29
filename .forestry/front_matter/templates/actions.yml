@@ -69,6 +69,7 @@ fields:
   description: Programme, appel ou tout autre document utile
   hidden: false
 pages:
+- content/actions/1er-episode-du-podcast-design-en-recherche.md
 - content/actions/animation-des-reseaux-sociaux-de-l-association.md
 - content/actions/anticiper-l-experience-de-systemes-de-partage-d-energies-renouvelables-un-dispositif-de-simulation-ludique-pour-l-exploration-des-futurs.md
 - content/actions/atelier-1-how-to-faire-un-plan-de-these.md
