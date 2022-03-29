@@ -2,10 +2,10 @@
 beer:
   enable: true
   title: Bière des doctorant·e·s
-  summary: 'Pour bien commencer cette nouvelle année universitaire, nous vous invitons
-    à notre traditionnelle bière de rentrée ! La bière est aussi ouverte à celles
-    et ceux qui ne sont pas encore dans l’association et hésitent à nous rejoindre. '
-  date: 18 octobre à 18h30
-  lieu: 'Grand Bréguet, 17 Rue Breguet, 75011 Paris '
-  visio: false
-  linkVisio: https://visio.octopuce.fr/b/jul-u0f-fsu-pbe
+  summary: Réunissons nous en pixel pour que les membres de l'asso, même loin, puisse
+    échanger ! Ce sera aussi l'occasion d'accueillir nos nouveaux membres et de discuter
+    de tous les projets sur le feu.
+  date: 4 avril à 18h
+  lieu: En ligne
+  visio: true
+  linkVisio: https://u-paris.zoom.us/j/83984510150?pwd=TmV1UTVvam1ub1NlRC9mZVJ3Wjh2QT09
