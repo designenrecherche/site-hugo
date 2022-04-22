@@ -14,7 +14,7 @@ title = "Zoé Bonnardot"
 titrethese = "Anticiper l’expérience de systèmes de partage d’énergies renouvelables : un dispositif de simulation ludique pour l’exploration des futurs"
 titretheseEn = "Anticipate future experiences of renewable energy : a playful and participatory simulation tool for futures exploration"
 type_page = "membres"
-url_hal = ""
+url_hal = "https://tel.archives-ouvertes.fr/tel-03528096"
 url_thesesfr = "http://theses.fr/s193598"
 [contact]
 facebook = ""
