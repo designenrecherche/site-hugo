@@ -1,6 +1,6 @@
 +++
 category = "Soutenance de thèse"
-dateevent = 2022-04-14T22:00:00Z
+dateevent = 2022-04-15T07:00:00Z
 description = "Soutenance de Thèse de Dorian Reunkrilerk, en Sciences de l'information et de la Communication, spécialité Design"
 descriptiontemp = ""
 documents = ""
