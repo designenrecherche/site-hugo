@@ -4,7 +4,6 @@ dateevent = 2022-04-14T22:00:00Z
 description = "Soutenance de Thèse de Dorian Reunkrilerk, en Sciences de l'information et de la Communication, spécialité Design"
 descriptiontemp = ""
 documents = ""
-draft = true
 lieu = "Strate, école de design"
 publishDate = 2022-04-22T16:02:27Z
 tags = ["design", "conception réglée", "organisation", "médiation", "médium", "signe faible"]
