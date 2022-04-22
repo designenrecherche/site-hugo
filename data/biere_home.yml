@@ -2,10 +2,10 @@
 beer:
   enable: true
   title: Bière des doctorant·e·s
-  summary: Réunissons nous en pixel pour que les membres de l'asso, même loin, puisse
-    échanger ! Ce sera aussi l'occasion d'accueillir nos nouveaux membres et de discuter
-    de tous les projets sur le feu.
-  date: 4 avril à 18h
-  lieu: En ligne
-  visio: true
+  summary: Profitons du beau soleil du mois de mai pour des retrouvailles détendues
+    et adoucir la fin de l'année. Nouveaux membres croisés sur le slack ou en visio-pixel
+    particulièrement bienvenus!
+  date: 4 mai à 19h
+  lieu: Le Grand Bréguet – Paris, 11e
+  visio: false
   linkVisio: https://u-paris.zoom.us/j/83984510150?pwd=TmV1UTVvam1ub1NlRC9mZVJ3Wjh2QT09
