@@ -1,6 +1,5 @@
 +++
 bureau = ""
-draft = true
 etablissement = "Programme SACRe, EnsadLab, ENSAD-Université PSL"
 membre_actif = true
 membre_bureau = false
