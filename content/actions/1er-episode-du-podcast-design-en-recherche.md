@@ -8,7 +8,7 @@ lieu = ""
 publishDate = 2022-03-29T09:41:59Z
 tags = ["Podcast", "Thèse", "Vie de thèse"]
 time = "18h"
-title = "1er épisode du podcast Design en Recherche"
+title = "1er épisode du podcast Design en Recherche: Démarrer une thèse"
 type_page = "actions"
 
 +++
