@@ -72,12 +72,12 @@ Reconnues comme ayant des troubles d'interactions sociales et de la communicatio
 ## Direction de thèse
 
 * **Michela Deni**, Université de Nîmes, PROJEKT
-* **Anthony Masure**, Directeur de la Recherche, la HEAD-Genève
+* **Anthony Masure**, la HEAD-Genève
 
 # Biographie
 
 {{% lang class="fr" %}}
 
-Manon Ménard est designer graphique de formation (BTS et DSAA) et travaille depuis 2015 sur des thématiques pédagogiques, d'inclusions sociales et culturelles. Lauréate en 2017 de l'appel à projet Création en cours des Ateliers Médicis, ses recherches se situent en étroit lien avec différents établissements scolaires et éducatifs. Elle est également doctorante associée du laboratoire LLA-CRÉATIS et est chargée d’enseignement en Licence Design, Prospective et Société à l’Université Toulouse – Jean Jaurès. 
+Manon Ménard est designer graphique de formation (BTS et DSAA) et travaille depuis 2015 sur des thématiques pédagogiques, d'inclusions sociales et culturelles. Lauréate en 2017 de l'appel à projet Création en cours des Ateliers Médicis, ses recherches se situent en étroit lien avec différents établissements scolaires et éducatifs. Elle est également doctorante associée du laboratoire LLA-CRÉATIS et est chargée d’enseignement en Licence Design, Prospective et Société à l’Université Toulouse – Jean Jaurès.
 
 {{% /lang %}}
