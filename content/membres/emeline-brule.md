@@ -1,6 +1,8 @@
 +++
+bureau = ""
 etablissement = "Télécom Paristech, Institut Polytechnique de Paris"
-membre_actif = true
+membre_actif = false
+membre_bureau = false
 name = "brule"
 photo = "/images/brule-emeline.png"
 section_cnu = "71 Sciences de l'information et de la communication"
