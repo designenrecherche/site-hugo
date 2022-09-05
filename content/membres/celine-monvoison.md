@@ -1,6 +1,5 @@
 +++
 bureau = ""
-draft = true
 etablissement = "Université du Québec à Montréal (UQAM)"
 membre_actif = true
 membre_bureau = false
