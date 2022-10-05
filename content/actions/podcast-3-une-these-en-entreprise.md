@@ -1,5 +1,5 @@
 +++
-category = "RDV asso"
+category = "Autre"
 dateevent = 2022-10-05T09:33:20Z
 description = "Le troisième épisode du podcast de l’association Design en Recherche réunit trois doctorants.es et docteur.es pour partager leurs expériences dans la conduite d'une thèse CIFRE"
 descriptiontemp = ""
