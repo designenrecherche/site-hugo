@@ -1,8 +1,8 @@
 +++
-bureau = ""
+bureau = "Présidente"
 etablissement = " Laboratoire ACCRA (Approches contemporaines de la création et de la réflexion artistiques, Université de Strasbourg), Centre de Recherches en Histoire des Idées (CHRI, Université Côte-d'Azur) "
 membre_actif = true
-membre_bureau = false
+membre_bureau = true
 name = "Maurel"
 photo = "/images/photo-2021-12-15-15-45-33-copie.jpg"
 section_cnu = "18 Arts appliqués"
