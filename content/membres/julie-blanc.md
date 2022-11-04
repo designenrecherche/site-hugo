@@ -1,8 +1,8 @@
 +++
-bureau = "Présidente"
+bureau = ""
 etablissement = "EUR ArTeC / Université Paris 8 - EA349 / EnsadLab"
 membre_actif = true
-membre_bureau = true
+membre_bureau = false
 name = "blanc"
 photo = "/images/julie-blanc.jpg"
 section_cnu = "16 Psychologie, Ergonomie"
