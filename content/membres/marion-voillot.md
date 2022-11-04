@@ -2,7 +2,7 @@
 bureau = "Responsable Com Événements"
 etablissement = "IRCAM-STMS"
 membre_actif = true
-membre_bureau = true
+membre_bureau = false
 name = "voillot"
 photo = "/images/unnamed.jpg"
 section_cnu = "18 Arts appliqués"
