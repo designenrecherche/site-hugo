@@ -2,7 +2,7 @@
 bureau = "Secrétaire et vice trésorière"
 etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"
 membre_actif = true
-membre_bureau = true
+membre_bureau = false
 name = "menard"
 photo = "/images/phpto_insta1-1.jpg"
 section_cnu = "18 Arts appliqués"
