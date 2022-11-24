@@ -1,6 +1,5 @@
 +++
 bureau = ""
-draft = true
 etablissement = "STMS / UMR 9912 IRCAM, Centre de recherche en design ENSCI / ENS Paris-Saclay, Actronika"
 membre_actif = true
 membre_bureau = false
