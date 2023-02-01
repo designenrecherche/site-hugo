@@ -1,18 +1,20 @@
 +++
+bureau = ""
 etablissement = "Université Toulouse - Jean Jaurès, LLA CREATIS, LAAS-CNRS"
 membre_actif = true
+membre_bureau = false
 name = "rigot"
 photo = "/images/default-profil.jpg"
 section_cnu = "18 Arts appliqués"
 tags = ["Sciences humaines et humanités"]
-these_end = 0
-these_soutenue = false
+these_end = 2022
+these_soutenue = true
 these_start = 2018
 title = "Élise Rigot"
-titrethese = " Nano F(r)ictions, du désign dans le nanomonde"
+titrethese = "thèse suivante Design & savoirs sensibles : une recherche-création sur les technologies 3D et l'ingénierie du vivant au sein de l'anthropocène"
 titretheseEn = ""
 type_page = "membres"
-url_hal = ""
+url_hal = "https://theses.hal.science/tel-03847672"
 url_thesesfr = "http://www.theses.fr/2013ENAM0027"
 [contact]
 facebook = ""
@@ -57,7 +59,6 @@ post8link = ""
 post9link = ""
 
 +++
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 ## Direction de thèse
