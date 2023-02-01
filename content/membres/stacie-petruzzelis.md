@@ -1,18 +1,20 @@
 +++
+bureau = ""
 etablissement = "Université de Nîmes (Unîmes), Laboratoire PROJEKT"
 membre_actif = true
+membre_bureau = false
 name = "petruzzelis"
 photo = "/images/petruzzellis-stacie.png"
 section_cnu = "71 Sciences de l'information et de la communication"
 tags = ["Enfant", "Récit", "Design", "Vécu", "Jeu", "Émotions"]
-these_end = 0
-these_soutenue = false
+these_end = 2020
+these_soutenue = true
 these_start = 2016
 title = "Stacie Petruzzelis"
 titrethese = "Approche du designer pour favoriser l'expression des vécus : Création d'un dispositif de jeu permettant un espace de dialogue ritualisé pour accompagner la construction du récit émotionnel de l'enfant"
 titretheseEn = "Designer's approach to encourage the expression of feelings : creation of a game allowing a space for dialogue to build the emotional narrative of the child"
 type_page = "membres"
-url_hal = ""
+url_hal = "https://theses.hal.science/tel-03155245"
 url_thesesfr = "http://www.theses.fr/s193886"
 [contact]
 facebook = ""
