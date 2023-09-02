@@ -1,12 +1,12 @@
 ---
-label: Actions
+label: actions
 hide_body: false
 fields:
 - name: title
   type: text
   config:
     required: true
-  label: Titre
+  label: titre
 - name: type_page
   type: text
   default: actions
@@ -17,13 +17,13 @@ fields:
   description: Court texte de description
 - type: text
   name: descriptiontemp
-  label: description temporaire
+  label: description_temporaire
   description: Description temporaire pour la page d'accueil (annonce de l'évènement
     s'il n'est pas encore passé). Cette description sera changé dès que l'évènement
     est passé
 - type: tag_list
   name: tags
-  label: Mots-clés
+  label: mots_cles
   hidden: false
 - name: publishDate
   default: Now
@@ -31,7 +31,7 @@ fields:
   type: datetime
 - name: dateevent
   default: Now
-  label: Date de l'évènement
+  label: date_de_l_$3
   hidden: false
   type: datetime
   config:
@@ -41,10 +41,10 @@ fields:
   type: text
   config:
     required: true
-  label: Horaire (de début)
+  label: horaire_de_debut
 - type: select
   name: category
-  label: Catégorie
+  label: categorie
   hidden: false
   required: true
   default: RDV asso
@@ -62,10 +62,10 @@ fields:
     - Autre
 - type: text
   name: lieu
-  label: Lieu de l'évènement
+  label: lieu_de_l_$3
 - type: file
   name: documents
-  label: Documents
+  label: documents
   description: Programme, appel ou tout autre document utile
   hidden: false
 pages:

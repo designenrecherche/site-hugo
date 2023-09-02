@@ -1,5 +1,5 @@
 ---
-label: Breves
+label: breves
 hide_body: false
 fields:
 - type: text
@@ -11,17 +11,17 @@ fields:
   description: Court texte de description
 - name: publishDate
   default: Now
-  label: Date
+  label: date
   hidden: true
   type: datetime
 - type: text
   name: link
-  label: URL
+  label: url
   description: URL de redirection vers site de l'évènement, l'appel à communication,
     la proposition, etc.
 - type: file
   name: documents
-  label: Documents
+  label: documents
   description: Programme, appel ou tout autre document utile
   hidden: false
 pages:

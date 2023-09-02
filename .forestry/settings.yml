@@ -6,45 +6,45 @@ webhook_url:
 sections:
 - type: directory
   path: content/about
-  label: About
+  label: about
   create: none
   match: "*"
 - type: directory
   path: content/actions
-  label: Nos actions
+  label: nos_actions
   create: all
   match: "**/*"
   templates:
   - actions
 - type: directory
   path: content/membres
-  label: Membres
+  label: membres
   create: all
   match: "**/*"
   templates:
   - membres
 - type: directory
   path: content/breves
-  label: Brèves
+  label: breves
   create: all
   match: "**/*"
   templates:
   - breves
 - type: directory
   path: content/contact-adhesion
-  label: Adhésion
+  label: adhesion
   create: none
   match: "*"
 - type: directory
   path: content/popup
-  label: Popup
+  label: popup
   create: all
   match: "**/*"
   templates:
   - popup
 - type: directory
   path: data
-  label: Data
+  label: data
   create: documents
   match: "*"
   new_doc_ext: yml

@@ -63,8 +63,6 @@ post9link = ""
 
 # Résumé de thèse
 
-{{% lang class="fr" %}}
-
 Cette thèse porte sur la notion de « l’expérience utilisateur » (UX) dans les interfaces graphiques et se propose d’en faire une histoire critique. Ce travail vise à permettre d’éclairer les designers graphiques actuels sur les fondements de cette branche de leur discipline et ainsi prétend les émanciper d’un appareil théorique et pratique qui s’est défini en dehors d’eux-mêmes, mais qui fait office de norme actuellement.
 
 Un deuxième objectif de ce projet est aussi de relier l’histoire des interfaces graphiques à celle des médias, et, de mieux comprendre les liens qui existent. Ce qui impose d’ouvrir le champ du design graphique à celui du design des artefacts médiatiques en analysant l’expérience globale de lecture ou de consultation d’un livre, d’une tablette mésopotamienne ou d’un manuscrit.
@@ -76,8 +74,6 @@ Ainsi, il s’agit autant d’éclairer des pratiques du numériques que de reco
 * **Catherine de Smet**, Paris 8, EDESTA Labo EA4010
 
 # Biographie
-
-{{% lang class="fr" %}}
 
 Emmanuel Debien est designer graphique et doctorant à l’EDESTA de Paris 8. Après un parcours d'études consacré au design graphique imprimé à Paris, il obtient son Master en 2007 avec un projet sur la question de l'appropriation par l'utilisateur de sa navigation web, via une réflexion autour des marques-page, des historiques de navigation et des flux RSS. Il intègre ensuite un cycle de recherche franco-chinois travaillant sur une histoire comparée de la mise en page en Chine et en occident. Ce projet donne lieu à une résidence de travail en Chine, ainsi qu'une exposition et une publication sur place.
 

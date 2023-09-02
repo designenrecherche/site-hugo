@@ -1,5 +1,5 @@
 ---
-label: Popup
+label: popup
 hide_body: false
 fields:
 - name: title
@@ -9,12 +9,12 @@ fields:
     required: true
 - name: publishDate
   default: Now
-  label: Date
+  label: date
   hidden: true
   type: datetime
 - name: display
   type: boolean
-  label: Afficher le Pop Up
+  label: afficher_le_pop_up
   default: true
 pages:
 - content/popup/actualite.md

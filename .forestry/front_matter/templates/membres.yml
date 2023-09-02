@@ -1,41 +1,41 @@
 ---
-label: Membres
+label: membres
 hide_body: false
 fields:
 - name: title
   type: text
   config:
     required: true
-  label: Prénom Nom
+  label: prenom_nom
 - name: name
   type: text
   config:
     required: true
-  label: Nom de famille (pour tri par ordre alphabétique)
+  label: nom_de_famille_pour_tri_par_ordre_alphabetique
 - name: membre_actif
   type: boolean
-  label: Membre actif
+  label: membre_actif
 - name: membre_bureau
   type: boolean
-  label: Membre du bureau
+  label: membre_du_bureau
   default: false
 - name: bureau
   type: text
-  label: Statut si membre du bureau
+  label: statut_si_membre_du_bureau
 - name: type_page
   type: text
   default: membres
   hidden: true
 - type: file
   name: photo
-  label: Photo de profil
+  label: photo_de_profil
   hidden: false
   default: "/images/default-profil.jpg"
 - name: etablissement
   type: text
   config:
     required: false
-  label: Établissement(s), laboratoire(s)
+  label: etablissements_laboratoires
 - name: section_cnu
   type: select
   default: ''
@@ -105,22 +105,22 @@ fields:
     - 72 Epistémologie, histoire des sciences et des techniques
     - 73 Cultures et langues régionales
     - 74 Sciences et techniques des activités physiques et sportives
-  label: Section CNU
+  label: section_cnu
 - name: titrethese
   type: text
   default: ''
   config:
     required: true
-  label: Titre de la thèse (FR)
+  label: titre_de_la_these_fr
 - name: titretheseEn
   type: text
   default: ''
   config:
     required: false
-  label: Titre de la thèse en anglais (EN)
+  label: titre_de_la_these_en_anglais_en
 - name: these_start
   type: number
-  label: Date d'inscription en thèse
+  label: date_d_$3
   description: ''
   default: 0
   config:
@@ -130,10 +130,10 @@ fields:
     step: 
 - name: these_soutenue
   type: boolean
-  label: Thèse soutenue
+  label: these_soutenue
 - name: these_end
   type: number
-  label: Date de soutenance de thèse
+  label: date_de_soutenance_de_these
   description: ''
   default: 0
   config:
@@ -141,7 +141,7 @@ fields:
 - name: tags
   type: tag_list
   default: []
-  label: Mots-clés
+  label: mots_cles
   description: Quelques mots-clés pour décrire ta thèse
 - name: contact
   type: field_group
@@ -156,64 +156,64 @@ fields:
     type: text
     config:
       required: false
-    label: site perso
+    label: site_perso
   - name: telephone
     type: text
-    label: Téléphone
+    label: telephone
     config:
       required: false
   - name: twitter
     type: text
     config:
       required: false
-    label: Twitter
+    label: twitter
   - name: linkedin
     type: text
     config:
       required: false
-    label: Linkedin
+    label: linkedin
   - name: instagram
     type: text
     config:
       required: false
-    label: Instagram
+    label: instagram
   - name: facebook
     type: text
     config:
       required: false
-    label: Facebook
+    label: facebook
   - name: medium
     type: text
     config:
       required: false
-    label: Medium
+    label: medium
   - name: hypotheses
     type: text
     config:
       required: false
-    label: Carnet Hypothèses
+    label: carnet_hypotheses
   - name: github
     type: text
     config:
       required: false
-    label: Github
+    label: github
   - name: gitlab
     type: text
     config:
       required: false
-    label: Gitlab
-  label: Contact
+    label: gitlab
+  label: contact
   description: Mail, site perso, réseaux sociaux, téléphone... (à toi de choisir)
 - name: url_thesesfr
   type: text
   config:
     required: false
-  label: URL theses.fr
+  label: url_theses_fr
 - name: url_hal
   type: text
   config:
     required: false
-  label: Lien thèse (HAL)
+  label: lien_these_hal
 - name: instagram_1
   description: Liens de la résidence instagram
   type: field_group
@@ -273,90 +273,90 @@ fields:
     type: text
     config:
       required: false
-    label: Lien post 1
+    label: lien_post_1
   - type: file
     name: img1
-    label: Image post 1
+    label: image_post_1
     hidden: false
     default: ''
   - name: post2link
     type: text
     config:
       required: false
-    label: Lien post 2
+    label: lien_post_2
   - type: file
     name: img2
-    label: Image post 2
+    label: image_post_2
     hidden: false
     default: ''
   - name: post3link
     type: text
     config:
       required: false
-    label: Lien post 3
+    label: lien_post_3
   - type: file
     name: img3
-    label: Image post 3
+    label: image_post_3
     hidden: false
     default: ''
   - name: post4link
     type: text
     config:
       required: false
-    label: Lien post 4
+    label: lien_post_4
   - type: file
     name: img4
-    label: Image post 4
+    label: image_post_4
     hidden: false
     default: ''
   - name: post5link
     type: text
     config:
       required: false
-    label: Lien post 5
+    label: lien_post_5
   - type: file
     name: img5
-    label: Image post 5
+    label: image_post_5
     hidden: false
     default: ''
   - name: post6link
     type: text
     config:
       required: false
-    label: Lien post 6
+    label: lien_post_6
   - type: file
     name: img6
-    label: Image post 6
+    label: image_post_6
     hidden: false
     default: ''
   - name: post7link
     type: text
     config:
       required: false
-    label: Lien post 7
+    label: lien_post_7
   - type: file
     name: img7
-    label: Image post 7
+    label: image_post_7
     hidden: false
     default: ''
   - name: post8link
     type: text
     config:
       required: false
-    label: Lien post 8
+    label: lien_post_8
   - type: file
     name: img8
-    label: Image post 8
+    label: image_post_8
     hidden: false
     default: ''
   - name: post9link
     type: text
     config:
       required: false
-    label: Lien post 9
+    label: lien_post_9
   - type: file
     name: img9
-    label: Image post 9
+    label: image_post_9
     hidden: false
     default: ''
 pages:
