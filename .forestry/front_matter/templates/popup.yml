@@ -5,6 +5,7 @@ fields:
 - name: title
   type: text
   default: Actualité
+  label: title
   config:
     required: true
 - name: publishDate

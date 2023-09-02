@@ -8,6 +8,7 @@ fields:
     required: true
   label: titre
 - name: type_page
+  label: type_page
   type: text
   default: actions
   hidden: true
@@ -26,6 +27,7 @@ fields:
   label: mots_cles
   hidden: false
 - name: publishDate
+  label: date_de_publication
   default: Now
   hidden: true
   type: datetime
