@@ -1,20 +1,25 @@
 ---
+category: Publication
+dateevent: '2015-05-27T07:40:28Z'
+description: >-
+  Cet article, paru dans le numéro 1 de la revue Sciences du design, traite des
+  formes et formats de thèses dans le contexte de la recherche en design.
+descriptiontemp: ''
+documents: ''
+lieu: ''
+publishDate: '2015-05-27T07:40:28Z'
+tags:
+  - thèse de doctorat
+  - norme
+  - format
+  - édition
+  - recherche en design
+  - publication
+title: 'Le design de la recherche : conventions et déplacements du doctorat en design'
+type_page: actions
 _template: actions
 ---
 
-+++
-category = "Publication"
-description = "Cet article, paru dans le numéro 1 de la revue Sciences du design, traite des formes et formats de thèses dans le contexte de la recherche en design."
-descriptiontemp = ""
-documents = ""
-lieu = ""
-publishDate = 2015-05-27T07:40:28Z
-dateevent = 2015-05-27T07:40:28Z
-tags = ["thèse de doctorat", "norme", "format", "édition", "recherche en design", "publication"]
-title = "Le design de la recherche : conventions et déplacements du doctorat en design"
-type_page = "actions"
-
-+++
 Article paru dans le premier numéro de la revue francophone Sciences du design, par Émeline Brulé et Anthony Masure.
 
 **Résumé**

@@ -1,68 +1,73 @@
 ---
+bureau: ''
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: ''
+  mail: ''
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: ''
+etablissement: 'Université de Nîmes (Unîmes), laboratoire PROJEKT'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: false
+membre_bureau: false
+name: polesello
+photo: /images/default-profil.jpg
+section_cnu: 18 Arts appliqués
+tags:
+  - Créativité
+  - Méthodologie
+  - Apprentissage
+  - Innovation
+these_end: 0
+these_soutenue: false
+these_start: 2017
+title: Karen Polesello
+titrethese: >-
+  L'innovation pédagogique par le design en milieu élémentaire : la pratique
+  comme nouvelle forme d'apprentissage.
+titretheseEn: >-
+  Educational innovation through design in elementary school : learning by
+  doing.
+type_page: membres
+url_hal: ''
+url_thesesfr: 'http://www.theses.fr/s193599'
 _template: membres
 ---
 
-+++
-bureau = ""
-etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"
-membre_actif = false
-membre_bureau = false
-name = "polesello"
-photo = "/images/default-profil.jpg"
-section_cnu = "18 Arts appliqués"
-tags = ["Créativité", "Méthodologie", "Apprentissage", "Innovation"]
-these_end = 0
-these_soutenue = false
-these_start = 2017
-title = "Karen Polesello"
-titrethese = "L'innovation pédagogique par le design en milieu élémentaire : la pratique comme nouvelle forme d'apprentissage."
-titretheseEn = "Educational innovation through design in elementary school : learning by doing."
-type_page = "membres"
-url_hal = ""
-url_thesesfr = "http://www.theses.fr/s193599"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = ""
-mail = ""
-medium = ""
-site = ""
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
-
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse

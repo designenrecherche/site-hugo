@@ -1,66 +1,75 @@
 ---
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: 'https://www.linkedin.com/in/renaudmignerey/'
+  mail: renaudmignerey@gmail.com
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: ''
+etablissement: 'Université de Technologie de Compiègne, COSTECH'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+name: migneray
+photo: /images/image1-copie.jpg
+section_cnu: 71 Sciences de l'information et de la communication
+tags:
+  - Interaction
+  - Expérience Vécue
+  - Relation
+  - Perception
+  - Dynamique interpersonnelle
+  - Relations humaines
+  - Relations intergroupes
+  - Émotions
+  - Design
+  - Toucher
+  - Automobiles
+  - Conduite automobile
+these_end: 2019
+these_soutenue: true
+these_start: 2015
+title: Renaud Mignerey
+titrethese: ' Designer les interactions humain-monde pour susciter des émotions positives : application à l’automobile'
+titretheseEn: Designing human-world interactions to create positive emotions
+type_page: membres
+url_hal: 'https://hal.archives-ouvertes.fr/tel-02407889/'
+url_thesesfr: 'http://www.theses.fr/2019COMP2503'
 _template: membres
 ---
 
-+++
-etablissement = "Université de Technologie de Compiègne, COSTECH"
-membre_actif = true
-name = "migneray"
-photo = "/images/image1-copie.jpg"
-section_cnu = "71 Sciences de l'information et de la communication"
-tags = ["Interaction", "Expérience Vécue", "Relation", "Perception", "Dynamique interpersonnelle", "Relations humaines", "Relations intergroupes", "Émotions", "Design", "Toucher", "Automobiles", "Conduite automobile"]
-these_end = 2019
-these_soutenue = true
-these_start = 2015
-title = "Renaud Mignerey"
-titrethese = " Designer les interactions humain-monde pour susciter des émotions positives : application à l’automobile"
-titretheseEn = "Designing human-world interactions to create positive emotions"
-type_page = "membres"
-url_hal = "https://hal.archives-ouvertes.fr/tel-02407889/"
-url_thesesfr = "http://www.theses.fr/2019COMP2503"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = "https://www.linkedin.com/in/renaudmignerey/"
-mail = "renaudmignerey@gmail.com"
-medium = ""
-site = ""
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
-
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse

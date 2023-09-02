@@ -1,68 +1,77 @@
 ---
+bureau: ''
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: ''
+  mail: ''
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: ''
+etablissement: 'Université de Nîmes (Unîmes), Laboratoire PROJEKT'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+membre_bureau: false
+name: petruzzelis
+photo: /images/petruzzellis-stacie.png
+section_cnu: 71 Sciences de l'information et de la communication
+tags:
+  - Enfant
+  - Récit
+  - Design
+  - Vécu
+  - Jeu
+  - Émotions
+these_end: 2020
+these_soutenue: true
+these_start: 2016
+title: Stacie Petruzzelis
+titrethese: >-
+  Approche du designer pour favoriser l'expression des vécus : Création d'un
+  dispositif de jeu permettant un espace de dialogue ritualisé pour accompagner
+  la construction du récit émotionnel de l'enfant
+titretheseEn: >-
+  Designer's approach to encourage the expression of feelings : creation of a
+  game allowing a space for dialogue to build the emotional narrative of the
+  child
+type_page: membres
+url_hal: 'https://theses.hal.science/tel-03155245'
+url_thesesfr: 'http://www.theses.fr/s193886'
 _template: membres
 ---
 
-+++
-bureau = ""
-etablissement = "Université de Nîmes (Unîmes), Laboratoire PROJEKT"
-membre_actif = true
-membre_bureau = false
-name = "petruzzelis"
-photo = "/images/petruzzellis-stacie.png"
-section_cnu = "71 Sciences de l'information et de la communication"
-tags = ["Enfant", "Récit", "Design", "Vécu", "Jeu", "Émotions"]
-these_end = 2020
-these_soutenue = true
-these_start = 2016
-title = "Stacie Petruzzelis"
-titrethese = "Approche du designer pour favoriser l'expression des vécus : Création d'un dispositif de jeu permettant un espace de dialogue ritualisé pour accompagner la construction du récit émotionnel de l'enfant"
-titretheseEn = "Designer's approach to encourage the expression of feelings : creation of a game allowing a space for dialogue to build the emotional narrative of the child"
-type_page = "membres"
-url_hal = "https://theses.hal.science/tel-03155245"
-url_thesesfr = "http://www.theses.fr/s193886"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = ""
-mail = ""
-medium = ""
-site = ""
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
-
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse

@@ -1,24 +1,32 @@
 ---
+banner: /uploads/2017/12/31/placeholder.jpg
+category: Journée d'étude
+date_event: '2017-04-26T10:00:00+00:00'
+date_start: '2017-04-25T22:00:00.000+00:00'
+dateevent: '2017-04-26T08:00:12Z'
+description: >-
+  Cette journée d'étude met en écho et en tension le rapport entre corps et
+  fiction 
+descriptiontemp: ''
+documents: ''
+lieu: Université de Strasbourg
+publishDate: '2017-04-26T08:00:12Z'
+tags:
+  - Conception
+  - fictions
+  - corps
+  - hybrides
+  - biodesign
+  - technologies
+  - écart
+  - environnement
+  - politique
+time: 10h
+title: 'Conception, Corps et Fiction'
+type_page: actions
 _template: actions
 ---
 
-+++
-banner = "/uploads/2017/12/31/placeholder.jpg"
-category = "Journée d'étude"
-date_event = "2017-04-26T10:00:00+00:00"
-date_start = "2017-04-25T22:00:00.000+00:00"
-description = "Cette journée d'étude met en écho et en tension le rapport entre corps et fiction "
-descriptiontemp = ""
-documents = ""
-lieu = "Université de Strasbourg"
-publishDate = 2017-04-26T08:00:12Z
-dateevent = 2017-04-26T08:00:12Z
-tags = ["Conception", "fictions", "corps", "hybrides", "biodesign", "technologies", "écart", "environnement", "politique"]
-time = "10h"
-title = "Conception, Corps et Fiction"
-type_page = "actions"
-
-+++
 # Thématique
 
 ## Corps

@@ -1,68 +1,70 @@
 ---
+bureau: Responsable Com Événements
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: 'https://www.linkedin.com/in/marion-voillot-23b1a4124/'
+  mail: voillotmarion@gmail.com
+  medium: ''
+  site: 'https://www.marionvoillot.com'
+  telephone: ''
+  twitter: 'https://twitter.com/marion_voillot'
+etablissement: IRCAM-STMS
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+membre_bureau: false
+name: voillot
+photo: /images/unnamed.jpg
+section_cnu: 18 Arts appliqués
+tags:
+  - Éducation à la petite enfance
+  - Culture numérique
+  - Embodiment
+these_end: 2022
+these_soutenue: true
+these_start: 2018
+title: Marion Voillot
+titrethese: >-
+  Le corps au coeur de l’apprentissage grâce au numérique. Exploration d’un
+  nouveau paradigme pour l’éducation à la petite enfance 
+titretheseEn: 'Exploring embodied learning for early childhood education. '
+type_page: membres
+url_hal: ''
+url_thesesfr: ''
 _template: membres
 ---
 
-+++
-bureau = "Responsable Com Événements"
-etablissement = "IRCAM-STMS"
-membre_actif = true
-membre_bureau = false
-name = "voillot"
-photo = "/images/unnamed.jpg"
-section_cnu = "18 Arts appliqués"
-tags = ["Éducation à la petite enfance", "Culture numérique", "Embodiment"]
-these_end = 2022
-these_soutenue = true
-these_start = 2018
-title = "Marion Voillot"
-titrethese = "Le corps au coeur de l’apprentissage grâce au numérique. Exploration d’un nouveau paradigme pour l’éducation à la petite enfance "
-titretheseEn = "Exploring embodied learning for early childhood education. "
-type_page = "membres"
-url_hal = ""
-url_thesesfr = ""
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = "https://www.linkedin.com/in/marion-voillot-23b1a4124/"
-mail = "voillotmarion@gmail.com"
-medium = ""
-site = "https://www.marionvoillot.com"
-telephone = ""
-twitter = "https://twitter.com/marion_voillot"
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
-
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse

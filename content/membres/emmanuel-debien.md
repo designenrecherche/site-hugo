@@ -1,68 +1,75 @@
 ---
+bureau: ''
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: ''
+  mail: emmanuel.debien@gmail.com
+  medium: ''
+  site: 'http://emmanueldebien.info'
+  telephone: ''
+  twitter: ''
+etablissement: 'Paris 8, EDESTA Labo EA4010 '
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+membre_bureau: false
+name: Debien
+photo: /images/tvnyhi5n.jpeg
+section_cnu: 71 Sciences de l'information et de la communication
+tags:
+  - Design d'interface
+  - Mise en page
+  - Histoire des outils
+  - Skeuomorphisme
+  - Système d'exploitation
+  - UX/UI
+  - Expérience utilisateur
+  - Design graphique
+these_end: 0
+these_soutenue: false
+these_start: 2017
+title: Emmanuel Debien
+titrethese: >-
+  L’ « expérience utilisateur » en question : histoire critique du design
+  d’interface
+titretheseEn: ''
+type_page: membres
+url_hal: ''
+url_thesesfr: 'http://www.theses.fr/s222158'
 _template: membres
 ---
 
-+++
-bureau = ""
-etablissement = "Paris 8, EDESTA Labo EA4010 "
-membre_actif = true
-membre_bureau = false
-name = "Debien"
-photo = "/images/tvnyhi5n.jpeg"
-section_cnu = "71 Sciences de l'information et de la communication"
-tags = ["Design d'interface", "Mise en page", "Histoire des outils", "Skeuomorphisme", "Système d'exploitation", "UX/UI", "Expérience utilisateur", "Design graphique"]
-these_end = 0
-these_soutenue = false
-these_start = 2017
-title = "Emmanuel Debien"
-titrethese = "L’ « expérience utilisateur » en question : histoire critique du design d’interface"
-titretheseEn = ""
-type_page = "membres"
-url_hal = ""
-url_thesesfr = "http://www.theses.fr/s222158"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = ""
-mail = "emmanuel.debien@gmail.com"
-medium = ""
-site = "http://emmanueldebien.info"
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
-
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse

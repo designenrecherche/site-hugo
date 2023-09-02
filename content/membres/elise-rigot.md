@@ -1,68 +1,68 @@
 ---
+bureau: ''
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: ''
+  mail: ''
+  medium: ''
+  site: 'http://eliserigot.com/#/'
+  telephone: ''
+  twitter: ''
+etablissement: 'Université Toulouse - Jean Jaurès, LLA CREATIS, LAAS-CNRS'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+membre_bureau: false
+name: rigot
+photo: /images/qsq1i99i_400x400.jpeg
+section_cnu: 18 Arts appliqués
+tags:
+  - Sciences humaines et humanités
+these_end: 2022
+these_soutenue: true
+these_start: 2018
+title: Élise Rigot
+titrethese: >-
+  Design & savoirs sensibles : une recherche-création sur les technologies 3D et
+  l'ingénierie du vivant au sein de l'anthropocène
+titretheseEn: ''
+type_page: membres
+url_hal: 'https://theses.hal.science/tel-03847672'
+url_thesesfr: 'http://www.theses.fr/2013ENAM0027'
 _template: membres
 ---
 
-+++
-bureau = ""
-etablissement = "Université Toulouse - Jean Jaurès, LLA CREATIS, LAAS-CNRS"
-membre_actif = true
-membre_bureau = false
-name = "rigot"
-photo = "/images/qsq1i99i_400x400.jpeg"
-section_cnu = "18 Arts appliqués"
-tags = ["Sciences humaines et humanités"]
-these_end = 2022
-these_soutenue = true
-these_start = 2018
-title = "Élise Rigot"
-titrethese = "Design & savoirs sensibles : une recherche-création sur les technologies 3D et l'ingénierie du vivant au sein de l'anthropocène"
-titretheseEn = ""
-type_page = "membres"
-url_hal = "https://theses.hal.science/tel-03847672"
-url_thesesfr = "http://www.theses.fr/2013ENAM0027"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = ""
-mail = ""
-medium = ""
-site = "http://eliserigot.com/#/"
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
-
-+++
 # Résumé de thèse
 
 {{% lang class="fr" %}}

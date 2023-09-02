@@ -1,21 +1,29 @@
 ---
+category: Journée d'étude
+dateevent: '2015-05-07T12:34:46Z'
+description: >-
+  Alors que les écoles d'art et de design s'interrogent depuis de nombreuses
+  années sur la place et le rôle du numérique dans l'enseignement, cette journée
+  sera l'occasion d’échanger sur ces notions dans le contexte du design
+  graphique
+descriptiontemp: ''
+documents: ''
+lieu: 'EHESS, 54 Boulevard Raspail, 75006 Paris'
+publishDate: '2015-05-07T12:34:46Z'
+tags:
+  - journée d'étude
+  - enseignement
+  - design graphique
+  - numérique
+  - écoles d'art et de design
+time: 9h
+title: >-
+  Enseigne/Designer : l’enseignement du design graphique aux frontières du
+  numérique
+type_page: actions
 _template: actions
 ---
 
-+++
-category = "Journée d'étude"
-description = "Alors que les écoles d'art et de design s'interrogent depuis de nombreuses années sur la place et le rôle du numérique dans l'enseignement, cette journée sera l'occasion d’échanger sur ces notions dans le contexte du design graphique"
-descriptiontemp = ""
-documents = ""
-lieu = "EHESS, 54 Boulevard Raspail, 75006 Paris"
-publishDate = 2015-05-07T12:34:46Z
-dateevent = 2015-05-07T12:34:46Z
-tags = ["journée d'étude", "enseignement", "design graphique", "numérique", "écoles d'art et de design"]
-time = "9h"
-title = "Enseigne/Designer : l’enseignement du design graphique aux frontières du numérique"
-type_page = "actions"
-
-+++
 Depuis la création du Bauhaus en 1919 par Walter Gropius, l'enseignement du design pose des problèmes qui lui sont propres, entre art, industrie, et transmission. Dans le même temps, il rejouait déjà des enjeux historiques autour du développement de l'inventivité ou de la maîtrise technique.
 
 La matinée sera consacrée à la présentation de plusieurs perspectives de recherche engagées en écoles d’art, avec une discussion autour de leurs singularités pédagogiques. L’après-midi, nous aurons l’occasion de discuter sur les pratiques d'enseignement dites alternatives issues ou reconfigurées par le numérique (plateformes en ligne, tiers-lieux d'apprentissage, etc.). Une table-ronde réunissant tous les intervenants clôturera la journée.

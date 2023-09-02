@@ -1,21 +1,21 @@
 ---
+category: Partenariat
+dateevent: '2020-01-31T17:00:41Z'
+description: "Le podcast \U0001F4FB Bio Is The New Black \U0001F991 organise un dialogue enregistré en public entre Xavier Guchet et Anthony Masure. "
+descriptiontemp: ''
+documents: ''
+lieu: 'CRI - Paris, Classroom 3.11  8 bis rue Charles V, 75004 Paris'
+publishDate: '2020-01-31T16:58:41Z'
+tags:
+  - Partenariat
+  - Podcast
+  - Biologie
+time: 10h15
+title: 'Podcast : Bio is The New Black'
+type_page: actions
 _template: actions
 ---
 
-+++
-category = "Partenariat"
-dateevent = 2020-01-31T17:00:41Z
-description = "Le podcast 📻 Bio Is The New Black 🦑 organise un dialogue enregistré en public entre Xavier Guchet et Anthony Masure. "
-descriptiontemp = ""
-documents = ""
-lieu = "CRI - Paris, Classroom 3.11  8 bis rue Charles V, 75004 Paris"
-publishDate = 2020-01-31T16:58:41Z
-tags = ["Partenariat", "Podcast", "Biologie"]
-time = "10h15"
-title = "Podcast : Bio is The New Black"
-type_page = "actions"
-
-+++
 Quelles sont les différences de méthodologies de recherche en sciences et design ? Quels sont les biais d’une « scientifisation » du design à des fins de recherche ? Comment pratiquer concrètement la recherche en design ?
 
 Sous la forme d’un dialogue ouvert et spontané nous déploierons ces questions et ouvrirons les perspectives en terme de positionnement et d’action pour les chercheur.e.s en design.

@@ -1,66 +1,64 @@
 ---
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: ''
+  mail: ''
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: ''
+etablissement: 'Université Bordeaux Montaigne, MICA, Axe IDEM'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+name: harmand
+photo: /images/default-profil.jpg
+section_cnu: 71 Sciences de l'information et de la communication
+tags:
+  - Sciences de l'hommes et des humanités
+these_end: 0
+these_soutenue: false
+these_start: 2016
+title: Florian Harmand
+titrethese: 'Ecologie d''un système homme-machine : design et éthique pour un projet R & D'
+titretheseEn: 'Ecology of a man-machine system : design and ethic in a R&D project'
+type_page: membres
+url_hal: ''
+url_thesesfr: 'http://www.theses.fr/s171785'
 _template: membres
 ---
 
-+++
-etablissement = "Université Bordeaux Montaigne, MICA, Axe IDEM"
-membre_actif = true
-name = "harmand"
-photo = "/images/default-profil.jpg"
-section_cnu = "71 Sciences de l'information et de la communication"
-tags = ["Sciences de l'hommes et des humanités"]
-these_end = 0
-these_soutenue = false
-these_start = 2016
-title = "Florian Harmand"
-titrethese = "Ecologie d'un système homme-machine : design et éthique pour un projet R & D"
-titretheseEn = "Ecology of a man-machine system : design and ethic in a R&D project"
-type_page = "membres"
-url_hal = ""
-url_thesesfr = "http://www.theses.fr/s171785"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = ""
-mail = ""
-medium = ""
-site = ""
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
-
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse

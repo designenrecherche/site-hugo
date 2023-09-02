@@ -1,66 +1,80 @@
 ---
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: >-
+    www.linkedin.com/in/rémy-teyssedre-1480b7a3 remyteyssedre@gmail.com
+    https://www.instagram.com/t_remy_t/
+  mail: ''
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: ''
+etablissement: >-
+  Paris Seine Graduate School Humanités, Création et Patrimoine, LAREP
+  Laboratoire de recherche en projet de paysage
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+name: teyssedre
+photo: /images/imageannuaire.jpg
+section_cnu: '24 Aménagement de l''espace, urbanisme'
+tags:
+  - Paysage
+  - Design
+  - Outil
+  - Participation
+  - Territoire
+  - Ingénierie
+  - Territoriale
+these_end: 0
+these_soutenue: false
+these_start: 2018
+title: Rémy Teyssèdre
+titrethese: >-
+  La pratique du design au service de l’habitant : conception de démarches et
+  d’outils de médiations paysagères dans le contexte du Parc naturel régional de
+  l’Aubrac.
+titretheseEn: >-
+  The practice of design at the service of inhabitant : creating design
+  processes and mediation landscape instruments in the Aubrac Natural Regional
+  Park area.
+type_page: membres
+url_hal: ''
+url_thesesfr: ''
 _template: membres
 ---
 
-+++
-etablissement = "Paris Seine Graduate School Humanités, Création et Patrimoine, LAREP Laboratoire de recherche en projet de paysage"
-membre_actif = true
-name = "teyssedre"
-photo = "/images/imageannuaire.jpg"
-section_cnu = "24 Aménagement de l'espace, urbanisme"
-tags = ["Paysage", "Design", "Outil", "Participation", "Territoire", "Ingénierie", "Territoriale"]
-these_end = 0
-these_soutenue = false
-these_start = 2018
-title = "Rémy Teyssèdre"
-titrethese = "La pratique du design au service de l’habitant : conception de démarches et d’outils de médiations paysagères dans le contexte du Parc naturel régional de l’Aubrac."
-titretheseEn = "The practice of design at the service of inhabitant : creating design processes and mediation landscape instruments in the Aubrac Natural Regional Park area."
-type_page = "membres"
-url_hal = ""
-url_thesesfr = ""
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = "www.linkedin.com/in/rémy-teyssedre-1480b7a3 remyteyssedre@gmail.com https://www.instagram.com/t_remy_t/"
-mail = ""
-medium = ""
-site = ""
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
-
-+++
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 

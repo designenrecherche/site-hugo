@@ -1,68 +1,76 @@
 ---
+bureau: ''
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: 'https://www.instagram.com/v.aulio/'
+  linkedin: 'www.linkedin.com/in/valentin-aubois-liogier '
+  mail: 'valentin.auboisliogier@univ-tours.fr '
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: 'https://twitter.com/v_aulio/'
+etablissement: 'Université de Tours, CITERES/DATE'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+membre_bureau: false
+name: Aubois-Liogier
+photo: /images/photo_valentinauboisliogier.jpg
+section_cnu: '24 Aménagement de l''espace, urbanisme'
+tags:
+  - Séparation à la source
+  - Sensibilités
+  - Changement social
+  - Acceptabilité
+  - Toilettes
+  - Design
+  - Urbanisme
+these_end: 0
+these_soutenue: false
+these_start: 2021
+title: Valentin Aubois-Liogier
+titrethese: >-
+  Alternatives écologiques au système conventionnel d'assainissement : enjeux
+  des facteurs sensibles chez les usagers et autres acteurs du projet
+titretheseEn: >-
+  Sustainable alternative sanitation systems for urban areas : sensibility
+  issues for users and other participants in the project
+type_page: membres
+url_hal: ''
+url_thesesfr: 'http://theses.fr/s297123'
 _template: membres
 ---
 
-+++
-bureau = ""
-etablissement = "Université de Tours, CITERES/DATE"
-membre_actif = true
-membre_bureau = false
-name = "Aubois-Liogier"
-photo = "/images/photo_valentinauboisliogier.jpg"
-section_cnu = "24 Aménagement de l'espace, urbanisme"
-tags = ["Séparation à la source", "Sensibilités", "Changement social", "Acceptabilité", "Toilettes", "Design", "Urbanisme"]
-these_end = 0
-these_soutenue = false
-these_start = 2021
-title = "Valentin Aubois-Liogier"
-titrethese = "Alternatives écologiques au système conventionnel d'assainissement : enjeux des facteurs sensibles chez les usagers et autres acteurs du projet"
-titretheseEn = "Sustainable alternative sanitation systems for urban areas : sensibility issues for users and other participants in the project"
-type_page = "membres"
-url_hal = ""
-url_thesesfr = "http://theses.fr/s297123"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = "https://www.instagram.com/v.aulio/"
-linkedin = "www.linkedin.com/in/valentin-aubois-liogier "
-mail = "valentin.auboisliogier@univ-tours.fr "
-medium = ""
-site = ""
-telephone = ""
-twitter = "https://twitter.com/v_aulio/"
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
-
-+++
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 

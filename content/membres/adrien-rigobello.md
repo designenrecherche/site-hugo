@@ -1,66 +1,71 @@
 ---
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: 'https://www.instagram.com/adrien_finalv2.cpp'
+  linkedin: ''
+  mail: ''
+  medium: ''
+  site: 'https://thr34d5.org/adrien'
+  telephone: ''
+  twitter: 'https://twitter.com/tubuscas'
+etablissement: 'Center for IT and Architecture (CITA), Royal Danish Academy'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+name: Rigobello
+photo: /images/iaac-osr-cropped.jpg
+section_cnu: ''
+tags:
+  - Fungi
+  - Vernacular
+  - Material semiotics
+  - Architectural theory
+  - Mycélium
+  - Vernaculaire
+  - Sémiotique
+  - Théorie de l'architecture
+these_end: 0
+these_soutenue: false
+these_start: 2019
+title: Adrien Rigobello
+titrethese: Architectures plus-qu’humaines.
+titretheseEn: More-than-human architectures.
+type_page: membres
+url_hal: ''
+url_thesesfr: ''
 _template: membres
 ---
 
-+++
-etablissement = "Center for IT and Architecture (CITA), Royal Danish Academy"
-membre_actif = true
-name = "Rigobello"
-photo = "/images/iaac-osr-cropped.jpg"
-section_cnu = ""
-tags = ["Fungi", "Vernacular", "Material semiotics", "Architectural theory", "Mycélium", "Vernaculaire", "Sémiotique", "Théorie de l'architecture"]
-these_end = 0
-these_soutenue = false
-these_start = 2019
-title = "Adrien Rigobello"
-titrethese = "Architectures plus-qu’humaines."
-titretheseEn = "More-than-human architectures."
-type_page = "membres"
-url_hal = ""
-url_thesesfr = ""
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = "https://www.instagram.com/adrien_finalv2.cpp"
-linkedin = ""
-mail = ""
-medium = ""
-site = "https://thr34d5.org/adrien"
-telephone = ""
-twitter = "https://twitter.com/tubuscas"
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
-
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse

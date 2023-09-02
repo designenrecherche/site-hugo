@@ -1,21 +1,25 @@
 ---
+category: Journée d'étude
+dateevent: '2015-03-02T13:52:20Z'
+description: >-
+  Cette journée entend faire dialoguer des chercheurs en architecture et des
+  chercheurs en design avec des acteurs professionnels de ces deux disciplines.
+descriptiontemp: ''
+documents: ''
+lieu: 'ENSAD, Amphi Bachelier, 31 Rue d''Ulm, 75240 Paris'
+publishDate: '2015-03-02T13:52:20Z'
+tags:
+  - Journée d'étude
+  - Projet
+  - Thèse en design
+  - Thèse en architecture
+  - Disciplines du projet
+time: 9h
+title: 'Thèses en design, thèses en architecture : quel sort pour le projet ?'
+type_page: actions
 _template: actions
 ---
 
-+++
-category = "Journée d'étude"
-description = "Cette journée entend faire dialoguer des chercheurs en architecture et des chercheurs en design avec des acteurs professionnels de ces deux disciplines."
-descriptiontemp = ""
-documents = ""
-lieu = "ENSAD, Amphi Bachelier, 31 Rue d'Ulm, 75240 Paris"
-publishDate = 2015-03-02T13:52:20Z
-dateevent = 2015-03-02T13:52:20Z
-tags = ["Journée d'étude", "Projet", "Thèse en design", "Thèse en architecture", "Disciplines du projet"]
-time = "9h"
-title = "Thèses en design, thèses en architecture : quel sort pour le projet ?"
-type_page = "actions"
-
-+++
 “ Le projet aux différentes échelles est considéré ici comme un dispositif cognitif, producteur d’un nouveau savoir, outil d’exploration d’un contexte et d’intégration de nouveaux éléments aux connaissances existantes. Le projet est une forme d’étude et de recherche ; c’est une reconstruction, une contextualisation et une réorganisation de la réalité. ” Paola Vigano, Les territoires de l’urbanisme - Le projet comme producteur de connaissance, MétisPresses, 2012.
 
 ### Les disciplines du projet face à la recherche

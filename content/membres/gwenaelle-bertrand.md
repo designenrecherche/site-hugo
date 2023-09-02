@@ -1,66 +1,82 @@
 ---
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: 'https://fr.linkedin.com/in/gwenaëlle-bertrand-a1424946'
+  mail: ''
+  medium: ''
+  site: 'http://www.maxwen-studio.com'
+  telephone: ''
+  twitter: 'https://twitter.com/Gwenaelle_b'
+etablissement: >-
+  Université de Strasbourg, Laboratoire ACCRA (Approches Contemporaines de la
+  Création et de la Réflexion Artistiques), équipe EA 3402
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: false
+name: bertrand
+photo: /images/bertrand-gwenaelle.png
+section_cnu: 18 Esthétique
+tags:
+  - Desin critique
+  - Crise
+  - déplacement
+  - espacement
+  - désadaptation
+  - hybridation
+  - fragment
+  - préférable
+  - corps
+  - dispositif
+  - protoforme
+  - prothèse
+  - dysfonction
+these_end: 2016
+these_soutenue: true
+these_start: 2011
+title: Gwenaëlle Bertrand
+titrethese: >-
+  Le design critique et les nouveaux enjeux de conception : un territoire
+  historico-géopolitique de 1960 à nos jours.
+titretheseEn: >-
+  Critical design and new challenges of conception : A historico-geopolitical
+  domain from 1960 up to the present day.
+type_page: membres
+url_hal: 'https://tel.archives-ouvertes.fr/tel-01599267'
+url_thesesfr: 'https://www.theses.fr/181332221'
 _template: membres
 ---
 
-+++
-etablissement = "Université de Strasbourg, Laboratoire ACCRA (Approches Contemporaines de la Création et de la Réflexion Artistiques), équipe EA 3402"
-membre_actif = false
-name = "bertrand"
-photo = "/images/bertrand-gwenaelle.png"
-section_cnu = "18 Esthétique"
-tags = ["Desin critique", "Crise", "déplacement", "espacement", "désadaptation", "hybridation", "fragment", "préférable", "corps", "dispositif", "protoforme", "prothèse", "dysfonction"]
-these_end = 2016
-these_soutenue = true
-these_start = 2011
-title = "Gwenaëlle Bertrand"
-titrethese = "Le design critique et les nouveaux enjeux de conception : un territoire historico-géopolitique de 1960 à nos jours."
-titretheseEn = "Critical design and new challenges of conception : A historico-geopolitical domain from 1960 up to the present day."
-type_page = "membres"
-url_hal = "https://tel.archives-ouvertes.fr/tel-01599267"
-url_thesesfr = "https://www.theses.fr/181332221"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = "https://fr.linkedin.com/in/gwenaëlle-bertrand-a1424946"
-mail = ""
-medium = ""
-site = "http://www.maxwen-studio.com"
-telephone = ""
-twitter = "https://twitter.com/Gwenaelle_b"
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
-
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse

@@ -1,21 +1,27 @@
 ---
+category: Conférence
+dateevent: '2021-04-26T16:00:50Z'
+description: >-
+  Second épisode du cycle de conférence « Pratiques de la recherche en design »
+  de l'asso ! Avec Yann Aucompte, Brigitte Auziol, Rose Dumesny et Dorian
+  Reunkrilerk
+descriptiontemp: >-
+  Le 26 avril avril prochain aura lieu le second épisode du cycle de conférence
+  « Pratiques de la recherche en design » de l'asso ! Avec Yann Aucompte,
+  Brigitte Auziol, Rose Dumesny et Dorian Reunkrilerk
+documents: ''
+lieu: En ligne
+publishDate: '2021-04-15T07:53:50Z'
+tags:
+  - design
+  - recherche
+  - médiation
+time: 18h
+title: 'Design au milieu : pluralité des pratiques de médiation en design'
+type_page: actions
 _template: actions
 ---
 
-+++
-category = "Conférence"
-dateevent = 2021-04-26T16:00:50Z
-description = "Second épisode du cycle de conférence « Pratiques de la recherche en design » de l'asso ! Avec Yann Aucompte, Brigitte Auziol, Rose Dumesny et Dorian Reunkrilerk"
-descriptiontemp = "Le 26 avril avril prochain aura lieu le second épisode du cycle de conférence « Pratiques de la recherche en design » de l'asso ! Avec Yann Aucompte, Brigitte Auziol, Rose Dumesny et Dorian Reunkrilerk"
-documents = ""
-lieu = "En ligne"
-publishDate = 2021-04-15T07:53:50Z
-tags = ["design", "recherche", "médiation"]
-time = "18h"
-title = "Design au milieu : pluralité des pratiques de médiation en design"
-type_page = "actions"
-
-+++
 Au sein de la recherche en design, le terme médiation renvoie à des pratiques, des terrains et des approches à première vue très variés. Toutefois, ce caractère pluriel n’est pas cantonné au design et la notion de médiation, dès lors qu’elle est située, fait éclater sa définition pour désigner des réalités très différentes. Le champ du design s’est ainsi saisi d’un concept, que d’autres disciplines ont du mal à rendre opératoire, afin de décrire tantôt des postures de praticiens ou de pratiques, des situations de conception, des enjeux d’exposition ou de pédagogie. Cette deuxième conférence du cycle de conférences « Pratiques de la recherche en design » cherche à montrer et faire dialoguer les multiples points d’entrées des recherches de quatre intervenant.e.s autour de la médiation au / en / par le design.
 
 {{< youtube 9UzgcJJfSW8 >}}

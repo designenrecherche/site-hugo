@@ -1,35 +1,40 @@
-+++
-discipline = ""
-type_page = "membres"
-name = "berger"
-membre_actif = false
-etablissement = "Toulouse Jean Jaurès, LARA - Laboratoire de Recherche en Arts"
-etablissement_s___laboratoire_s_ = "Toulouse Jean Jaurès, LARA - Laboratoire de Recherche en Arts"
-photo = "/images/berger-estelle.png"
-section_cnu = "18 Arts appliqués"
-tags = ["design", " poïétique", "expérience", "tactique", "interdisciplinarité", "éthique"]
-these_end = 2014
-these_start = 2010
-these_soutenue = true
-title = " Estelle Berger"
-titrethese = "Poïétique du design, entre l'expérience et le discours"
-titretheseEn = "Design poïetics, between experience and discourse"
-url_thesesfr = "https://theses.fr/2014TOU20044"
-url_hal = "https://tel.archives-ouvertes.fr/tel-01246417"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = ""
-mail = ""
-site = "http://www.yume-studio.fr"
-telephone = 33601056061
-twitter = ""
-
-
-+++
+---
+contact:
+  facebook: ""
+  github: ""
+  gitlab: ""
+  hypotheses: ""
+  instagram: ""
+  linkedin: ""
+  mail: ""
+  site: http://www.yume-studio.fr
+  telephone: 33601056061
+  twitter: ""
+discipline: ""
+etablissement: Toulouse Jean Jaurès, LARA - Laboratoire de Recherche en Arts
+etablissement_s___laboratoire_s_: Toulouse Jean Jaurès, LARA - Laboratoire de Recherche
+  en Arts
+membre_actif: false
+name: berger
+photo: /images/berger-estelle.png
+section_cnu: 18 Arts appliqués
+tags:
+- design
+- ' poïétique'
+- expérience
+- tactique
+- interdisciplinarité
+- éthique
+these_end: 2014
+these_soutenue: true
+these_start: 2010
+title: ' Estelle Berger'
+titrethese: Poïétique du design, entre l'expérience et le discours
+titretheseEn: Design poïetics, between experience and discourse
+type_page: membres
+url_hal: https://tel.archives-ouvertes.fr/tel-01246417
+url_thesesfr: https://theses.fr/2014TOU20044
+---
 
 <!-- Supprimer les parties non remplies. Tu es libre d'ajouter ce que tu veux à cette partie -->
 

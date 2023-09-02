@@ -1,15 +1,12 @@
 ---
+description: ''
+documents: /images/dossier-agora-du-design-2020-appel-a-projets.pdf
+link: 'https://www.agoradudesign.fr/#bourses'
+publishDate: '2020-10-23T07:50:00Z'
+title: Bourses Agora du Design
 _template: breves
 ---
 
-+++
-description = ""
-documents = "/images/dossier-agora-du-design-2020-appel-a-projets.pdf"
-link = "https://www.agoradudesign.fr/#bourses"
-publishDate = 2020-10-23T07:50:00Z
-title = "Bourses Agora du Design"
-
-+++
 L'agora du design lance son appel à candidature pour 3 bourses et prix destiné aux jeunes designers.
 
 **2 Bourses Agora pour la recherche (30 000€/lauréat).** La Bourse Agora pour la recherche considère le projet comme production d’un nouveau savoir, d’un nouveau moyen d’exploration et de recherche. Elle est complémentaire aux travaux de recherche universitaire.

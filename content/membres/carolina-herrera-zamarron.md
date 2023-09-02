@@ -1,68 +1,71 @@
 ---
+bureau: ''
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: ''
+  mail: carolnah@gmail.com
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: ''
+etablissement: >-
+  Université Paris 8 Vincennes - Saint-Denis      École Doctorale Esthétique,
+  Sciences et Technologie des Arts
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+membre_bureau: false
+name: Herrera Zamarrón
+photo: /images/carolina.jpg
+section_cnu: 18 Esthétique
+tags:
+  - Histoire du livre et de l’édition
+  - Histoire culturelle
+  - Livre d’images et le texte non verbal
+  - Culture matérielle
+these_end: 2021
+these_soutenue: true
+these_start: 2016
+title: Carolina Herrera Zamarrón
+titrethese: Esthétique de l’œuvre-livre de photographie
+titretheseEn: Aesthetics of the photobookwork
+type_page: membres
+url_hal: ''
+url_thesesfr: 'https://www.theses.fr/s167591'
 _template: membres
 ---
 
-+++
-bureau = ""
-etablissement = "Université Paris 8 Vincennes - Saint-Denis      École Doctorale Esthétique, Sciences et Technologie des Arts"
-membre_actif = true
-membre_bureau = false
-name = "Herrera Zamarrón"
-photo = "/images/carolina.jpg"
-section_cnu = "18 Esthétique"
-tags = ["Histoire du livre et de l’édition", "Histoire culturelle", "Livre d’images et le texte non verbal", "Culture matérielle"]
-these_end = 2021
-these_soutenue = true
-these_start = 2016
-title = "Carolina Herrera Zamarrón"
-titrethese = "Esthétique de l’œuvre-livre de photographie"
-titretheseEn = "Aesthetics of the photobookwork"
-type_page = "membres"
-url_hal = ""
-url_thesesfr = "https://www.theses.fr/s167591"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = ""
-mail = "carolnah@gmail.com"
-medium = ""
-site = ""
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
-
-+++
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 

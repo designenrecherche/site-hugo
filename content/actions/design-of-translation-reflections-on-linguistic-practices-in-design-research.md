@@ -1,20 +1,27 @@
 ---
+category: Publication
+dateevent: '2019-09-03T08:03:46Z'
+description: >-
+  Cette communication, présentée lors de la conférence IASDR 2019,  propose une
+  discussion sur les enjeux linguistiques et culturelles dans la recherche en
+  design, du point de vue de la recherche en design française.
+descriptiontemp: ''
+documents: ''
+lieu: ''
+publishDate: '2019-09-03T08:03:46Z'
+tags:
+  - traduction
+  - linguistique
+  - format
+  - accessibilité de la recherche
+  - recherche en design
+  - épistémologie
+  - publication
+title: 'Design of Translation: Reflections on Linguistic Practices in Design Research'
+type_page: actions
 _template: actions
 ---
 
-+++
-category = "Publication"
-description = "Cette communication, présentée lors de la conférence IASDR 2019,  propose une discussion sur les enjeux linguistiques et culturelles dans la recherche en design, du point de vue de la recherche en design française."
-descriptiontemp = ""
-documents = ""
-lieu = ""
-publishDate = 2019-09-03T08:03:46Z
-dateevent = 2019-09-03T08:03:46Z
-tags = ["traduction", "linguistique", "format", "accessibilité de la recherche", "recherche en design", "épistémologie", "publication"]
-title = "Design of Translation: Reflections on Linguistic Practices in Design Research"
-type_page = "actions"
-
-+++
 Communication présentée lors de la conférence IASDR 2019, par Marguerite Benony, Zoé Bonnardot, Aurélie Daanen, Rose Dumesny, et Nolwenn Maudet.
 
 **Résumé**

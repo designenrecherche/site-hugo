@@ -1,20 +1,19 @@
 ---
+appel:
+  date-appel: '2020-02-19T11:00:00+00:00'
+category: Appel à communication
+evenement:
+  date-event: ''
+  lieu: ''
+  type: Conférence
+publishDate: '2020-03-16T15:52:24Z'
+title: >-
+  Et si les défis en santé passaient par des enjeux de communication et
+  de design ?
+url: ''
 _template: breves
 ---
 
-+++
-category = "Appel à communication"
-publishDate = 2020-03-16T15:52:24Z
-title = "Et si les défis en santé passaient par des enjeux de communication et de design ?"
-url = ""
-[appel]
-date-appel = "2020-02-19T11:00:00+00:00"
-[evenement]
-date-event = ""
-lieu = ""
-type = "Conférence"
-
-+++
 [88e Congrès de l'Acfas](https://designenrecherche.us18.list-manage.com/track/click?u=f8bf65efa8159fabee0f76978&id=002ff30d1c&e=a7ef7afb19)  
  **4 mai 2020  
  Université de Sherbrooke**

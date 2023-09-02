@@ -1,66 +1,77 @@
 ---
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: ''
+  mail: marine.royer@unimes.fr
+  medium: ''
+  site: 'https://www.linkedin.com/in/marine-royer-13744083/'
+  telephone: ''
+  twitter: ''
+etablissement: 'Université de Nîmes (Unîmes), laboratoire PROJEKT'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: false
+name: royze
+photo: /images/unnamed-2.jpg
+section_cnu: 18 Esthétique
+tags:
+  - Objet biotechnologique
+  - Dispositif médical
+  - Cancer
+  - Ajustement
+  - Incorporation
+  - Éducation thérapeutique du patient
+  - Instrument
+  - Prothèse
+  - Design
+  - Ethnographie
+these_end: 2015
+these_soutenue: true
+these_start: 2011
+title: Marine Royer
+titrethese: >-
+  De l'instrument à la prothèse : ethnographie de trajectoires d'objets
+  biotechnologiques en cancérologie
+titretheseEn: >-
+  From the instrument to the prosthesis. Ethnography of the trajectories of
+  invasive medical devices in cancerology
+type_page: membres
+url_hal: ''
+url_thesesfr: 'http://www.theses.fr/19550061X'
 _template: membres
 ---
 
-+++
-etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"
-membre_actif = false
-name = "royze"
-photo = "/images/unnamed-2.jpg"
-section_cnu = "18 Esthétique"
-tags = ["Objet biotechnologique", "Dispositif médical", "Cancer", "Ajustement", "Incorporation", "Éducation thérapeutique du patient", "Instrument", "Prothèse", "Design", "Ethnographie"]
-these_end = 2015
-these_soutenue = true
-these_start = 2011
-title = "Marine Royer"
-titrethese = "De l'instrument à la prothèse : ethnographie de trajectoires d'objets biotechnologiques en cancérologie"
-titretheseEn = "From the instrument to the prosthesis. Ethnography of the trajectories of invasive medical devices in cancerology"
-type_page = "membres"
-url_hal = ""
-url_thesesfr = "http://www.theses.fr/19550061X"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = ""
-mail = "marine.royer@unimes.fr"
-medium = ""
-site = "https://www.linkedin.com/in/marine-royer-13744083/"
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
-
-+++
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 

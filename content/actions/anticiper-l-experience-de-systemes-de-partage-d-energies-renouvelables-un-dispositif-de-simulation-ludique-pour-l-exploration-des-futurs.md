@@ -1,21 +1,29 @@
 ---
+category: Soutenance de thèse
+dateevent: '2021-10-07T12:00:00Z'
+description: >-
+  Soutenance de Thèse de Zoé Bonnardot, en Sciences de l'information et de la
+  Communication, spécialité Design
+descriptiontemp: ''
+documents: ''
+lieu: Université de Nîmes
+publishDate: '2021-10-20T13:31:10Z'
+tags:
+  - Anticipation
+  - ' Simulation'
+  - Design Ludique
+  - Ergonomie
+  - Expérience
+  - Energie
+  - Transition Design
+time: 14h
+title: >-
+  Anticiper l’expérience de systèmes de partage d’énergies renouvelables : un
+  dispositif de simulation ludique pour l’exploration des futurs
+type_page: actions
 _template: actions
 ---
 
-+++
-category = "Soutenance de thèse"
-dateevent = 2021-10-07T12:00:00Z
-description = "Soutenance de Thèse de Zoé Bonnardot, en Sciences de l'information et de la Communication, spécialité Design"
-descriptiontemp = ""
-documents = ""
-lieu = "Université de Nîmes"
-publishDate = 2021-10-20T13:31:10Z
-tags = ["Anticipation", " Simulation", "Design Ludique", "Ergonomie", "Expérience", "Energie", "Transition Design"]
-time = "14h"
-title = "Anticiper l’expérience de systèmes de partage d’énergies renouvelables : un dispositif de simulation ludique pour l’exploration des futurs"
-type_page = "actions"
-
-+++
 **Cadre de la recherche :**
 
 Thèse CIFRE entre : EDF R&D, l'Université de Technologie de Troyes et l'Université de Nîmes

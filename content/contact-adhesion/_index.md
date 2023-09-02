@@ -1,8 +1,7 @@
 ---
-title: Adhésion
-date: 
+date: null
 description: This is meta description.
-
+title: Adhésion
 ---
 # Adhésion
 

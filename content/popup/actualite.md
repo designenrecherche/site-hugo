@@ -1,13 +1,10 @@
 ---
+display: false
+publishDate: '2021-04-13T13:01:00Z'
+title: Actualité
 _template: popup
 ---
 
-+++
-display = false
-publishDate = 2021-04-13T13:01:00Z
-title = "Actualité"
-
-+++
 **AG de l'association 15 juin, 19h**
 
 AG de l'association : il est temps d'élire un nouveau bureau !

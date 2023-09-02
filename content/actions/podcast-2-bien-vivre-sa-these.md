@@ -1,21 +1,25 @@
 ---
+category: Autre
+dateevent: '2022-04-27T12:30:37Z'
+description: >-
+  Dans ce deuxième épisode du podcast Design en Recherche, Élise Goutagny,
+  Justine Peneau et Marion Voillot discutent du bien-être des doctorants et
+  doctorantes en design
+descriptiontemp: ''
+documents: ''
+lieu: ''
+publishDate: '2022-04-27T12:30:37Z'
+tags:
+  - podcast
+  - bien-être
+  - vie de thèse
+  - thèse
+time: 18h
+title: 'Podcast #2: Bien vivre sa thèse'
+type_page: actions
 _template: actions
 ---
 
-+++
-category = "Autre"
-dateevent = 2022-04-27T12:30:37Z
-description = "Dans ce deuxième épisode du podcast Design en Recherche, Élise Goutagny, Justine Peneau et Marion Voillot discutent du bien-être des doctorants et doctorantes en design"
-descriptiontemp = ""
-documents = ""
-lieu = ""
-publishDate = 2022-04-27T12:30:37Z
-tags = ["podcast", "bien-être", "vie de thèse", "thèse"]
-time = "18h"
-title = "Podcast #2: Bien vivre sa thèse"
-type_page = "actions"
-
-+++
 Le deuxième épisode du podcast de l’association Design en Recherche aborde le thème du bien-être de l’étudiant·e en doctorat. Sujet tout aussi complexe que passionnant, trois doctorantes discutent ent avec bienveillance leurs tumultueux parcours dans la recherche et partagent leurs astuces pour “bien vivre” sa thèse.
 
 {{< youtube iaz4bex82xM >}}

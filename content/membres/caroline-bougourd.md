@@ -1,68 +1,80 @@
 ---
+bureau: ''
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: ''
+  mail: ''
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: ''
+etablissement: >-
+  Université Paris 1, Arts plastiques, esthétique et sciences de l'art, Institut
+  ACTE
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: false
+membre_bureau: false
+name: bougourd
+photo: /images/caroline_bougourd-copie.JPG
+section_cnu: 18 Esthétique
+tags:
+  - cité d'expériences
+  - design
+  - prefabricated houses
+  - memory
+  - historical monuments
+  - Noisy-le-sec
+  - héritage
+  - stories
+  - reconstruction
+  - translation
+  - webdocumentary
+these_end: 2015
+these_soutenue: true
+these_start: 2010
+title: Caroline Bougourd
+titrethese: ' Une cité d''expériences entre patrimoine et récits : étude critique de la patrimonialisation, le cas des maisons préfabriquées de Noisy-le-Sec'
+titretheseEn: >-
+  A cité d'expériences between heritage and stories : a critic of
+  patrimonialisation, the case of prefabricated homes at Noisy-le-Sec
+type_page: membres
+url_hal: 'https://tel.archives-ouvertes.fr/tel-02307861'
+url_thesesfr: 'http://www.theses.fr/2015PA010531'
 _template: membres
 ---
 
-+++
-bureau = ""
-etablissement = "Université Paris 1, Arts plastiques, esthétique et sciences de l'art, Institut ACTE"
-membre_actif = false
-membre_bureau = false
-name = "bougourd"
-photo = "/images/caroline_bougourd-copie.JPG"
-section_cnu = "18 Esthétique"
-tags = ["cité d'expériences", "design", "prefabricated houses", "memory", "historical monuments", "Noisy-le-sec", "héritage", "stories", "reconstruction", "translation", "webdocumentary"]
-these_end = 2015
-these_soutenue = true
-these_start = 2010
-title = "Caroline Bougourd"
-titrethese = " Une cité d'expériences entre patrimoine et récits : étude critique de la patrimonialisation, le cas des maisons préfabriquées de Noisy-le-Sec"
-titretheseEn = "A cité d'expériences between heritage and stories : a critic of patrimonialisation, the case of prefabricated homes at Noisy-le-Sec"
-type_page = "membres"
-url_hal = "https://tel.archives-ouvertes.fr/tel-02307861"
-url_thesesfr = "http://www.theses.fr/2015PA010531"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = ""
-mail = ""
-medium = ""
-site = ""
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
-
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
