@@ -26,7 +26,7 @@ export default defineConfig({
     collections: [
       {
         format: "md",
-        label: "about",
+        label: "About",
         name: "about",
         path: "content/about",
         frontmatterFormat: "yaml",
@@ -50,7 +50,7 @@ export default defineConfig({
       },
       {
         format: "md",
-        label: "nos_actions",
+        label: "Nos actions",
         name: "nos_actions",
         path: "content/actions",
         frontmatterFormat: "yaml",
@@ -61,7 +61,7 @@ export default defineConfig({
           {
             type: "rich-text",
             name: "body",
-            label: "Body of Document",
+            label: "Body of document",
             description: "This is the markdown body",
             isBody: true,
           },
@@ -70,7 +70,7 @@ export default defineConfig({
       },
       {
         format: "md",
-        label: "membres",
+        label: "Membres",
         name: "membres",
         path: "content/membres",
         frontmatterFormat: "yaml",
@@ -81,7 +81,7 @@ export default defineConfig({
           {
             type: "rich-text",
             name: "body",
-            label: "Body of Document",
+            label: "Body of document",
             description: "This is the markdown body",
             isBody: true,
           },
@@ -90,7 +90,7 @@ export default defineConfig({
       },
       {
         format: "md",
-        label: "breves",
+        label: "Brèves",
         name: "breves",
         path: "content/breves",
         frontmatterFormat: "yaml",
@@ -110,7 +110,7 @@ export default defineConfig({
       },
       {
         format: "md",
-        label: "adhesion",
+        label: "Adhésion",
         name: "adhesion",
         path: "content/contact-adhesion",
         frontmatterFormat: "yaml",
@@ -121,7 +121,7 @@ export default defineConfig({
           {
             type: "rich-text",
             name: "body",
-            label: "Body of Document",
+            label: "Body of document",
             description: "This is the markdown body",
             isBody: true,
           },
@@ -134,7 +134,7 @@ export default defineConfig({
       },
       {
         format: "md",
-        label: "popup",
+        label: "Popup",
         name: "popup",
         path: "content/popup",
         frontmatterFormat: "yaml",
@@ -154,7 +154,7 @@ export default defineConfig({
       },
       {
         format: "yml",
-        label: "data",
+        label: "Data",
         name: "data",
         path: "data",
         frontmatterFormat: "yaml",
@@ -165,7 +165,7 @@ export default defineConfig({
           {
             type: "rich-text",
             name: "body",
-            label: "Body of Document",
+            label: "Body of document",
             description: "This is the markdown body",
             isBody: true,
           },
