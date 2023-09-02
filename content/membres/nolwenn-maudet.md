@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "Université Paris-Saclay, STIC"
 membre_actif = true

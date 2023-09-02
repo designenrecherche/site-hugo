@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "Journée d'étude"
 description = "L’objectif de cette journée est d’interroger comment le design peut intervenir dans la conception et la diffusion de nouvelles techniques d’inscription dans l’objectif de développer de nouveaux moyens de réflexion individuels et collectifs"

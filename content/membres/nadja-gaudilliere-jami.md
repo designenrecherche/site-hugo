@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "ENSA Paris-Malaquais, Laboratoire GSA / TU Darmstadt, Digital Design Unit"
 membre_actif = true

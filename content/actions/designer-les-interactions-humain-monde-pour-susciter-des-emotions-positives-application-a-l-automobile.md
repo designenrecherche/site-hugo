@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "Soutenance de thèse"
 description = "Thèse de doctorat en Sciences Humaines & Technologies de la Cognition et de la Coopération : Unité de recherche COSTECH (EA-2223) de Renaud Mignerey"

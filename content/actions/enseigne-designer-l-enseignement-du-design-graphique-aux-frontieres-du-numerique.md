@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "Journée d'étude"
 description = "Alors que les écoles d'art et de design s'interrogent depuis de nombreuses années sur la place et le rôle du numérique dans l'enseignement, cette journée sera l'occasion d’échanger sur ces notions dans le contexte du design graphique"

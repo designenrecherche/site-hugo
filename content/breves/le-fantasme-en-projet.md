@@ -1,3 +1,7 @@
+---
+_template: breves
+---
+
 +++
 description = "Le laboratoire de recherche en architecture (LRA) de l'ENSA Toulousemale Supérieure d'Architecture de Toulouse propose une journée d’étude interdisciplinaire en visioconférence sur le thème du fantasme en projet."
 documents = "/images/programme_journee_etude_le_fantasme_en_projet.pdf"

@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "Lab4Living, Sheffield Hallam University, UK"
 membre_actif = false

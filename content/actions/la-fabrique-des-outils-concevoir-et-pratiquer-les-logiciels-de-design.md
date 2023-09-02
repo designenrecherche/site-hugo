@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "Journée d'étude"
 description = "Cette journée d'étude aura pour objectif d’explorer les tensions entre la conception des logiciels de création et les pratiques qu'en font les utilisateurs"

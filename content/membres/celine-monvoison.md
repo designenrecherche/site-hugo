@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 bureau = ""
 etablissement = "Université du Québec à Montréal (UQAM)"

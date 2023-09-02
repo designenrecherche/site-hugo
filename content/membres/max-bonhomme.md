@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "Université Gustave-Eiffel, Champs-sur-Marne, Laboratoire Littératures, Savoirs et Arts (LISAA)."
 membre_actif = false

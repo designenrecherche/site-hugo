@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "Ecole polytechnique de Bruxelles, Laboratoire Iridia, ULB + ERG Bruxelles "
 membre_actif = false

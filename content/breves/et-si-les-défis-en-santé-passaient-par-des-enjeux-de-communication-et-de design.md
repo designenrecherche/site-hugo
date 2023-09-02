@@ -1,3 +1,7 @@
+---
+_template: breves
+---
+
 +++
 category = "Appel à communication"
 publishDate = 2020-03-16T15:52:24Z

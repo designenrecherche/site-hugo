@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 bureau = ""
 etablissement = "Université Paris 1 Panthéon-Sorbonne. Arts plastiques, esthétique et sciences de l’art, Institut ACTE "

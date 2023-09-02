@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 bureau = "Responsable Com Événements"
 etablissement = "IRCAM-STMS"

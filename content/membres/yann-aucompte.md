@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "TEAMeD, EDESTA, PARIS VIII"
 membre_actif = false

@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 bureau = ""
 etablissement = "ECLLA, Études du Contemporain en Littératures, Langues et Arts, EA n°3068 "

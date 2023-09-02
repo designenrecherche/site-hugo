@@ -1,3 +1,7 @@
+---
+_template: breves
+---
+
 +++
 description = ""
 documents = "/images/colloque-cli-appel_a_communication.pdf"

@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "Laboratoire Paragraphe, Paris 8"
 membre_actif = false

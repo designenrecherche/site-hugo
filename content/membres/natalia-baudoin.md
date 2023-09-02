@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 bureau = ""
 etablissement = "Programme SACRe, EnsadLab, ENSAD-Université PSL"

@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "Publication"
 description = "Cet article, paru dans le numéro 1 de la revue Sciences du design, propose une discussion autour des spécificités méthodologiques de la recherche française en design."

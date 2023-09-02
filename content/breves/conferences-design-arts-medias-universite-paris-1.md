@@ -1,3 +1,7 @@
+---
+_template: breves
+---
+
 +++
 description = ""
 documents = "/images/programme-conf.pdf"

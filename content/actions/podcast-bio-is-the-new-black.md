@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "Partenariat"
 dateevent = 2020-01-31T17:00:41Z

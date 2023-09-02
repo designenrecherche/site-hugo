@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 bureau = "Trésorier et vice secrétaire"
 etablissement = "Institut Polytechnique de Paris, CoDesign Lab"

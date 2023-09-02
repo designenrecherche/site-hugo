@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "Université de Strasbourg, Laboratoire ACCRA (Approches Contemporaines de la Création et de la Réflexion Artistiques), équipe EA 3402"
 membre_actif = false

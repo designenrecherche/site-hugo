@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "Paris Seine Graduate School Humanités, Création et Patrimoine, LAREP Laboratoire de recherche en projet de paysage"
 membre_actif = true

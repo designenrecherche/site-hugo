@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "Atelier"
 description = "Cet atelier a pour objectif de découvrir des alternatives à Word, Google Docs ou InDesign, pour la rédaction de thèse"

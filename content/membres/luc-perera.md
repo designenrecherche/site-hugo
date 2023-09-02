@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "Ecole nationale supérieur des Arts Décoratifs de Paris (EnsAD)&nbsp;/ EnsadLab&nbsp;/ MINES ParisTech /&nbsp;CRI"
 membre_actif = true

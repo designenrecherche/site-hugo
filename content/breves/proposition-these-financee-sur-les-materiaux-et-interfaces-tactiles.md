@@ -1,3 +1,7 @@
+---
+_template: breves
+---
+
 +++
 description = ""
 documents = "/images/2021_phd_hasame_mse_senso.pdf"

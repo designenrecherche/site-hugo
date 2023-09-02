@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 bureau = ""
 etablissement = "Ecole doctorale Bordeaux Montaigne Humanité / Laboratoire MICA (Médiations, Informations, Communication, Arts) / Laboratoire Digital Design Lab de l’Ecole de design Nantes Atlantique"

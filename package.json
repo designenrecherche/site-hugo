@@ -1,0 +1,24 @@
+{
+  "name": "site-hugo",
+  "version": "1.0.0",
+  "description": "- Repo du site: https://github.com/designenrecherche/site-hugo - Générateur de site statique: Hugo v0.60.1 - CMS statique: [Forestry.io](https://forestry.io/) - Déploiement: [Netlify](https://www.netlify.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designenrecherche/site-hugo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/designenrecherche/site-hugo/issues"
+  },
+  "homepage": "https://github.com/designenrecherche/site-hugo#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.29",
+    "tinacms": "^1.5.20"
+  }
+}

@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "Laboratoire de Conception Produits et Innovation, École Nationale Supérieure d’Arts et Métiers Paris (LCPI)"
 membre_actif = false

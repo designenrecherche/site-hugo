@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 bureau = ""
 etablissement = "Université Paris 8 Vincennes - Saint-Denis      École Doctorale Esthétique, Sciences et Technologie des Arts"

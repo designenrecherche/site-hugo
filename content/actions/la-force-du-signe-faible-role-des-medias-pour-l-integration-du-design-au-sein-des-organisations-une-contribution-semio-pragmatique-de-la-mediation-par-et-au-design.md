@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "Soutenance de thèse"
 dateevent = 2022-04-15T07:00:00Z

@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 bureau = ""
 etablissement = "Université de Strasbourg UR 3402 - Approche Contemporaine de la Réflexion et de la Création Artistiques (ACCRA) "

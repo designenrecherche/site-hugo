@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "Université Jean Monnet - Saint-Étienne, CIEREC & ESADSE, laboratoire DDL"
 membre_actif = true

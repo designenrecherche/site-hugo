@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "School of Communication, Royal College of Art"
 membre_actif = true

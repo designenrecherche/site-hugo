@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "Journée d'étude"
 description = "Pour cette quatrième journée d’étude organisée par le réseau Design en Recherche, nous proposons d’interroger les liens et intersections des études de genre (gender studies) et du design."

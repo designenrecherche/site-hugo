@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "Université Bordeaux Montaigne, MICA, Axe IDEM"
 membre_actif = true

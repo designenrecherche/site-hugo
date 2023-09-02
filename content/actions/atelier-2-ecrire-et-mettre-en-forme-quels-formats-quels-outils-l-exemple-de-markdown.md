@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "Atelier"
 description = "La proposition de cet atelier est d'explorer un nouveau format de mise en forme d'un article de recherche"

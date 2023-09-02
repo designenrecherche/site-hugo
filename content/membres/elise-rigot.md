@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 bureau = ""
 etablissement = "Université Toulouse - Jean Jaurès, LLA CREATIS, LAAS-CNRS"

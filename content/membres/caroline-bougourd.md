@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 bureau = ""
 etablissement = "Université Paris 1, Arts plastiques, esthétique et sciences de l'art, Institut ACTE"

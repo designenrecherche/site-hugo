@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "Conférence"
 dateevent = 2021-05-10T16:00:00Z

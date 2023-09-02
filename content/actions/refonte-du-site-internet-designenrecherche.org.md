@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "RDV asso"
 description = "En ligne depuis 2014, le site de l'association s'est refait une beauté en 2020"

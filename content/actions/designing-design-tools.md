@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "Soutenance de thèse"
 description = "Soutenance de thèse de doctorat en Interaction Humain-Machine de Nolwenn Maudet"

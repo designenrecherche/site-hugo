@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "Soutenance de thèse"
 description = "Soutenance de thèse de doctorat en Sciences de l'Information et de la Communication mention Design de Rose Dumesny"

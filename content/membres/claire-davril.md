@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "Université de Strasbourg, ACCRA"
 membre_actif = true

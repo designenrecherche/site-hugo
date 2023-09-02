@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 bureau = ""
 etablissement = "Télécom Paristech, Institut Polytechnique de Paris"

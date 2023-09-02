@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "Université Toulouse-Jean Jaurès, ALLPH@, LARA-SEPPIA"
 membre_actif = true

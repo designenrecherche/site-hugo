@@ -1,3 +1,7 @@
+---
+_template: breves
+---
+
 +++
 category = "Appel à communication"
 documents = []

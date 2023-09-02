@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "Publication"
 description = "Cet article, paru dans le numéro 1 de la revue Sciences du design, traite des formes et formats de thèses dans le contexte de la recherche en design."

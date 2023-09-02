@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "Autre"
 dateevent = 2022-04-27T12:30:37Z

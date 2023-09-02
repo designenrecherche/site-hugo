@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "Center for IT and Architecture (CITA), Royal Danish Academy"
 membre_actif = true

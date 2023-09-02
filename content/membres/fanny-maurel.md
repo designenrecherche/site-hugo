@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 bureau = "Présidente"
 etablissement = " Laboratoire ACCRA (Approches contemporaines de la création et de la réflexion artistiques, Université de Strasbourg), Centre de Recherches en Histoire des Idées (CHRI, Université Côte-d'Azur) "

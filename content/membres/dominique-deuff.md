@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "Centrale Nantes, ELICC"
 membre_actif = true

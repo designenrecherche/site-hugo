@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "Université de Technologie de Compiègne, COSTECH"
 membre_actif = true

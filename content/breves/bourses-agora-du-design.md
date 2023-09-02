@@ -1,3 +1,7 @@
+---
+_template: breves
+---
+
 +++
 description = ""
 documents = "/images/dossier-agora-du-design-2020-appel-a-projets.pdf"

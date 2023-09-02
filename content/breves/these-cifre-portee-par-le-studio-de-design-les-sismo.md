@@ -1,3 +1,7 @@
+---
+_template: breves
+---
+
 +++
 description = ""
 documents = "/images/fiche-poste-cifre-nature-et-soins-chaire-philo-sismo.pdf"

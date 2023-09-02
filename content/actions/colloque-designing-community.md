@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "Partenariat"
 description = ""

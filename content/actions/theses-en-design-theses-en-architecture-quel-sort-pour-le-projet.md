@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "Journée d'étude"
 description = "Cette journée entend faire dialoguer des chercheurs en architecture et des chercheurs en design avec des acteurs professionnels de ces deux disciplines."

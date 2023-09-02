@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "EHESS Paris & LIAS, Institut Marcel Mauss (Paris)"
 membre_actif = false

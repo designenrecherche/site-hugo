@@ -1,3 +1,7 @@
+---
+_template: actions
+---
+
 +++
 category = "RDV asso"
 description = "Afin d'être au plus près des besoins de ses membres, l'association imagine et teste différents formats pour animer sa communauté"

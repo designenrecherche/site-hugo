@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 bureau = ""
 etablissement = "STMS / UMR 9912 IRCAM, Centre de recherche en design ENSCI / ENS Paris-Saclay, Actronika"

@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "Université Paris1, Panthéon-Sorbonne  – UFR Arts Plastiques"
 membre_actif = false

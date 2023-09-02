@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 etablissement = "université Rennes 2, PTAC / Sciences Po, médialab"
 membre_actif = true

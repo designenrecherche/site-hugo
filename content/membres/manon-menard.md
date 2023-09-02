@@ -1,3 +1,7 @@
+---
+_template: membres
+---
+
 +++
 bureau = "Secrétaire et vice trésorière"
 etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"

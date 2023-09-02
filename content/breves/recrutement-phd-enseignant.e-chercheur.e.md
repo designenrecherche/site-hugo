@@ -1,3 +1,7 @@
+---
+_template: breves
+---
+
 +++
 description = ""
 documents = "/images/descriptif-poste_strateresearch_2021-1.pdf"
