@@ -2,18 +2,23 @@
 
 - Repo du site: https://github.com/designenrecherche/site-hugo
 - Générateur de site statique: Hugo v0.60.1
-- CMS statique: [Forestry.io](https://forestry.io/)
+- CMS statique: [TinaCMS](https://tina.io)
 - Déploiement: [Netlify](https://www.netlify.com/)
-
-
 
 ## Développement
 
 Installer [hugo](https://gohugo.io/)
 
-Déploiement local: 
+Initialisation en local :
 
 ```
 cd path/to/files/site-hugo
-hugo serve
+npx @tinacms/cli@latest init
+```
+
+Démarrage du serveur local : 
+
+```
+cd path/to/files/site-hugo
+npx tinacms dev -c "hugo server"
 ```
