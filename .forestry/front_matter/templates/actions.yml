@@ -31,7 +31,7 @@ fields:
   type: datetime
 - name: dateevent
   default: Now
-  label: date_de_l_$3
+  label: date_de_l_evenement
   hidden: false
   type: datetime
   config:
@@ -62,7 +62,7 @@ fields:
     - Autre
 - type: text
   name: lieu
-  label: lieu_de_l_$3
+  label: lieu_de_l_evenement
 - type: file
   name: documents
   label: documents

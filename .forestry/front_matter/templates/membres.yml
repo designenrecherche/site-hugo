@@ -120,7 +120,7 @@ fields:
   label: titre_de_la_these_en_anglais_en
 - name: these_start
   type: number
-  label: date_d_$3
+  label: date_d_inscription_en_these
   description: ''
   default: 0
   config:
