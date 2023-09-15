@@ -71,15 +71,17 @@ url_thesesfr: 'http://theses.fr/s218120'
 
 # Résumé de thèse
 
+{{% lang class="fr" %}}
+
 Depuis une dizaine d’années, des designers graphiques développent de nouvelles pratiques autour de l’utilisation des technologies du web pour la mise en forme de publications imprimées et multisupports. Situées dans la culture du logiciel libre et de l’open-source, ces démarches sont au cœur d’enjeux conceptuels, politiques et esthétiques pour le design graphique. Comment comprendre alors ce que l’utilisation réelle du code change dans la pratique des designers graphiques et en quoi ce changement technique participe-t-il à la construction et au développement d’une communauté de pratique ?
 
 Nous inscrivons notre recherche dans une compréhension anthropocentrée de la technique. Pour cela, nous utilisons la théorie historico-culturelle de l’activité et l’approche instrumentale pour étudier l’activité de composition et son développement ainsi que les changements du système socio-technique associé. De plus, dans une perspective de recherche portée par la pratique, nous mobilisons notre propre expérience de designer graphique inscrite dans une communauté d’acteurs et d’actrices porteurs de ces transformations.
 
 Trois études empiriques analysent l’activité de composition sous plusieurs angles. L’une d’elle participe, sous la forme d’un hackathon, à la conception collective d’un outil permettant la création de livres imprimés depuis les navigateurs web (paged.js). Nos résultats sont mis en perspective avec des questionnements plus généraux des transformations sociotechniques induites par l’introduction des pratiques du logiciel libre dans le design graphique. Nous soutenons que l’introduction des technologies du web dans la chaîne graphique accompagnent les pratiques créatives et esthétiques des designers et ouvrent de nouvelles perspectives d’activité collective, permettant à cette communauté de développer ses propres instruments et donc ses propres pratiques.
 
-Thèse de doctorat en ergonomie et design, menée sous la direction de Anne Bationo-Tillon, la codirection de Samuel Bianchini et le coencadrement de Lucile Haute, soutenue par l'EUR ArTeC et préparée à l'université Paris 8 au sein du laboratoire EA 349 Paragraphe (école doctorale 224 Cognition, Langage, Interaction), équipe C3U et à l'École nationale supérieure des Arts Décoratifs - PSL, au sein d'EnsadLab, équipe Reflective Interaction.
+{{% /lang %}}
 
-## Abstract
+{{% lang class="en" %}}
 
 Over the past decade, graphic designers have been using web technologies for typesetting and layout of printed publications. These approaches, rooted in the culture of free software and open-source, have raised conceptual, political, and aesthetic issues for graphic design. This research aims to understand the impact of code on graphic designers’ practices and how this technical change contributes to the construction and development of a community of practice.
 
@@ -88,7 +90,7 @@ The study adopts an anthropocentric understanding of technique, using cultural-h
 Through three empirical studies and the collective design of a tool called paged.js, which enables the creation of printed books from web browsers, the study examines the composition activity from multiple perspectives. The results are analyzed in relation to broader questions about the socio-technical transformations brought about by the integration of open source software practices in graphic design. The study argues that the use of web technologies in the graphic design process supports the creative and aesthetic practices of designers, and opens up new opportunities for collective activity, enabling the community to develop its own tools and practices.
 
 
-
+{{% /lang %}}
 
 ## Direction de thèse
 
