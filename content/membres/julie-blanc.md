@@ -5,9 +5,10 @@ contact:
   site: 'https://julie-blanc.fr/'
   telephone: ''
   twitter: 'https://twitter.com/julieblancfr'
-  linkedin: ''
-  instagram: ''
+  linkedin: 'https://www.linkedin.com/in/julie-blanc-550227232/'
+  instagram: 'https://www.instagram.com/julieblancfr/'
   facebook: ''
+  mastodon: 'https://fosstodon.org/@julieblanc'
   medium: ''
   hypotheses: ''
   github: 'https://github.com/JulieBlanc'
@@ -55,8 +56,8 @@ tags:
   - code
   - édition
   - pratique
-these_end: 0
-these_soutenue: false
+these_end: 2023
+these_soutenue: true
 these_start: 2018
 title: Julie Blanc
 titrethese: >-
@@ -70,9 +71,24 @@ url_thesesfr: 'http://theses.fr/s218120'
 
 # Résumé de thèse
 
-Ce travail de recherche, basé sur la pratique, s'inscrit dans le contexte d'une évolution des pratiques de conception des objets éditoriaux vers la programmation informatique suite à l'apparition des supports électronique et du web. Les technologies du web sont de plus en plus utilisées dans le design éditorial et leurs évolutions récentes – particulièrement celle du langage CSS – permettent des conceptions et mises en forme de plus en plus poussées jusqu’à favoriser la possibilité de convergences entre le papier et l’écran au sein de publications multisupports. Cela n'est pas sans conséquence sur l'activité des designers graphiques et la manière dont ils conçoivent l'espace de la page (imprimée et numérique). À partir de ma propre pratique et de celle d'une diversité d'acteurs – situés dans des communautés portées par des approches libre et open-source du design – nous analyserons pourquoi et comment les designers graphiques instrumentent leur activité de composition, comment celle-ci est configurée par l'utilisation du code et les implications que cela entraîne sur les formes et les expériences sensibles produites.
+Depuis une dizaine d’années, des designers graphiques développent de nouvelles pratiques autour de l’utilisation des technologies du web pour la mise en forme de publications imprimées et multisupports. Situées dans la culture du logiciel libre et de l’open-source, ces démarches sont au cœur d’enjeux conceptuels, politiques et esthétiques pour le design graphique. Comment comprendre alors ce que l’utilisation réelle du code change dans la pratique des designers graphiques et en quoi ce changement technique participe-t-il à la construction et au développement d’une communauté de pratique ?
+
+Nous inscrivons notre recherche dans une compréhension anthropocentrée de la technique. Pour cela, nous utilisons la théorie historico-culturelle de l’activité et l’approche instrumentale pour étudier l’activité de composition et son développement ainsi que les changements du système socio-technique associé. De plus, dans une perspective de recherche portée par la pratique, nous mobilisons notre propre expérience de designer graphique inscrite dans une communauté d’acteurs et d’actrices porteurs de ces transformations.
+
+Trois études empiriques analysent l’activité de composition sous plusieurs angles. L’une d’elle participe, sous la forme d’un hackathon, à la conception collective d’un outil permettant la création de livres imprimés depuis les navigateurs web (paged.js). Nos résultats sont mis en perspective avec des questionnements plus généraux des transformations sociotechniques induites par l’introduction des pratiques du logiciel libre dans le design graphique. Nous soutenons que l’introduction des technologies du web dans la chaîne graphique accompagnent les pratiques créatives et esthétiques des designers et ouvrent de nouvelles perspectives d’activité collective, permettant à cette communauté de développer ses propres instruments et donc ses propres pratiques.
 
 Thèse de doctorat en ergonomie et design, menée sous la direction de Anne Bationo-Tillon, la codirection de Samuel Bianchini et le coencadrement de Lucile Haute, soutenue par l'EUR ArTeC et préparée à l'université Paris 8 au sein du laboratoire EA 349 Paragraphe (école doctorale 224 Cognition, Langage, Interaction), équipe C3U et à l'École nationale supérieure des Arts Décoratifs - PSL, au sein d'EnsadLab, équipe Reflective Interaction.
+
+## Abstract
+
+Over the past decade, graphic designers have been using web technologies for typesetting and layout of printed publications. These approaches, rooted in the culture of free software and open-source, have raised conceptual, political, and aesthetic issues for graphic design. This research aims to understand the impact of code on graphic designers’ practices and how this technical change contributes to the construction and development of a community of practice.
+
+The study adopts an anthropocentric understanding of technique, using cultural-historical theory of activity and the instrumental approach to investigate the composition activity and it sdevelopment, as well as the associated socio-technical system changes. Moreover, in a research perspective carried by practice, we mobilize our own experience of graphic designer registered within a community of actors leading these transformations.
+
+Through three empirical studies and the collective design of a tool called paged.js, which enables the creation of printed books from web browsers, the study examines the composition activity from multiple perspectives. The results are analyzed in relation to broader questions about the socio-technical transformations brought about by the integration of open source software practices in graphic design. The study argues that the use of web technologies in the graphic design process supports the creative and aesthetic practices of designers, and opens up new opportunities for collective activity, enabling the community to develop its own tools and practices.
+
+
+
 
 ## Direction de thèse
 
@@ -92,12 +108,16 @@ Thèse de doctorat en ergonomie et design, menée sous la direction de Anne Bati
 Thèse soutenu le mercredi 7 juin 2023, au musée des Arts Décoratifs (111 rue de Rivoli, 75001 Paris).\
 La soutenance était accompagnée d'une [exposition du 5 au 9 juin 2023](https://phd.julie-blanc.fr/expo.html) à la bibliothèque du Musée des Arts Décoratifs.
 
-(entrée par le 111 rue de Rivoli, 75001 Paris).
+### Jury
 
-* Thèse financée par l'EUR ArTeC
-* Université Paris 8 / École doctorale : ED 224 Cognition, Langage, Interaction
-* Laboratoire de rattachement : EA349 Paragraphe / équipe C3U
-* École nationale supérieure des Arts Décoratifs - PSL, au sein d'EnsadLab, équipe Reflective Interaction.
+* Germain Poizat, Professeur, Université de Genève (rapporteur)
+* Davide Fornari, Professeur, École cantonale d’art de Lausanne (Écal) (rapporteur)
+* Anne Bationo-Tillon, Professeure ordinaire, Haute École de Pédagogie de Lausanne (directrice)
+* Samuel Bianchini, Enseignant-chercheur HDR, École nationale supérieure des Arts Décoratifs (co-directeur)
+* Lucile Haute, Enseignante-chercheuse, Université de Nîmes et École nationale supérieure des Arts Décoratifs (co-encadrante)
+* Françoise Decortis, Professeure, Université Paris 8 (examinatrice)
+* Yannick Lemonie, Maître de conférence, Conservatoire national des arts et métiers (examinateur)
+* Anthony Masure, Professeur associé, responsable de la recherche, Haute école d’art et de design de Genève (HEAD – Genève, HES-SO) (examinateur)
 
 # Biographie
 
