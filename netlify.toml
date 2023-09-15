@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo --gc"
+  command = "tinacms build && hugo --gc"
   
 [build.environment]
   HUGO_VERSION = "0.60.1"

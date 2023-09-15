@@ -4,7 +4,8 @@
   "description": "- Repo du site: https://github.com/designenrecherche/site-hugo - Générateur de site statique: Hugo v0.60.1 - CMS statique: [Forestry.io](https://forestry.io/) - Déploiement: [Netlify](https://www.netlify.com/)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tinacms build && hugo --gc"
   },
   "repository": {
     "type": "git",
