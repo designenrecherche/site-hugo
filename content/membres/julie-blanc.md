@@ -110,6 +110,8 @@ Through three empirical studies and the collective design of a tool called page
 Thèse soutenu le mercredi 7 juin 2023, au musée des Arts Décoratifs (111 rue de Rivoli, 75001 Paris).\
 La soutenance était accompagnée d'une [exposition du 5 au 9 juin 2023](https://phd.julie-blanc.fr/expo.html) à la bibliothèque du Musée des Arts Décoratifs.
 
+Thèse consultable en ligne: [https://phd.julie-blanc.fr/](https://phd.julie-blanc.fr/)
+
 ### Jury
 
 * Germain Poizat, Professeur, Université de Genève (rapporteur)
