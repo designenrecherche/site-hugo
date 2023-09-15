@@ -1,6 +1,6 @@
 # Publier une nouvelle page de membre
 
-Vous êtes un·e membre de l'association et vous souhaitez renseigner vos informations sur une nouvelle page du site. Vous êtes au bon endroit.
+Vous êtes un·e membre de l'association et vous souhaitez renseigner vos informations sur une nouvelle page du site. Vous êtes au bon endroit. Si vous souhaitez modifier une page existante, alors c'est encore plus simple, mais quelques points de ce tutoriel pourraient aussi vous servir. Vous êtes donc aussi au bon endroit.
 
 Commencez par vous connecter au gestionnaire de contenu ([TinaCMS](https://tina.io)) en vous rendant à l'adresse de création de membre : [https://designenrecherche.org/admin/#/collections/new/membres/~/](https://designenrecherche.org/admin/#/collections/new/membres/~/). Pour cela, vous aurez besoin des identifiants de l'association. Si vous ne les avez pas déjà, vous pouvez les demander à un·e membre du bureau par [mail](mailto:designenrecherche@gmail.com).
 
