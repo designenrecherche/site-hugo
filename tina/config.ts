@@ -5,12 +5,12 @@ import { membresFields } from "./templates";
 import { popupFields } from "./templates";
 
 // Your hosting provider likely exposes this as an environment variable
-const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
+const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "master";
 
 export default defineConfig({
   branch,
-  clientId: null, // Get this from tina.io
-  token: null, // Get this from tina.io
+  clientId: "c2c4dc7a-a539-4d2c-869b-d9259f91b7cb", // Get this from tina.io
+  token: "83b9bd6b8fd881426e2fe2b95b23ff63f7a05629", // Get this from tina.io
   client: { skip: true },
   build: {
     outputFolder: "admin",
