@@ -1,7 +1,7 @@
 {
   "name": "site-hugo",
   "version": "1.0.0",
-  "description": "- Repo du site: https://github.com/designenrecherche/site-hugo - Générateur de site statique: Hugo v0.60.1 - CMS statique: [Forestry.io](https://forestry.io/) - Déploiement: [Netlify](https://www.netlify.com/)",
+  "description": "- Repo du site: https://github.com/designenrecherche/site-hugo - Générateur de site statique: Hugo v0.60.1 - CMS statique: [TinaCMS](https://tina.io/) - Déploiement: [Netlify](https://www.netlify.com/)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
