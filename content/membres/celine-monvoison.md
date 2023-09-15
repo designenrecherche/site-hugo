@@ -1,64 +1,75 @@
-+++
-bureau = ""
-etablissement = "Université du Québec à Montréal (UQAM)"
-membre_actif = true
-membre_bureau = false
-name = "Monvoisin"
-photo = "/images/unnamed-4.jpg"
-section_cnu = ""
-tags = ["Pédagogie du design", "Matérialité", "Anthropocène", "Pédagogie incarnée", "Pédagogie expérientielle"]
-these_end = 0
-these_soutenue = false
-these_start = 2019
-title = "Céline Monvoison"
-titrethese = "Les pédagogies (néo)matérielles du design à l’ère anthropocène : une recherche sur les écologies corporelles, matérielles et environnementales dans l’acte du design"
-titretheseEn = "The (neo)material pedagogies of design in the Anthropocene era: a research on bodily, material and environmental ecologies in the design act"
-type_page = "membres"
-url_hal = ""
-url_thesesfr = ""
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = "https://www.linkedin.com/in/c%C3%A9line-monvoisin-4988a0169/"
-mail = ""
-medium = ""
-site = ""
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
+---
+bureau: ''
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: 'https://www.linkedin.com/in/c%C3%A9line-monvoisin-4988a0169/'
+  mail: ''
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: ''
+etablissement: Université du Québec à Montréal (UQAM)
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+membre_bureau: false
+name: Monvoisin
+photo: /images/unnamed-4.jpg
+section_cnu: ''
+tags:
+  - Pédagogie du design
+  - Matérialité
+  - Anthropocène
+  - Pédagogie incarnée
+  - Pédagogie expérientielle
+these_end: 0
+these_soutenue: false
+these_start: 2019
+title: Céline Monvoison
+titrethese: >-
+  Les pédagogies (néo)matérielles du design à l’ère anthropocène : une recherche
+  sur les écologies corporelles, matérielles et environnementales dans l’acte du
+  design
+titretheseEn: >-
+  The (neo)material pedagogies of design in the Anthropocene era: a research on
+  bodily, material and environmental ecologies in the design act
+type_page: membres
+url_hal: ''
+url_thesesfr: ''
+_template: membres
+---
 
-+++
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 

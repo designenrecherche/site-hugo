@@ -1,62 +1,75 @@
-+++
-etablissement = "School of Communication, Royal College of Art"
-membre_actif = true
-name = "benque"
-photo = "/images/img_3664_pp.jpg"
-section_cnu = ""
-tags = ["Algorithme", "Archéologie des médias", "Diagrammes", "Programme", "Humanités numériques", "Pratique", "Design critique", "Approche instrumentale"]
-these_end = 2020
-these_soutenue = true
-these_start = 2015
-title = "David Benqué"
-titrethese = "Mur d’enquête, traces, & chicanes; Diagrammes pour une archéologie de la prédiction algorithmique par la pratique du design critique."
-titretheseEn = "Case board, traces, & chicanes; Diagrams for an archaeology of algorithmic prediction through critical design practice."
-type_page = "membres"
-url_hal = "https://researchonline.rca.ac.uk/4420/ "
-url_thesesfr = "https://davidbenque.com/phd"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = "https://www.instagram.com/diagram.studies"
-linkedin = "https://twitter.com/davidbenque"
-mail = ""
-medium = ""
-site = "https://davidbenque.com"
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
+---
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: 'https://www.instagram.com/diagram.studies'
+  linkedin: 'https://twitter.com/davidbenque'
+  mail: ''
+  medium: ''
+  site: 'https://davidbenque.com'
+  telephone: ''
+  twitter: ''
+etablissement: 'School of Communication, Royal College of Art'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+name: benque
+photo: /images/img_3664_pp.jpg
+section_cnu: ''
+tags:
+  - Algorithme
+  - Archéologie des médias
+  - Diagrammes
+  - Programme
+  - Humanités numériques
+  - Pratique
+  - Design critique
+  - Approche instrumentale
+these_end: 2020
+these_soutenue: true
+these_start: 2015
+title: David Benqué
+titrethese: >-
+  Mur d’enquête, traces, & chicanes; Diagrammes pour une archéologie de la
+  prédiction algorithmique par la pratique du design critique.
+titretheseEn: >-
+  Case board, traces, & chicanes; Diagrams for an archaeology of algorithmic
+  prediction through critical design practice.
+type_page: membres
+url_hal: 'https://researchonline.rca.ac.uk/4420/ '
+url_thesesfr: 'https://davidbenque.com/phd'
+_template: membres
+---
 
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse

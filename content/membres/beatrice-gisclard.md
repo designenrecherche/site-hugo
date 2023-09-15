@@ -1,62 +1,74 @@
-+++
-etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"
-membre_actif = false
-name = "gisclard"
-photo = "/images/bgisclard-2020.png"
-section_cnu = "23 Géographie physique, humaine, économique et régionale"
-tags = ["Risques", "Crues rapides", "Innovation sociale", "Territoire", "Capacitation"]
-these_end = 2017
-these_soutenue = true
-these_start = 2014
-title = "Béatrice Gisclard"
-titrethese = "L’innovation sociale territorialisée : un levier de réappropriation du risque inondation par les habitants. L’exemple des crues rapides dans les territoires ruraux du Gard et du Vaucluse"
-titretheseEn = "Territorialized social innovation: a lever for the reappropriation of the flood risk by the inhabitants. The example of flash floods in the rural areas of the Gard and Vaucluse regions"
-type_page = "membres"
-url_hal = "https://tel.archives-ouvertes.fr/tel-01669042"
-url_thesesfr = "http://theses.fr/s135642"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = "https://www.linkedin.com/in/b%C3%A9atrice-gisclard-25091415/"
-mail = "beatrice.gisclard@unimes.fr "
-medium = ""
-site = ""
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
+---
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: 'https://www.linkedin.com/in/b%C3%A9atrice-gisclard-25091415/'
+  mail: 'beatrice.gisclard@unimes.fr '
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: ''
+etablissement: 'Université de Nîmes (Unîmes), laboratoire PROJEKT'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: false
+name: gisclard
+photo: /images/bgisclard-2020.png
+section_cnu: '23 Géographie physique, humaine, économique et régionale'
+tags:
+  - Risques
+  - Crues rapides
+  - Innovation sociale
+  - Territoire
+  - Capacitation
+these_end: 2017
+these_soutenue: true
+these_start: 2014
+title: Béatrice Gisclard
+titrethese: >-
+  L’innovation sociale territorialisée : un levier de réappropriation du risque
+  inondation par les habitants. L’exemple des crues rapides dans les territoires
+  ruraux du Gard et du Vaucluse
+titretheseEn: >-
+  Territorialized social innovation: a lever for the reappropriation of the
+  flood risk by the inhabitants. The example of flash floods in the rural areas
+  of the Gard and Vaucluse regions
+type_page: membres
+url_hal: 'https://tel.archives-ouvertes.fr/tel-01669042'
+url_thesesfr: 'http://theses.fr/s135642'
+_template: membres
+---
 
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse

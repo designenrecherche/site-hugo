@@ -7,3 +7,5 @@ npm-debug.log
 node_modules
 builds
 package-lock.json
+*.lock
+resources/_gen/assets/scss/scss

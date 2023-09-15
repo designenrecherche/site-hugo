@@ -1,62 +1,75 @@
-+++
-etablissement = "Ecole nationale supérieur des Arts Décoratifs de Paris (EnsAD)&nbsp;/ EnsadLab&nbsp;/ MINES ParisTech /&nbsp;CRI"
-membre_actif = true
-name = "perera"
-photo = "/images/luc-perera.JPG"
-section_cnu = "18 Arts appliqués"
-tags = ["Carnatique, Alzheimer, Interdisciplinaire, Mécatronique et Pédagogie.", "Carnatique", "Alzheimer", "Interdisciplinaire", "Mécatronique", "Pédagogie"]
-these_end = 0
-these_soutenue = false
-these_start = 2017
-title = "Luc Perera"
-titrethese = "Tâlas médical : Esthétiques des sons carnatiques contemporains et dispositifs interactifs de design sonore médical."
-titretheseEn = "Medical Tâla : The Aesthetics of contemporary Carnatic sounds with interactive devices in Medical sound design."
-type_page = "membres"
-url_hal = ""
-url_thesesfr = ""
-[contact]
-facebook = "https://www.facebook.com/profile.php?id=1044193231"
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = ""
-mail = "luc.perera@ensad.fr"
-medium = ""
-site = ""
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
+---
+contact:
+  facebook: 'https://www.facebook.com/profile.php?id=1044193231'
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: ''
+  mail: luc.perera@ensad.fr
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: ''
+etablissement: >-
+  Ecole nationale supérieur des Arts Décoratifs de Paris (EnsAD)&nbsp;/
+  EnsadLab&nbsp;/ MINES ParisTech /&nbsp;CRI
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+name: perera
+photo: /images/luc-perera.JPG
+section_cnu: 18 Arts appliqués
+tags:
+  - 'Carnatique, Alzheimer, Interdisciplinaire, Mécatronique et Pédagogie.'
+  - Carnatique
+  - Alzheimer
+  - Interdisciplinaire
+  - Mécatronique
+  - Pédagogie
+these_end: 0
+these_soutenue: false
+these_start: 2017
+title: Luc Perera
+titrethese: >-
+  Tâlas médical : Esthétiques des sons carnatiques contemporains et dispositifs
+  interactifs de design sonore médical.
+titretheseEn: >-
+  Medical Tâla : The Aesthetics of contemporary Carnatic sounds with interactive
+  devices in Medical sound design.
+type_page: membres
+url_hal: ''
+url_thesesfr: ''
+_template: membres
+---
 
-+++
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 

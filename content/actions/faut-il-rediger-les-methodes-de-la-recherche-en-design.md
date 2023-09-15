@@ -1,17 +1,26 @@
-+++
-banner = "/uploads/2017/12/31/placeholder.jpg"
-category = "Journée d'étude"
-description = "Le premier évènement scientifique organisé par l’association est l’occasion de traiter des méthodes et méthodologies convoquées par la recherche en design, considérées comme particulièrement riches et controversées."
-descriptiontemp = ""
-documents = ""
-lieu = "ENSCI, salle Richard Lenoir"
-publishDate = 2014-10-02T07:30:20Z
-dateevent = 2014-10-02T07:30:20Z
-time = "9h30"
-title = "Faut-il rédiger les méthodes de la recherche en design&nbsp;?"
-tags = ["design", "méthodes", "réduire en art", "méthodologie"]
-type_page = "actions"
-+++
+---
+banner: /uploads/2017/12/31/placeholder.jpg
+category: Journée d'étude
+dateevent: '2014-10-02T07:30:20Z'
+description: >-
+  Le premier évènement scientifique organisé par l’association est l’occasion de
+  traiter des méthodes et méthodologies convoquées par la recherche en design,
+  considérées comme particulièrement riches et controversées.
+descriptiontemp: ''
+documents: ''
+lieu: 'ENSCI, salle Richard Lenoir'
+publishDate: '2014-10-02T07:30:20Z'
+tags:
+  - design
+  - méthodes
+  - réduire en art
+  - méthodologie
+time: 9h30
+title: Faut-il rédiger les méthodes de la recherche en design&nbsp;?
+type_page: actions
+_template: actions
+---
+
 > Ainsi mon dessein n’est pas d’enseigner la méthode que chacun doit suivre pour bien conduire sa raison, mais de faire voir en quelle sorte j’ai tâché de conduire la mienne.
 >
 > – René Descartes, Discours de la méthode, 1637.

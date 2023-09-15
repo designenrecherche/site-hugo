@@ -1,62 +1,76 @@
-+++
-etablissement = "Lab4Living, Sheffield Hallam University, UK"
-membre_actif = false
-name = "bec"
-photo = "/images/remibec.jpg"
-section_cnu = "18 Arts appliqués"
-tags = ["design research", "research-through-design", "interdisciplinary", "health", "user-centered", "physical activity", "exergames", "games for health", "serious games"]
-these_end = 2015
-these_soutenue = true
-these_start = 2010
-title = "Rémi Bec"
-titrethese = "Jeux et recherche en design pour promouvoir l’activité physique auprès des adolescents"
-titretheseEn = "Utilising games and design-research methodology to promote physical activity among adolescents"
-type_page = "membres"
-url_hal = ""
-url_thesesfr = "Disponible sur demande"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = "https://www.linkedin.com/in/remi-bec-08170735/"
-mail = "remibec@gmail.com"
-medium = ""
-site = ""
-telephone = ""
-twitter = "@Rob_zone83"
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
+---
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: 'https://www.linkedin.com/in/remi-bec-08170735/'
+  mail: remibec@gmail.com
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: '@Rob_zone83'
+etablissement: 'Lab4Living, Sheffield Hallam University, UK'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: false
+name: bec
+photo: /images/remibec.jpg
+section_cnu: 18 Arts appliqués
+tags:
+  - design research
+  - research-through-design
+  - interdisciplinary
+  - health
+  - user-centered
+  - physical activity
+  - exergames
+  - games for health
+  - serious games
+these_end: 2015
+these_soutenue: true
+these_start: 2010
+title: Rémi Bec
+titrethese: >-
+  Jeux et recherche en design pour promouvoir l’activité physique auprès des
+  adolescents
+titretheseEn: >-
+  Utilising games and design-research methodology to promote physical activity
+  among adolescents
+type_page: membres
+url_hal: ''
+url_thesesfr: Disponible sur demande
+_template: membres
+---
 
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse

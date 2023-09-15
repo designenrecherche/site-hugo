@@ -1,17 +1,23 @@
-+++
-category = "Partenariat"
-description = ""
-descriptiontemp = ""
-documents = ""
-lieu = "Espace Niemeyer, 2 Place du Colonel Fabien, 75019 Paris"
-publishDate = 2019-04-19T16:06:25Z
-dateevent = 2019-04-19T16:06:25Z
-tags = ["Partenariat", "Colloque", "Communauté", "Processus", "Communs"]
-time = "9h"
-title = "Colloque : Designing community"
-type_page = "actions"
+---
+category: Partenariat
+dateevent: '2019-04-19T16:06:25Z'
+description: ''
+descriptiontemp: ''
+documents: ''
+lieu: 'Espace Niemeyer, 2 Place du Colonel Fabien, 75019 Paris'
+publishDate: '2019-04-19T16:06:25Z'
+tags:
+  - Partenariat
+  - Colloque
+  - Communauté
+  - Processus
+  - Communs
+time: 9h
+title: 'Colloque : Designing community'
+type_page: actions
+_template: actions
+---
 
-+++
 19 & 20 avril 2019
 
 # Edito

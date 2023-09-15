@@ -1,62 +1,77 @@
-+++
-etablissement = "Laboratoire de Conception Produits et Innovation, École Nationale Supérieure d’Arts et Métiers Paris (LCPI)"
-membre_actif = false
-name = "rias"
-photo = "/images/photo-identite-alr.jpg"
-section_cnu = "71 Sciences de l'information et de la communication"
-tags = ["Fabrication additive", "Créativité", "Objets intermédiaires", "AMIO", "Exploration des connaissances", "Stimuli", "Conception créative", "DFAM"]
-these_end = 2017
-these_soutenue = true
-these_start = 2014
-title = "Anne-Lise Rias"
-titrethese = "Créativité par et pour la fabrication additive : proposition d’une méthodologie outillée"
-titretheseEn = "Creativity through additive manufacturing: a methodology and its tools for application"
-type_page = "membres"
-url_hal = "https://pastel.archives-ouvertes.fr/tel-02987001v1"
-url_thesesfr = "http://www.theses.fr/2017ENAM0030"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = "https://www.linkedin.com/in/anneliserias/"
-mail = ""
-medium = ""
-site = ""
-telephone = ""
-twitter = "https://twitter.com/AnneliseRias"
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
+---
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: 'https://www.linkedin.com/in/anneliserias/'
+  mail: ''
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: 'https://twitter.com/AnneliseRias'
+etablissement: >-
+  Laboratoire de Conception Produits et Innovation, École Nationale Supérieure
+  d’Arts et Métiers Paris (LCPI)
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: false
+name: rias
+photo: /images/photo-identite-alr.jpg
+section_cnu: 71 Sciences de l'information et de la communication
+tags:
+  - Fabrication additive
+  - Créativité
+  - Objets intermédiaires
+  - AMIO
+  - Exploration des connaissances
+  - Stimuli
+  - Conception créative
+  - DFAM
+these_end: 2017
+these_soutenue: true
+these_start: 2014
+title: Anne-Lise Rias
+titrethese: >-
+  Créativité par et pour la fabrication additive : proposition d’une
+  méthodologie outillée
+titretheseEn: >-
+  Creativity through additive manufacturing: a methodology and its tools for
+  application
+type_page: membres
+url_hal: 'https://pastel.archives-ouvertes.fr/tel-02987001v1'
+url_thesesfr: 'http://www.theses.fr/2017ENAM0030'
+_template: membres
+---
 
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse

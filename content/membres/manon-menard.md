@@ -1,64 +1,74 @@
-+++
-bureau = "Secrétaire et vice trésorière"
-etablissement = "Université de Nîmes (Unîmes), laboratoire PROJEKT"
-membre_actif = true
-membre_bureau = false
-name = "menard"
-photo = "/images/phpto_insta1-1.jpg"
-section_cnu = "18 Arts appliqués"
-tags = ["Design", "Singularité", "Diversité", "Inclusion", "Design graphique", "Autisme", "Pédagogie"]
-these_end = 0
-these_soutenue = false
-these_start = 2019
-title = "Manon Ménard"
-titrethese = "De la culture des singularités à l'inclusion sociale et pédagogique par le design"
-titretheseEn = ""
-type_page = "membres"
-url_hal = ""
-url_thesesfr = "http://www.theses.fr/s215740"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = ""
-mail = "manon.menard13@gmail.com"
-medium = ""
-site = "www.manonmenard.com"
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
+---
+bureau: Secrétaire et vice trésorière
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: ''
+  mail: manon.menard13@gmail.com
+  medium: ''
+  site: www.manonmenard.com
+  telephone: ''
+  twitter: ''
+etablissement: 'Université de Nîmes (Unîmes), laboratoire PROJEKT'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+membre_bureau: false
+name: menard
+photo: /images/phpto_insta1-1.jpg
+section_cnu: 18 Arts appliqués
+tags:
+  - Design
+  - Singularité
+  - Diversité
+  - Inclusion
+  - Design graphique
+  - Autisme
+  - Pédagogie
+these_end: 0
+these_soutenue: false
+these_start: 2019
+title: Manon Ménard
+titrethese: >-
+  De la culture des singularités à l'inclusion sociale et pédagogique par le
+  design
+titretheseEn: ''
+type_page: membres
+url_hal: ''
+url_thesesfr: 'http://www.theses.fr/s215740'
+_template: membres
+---
 
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse

@@ -1,16 +1,28 @@
-+++
-category = "Publication"
-description = "Cet article, paru dans le numéro 1 de la revue Sciences du design, propose une discussion autour des spécificités méthodologiques de la recherche française en design."
-descriptiontemp = ""
-documents = ""
-lieu = ""
-publishDate = 2015-05-27T08:00:00Z
-dateevent = 2015-05-27T08:00:00Z
-tags = ["méthodologie", "recherche en design", "modèle", "réduction en art", "recherche-projet", "publication"]
-title = "Méthodologies de recherche et design : un instantané des pratiques de recherche employées au sein d’un réseau de jeunes chercheurs"
-type_page = "actions"
+---
+category: Publication
+dateevent: '2015-05-27T08:00:00Z'
+description: >-
+  Cet article, paru dans le numéro 1 de la revue Sciences du design, propose une
+  discussion autour des spécificités méthodologiques de la recherche française
+  en design.
+descriptiontemp: ''
+documents: ''
+lieu: ''
+publishDate: '2015-05-27T08:00:00Z'
+tags:
+  - méthodologie
+  - recherche en design
+  - modèle
+  - réduction en art
+  - recherche-projet
+  - publication
+title: >-
+  Méthodologies de recherche et design : un instantané des pratiques de
+  recherche employées au sein d’un réseau de jeunes chercheurs
+type_page: actions
+_template: actions
+---
 
-+++
 Article paru dans le premier numéro de la revue Sciences du design, par Robin de Mourat, Ioana Ocnarescu, Anne-Lyse Renon et Marine Royer.
 
 **Résumé**

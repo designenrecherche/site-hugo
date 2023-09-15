@@ -1,62 +1,74 @@
-+++
-etablissement = "Université Gustave-Eiffel, Champs-sur-Marne, Laboratoire Littératures, Savoirs et Arts (LISAA)."
-membre_actif = false
-name = "bonhomme"
-photo = "/images/bonhomme-max.jpg"
-section_cnu = "22 Histoire de l'art"
-tags = ["Histoire de la photographie", "Histoire de la presse illustrée", "Culture visuelle", "Iconographie politique", "histoire du design graphique"]
-these_end = 2020
-these_soutenue = true
-these_start = 2015
-title = "Max Bonhomme"
-titrethese = "Propagande graphique : le photomontage dans la culture visuelle de la gauche française (1925-1939)"
-titretheseEn = "Graphic Propaganda : Photomontage and the Visual Culture of the Left in France (1925-1939)"
-type_page = "membres"
-url_hal = ""
-url_thesesfr = "http://theses.fr/s240542"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = ""
-mail = "maxbonhomme@protonmail.com"
-medium = ""
-site = ""
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
+---
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: ''
+  mail: maxbonhomme@protonmail.com
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: ''
+etablissement: >-
+  Université Gustave-Eiffel, Champs-sur-Marne, Laboratoire Littératures, Savoirs
+  et Arts (LISAA).
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: false
+name: bonhomme
+photo: /images/bonhomme-max.jpg
+section_cnu: 22 Histoire de l'art
+tags:
+  - Histoire de la photographie
+  - Histoire de la presse illustrée
+  - Culture visuelle
+  - Iconographie politique
+  - histoire du design graphique
+these_end: 2020
+these_soutenue: true
+these_start: 2015
+title: Max Bonhomme
+titrethese: >-
+  Propagande graphique : le photomontage dans la culture visuelle de la gauche
+  française (1925-1939)
+titretheseEn: >-
+  Graphic Propaganda : Photomontage and the Visual Culture of the Left in France
+  (1925-1939)
+type_page: membres
+url_hal: ''
+url_thesesfr: 'http://theses.fr/s240542'
+_template: membres
+---
 
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse

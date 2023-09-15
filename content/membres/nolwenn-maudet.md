@@ -1,62 +1,70 @@
-+++
-etablissement = "Université Paris-Saclay, STIC"
-membre_actif = true
-name = "maudet"
-photo = "/images/maudet-nolwenn.png"
-section_cnu = "27 Informatique"
-tags = ["Interaction humain-machine", "Design graphique", "Outils de support de la créativité", "Systèmes homme-machine", "Design interactif", "Arts graphiques", "Conception assistée par ordinateur"]
-these_end = 2017
-these_soutenue = true
-these_start = 2014
-title = "Nolwenn Maudet"
-titrethese = "Designing Design Tools"
-titretheseEn = "Designing Design Tools"
-type_page = "membres"
-url_hal = "https://tel.archives-ouvertes.fr/tel-01827014v2"
-url_thesesfr = "http://www.theses.fr/2017SACLS486"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = ""
-mail = ""
-medium = ""
-site = ""
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
+---
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: ''
+  mail: ''
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: ''
+etablissement: 'Université Paris-Saclay, STIC'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+name: maudet
+photo: /images/maudet-nolwenn.png
+section_cnu: 27 Informatique
+tags:
+  - Interaction humain-machine
+  - Design graphique
+  - Outils de support de la créativité
+  - Systèmes homme-machine
+  - Design interactif
+  - Arts graphiques
+  - Conception assistée par ordinateur
+these_end: 2017
+these_soutenue: true
+these_start: 2014
+title: Nolwenn Maudet
+titrethese: Designing Design Tools
+titretheseEn: Designing Design Tools
+type_page: membres
+url_hal: 'https://tel.archives-ouvertes.fr/tel-01827014v2'
+url_thesesfr: 'http://www.theses.fr/2017SACLS486'
+_template: membres
+---
 
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse

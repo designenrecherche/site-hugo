@@ -1,62 +1,72 @@
-+++
-etablissement = "université Rennes 2, PTAC / Sciences Po, médialab"
-membre_actif = true
-name = "demourat"
-photo = "/images/de-mourat-robin.png"
-section_cnu = "18 Esthétique"
-tags = ["Design", "Sciences humaines et sociales", "Édition", "Écriture", "Multimodalité"]
-these_end = 2020
-these_soutenue = true
-these_start = 2013
-title = "Robin De Mourat"
-titrethese = "La vacillement des formats. Matérialité, écriture et enquête: le design des publications en Sciences Humaines et Sociales"
-titretheseEn = "The flickering of formats. Materiality, writing and inquiry : the design of Humanities and Social Sciences Publications"
-type_page = "membres"
-url_hal = "http://www.these.robindemourat.com/ "
-url_thesesfr = "http://www.theses.fr/s99691"
-[contact]
-facebook = ""
-github = "https://github.com/robindemourat/ "
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = ""
-mail = "https://medialab.sciencespo.fr/equipe/robin-de-mourat/ "
-medium = ""
-site = ""
-telephone = ""
-twitter = "https://twitter.com/robindemourat"
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
+---
+contact:
+  facebook: ''
+  github: 'https://github.com/robindemourat/ '
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: ''
+  mail: 'https://medialab.sciencespo.fr/equipe/robin-de-mourat/ '
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: 'https://twitter.com/robindemourat'
+etablissement: 'université Rennes 2, PTAC / Sciences Po, médialab'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+name: demourat
+photo: /images/de-mourat-robin.png
+section_cnu: 18 Esthétique
+tags:
+  - Design
+  - Sciences humaines et sociales
+  - Édition
+  - Écriture
+  - Multimodalité
+these_end: 2020
+these_soutenue: true
+these_start: 2013
+title: Robin De Mourat
+titrethese: >-
+  La vacillement des formats. Matérialité, écriture et enquête: le design des
+  publications en Sciences Humaines et Sociales
+titretheseEn: >-
+  The flickering of formats. Materiality, writing and inquiry : the design of
+  Humanities and Social Sciences Publications
+type_page: membres
+url_hal: 'http://www.these.robindemourat.com/ '
+url_thesesfr: 'http://www.theses.fr/s99691'
+_template: membres
+---
 
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse

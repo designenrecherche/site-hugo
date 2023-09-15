@@ -1,64 +1,74 @@
-+++
-bureau = "Présidente"
-etablissement = " Laboratoire ACCRA (Approches contemporaines de la création et de la réflexion artistiques, Université de Strasbourg), Centre de Recherches en Histoire des Idées (CHRI, Université Côte-d'Azur) "
-membre_actif = true
-membre_bureau = true
-name = "Maurel"
-photo = "/images/photo-2021-12-15-15-45-33-copie.jpg"
-section_cnu = "18 Arts appliqués"
-tags = ["Design graphique", "Ethiques du care", "Complexité", "Intelligibilité", "Données de santé", "Travail", "Technologies numériques"]
-these_end = 0
-these_soutenue = false
-these_start = 2022
-title = "Fanny Maurel"
-titrethese = "Data with care : rendre intelligible par le design le tissu socio-technique qui maille le système de santé"
-titretheseEn = ""
-type_page = "membres"
-url_hal = ""
-url_thesesfr = "https://theses.fr/s303808 "
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = "https://www.instagram.com/fannyfmaurel/?hl=fr"
-linkedin = "https://www.linkedin.com/in/fanny-maurel-7b20b4122/"
-mail = "f.f.maurel@gmail.com"
-medium = ""
-site = "f.f.maurel@gmail.com"
-telephone = ""
-twitter = "https://twitter.com/fannymau_"
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
+---
+bureau: Présidente
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: 'https://www.instagram.com/fannyfmaurel/?hl=fr'
+  linkedin: 'https://www.linkedin.com/in/fanny-maurel-7b20b4122/'
+  mail: f.f.maurel@gmail.com
+  medium: ''
+  site: f.f.maurel@gmail.com
+  telephone: ''
+  twitter: 'https://twitter.com/fannymau_'
+etablissement: ' Laboratoire ACCRA (Approches contemporaines de la création et de la réflexion artistiques, Université de Strasbourg), Centre de Recherches en Histoire des Idées (CHRI, Université Côte-d''Azur) '
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+membre_bureau: true
+name: Maurel
+photo: /images/photo-2021-12-15-15-45-33-copie.jpg
+section_cnu: 18 Arts appliqués
+tags:
+  - Design graphique
+  - Ethiques du care
+  - Complexité
+  - Intelligibilité
+  - Données de santé
+  - Travail
+  - Technologies numériques
+these_end: 0
+these_soutenue: false
+these_start: 2022
+title: Fanny Maurel
+titrethese: >-
+  Data with care : rendre intelligible par le design le tissu socio-technique
+  qui maille le système de santé
+titretheseEn: ''
+type_page: membres
+url_hal: ''
+url_thesesfr: 'https://theses.fr/s303808 '
+_template: membres
+---
 
-+++
 # Résumé de thèse
 
 {{% lang class="fr" %}}

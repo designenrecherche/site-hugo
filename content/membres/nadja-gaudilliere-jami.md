@@ -1,62 +1,73 @@
-+++
-etablissement = "ENSA Paris-Malaquais, Laboratoire GSA / TU Darmstadt, Digital Design Unit"
-membre_actif = true
-name = "gaudillere"
-photo = "/images/nadja_gaudilliere_415x415.jpg"
-section_cnu = "18 Architecture"
-tags = ["architecture computationnelle", "algorithmes", "processus de conception architectural", "savoir-faire", "calculabilité", "épistémologie de l’architecture"]
-these_end = 0
-these_soutenue = false
-these_start = 2016
-title = "Nadja Gaudillière-Jami"
-titrethese = "Automatiser l’architecture ? Savoir-faire et calculabilité dans les pratiques des courants computationnels, 1965-2020."
-titretheseEn = "Automating Architecture? Knowledge & Computability in the Computational Field, 1965-2020"
-type_page = "membres"
-url_hal = ""
-url_thesesfr = ""
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = ""
-mail = "nadja.gaudilliere@gmail.com"
-medium = ""
-site = ""
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
+---
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: ''
+  mail: nadja.gaudilliere@gmail.com
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: ''
+etablissement: 'ENSA Paris-Malaquais, Laboratoire GSA / TU Darmstadt, Digital Design Unit'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+name: gaudillere
+photo: /images/nadja_gaudilliere_415x415.jpg
+section_cnu: 18 Architecture
+tags:
+  - architecture computationnelle
+  - algorithmes
+  - processus de conception architectural
+  - savoir-faire
+  - calculabilité
+  - épistémologie de l’architecture
+these_end: 0
+these_soutenue: false
+these_start: 2016
+title: Nadja Gaudillière-Jami
+titrethese: >-
+  Automatiser l’architecture ? Savoir-faire et calculabilité dans les pratiques
+  des courants computationnels, 1965-2020.
+titretheseEn: >-
+  Automating Architecture? Knowledge & Computability in the Computational Field,
+  1965-2020
+type_page: membres
+url_hal: ''
+url_thesesfr: ''
+_template: membres
+---
 
-+++
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 

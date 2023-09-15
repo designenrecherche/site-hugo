@@ -1,11 +1,12 @@
-+++
-description = ""
-documents = "/images/colloque-design.pdf"
-link = ""
-publishDate = 2021-06-18T14:35:45Z
-title = "Appel à contribution Colloque ENSCI-les ateliers / 24-25 mars 2022"
+---
+description: ''
+documents: /images/colloque-design.pdf
+link: ''
+publishDate: '2021-06-18T14:35:45Z'
+title: Appel à contribution Colloque ENSCI-les ateliers / 24-25 mars 2022
+_template: breves
+---
 
-+++
 Appel à contribution pour le colloque **_Vers une généalogie de la notion de design : pour une lecture critique de l’idée de fonction_** 
 
 _Le colloque se tiendra à l'é_cole Nationale Supérieure de Création Industrielle Paris (_L’ENSCI-les ateliers) le 24-25 mars 2022._

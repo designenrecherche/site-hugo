@@ -1,17 +1,24 @@
-+++
-category = "Journée d'étude"
-description = "Cette journée d’étude interroge les postures de designers impliqués dans le « vivre ensemble », qu’il s’agisse de politiques publiques, de design social ou pour l’innovation sociale, dans un cadre de commande ou d’action spontanée. "
-descriptiontemp = ""
-documents = ""
-lieu = "Strate École de Design"
-publishDate = 2016-09-15T08:12:51Z
-dateevent = 2016-09-15T08:12:51Z
-tags = ["vie publique", "innovation sociale", "design"]
-time = "10h"
-title = "Design, innovation sociale et vie publique"
-type_page = "actions"
+---
+category: Journée d'étude
+dateevent: '2016-09-15T08:12:51Z'
+description: >-
+  Cette journée d’étude interroge les postures de designers impliqués dans le «
+  vivre ensemble », qu’il s’agisse de politiques publiques, de design social ou
+  pour l’innovation sociale, dans un cadre de commande ou d’action spontanée. 
+descriptiontemp: ''
+documents: ''
+lieu: Strate École de Design
+publishDate: '2016-09-15T08:12:51Z'
+tags:
+  - vie publique
+  - innovation sociale
+  - design
+time: 10h
+title: 'Design, innovation sociale et vie publique'
+type_page: actions
+_template: actions
+---
 
-+++
 # Argument
 
 Pour cette septième journée d’étude organisée par le réseau Design en Recherche, nous proposons d’exposer et de débattre les différentes positions prises par les designers lorsqu’elles.ils s’engagent dans des projets dits d’innovation sociale, ou lors d’interventions volontaires dans la vie publique. Si ce type de démarche n’est pas nouvelle, de nombreux.ses praticien.nes du design ayant revendiqué leur participation à la vie publique depuis le début du XXe siècle (l’exemple le plus frappant étant probablement le Bauhaus), force est de constater qu’elles sont désormais organisées et que le design a été identifié comme un outil déployable dans les organisations impliquées dans les politiques publiques. En effet, des designers ont rejoint divers groupes de travail ou organisations pour intervenir sur les enquêtes, la médiation, les formes de débat... Justifiant ces approches par une nécessité pour le design de chercher à maintenir ou renforcer “l’habitabilité du monde” (Findeli, 2010), on peut cependant interroger cette affirmation : les designers peuvent-ils.elles “changer le monde” ? Le devraient-ils.elles ? Qui est à même de négocier l’échelle de leur intervention ? De la contredire ? Quelles pratiques de design peuvent être transférées, à qui, et est-ce souhaitable ? Quels sont les enjeux politiques de ces interventions de design ?

@@ -1,64 +1,74 @@
-+++
-bureau = ""
-etablissement = "Université de Nîmes (Unîmes), Laboratoire PROJEKT"
-membre_actif = true
-membre_bureau = false
-name = "Fournier"
-photo = "/images/unnamed-3.jpg"
-section_cnu = "71 Sciences de l'information et de la communication"
-tags = ["Dessin typographique", "Égyptologie", "Épistémologie", "Consistency", "Discours scientifique", "Standardisation"]
-these_end = 0
-these_soutenue = false
-these_start = 2019
-title = "Pierre Fournier"
-titrethese = " Le dessin typographique comme prisme d'analyse des pratiques égyptologiques : l'étude des caractères typographiques pour la transcription des hiéroglyphes égyptiens, un observatoire des évolutions méthodologiques et épistémologiques de l'égyptologie."
-titretheseEn = "Type design as a prism for the analysis of egyptological practices : the study of hieroglyphic typefaces, an observatory of the methodological and epistemological evolutions of egyptology."
-type_page = "membres"
-url_hal = ""
-url_thesesfr = "http://www.theses.fr/s228764"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = ""
-mail = ""
-medium = ""
-site = ""
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
+---
+bureau: ''
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: ''
+  mail: ''
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: ''
+etablissement: 'Université de Nîmes (Unîmes), Laboratoire PROJEKT'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+membre_bureau: false
+name: Fournier
+photo: /images/unnamed-3.jpg
+section_cnu: 71 Sciences de l'information et de la communication
+tags:
+  - Dessin typographique
+  - Égyptologie
+  - Épistémologie
+  - Consistency
+  - Discours scientifique
+  - Standardisation
+these_end: 0
+these_soutenue: false
+these_start: 2019
+title: Pierre Fournier
+titrethese: ' Le dessin typographique comme prisme d''analyse des pratiques égyptologiques : l''étude des caractères typographiques pour la transcription des hiéroglyphes égyptiens, un observatoire des évolutions méthodologiques et épistémologiques de l''égyptologie.'
+titretheseEn: >-
+  Type design as a prism for the analysis of egyptological practices : the study
+  of hieroglyphic typefaces, an observatory of the methodological and
+  epistemological evolutions of egyptology.
+type_page: membres
+url_hal: ''
+url_thesesfr: 'http://www.theses.fr/s228764'
+_template: membres
+---
 
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse

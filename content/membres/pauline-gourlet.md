@@ -1,62 +1,79 @@
-+++
-etablissement = "Laboratoire Paragraphe, Paris 8"
-membre_actif = false
-name = "gourlet"
-photo = "/images/gourlet-pauline.png"
-section_cnu = "16 Psychologie, Ergonomie"
-tags = ["Agir collectif", "Artefacts composites", "Éducation", "Co-activité", "Versions instrumentales", "Dialogue", "Approche développementale de la conception", "Éducation", "Culture matérielle", "Ergonomie", "Médias audiovisuels", "Production et réalisation"]
-these_end = 2018
-these_soutenue = true
-these_start = 2014
-title = "Pauline Gourlet"
-titrethese = "Montrer le faire, construire l’agir : une approche développementale de la conception mise en œuvre à l’école primaire"
-titretheseEn = "Ways of showing : a developmental approach to design and its application in elementary schools"
-type_page = "membres"
-url_hal = "https://hal.archives-ouvertes.fr/tel-02264948"
-url_thesesfr = "http://www.theses.fr/2018PA080023"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = ""
-mail = "pauline.gourlet@gmail.com"
-medium = ""
-site = "https://www.paulinegourlet.com/"
-telephone = ""
-twitter = "https://twitter.com/Pauline_Gourlet"
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
+---
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: ''
+  mail: pauline.gourlet@gmail.com
+  medium: ''
+  site: 'https://www.paulinegourlet.com/'
+  telephone: ''
+  twitter: 'https://twitter.com/Pauline_Gourlet'
+etablissement: 'Laboratoire Paragraphe, Paris 8'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: false
+name: gourlet
+photo: /images/gourlet-pauline.png
+section_cnu: '16 Psychologie, Ergonomie'
+tags:
+  - Agir collectif
+  - Artefacts composites
+  - Éducation
+  - Co-activité
+  - Versions instrumentales
+  - Dialogue
+  - Approche développementale de la conception
+  - Éducation
+  - Culture matérielle
+  - Ergonomie
+  - Médias audiovisuels
+  - Production et réalisation
+these_end: 2018
+these_soutenue: true
+these_start: 2014
+title: Pauline Gourlet
+titrethese: >-
+  Montrer le faire, construire l’agir : une approche développementale de la
+  conception mise en œuvre à l’école primaire
+titretheseEn: >-
+  Ways of showing : a developmental approach to design and its application in
+  elementary schools
+type_page: membres
+url_hal: 'https://hal.archives-ouvertes.fr/tel-02264948'
+url_thesesfr: 'http://www.theses.fr/2018PA080023'
+_template: membres
+---
 
-+++
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 

@@ -1,17 +1,28 @@
-+++
-category = "Conférence"
-dateevent = 2021-05-10T16:00:00Z
-description = "Troisième épisode du cycle de conférence « Pratiques de la recherche en design » de l'asso ! Avec Loraine Furter, Charlotte Attal, et Elise Goutagny. "
-descriptiontemp = "Le 10 mai prochain aura lieu le troisième épisode du cycle de conférence « Pratiques de la recherche en design » de l'asso ! Avec Loraine Furter, Charlotte Attal, et Elise Goutagny. "
-documents = "/images/visuconf3_titre.jpg"
-lieu = "En ligne"
-publishDate = 2021-04-15T07:53:50Z
-tags = ["design", "recherche", "decolonialisme", "féminisme", "design graphique "]
-time = "18h"
-title = "Nourrir le design graphique : transmission féministes et décoloniales"
-type_page = "actions"
+---
+category: Conférence
+dateevent: '2021-05-10T16:00:00Z'
+description: >-
+  Troisième épisode du cycle de conférence « Pratiques de la recherche en design
+  » de l'asso ! Avec Loraine Furter, Charlotte Attal, et Elise Goutagny. 
+descriptiontemp: >-
+  Le 10 mai prochain aura lieu le troisième épisode du cycle de conférence «
+  Pratiques de la recherche en design » de l'asso ! Avec Loraine Furter,
+  Charlotte Attal, et Elise Goutagny. 
+documents: /images/visuconf3_titre.jpg
+lieu: En ligne
+publishDate: '2021-04-15T07:53:50Z'
+tags:
+  - design
+  - recherche
+  - decolonialisme
+  - féminisme
+  - 'design graphique '
+time: 18h
+title: 'Nourrir le design graphique : transmission féministes et décoloniales'
+type_page: actions
+_template: actions
+---
 
-+++
 Dans la continuité du cycle de conférence « Pratiques de la  
 recherche en design » nous vous proposons de nous retrouver à nouveau pour une conférence intitulée "Nourrir le design graphique : transmission féministes et décoloniales".
 

@@ -1,11 +1,13 @@
-+++
-description = ""
-documents = ""
-link = "http://projekt.unimes.fr/seminaire-deis/seminaire-mensuel-transversal-deis-2021-2022/"
-publishDate = 2022-01-15T18:27:17Z
-title = " Séminaire  « Design Et Innovation Sociale » (Unîmes)"
+---
+description: ''
+documents: ''
+link: >-
+  http://projekt.unimes.fr/seminaire-deis/seminaire-mensuel-transversal-deis-2021-2022/
+publishDate: '2022-01-15T18:27:17Z'
+title: ' Séminaire  « Design Et Innovation Sociale » (Unîmes)'
+_template: breves
+---
 
-+++
 Pour cette année 2021-2022, l'équipe Projeckt de Unîmes poursuit son séminaire mensuel transversal DEIS « **Design Et Innovation Sociale** ».  
 Le séminaire a lieu les vendredis après-midi sur le site Hoche de l’Université de Nîmes.  
 L’entrée est libre et gratuite dans la limite des places disponibles.

@@ -1,64 +1,75 @@
-+++
-bureau = ""
-etablissement = "Programme SACRe, EnsadLab, ENSAD-Université PSL"
-membre_actif = true
-membre_bureau = false
-name = "Baudoin"
-photo = "/images/unnamed.png"
-section_cnu = ""
-tags = ["Design", "Artisanat", "Cosmologie", "Bricologie", "Cultures hybrides", "Intersection génératives", "Co-création", "Chaîne technique", "Microfinance", "Matériaux"]
-these_end = 2024
-these_soutenue = false
-these_start = 2019
-title = "Natalia Baudoin"
-titrethese = "Design Convergent, Bricologies symbiotiques"
-titretheseEn = "Convergent Design, Symbiotic bricologies"
-type_page = "membres"
-url_hal = ""
-url_thesesfr = "http://www.theses.fr/s229931"
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = "https://www.instagram.com/nataliabaudoin/?hl=es"
-linkedin = ""
-mail = "studio@nataliabaudoin.com "
-medium = ""
-site = "www.nataliabaudoin.com"
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
+---
+bureau: ''
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: 'https://www.instagram.com/nataliabaudoin/?hl=es'
+  linkedin: ''
+  mail: 'studio@nataliabaudoin.com '
+  medium: ''
+  site: www.nataliabaudoin.com
+  telephone: ''
+  twitter: ''
+etablissement: 'Programme SACRe, EnsadLab, ENSAD-Université PSL'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+membre_bureau: false
+name: Baudoin
+photo: /images/unnamed.png
+section_cnu: ''
+tags:
+  - Design
+  - Artisanat
+  - Cosmologie
+  - Bricologie
+  - Cultures hybrides
+  - Intersection génératives
+  - Co-création
+  - Chaîne technique
+  - Microfinance
+  - Matériaux
+these_end: 2024
+these_soutenue: false
+these_start: 2019
+title: Natalia Baudoin
+titrethese: 'Design Convergent, Bricologies symbiotiques'
+titretheseEn: 'Convergent Design, Symbiotic bricologies'
+type_page: membres
+url_hal: ''
+url_thesesfr: 'http://www.theses.fr/s229931'
+_template: membres
+---
 
-+++
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 

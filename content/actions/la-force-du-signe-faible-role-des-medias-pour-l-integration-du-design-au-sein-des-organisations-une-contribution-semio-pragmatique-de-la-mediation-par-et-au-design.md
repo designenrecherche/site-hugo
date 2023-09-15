@@ -1,17 +1,29 @@
-+++
-category = "Soutenance de thèse"
-dateevent = 2022-04-15T07:00:00Z
-description = "Soutenance de Thèse de Dorian Reunkrilerk, en Sciences de l'information et de la Communication, spécialité Design"
-descriptiontemp = ""
-documents = ""
-lieu = "Strate, école de design"
-publishDate = 2022-04-22T16:02:27Z
-tags = ["design", "conception réglée", "organisation", "médiation", "médium", "signe faible"]
-time = "9h"
-title = "LA FORCE DU SIGNE FAIBLE - Rôle des « médias » pour l’intégration du design au sein des organisations : une contribution sémio-pragmatique de la médiation par et au design."
-type_page = "actions"
+---
+category: Soutenance de thèse
+dateevent: '2022-04-15T07:00:00Z'
+description: >-
+  Soutenance de Thèse de Dorian Reunkrilerk, en Sciences de l'information et de
+  la Communication, spécialité Design
+descriptiontemp: ''
+documents: ''
+lieu: 'Strate, école de design'
+publishDate: '2022-04-22T16:02:27Z'
+tags:
+  - design
+  - conception réglée
+  - organisation
+  - médiation
+  - médium
+  - signe faible
+time: 9h
+title: >-
+  LA FORCE DU SIGNE FAIBLE - Rôle des « médias » pour l’intégration du design au
+  sein des organisations : une contribution sémio-pragmatique de la médiation
+  par et au design.
+type_page: actions
+_template: actions
+---
 
-+++
 **Cadre de la recherche :**
 
 _Thèse CIFRE entre_ : OTIS, Télécom Paris (IP Paris) et Exalt Design Lab (Strate Research)

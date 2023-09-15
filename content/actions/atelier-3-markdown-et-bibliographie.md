@@ -1,17 +1,25 @@
-+++
-category = "Atelier"
-description = "Cet atelier a pour objectif de découvrir des alternatives à Word, Google Docs ou InDesign, pour la rédaction de thèse"
-descriptiontemp = ""
-documents = ""
-lieu = "CRI, 8 bis Rue Charles V, 75004 Paris"
-publishDate = 2019-06-18T13:14:33Z
-dateevent = 2019-06-18T13:14:33Z
-tags = ["Atelier", "Markdown", "Redaction", "Bibliographie", "Outils"]
-time = "14h"
-title = "Atelier #3 : Markdown et bibliographie"
-type_page = "actions"
+---
+category: Atelier
+dateevent: '2019-06-18T13:14:33Z'
+description: >-
+  Cet atelier a pour objectif de découvrir des alternatives à Word, Google Docs
+  ou InDesign, pour la rédaction de thèse
+descriptiontemp: ''
+documents: ''
+lieu: 'CRI, 8 bis Rue Charles V, 75004 Paris'
+publishDate: '2019-06-18T13:14:33Z'
+tags:
+  - Atelier
+  - Markdown
+  - Redaction
+  - Bibliographie
+  - Outils
+time: 14h
+title: 'Atelier #3 : Markdown et bibliographie'
+type_page: actions
+_template: actions
+---
 
-+++
 Markdown est un langage de balisage léger qui permet une interopérabilité entre différents logiciels; ainsi vous gardez la structuration de votre texte peu importe votre format de sortie (markdown peut être converti en HTML, LaTeX, Indesign et même en Word).  
 Zotero est un logiciel de gestion de références qui permet de gérer des données bibliographiques et des documents de recherche. L’utilisation de références dans vos articles ou votre manuscrit de thèse peut être ainsi automatisée.  
 Nous verrons dans cet atelier comment créer des références bibliographiques et des notes de bas de page issues de Zotero en utilisant Markdown. Il existe différentes manières que nous aborderons.

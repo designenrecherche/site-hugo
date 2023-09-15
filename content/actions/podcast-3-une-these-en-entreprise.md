@@ -1,17 +1,26 @@
-+++
-category = "Autre"
-dateevent = 2022-10-05T09:33:20Z
-description = "Le troisième épisode du podcast de l’association Design en Recherche réunit trois doctorants.es et docteur.es pour partager leurs expériences dans la conduite d'une thèse CIFRE"
-descriptiontemp = ""
-documents = ""
-lieu = ""
-publishDate = 2022-10-05T09:33:20Z
-tags = ["podcast", "thèse", "vie de thèse", "CIFRE", "entreprise"]
-time = "18h"
-title = "Podcast #3: Une thèse en entreprise"
-type_page = "actions"
+---
+category: Autre
+dateevent: '2022-10-05T09:33:20Z'
+description: >-
+  Le troisième épisode du podcast de l’association Design en Recherche réunit
+  trois doctorants.es et docteur.es pour partager leurs expériences dans la
+  conduite d'une thèse CIFRE
+descriptiontemp: ''
+documents: ''
+lieu: ''
+publishDate: '2022-10-05T09:33:20Z'
+tags:
+  - podcast
+  - thèse
+  - vie de thèse
+  - CIFRE
+  - entreprise
+time: 18h
+title: 'Podcast #3: Une thèse en entreprise'
+type_page: actions
+_template: actions
+---
 
-+++
 Le troisième épisode du podcast de l’association Design en Recherche réunit trois doctorants.es et docteur.es pour partager leurs expériences dans la conduite d'une thèse CIFRE, acronyme pour Convention Industrielle de Formation par la Recherche : quel vécu sur le terrain ? Comment gérer des temporalités, enjeux et espaces différents parfois opposés, parfois complémentaires ? Comment se construit une recherche en design au sein d'une entreprise ? Un merci spécial à la DFactory, espace géré par la Fabrique de l’Innovation de l’Université de Lyon, pour avoir gentiment accepté de nous accueillir dans leurs locaux et nous permettre ainsi d’enregistrer cet épisode dans les meilleures conditions.
 
 {{< youtube Q4jo61roONI >}}

@@ -1,62 +1,73 @@
-+++
-etablissement = "Université Paris1, Panthéon-Sorbonne  – UFR Arts Plastiques"
-membre_actif = false
-name = "masure"
-photo = "/images/img_0157_1.jpg"
-section_cnu = "18 Esthétique"
-tags = ["algorithme", "appareil", "écriture", "fragmentation", "langage", "numérique", "programmation", "programme", "technique", "traduction"]
-these_end = 2014
-these_soutenue = true
-these_start = 2008
-title = "Anthony Masure"
-titrethese = "Le Design des programmes. Des façons de faire du numérique"
-titretheseEn = "Program Design. Ways of doing digital"
-type_page = "membres"
-url_hal = "https://tel.archives-ouvertes.fr/tel-01236258"
-url_thesesfr = "http://www.theses.fr/2014PA010554"
-[contact]
-facebook = "https://www.facebook.com/anthonymasure"
-github = "https://github.com/anthonymasure "
-gitlab = ""
-hypotheses = ""
-instagram = "https://www.instagram.com/anthonymasure/"
-linkedin = ""
-mail = "anthonymasure@gmail.com"
-medium = ""
-site = "http://www.anthonymasure.com/"
-telephone = "+33 (0)6.86.98.49.26"
-twitter = "https://twitter.com/anthonymasure"
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
+---
+contact:
+  facebook: 'https://www.facebook.com/anthonymasure'
+  github: 'https://github.com/anthonymasure '
+  gitlab: ''
+  hypotheses: ''
+  instagram: 'https://www.instagram.com/anthonymasure/'
+  linkedin: ''
+  mail: anthonymasure@gmail.com
+  medium: ''
+  site: 'http://www.anthonymasure.com/'
+  telephone: +33 (0)6.86.98.49.26
+  twitter: 'https://twitter.com/anthonymasure'
+etablissement: 'Université Paris1, Panthéon-Sorbonne  – UFR Arts Plastiques'
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: false
+name: masure
+photo: /images/img_0157_1.jpg
+section_cnu: 18 Esthétique
+tags:
+  - algorithme
+  - appareil
+  - écriture
+  - fragmentation
+  - langage
+  - numérique
+  - programmation
+  - programme
+  - technique
+  - traduction
+these_end: 2014
+these_soutenue: true
+these_start: 2008
+title: Anthony Masure
+titrethese: Le Design des programmes. Des façons de faire du numérique
+titretheseEn: Program Design. Ways of doing digital
+type_page: membres
+url_hal: 'https://tel.archives-ouvertes.fr/tel-01236258'
+url_thesesfr: 'http://www.theses.fr/2014PA010554'
+_template: membres
+---
 
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse

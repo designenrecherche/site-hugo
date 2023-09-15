@@ -1,17 +1,27 @@
-+++
-category = "Atelier"
-description = "La proposition de cet atelier est d'explorer un nouveau format de mise en forme d'un article de recherche"
-descriptiontemp = ""
-documents = ""
-lieu = "ENSAD, 31 rue d’ulm"
-publishDate = 2018-07-05T13:08:13Z
-dateevent = 2018-07-05T13:08:13Z
-tags = ["Atelier", "Markdown", "Rédaction", "Mise en forme", "Outils"]
-time = "13h"
-title = "Atelier #2 : Écrire et mettre en forme: quels formats, quels outils ? L’exemple de Markdown"
-type_page = "actions"
+---
+category: Atelier
+dateevent: '2018-07-05T13:08:13Z'
+description: >-
+  La proposition de cet atelier est d'explorer un nouveau format de mise en
+  forme d'un article de recherche
+descriptiontemp: ''
+documents: ''
+lieu: 'ENSAD, 31 rue d’ulm'
+publishDate: '2018-07-05T13:08:13Z'
+tags:
+  - Atelier
+  - Markdown
+  - Rédaction
+  - Mise en forme
+  - Outils
+time: 13h
+title: >-
+  Atelier #2 : Écrire et mettre en forme: quels formats, quels outils ?
+  L’exemple de Markdown
+type_page: actions
+_template: actions
+---
 
-+++
 
 ### **Contexte de l’atelier:**
 

@@ -1,17 +1,26 @@
-+++
-category = "Conférence"
-dateevent = 2021-01-21T17:00:00Z
-description = "Première épisode du cycle de conférence « Pratiques de la recherche en design » de l'asso ! Avec Marguerite Benony, Aurélien Peilloux, Emile De Visscher et Marion Voillot (organisation et modération)"
-descriptiontemp = ""
-documents = ""
-lieu = "En ligne"
-publishDate = 2021-01-10T17:00:15Z
-tags = ["design ", "recherche", "sciences"]
-time = "18h"
-title = "De la scientificité du design : l’expérience du faire dans le processus de recherche"
-type_page = "actions"
+---
+category: Conférence
+dateevent: '2021-01-21T17:00:00Z'
+description: >-
+  Première épisode du cycle de conférence « Pratiques de la recherche en design
+  » de l'asso ! Avec Marguerite Benony, Aurélien Peilloux, Emile De Visscher et
+  Marion Voillot (organisation et modération)
+descriptiontemp: ''
+documents: ''
+lieu: En ligne
+publishDate: '2021-01-10T17:00:15Z'
+tags:
+  - 'design '
+  - recherche
+  - sciences
+time: 18h
+title: >-
+  De la scientificité du design : l’expérience du faire dans le processus de
+  recherche
+type_page: actions
+_template: actions
+---
 
-+++
 En tant qu’”in-discipline”, la recherche en design interroge les codes de la recherche universitaire — sujets, formes, pratiques de recherche, etc. Se trouve au cœur de ces travaux de recherche, l’expérience du “faire”. Dans cette première conférence du cycle de conférences _Pratiques de la recherche en design_,nos intervenant.e.s s’appuieront sur leurs travaux de recherche afin d’interroger le lien entre science, design et création artistique. Docteur.e.s (ou presque), ils reviendront sur leurs expériences.
 
 {{< youtube NgZPjt9IqPc >}}

@@ -1,64 +1,73 @@
-+++
-bureau = ""
-etablissement = "STMS / UMR 9912 IRCAM, Centre de recherche en design ENSCI / ENS Paris-Saclay, Actronika"
-membre_actif = true
-membre_bureau = false
-name = "Richards"
-photo = "/images/claire-richard.jpeg"
-section_cnu = ""
-tags = ["technologie portable", "design intégratif", "design sonore", "multimodalité", "inclusivité", "acceptabilité de nouvelles technologies"]
-these_end = 0
-these_soutenue = false
-these_start = 2020
-title = "Claire Richards"
-titrethese = "Le son portable: Design intégratif pour l’écoute et le ressenti de vibrations"
-titretheseEn = "Wearable Sound: Integrative design for hearing and feeling vibrations"
-type_page = "membres"
-url_hal = ""
-url_thesesfr = ""
-[contact]
-facebook = ""
-github = ""
-gitlab = ""
-hypotheses = ""
-instagram = ""
-linkedin = ""
-mail = "clairicha@gmail.com"
-medium = ""
-site = ""
-telephone = ""
-twitter = ""
-[instagram_1]
-post1 = ""
-post2 = ""
-post3 = ""
-post4 = ""
-post5 = ""
-post6 = ""
-post7 = ""
-post8 = ""
-post9 = ""
-[instagram_files]
-img1 = ""
-img2 = ""
-img3 = ""
-img4 = ""
-img5 = ""
-img6 = ""
-img7 = ""
-img8 = ""
-img9 = ""
-post1link = ""
-post2link = ""
-post3link = ""
-post4link = ""
-post5link = ""
-post6link = ""
-post7link = ""
-post8link = ""
-post9link = ""
+---
+bureau: ''
+contact:
+  facebook: ''
+  github: ''
+  gitlab: ''
+  hypotheses: ''
+  instagram: ''
+  linkedin: ''
+  mail: clairicha@gmail.com
+  medium: ''
+  site: ''
+  telephone: ''
+  twitter: ''
+etablissement: >-
+  STMS / UMR 9912 IRCAM, Centre de recherche en design ENSCI / ENS Paris-Saclay,
+  Actronika
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  img1: ''
+  img2: ''
+  img3: ''
+  img4: ''
+  img5: ''
+  img6: ''
+  img7: ''
+  img8: ''
+  img9: ''
+  post1link: ''
+  post2link: ''
+  post3link: ''
+  post4link: ''
+  post5link: ''
+  post6link: ''
+  post7link: ''
+  post8link: ''
+  post9link: ''
+membre_actif: true
+membre_bureau: false
+name: Richards
+photo: /images/claire-richard.jpeg
+section_cnu: ''
+tags:
+  - technologie portable
+  - design intégratif
+  - design sonore
+  - multimodalité
+  - inclusivité
+  - acceptabilité de nouvelles technologies
+these_end: 0
+these_soutenue: false
+these_start: 2020
+title: Claire Richards
+titrethese: 'Le son portable: Design intégratif pour l’écoute et le ressenti de vibrations'
+titretheseEn: 'Wearable Sound: Integrative design for hearing and feeling vibrations'
+type_page: membres
+url_hal: ''
+url_thesesfr: ''
+_template: membres
+---
 
-+++
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
