@@ -32,7 +32,7 @@ Podcast enregistré le 17 janvier 2023, avec :
 Disponible sur [Youtube](https://www.youtube.com/watch?v=54BrCyW2nyU\&t=3s "Youtube"), [Spotify](https://open.spotify.com/episode/5K71PpZ0tl1szaRvb1kpDP "Spotify") et [Apple Podcast](https://podcasts.apple.com/fr/podcast/la-recherche-par-la-pratique/id1614277217?i=1000608352288 "Apple Podcast").
 
 Voix d’introduction et de conclusion : Valentin Aubois-Liogier<space><space><space>\
-Montage : Valentin Aubois-Liogier<space><space><space>
+Montage : Valentin Aubois-Liogier<space><space><space>\
 Musique : Florent Chardevel<space><space><space>
 
 # Le podcast Design en Recherche
