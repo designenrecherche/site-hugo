@@ -20,7 +20,7 @@ category: Autre
 Le quatrième épisode du podcast de l'association Design en Recherche porte sur la recherche académique par la pratique du design. Sujet polémique, trois doctorant·es abordent cette méthode particulière à partir de leurs expériences personnelles.
 
 {{\< youtube 54BrCyW2nyU\&t=3s >}}
-[![alt text](https://img.youtube.com/vi/video-id/0.jpg)](https://www.youtube.com/watch?v=54BrCyW2nyU\&t=3s)
+[![Podcast](https://img.youtube.com/vi/video-id/0.jpg)](https://www.youtube.com/watch?v=54BrCyW2nyU\&t=3s)
 
 .
 
