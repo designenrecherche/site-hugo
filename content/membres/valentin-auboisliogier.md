@@ -1,17 +1,17 @@
 ---
 bureau: ''
 contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: 'https://www.instagram.com/v.aulio/'
-  linkedin: 'www.linkedin.com/in/valentin-aubois-liogier '
   mail: 'valentin.auboisliogier@univ-tours.fr '
-  medium: ''
   site: ''
   telephone: ''
   twitter: 'https://twitter.com/v_aulio/'
+  linkedin: 'www.linkedin.com/in/valentin-aubois-liogier '
+  instagram: 'https://www.instagram.com/v.aulio/'
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
 etablissement: 'Université de Tours, CITERES/DATE'
 instagram_1:
   post1: ''
@@ -24,24 +24,24 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
   post1link: ''
+  img1: ''
   post2link: ''
+  img2: ''
   post3link: ''
+  img3: ''
   post4link: ''
+  img4: ''
   post5link: ''
+  img5: ''
   post6link: ''
+  img6: ''
   post7link: ''
+  img7: ''
   post8link: ''
+  img8: ''
   post9link: ''
+  img9: ''
 membre_actif: true
 membre_bureau: false
 name: Aubois-Liogier
@@ -70,21 +70,19 @@ url_hal: ''
 url_thesesfr: 'http://theses.fr/s297123'
 ---
 
-
-
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
 # Résumé de thèse
 
 {{% lang class="fr" %}}
 
-Le système conventionnel d’assainissement pose plusieurs problèmes écologiques (pollution et dépense énergétique). La séparation à la source des excreta humains permet de valoriser ces matières en ressources. Des alternatives écologiques de ce type sont engagées dans de nombreux pays et articulent différentes échelles (du corps aux territoires). Elles nécessitent de s'intéresser autant aux usagers qu'aux dispositifs techniques. En outre, les espaces urbains complexifient la mise en place de ces alternatives soutenables, bien que les équipements collectifs présentent des caractéristiques favorables à leur émergence. La recherche porte alors sur ces situations de projet (en cours ou réalisé) qui sont autant de situations expérimentales à étudier seules et en comparaison, pour observer et analyser les facteurs sensibles (bloquants, limitants, orientants, et/ou moteurs) dans le projet, chez les usagers et les autres acteurs.
+Le recyclage agricole des urines humaines se présente comme une réponse à des enjeux écologiques contemporains, tels que la pollution des écosystèmes et le gaspillage en énergie et en ressource. Des projets de valorisation agricole des urines humaines sont engagés dans de nombreux pays de manière interdisciplinaire et multiscalaire, même si les espaces urbains et l'hégémonie du tout-à-l'égout dans certains pays complexifient leur mise en place. En outre, ces projets nécessitent de s'intéresser autant aux aspects sociaux que techniques, puisque l'acceptation par les usagers et parties prenantes des projets conditionne leur pérennité. Pourtant, si la littérature s'accorde sur cette idée, les notions d'acceptabilité, d'acceptation et de rejet liées à l'appropriation des dispositifs et systèmes émergents ne sont pas pleinement dépliées. Ainsi, cette recherche s'intéresse au changement de paradigme en cours en assainissement et analyse les relations que tissent les usagers et acteurs avec des dispositifs et systèmes de recyclage agricole des urines, et avec l'idée même du projet. Certaines relations permettraient l'émergence et la pérennité de ces derniers. Pour ce faire, un travail de terrain est mené en France au travers d'un projet de design visant le recyclage agricole des urines humaines, complété par des enquêtes et l'étude de projets et systèmes similaires. Finalement, l'analyse de ces relations permettrait de mettre à jour des enjeux socioculturels sous-jacents.
 
 {{% /lang %}}
 
 {{% lang class="en" %}}
 
-The conventional sanitation system leads to several ecological problems (pollution and energy consumption). The source separation of human excreta enables valorizing these materials as resources. Sustainable alternatives are implemented in several countries and articulate different scales (from the body to the territories). They require an interest in both users and technical devices. Urban areas make it difficult to implement sustainable alternatives albeit public facilities present features which seem favourable to their emergence. The research focuses on these projects (in progress or carried out) which are diverse experimental situations being studied alone and compared, and aims to observe and analyse the sensitive factors (blocking, limiting, directing, and /or driving) in the project, among users and other participants.
+Human urine recycling addresses ecological problems such as pollution of ecosystems, and resources and energy consumption. Ecological sanitation projects are led in several countries with multidisciplinary aspects and at different scales. They require attention to both social and technical aspects because social acceptance is key to sustainability. However, if scientific literature agrees on this idea, the notions of acceptability, acceptance and reject linked to these news devices and systems are not fully analysed. Therefore, this research aims to analyse users' and stakeholders' relations with human urine recycling systems and with the project itself. Some relations could be key to the emergence and sustainability of these alternatives. Fieldwork is carried out in France through a design project for the recycling of human urine, and with other fieldwork and the study of similar systems. Overall, analysing these relations could highlight sociocultural underlying issues.
 
 {{% /lang %}}
 
@@ -97,12 +95,12 @@ The conventional sanitation system leads to several ecological problems (polluti
 
 {{% lang class="fr" %}}
 
-Designer, normalien et agrégé d'arts appliqués, Valentin Aubois-Liogier est titulaire d'un Diplôme Supérieure d'Arts Appliqués mention Produit, obtenu avec mention du Jury. Depuis septembre 2021, il travaille dans le cadre de sa thèse de doctorat (contrat CDSN) sur les alternatives écologiques au système conventionnel d'assainissement. Sa recherche doctorale fait suite à la recherche-projet développée autour de la collecte des urines en Master 2 Recherche (ENS Paris-Saclay). Valentin enseigne en parallèle, principalement à Polytech Tours (Université de Tours) au département Génie de l’Aménagement et de l’Environnement.
+Valentin Aubois-Liogier est un designer français, doctorant en Design et Urbanisme au laboratoire CNRS CITERES, normalien et enseignant agrégé d'arts appliqués. Il s'intéresse aux enjeux socioécologiques liés aux espaces domestiques et urbains. Son doctorat vise principalement l'analyse des relations des usagers et acteurs avec un système de recyclage des urines humaines qu'il a conçu, ainsi qu'avec d'autres systèmes similaires. Plus généralement, son travail est à la croisée de différents champs et disciplines.
 
 {{% /lang %}}
 
 {{% lang class="en" %}}
 
-Valentin Aubois-Liogier is a designer, holding a degree in Product Design (jury distinction), *Normalien, and *Agrégé d'arts appliqués. Since September 2021, he is doing a PhD about sustainable sanitation alternatives. His PhD research follows the project-based research he developed during is Master of Research (ENS Paris-Saclay) about human urine recovery. Valentin is also teaching, mostly at Polytech Tours (University of Tours) in the Urban and territorial planning and environment department.
+Valentin Aubois-Liogier is a French designer, PhD student in Design & Urban planning at the CNRS CITERES laboratory, normalien\*, and teacher agrégé d'arts appliqués\*. He is interested in socioecological issues related to domestic and urban spaces. His PhD aims principally to study users' and stakeholders' relations with a human urine recycling system he designed, and with other similar systems. Overall, his work is crossing different disciplines and fields.
 
 {{% /lang %}}
