@@ -21,11 +21,13 @@ Le quatrième épisode du podcast de l'association Design en Recherche porte sur
 
 {{\< youtube 54BrCyW2nyU >}}
 
+.
+
 Podcast enregistré le 17 janvier 2023, avec :
 
-* Valentin Aubois-Liogier, doctorant en Design & Urbanisme au sein du laboratoire CITERES (équipe DATE)
-* Marion Voillot, designer-chercheure, docteure en design appliquée aux sciences cognitives, ci-fondatrice de Premiers Cris
-* Natalia Baudoin, designer-chercheure, doctorante en design du programme SACRe de l’Université PSL au sein des groupes de recherche Symbiose et Soft Matters du laboratoire EnsadLab
+* **Valentin Aubois-Liogier**, doctorant en Design & Urbanisme au sein du laboratoire CITERES (équipe DATE)
+* **Marion Voillot**, designer-chercheure, docteure en design appliquée aux sciences cognitives, ci-fondatrice de Premiers Cris
+* **Natalia Baudoin**, designer-chercheure, doctorante en design du programme SACRe de l’Université PSL au sein des groupes de recherche Symbiose et Soft Matters du laboratoire EnsadLab
 
 Disponible sur [Youtube](https://www.youtube.com/watch?v=54BrCyW2nyU\&t=3s "Youtube"), [Spotify](https://open.spotify.com/episode/5K71PpZ0tl1szaRvb1kpDP "Spotify") et [Apple Podcast](https://podcasts.apple.com/fr/podcast/la-recherche-par-la-pratique/id1614277217?i=1000608352288 "Apple Podcast").
 
