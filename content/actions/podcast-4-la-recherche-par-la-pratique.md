@@ -7,6 +7,7 @@ description: >-
   doctorant·es abordent cette méthode particulière à partir de leurs expériences
   personnelles.
 tags:
+  - pratique
   - recherche-création
   - recherche-projet
   - thèse
