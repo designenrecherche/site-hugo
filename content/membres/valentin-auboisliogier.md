@@ -15,9 +15,9 @@ contact:
   gitlab: ''
 etablissement: 'Université de Tours, CITERES/DATE'
 instagram_1:
-  post1: 'https://www.instagram.com/p/CsBiCdkN722/?img_index=1'
-  post2: 'https://www.instagram.com/p/Cpsd_oiItGC/'
-  post3: 'https://www.instagram.com/p/CQOmq6JhUDe/?img_index=1'
+  post1: ''
+  post2: ''
+  post3: ''
   post4: ''
   post5: ''
   post6: ''
