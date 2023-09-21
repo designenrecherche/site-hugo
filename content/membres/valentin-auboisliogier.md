@@ -60,11 +60,11 @@ these_soutenue: false
 these_start: 2021
 title: Valentin Aubois-Liogier
 titrethese: >-
-  Alternatives écologiques au système conventionnel d'assainissement : enjeux
-  des facteurs sensibles chez les usagers et autres acteurs du projet
+  Accepter le changement ? Relation des usagers et acteurs aux projets et
+  dispositifs de recyclage agricole des urines humaines.
 titretheseEn: >-
-  Sustainable alternative sanitation systems for urban areas : sensibility
-  issues for users and other participants in the project
+  Embracing change? Users' and stakeholders' relations to human urine recycling
+  projects and systems.
 type_page: membres
 url_hal: ''
 url_thesesfr: 'http://theses.fr/s297123'
