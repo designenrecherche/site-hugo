@@ -49,10 +49,11 @@ name: Aubois-Liogier
 photo: /images/photo_valentinauboisliogier.jpg
 section_cnu: '24 Aménagement de l''espace, urbanisme'
 tags:
-  - Séparation à la source
+  - Recyclage des urines
+  - Assainissement écologique
+  - Acceptabilité sociale
   - Sensibilités
   - Changement social
-  - Acceptabilité
   - Toilettes
   - Design
   - Urbanisme
