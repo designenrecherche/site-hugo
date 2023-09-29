@@ -21,7 +21,7 @@ type_page: actions
 
 Le deuxième épisode du podcast de l’association Design en Recherche aborde le thème du bien-être de l’étudiant·e en doctorat. Sujet tout aussi complexe que passionnant, trois doctorantes discutent ent avec bienveillance leurs tumultueux parcours dans la recherche et partagent leurs astuces pour “bien vivre” sa thèse.
 
-{{\< youtube iaz4bex82xM >}}
+{{< youtube iaz4bex82xM >}}
 
 .
 
