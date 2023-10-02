@@ -7,6 +7,12 @@ time: 9h00-16h30
 category: Journée d'étude
 lieu: ENSCI – Les Ateliers
 documents: /Etudier-les-choses-programme-complet.pdf
+tags:
+  - design
+  - choses
+  - objets
+  - recherche
+  - journée d'étude
 ---
 
 Si les objets ont historiquement constitué le cœur des pratiques et des réflexions des designer·euses, ils sont communément perçus comme les composantes passives du décor de la vie humaine. Pourtant, les objets gagneraient à être considérées comme des choses qui ne vont pas de soi, qui peuvent « disparaître, se dissoudre, s’effriter, et qui nécessite\[nt] d’être sans cesse actualisées » (Denis & Pontille, 2022), et que le sociologue et philosophe Bruno Latour nomme « la masse manquante du social ». De nombreux chercheur·euses se sont attelé·es à décrire ces choses, démontrant les liens indéfectibles, bien que fragiles, existant entre les humain·es et les objets qu’ils et elles fabriquent, consomment, stockent, réparent, etc. Chaque chose devient alors un « nœud de connaissance » (Dumit, 2014) dont les designer·euses se saisissent pour observer, décrire, représenter, fabriquer notre monde.  
