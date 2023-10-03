@@ -31,7 +31,7 @@
 
   <link rel="stylesheet" href="/fonts/sanomat-Sans/stylesheet.css" >
 
-  
+
 
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/favicon.ico` | absURL }} " type="image/x-icon">
@@ -41,70 +41,70 @@
 
   <script>
 
-    window.onload = function(){ 
+    window.onload = function(){
       let time = document.getElementsByClassName("time-change");
 
       for(let i = 0; i < time.length; i++){
 
         let arrayStrg = time[i].innerHTML.split(" ")[0];
         let arrayTime = arrayStrg.split("-");
-        let mounth;
-        
+        let month;
+
         switch (arrayTime[1]) {
           case '01':
-            mounth = "janvier";
+            month = "janvier";
             break;
           case '02':
-            mounth = "février";
+            month = "février";
           break;
             case '03':
-            mounth = "mars";
+            month = "mars";
             break;
           case '04':
-            mounth = "avril";
+            month = "avril";
             break;
           case '05':
-            mounth = "mai";
+            month = "mai";
             break;
           case '06':
-            mounth = "juin";
+            month = "juin";
             break;
           case '07':
-            mounth = "juillet";
+            month = "juillet";
             break;
           case '08':
-            mounth = "août";
+            month = "août";
             break;
           case '09':
-            mounth = "septembre";
+            month = "septembre";
             break;
           case '10':
-            mounth = "octobre";
+            month = "octobre";
             break;
           case '11':
-            mounth = "novembre";
+            month = "novembre";
             break;
           case '12':
-            mounth = "décembre";
+            month = "décembre";
             break;
           default:
-            mounth = "janvier";
+            month = "janvier";
         }
 
         let day;
-        if(arrayTime[2].split('')[0] == "0"){
+        if(arrayTime[2][0] == "0"){
           day = arrayTime[2].split('')[1];
         }else{
-          day = arrayTime[2];
+          day = arrayTime[2][0] + arrayTime[2][1];
         }
 
-        time[i].innerHTML = day + " " + mounth + " " + arrayTime[0];
+        time[i].innerHTML = day + " " + month + " " + arrayTime[0];
 
       }
-    
-    } 
+
+    }
   </script>
 
-  
+
 
 </head>
