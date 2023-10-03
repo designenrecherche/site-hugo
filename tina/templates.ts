@@ -35,11 +35,13 @@ export function actionsFields() {
       type: "datetime",
       name: "publishDate",
       label: "Date de publication",
+      utc: "true",
     },
     {
       type: "datetime",
       name: "dateevent",
       label: "Date de l'évenement",
+      utc: "true",
     },
     {
       type: "string",
@@ -90,6 +92,7 @@ export function brevesFields() {
       type: "datetime",
       name: "publishDate",
       label: "Date de publication",
+      utc: "true",
     },
     {
       type: "string",
@@ -491,6 +494,7 @@ export function popupFields() {
       type: "datetime",
       name: "publishDate",
       label: "Date",
+      utc: "true",
     },
     {
       type: "boolean",
