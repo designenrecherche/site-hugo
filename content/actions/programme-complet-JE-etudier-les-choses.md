@@ -2,7 +2,7 @@
 title: 'Journée d''étude : Etudier les choses – une liste ouverte'
 description: ''
 publishDate: 2023-10-01T22:00:00.000Z
-dateevent: 2023-10-29T23:00:00.000Z
+dateevent: 2023-10-30T23:00:00.000Z
 time: 9h00-16h30
 category: Journée d'étude
 lieu: ENSCI – Les Ateliers
