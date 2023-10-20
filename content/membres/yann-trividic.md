@@ -4,7 +4,7 @@ name: Trividic
 membre_actif: true
 type_page: membres
 photo: /profile_yann_trividic.png
-etablissement: 'Université Paris-Saclay (UPS), équipe ex)situ, laboratoire LISN'
+etablissement: 'Laboratoire LISN, équipe ex)situ (CNRS, Inria, UPSaclay)'
 section_cnu: 27 Informatique
 titrethese: >-
   Chaînes éditoriales collaboratives <i>single-source</i> au regard du creative
