@@ -24,6 +24,7 @@ contact:
   mastodon: 'https://mastodon.design/@yann_t'
   github: 'https://github.com/yanntrividic/'
   gitlab: 'https://gitlab.com/yanntrividic/'
+url_thesesfr: 'https://www.theses.fr/s367754'
 ---
 
 # Résumé de thèse
@@ -49,12 +50,12 @@ The goal of the thesis is to introduce new interaction paradigms that will facil
 
 {{% lang class="fr" %}}
 
-Yann Trividic est artiste, éditeur et développeur. Il est diplômé d'un DNSAP de l'École nationale supérieure des Beaux-Arts de Paris, d'une licence d'informatique de l'Université de Paris et d'un Master Métiers de l'édition de l'Université Gustave Eiffel. Il est membre des Éditions Burn~Août et de PrePostPrint, un collectif promouvant l'utilisation des logiciels libres dans l'édition expérimentale.
+Yann Trividic est artiste, éditeur et développeur. Il est diplômé d'un DNSAP de l'École nationale supérieure des Beaux-Arts de Paris, d'une licence d'informatique de l'Université de Paris et d'un Master Métiers de l'édition de l'Université Gustave Eiffel. Il est membre des Éditions Burn\~Août et de PrePostPrint, un collectif promouvant l'utilisation des logiciels libres dans l'édition expérimentale.
 
 {{% /lang %}}
 
 {{% lang class="en" %}}
 
-Yann Trividic is a French artist, an editor and a developer. He graduated with a Master's degree from the École nationale supérieure des Beaux-Arts de Paris, a Bachelor's degree in Computer Science from Université de Paris, and a Master's degree in Publishing Practices from Université Gustave Eiffel. He is a member of Éditions Burn~Août and of PrePostPrint, a collective that highlights experimental publications made with free software.
+Yann Trividic is a French artist, an editor and a developer. He graduated with a Master's degree from the École nationale supérieure des Beaux-Arts de Paris, a Bachelor's degree in Computer Science from Université de Paris, and a Master's degree in Publishing Practices from Université Gustave Eiffel. He is a member of Éditions Burn\~Août and of PrePostPrint, a collective that highlights experimental publications made with free software.
 
 {{% /lang %}}
