@@ -3,17 +3,20 @@ title: Alice Martin
 name: martin
 membre_actif: false
 type_page: membres
-photo: /images/photo-profil2.jpg
+photo: /unnamed.jpg
 etablissement: 'Université de Nîmes (Unîmes), laboratoire PROJEKT'
 section_cnu: 71 Sciences de l'information et de la communication
-titrethese: ' Diffusion et appropriation des méthodes du design au sein des collectivités : le cas de la Région Occitanie.'
+titrethese: >-
+  Design en collectivité : la collaboration au cœur de la fabrique des
+  politiques publiques à la Région Occitanie
 titretheseEn: >-
-  Diffusion and appropriation of design's methods in local authority: Occitanie
-  Region case.
+  Design in local authority : collaboration in the center of public policies
+  conception at the Occitanie Region
 these_start: 2018
 these_soutenue: true
 these_end: 23052022
 tags:
+  - Collaboration
   - Design
   - Politique publique
 contact:
