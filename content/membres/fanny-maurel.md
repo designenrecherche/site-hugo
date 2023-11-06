@@ -5,7 +5,7 @@ membre_actif: true
 membre_bureau: true
 bureau: Présidente
 type_page: membres
-photo: /images/photo-2021-12-15-15-45-33-copie.jpg
+photo: /csm_Fanny_MAUREL_-_Photo_d55d0e766e.jpg
 etablissement: ' Laboratoire ACCRA (Approches contemporaines de la création et de la réflexion artistiques, Université de Strasbourg), Centre de Recherches en Histoire des Idées (CHRI, Université Côte-d''Azur) '
 section_cnu: 18 Arts appliqués
 titrethese: >-
