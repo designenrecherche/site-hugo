@@ -14,7 +14,7 @@ titretheseEn: >-
   conception at the Occitanie Region
 these_start: 2018
 these_soutenue: true
-these_end: 23052022
+these_end: 2022
 tags:
   - Collaboration
   - Design
