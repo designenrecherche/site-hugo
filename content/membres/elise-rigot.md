@@ -1,18 +1,36 @@
 ---
+title: Élise Rigot
+name: rigot
+membre_actif: false
+membre_bureau: false
 bureau: ''
+type_page: membres
+photo: /images/qsq1i99i_400x400.jpeg
+etablissement: 'Université Toulouse - Jean Jaurès, LLA CREATIS, LAAS-CNRS'
+section_cnu: 18 Arts appliqués
+titrethese: >-
+  Design & savoirs sensibles : une recherche-création sur les technologies 3D et
+  l'ingénierie du vivant au sein de l'anthropocène
+titretheseEn: ''
+these_start: 2018
+these_soutenue: true
+these_end: 2022
+tags:
+  - Sciences humaines et humanités
 contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: ''
-  linkedin: ''
   mail: ''
-  medium: ''
   site: 'http://eliserigot.com/#/'
   telephone: ''
   twitter: ''
-etablissement: 'Université Toulouse - Jean Jaurès, LLA CREATIS, LAAS-CNRS'
+  linkedin: ''
+  instagram: ''
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
+url_thesesfr: 'http://www.theses.fr/2013ENAM0027'
+url_hal: 'https://theses.hal.science/tel-03847672'
 instagram_1:
   post1: ''
   post2: ''
@@ -24,43 +42,24 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
   post1link: ''
+  img1: ''
   post2link: ''
+  img2: ''
   post3link: ''
+  img3: ''
   post4link: ''
+  img4: ''
   post5link: ''
+  img5: ''
   post6link: ''
+  img6: ''
   post7link: ''
+  img7: ''
   post8link: ''
+  img8: ''
   post9link: ''
-membre_actif: true
-membre_bureau: false
-name: rigot
-photo: /images/qsq1i99i_400x400.jpeg
-section_cnu: 18 Arts appliqués
-tags:
-  - Sciences humaines et humanités
-these_end: 2022
-these_soutenue: true
-these_start: 2018
-title: Élise Rigot
-titrethese: >-
-  Design & savoirs sensibles : une recherche-création sur les technologies 3D et
-  l'ingénierie du vivant au sein de l'anthropocène
-titretheseEn: ''
-type_page: membres
-url_hal: 'https://theses.hal.science/tel-03847672'
-url_thesesfr: 'http://www.theses.fr/2013ENAM0027'
-_template: membres
+  img9: ''
 ---
 
 # Résumé de thèse
