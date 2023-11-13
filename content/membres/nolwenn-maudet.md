@@ -1,17 +1,38 @@
 ---
+title: Nolwenn Maudet
+name: maudet
+membre_actif: false
+type_page: membres
+photo: /images/maudet-nolwenn.png
+etablissement: 'Université Paris-Saclay, STIC'
+section_cnu: 27 Informatique
+titrethese: Designing Design Tools
+titretheseEn: Designing Design Tools
+these_start: 2014
+these_soutenue: true
+these_end: 2017
+tags:
+  - Interaction humain-machine
+  - Design graphique
+  - Outils de support de la créativité
+  - Systèmes homme-machine
+  - Design interactif
+  - Arts graphiques
+  - Conception assistée par ordinateur
 contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: ''
-  linkedin: ''
   mail: ''
-  medium: ''
   site: ''
   telephone: ''
   twitter: ''
-etablissement: 'Université Paris-Saclay, STIC'
+  linkedin: ''
+  instagram: ''
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
+url_thesesfr: 'http://www.theses.fr/2017SACLS486'
+url_hal: 'https://tel.archives-ouvertes.fr/tel-01827014v2'
 instagram_1:
   post1: ''
   post2: ''
@@ -23,46 +44,24 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
   post1link: ''
+  img1: ''
   post2link: ''
+  img2: ''
   post3link: ''
+  img3: ''
   post4link: ''
+  img4: ''
   post5link: ''
+  img5: ''
   post6link: ''
+  img6: ''
   post7link: ''
+  img7: ''
   post8link: ''
+  img8: ''
   post9link: ''
-membre_actif: true
-name: maudet
-photo: /images/maudet-nolwenn.png
-section_cnu: 27 Informatique
-tags:
-  - Interaction humain-machine
-  - Design graphique
-  - Outils de support de la créativité
-  - Systèmes homme-machine
-  - Design interactif
-  - Arts graphiques
-  - Conception assistée par ordinateur
-these_end: 2017
-these_soutenue: true
-these_start: 2014
-title: Nolwenn Maudet
-titrethese: Designing Design Tools
-titretheseEn: Designing Design Tools
-type_page: membres
-url_hal: 'https://tel.archives-ouvertes.fr/tel-01827014v2'
-url_thesesfr: 'http://www.theses.fr/2017SACLS486'
-_template: membres
+  img9: ''
 ---
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
