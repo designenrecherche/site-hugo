@@ -1,52 +1,18 @@
 ---
-bureau: ''
-contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: 'https://www.instagram.com/lorene_ceccon/'
-  linkedin: ''
-  mail: lorene.picard@protonmail.com
-  medium: ''
-  site: 'http://lrcn.fr/'
-  telephone: ''
-  twitter: 'https://twitter.com/lorene_picard'
-etablissement: 'ECLLA, Études du Contemporain en Littératures, Langues et Arts, EA n°3068 '
-instagram_1:
-  post1: ''
-  post2: ''
-  post3: ''
-  post4: ''
-  post5: ''
-  post6: ''
-  post7: ''
-  post8: ''
-  post9: ''
-instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
-  post1link: ''
-  post2link: ''
-  post3link: ''
-  post4link: ''
-  post5link: ''
-  post6link: ''
-  post7link: ''
-  post8link: ''
-  post9link: ''
-membre_actif: true
-membre_bureau: false
+title: Lorène Picard
 name: picard
+membre_actif: false
+membre_bureau: false
+bureau: ''
+type_page: membres
 photo: /images/profil.jpg
+etablissement: 'ECLLA, Études du Contemporain en Littératures, Langues et Arts, EA n°3068 '
 section_cnu: 18 Sciences de l'art
+titrethese: Transparence(s). Déconstruction artistique de l’« immatérialité » du Web
+titretheseEn: Transparences. How artists deconstruct The Web
+these_start: 2015
+these_soutenue: false
+these_end: 0
 tags:
   - Transparence
   - Base de données
@@ -63,16 +29,49 @@ tags:
   - Design
   - Graphisme
   - Spatialité
-these_end: 0
-these_soutenue: false
-these_start: 2015
-title: Lorène Picard
-titrethese: Transparence(s). Déconstruction artistique de l’« immatérialité » du Web
-titretheseEn: Transparences. How artists deconstruct The Web
-type_page: membres
-url_hal: ''
+contact:
+  mail: lorene.picard@protonmail.com
+  site: 'http://lrcn.fr/'
+  telephone: ''
+  twitter: 'https://twitter.com/lorene_picard'
+  linkedin: ''
+  instagram: 'https://www.instagram.com/lorene_ceccon/'
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
 url_thesesfr: 'https://www.theses.fr/s141059'
-_template: membres
+url_hal: ''
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  post1link: ''
+  img1: ''
+  post2link: ''
+  img2: ''
+  post3link: ''
+  img3: ''
+  post4link: ''
+  img4: ''
+  post5link: ''
+  img5: ''
+  post6link: ''
+  img6: ''
+  post7link: ''
+  img7: ''
+  post8link: ''
+  img8: ''
+  post9link: ''
+  img9: ''
 ---
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
