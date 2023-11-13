@@ -1,17 +1,40 @@
 ---
+title: Robin De Mourat
+name: demourat
+membre_actif: false
+type_page: membres
+photo: /images/de-mourat-robin.png
+etablissement: 'université Rennes 2, PTAC / Sciences Po, médialab'
+section_cnu: 18 Esthétique
+titrethese: >-
+  La vacillement des formats. Matérialité, écriture et enquête: le design des
+  publications en Sciences Humaines et Sociales
+titretheseEn: >-
+  The flickering of formats. Materiality, writing and inquiry : the design of
+  Humanities and Social Sciences Publications
+these_start: 2013
+these_soutenue: true
+these_end: 2020
+tags:
+  - Design
+  - Sciences humaines et sociales
+  - Édition
+  - Écriture
+  - Multimodalité
 contact:
-  facebook: ''
-  github: 'https://github.com/robindemourat/ '
-  gitlab: ''
-  hypotheses: ''
-  instagram: ''
-  linkedin: ''
   mail: 'https://medialab.sciencespo.fr/equipe/robin-de-mourat/ '
-  medium: ''
   site: ''
   telephone: ''
   twitter: 'https://twitter.com/robindemourat'
-etablissement: 'université Rennes 2, PTAC / Sciences Po, médialab'
+  linkedin: ''
+  instagram: ''
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: 'https://github.com/robindemourat/ '
+  gitlab: ''
+url_thesesfr: 'http://www.theses.fr/s99691'
+url_hal: 'http://www.these.robindemourat.com/ '
 instagram_1:
   post1: ''
   post2: ''
@@ -23,48 +46,24 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
   post1link: ''
+  img1: ''
   post2link: ''
+  img2: ''
   post3link: ''
+  img3: ''
   post4link: ''
+  img4: ''
   post5link: ''
+  img5: ''
   post6link: ''
+  img6: ''
   post7link: ''
+  img7: ''
   post8link: ''
+  img8: ''
   post9link: ''
-membre_actif: true
-name: demourat
-photo: /images/de-mourat-robin.png
-section_cnu: 18 Esthétique
-tags:
-  - Design
-  - Sciences humaines et sociales
-  - Édition
-  - Écriture
-  - Multimodalité
-these_end: 2020
-these_soutenue: true
-these_start: 2013
-title: Robin De Mourat
-titrethese: >-
-  La vacillement des formats. Matérialité, écriture et enquête: le design des
-  publications en Sciences Humaines et Sociales
-titretheseEn: >-
-  The flickering of formats. Materiality, writing and inquiry : the design of
-  Humanities and Social Sciences Publications
-type_page: membres
-url_hal: 'http://www.these.robindemourat.com/ '
-url_thesesfr: 'http://www.theses.fr/s99691'
-_template: membres
+  img9: ''
 ---
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
@@ -92,7 +91,7 @@ The diffusion of digital technologies in research practices, as well as the soci
 
 {{% lang class="fr" %}}
 
-Robin de Mourat est designer de recherche au laboratoire médialab de Sciences Po. Il contribue à la conduite d’enquêtes interdisciplinaires variées dans lesquelles il expérimente des techniques de recherche en design en dialogue avec les _science and technology studies_, la sociologie des médias, l’histoire et les sciences politiques. Il participe également à la conception de logiciels de recherche pour les Sciences Humaines et Sociales (écriture savante, annotation de matériaux, étude du web, …) qui sont mis à disposition de la communauté des chercheur.e.s en SHS, gratuitement et sous licence libre.
+Robin de Mourat est designer de recherche au laboratoire médialab de Sciences Po. Il contribue à la conduite d’enquêtes interdisciplinaires variées dans lesquelles il expérimente des techniques de recherche en design en dialogue avec les *science and technology studies*, la sociologie des médias, l’histoire et les sciences politiques. Il participe également à la conception de logiciels de recherche pour les Sciences Humaines et Sociales (écriture savante, annotation de matériaux, étude du web, …) qui sont mis à disposition de la communauté des chercheur.e.s en SHS, gratuitement et sous licence libre.
 
 Issu d’un parcours pluridisciplinaire articulé par une passion ancienne pour les liens entre pratiques de design et pratiques savantes, il est titulaire d'un DSAA en design produit (école Boulle), d’un master en informatique (CNAM/ENSCI/Paris-8), d’une agrégation en Arts Appliqués (préparation ENS Paris-Saclay) et d'un doctorat en Esthétique et Arts Appliqués (Université Rennes 2).
 
@@ -102,7 +101,7 @@ Issu d’un parcours pluridisciplinaire articulé par une passion ancienne pour 
 
 Robin de Mourat is designer and researcher at the médialab of Sciences Po. He contributes to the conduct of various interdisciplinary investigations in which he experiments design research techniques in dialogue with science and technology studies, media sociology, history and political science. He also participates in the design of research software for the Human and Social Sciences (scholarly writing, annotation of materials, study of the web, ...) which are made available to the SHS research community under free license.
 
-Coming from a pluridisciplinary background articulated by a passion for the connections betwen design and schoarly practices and their mutations in the current social and technological context, he holds degrees in product design and computer science, an _agrégation_ in applied arts (ENS Paris-Saclay), and a Ph.D. in Aesthetics & Design (Université Rennes 2).
+Coming from a pluridisciplinary background articulated by a passion for the connections betwen design and schoarly practices and their mutations in the current social and technological context, he holds degrees in product design and computer science, an *agrégation* in applied arts (ENS Paris-Saclay), and a Ph.D. in Aesthetics & Design (Université Rennes 2).
 
 {{% /lang %}}
 
