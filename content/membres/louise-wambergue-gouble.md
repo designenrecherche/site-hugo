@@ -1,20 +1,50 @@
 ---
+title: Louise Wambergue-Gouble
+name: Wambergue-Gouble
+membre_actif: true
+membre_bureau: true
 bureau: ''
-contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: ' @el.bam'
-  linkedin: ''
-  mail: ' louisewambergue@gmail.com '
-  medium: ''
-  site: ''
-  telephone: ''
-  twitter: ''
+type_page: membres
+photo: /images/unnamed-1.png
 etablissement: >-
   Université de Strasbourg UR 3402 - Approche Contemporaine de la Réflexion et
   de la Création Artistiques (ACCRA) 
+section_cnu: 18 Arts appliqués
+titrethese: >-
+  Le graphisme fiduciaire : l’imagerie officielle entre esthétique et confiance.
+  Le bouleversement iconographique des billets de banque lors du passage des
+  monnaies nationales à l’euro (1960-2020).
+titretheseEn: >-
+  Fiduciary graphic design: official imagery, between aesthetic and trust. The
+  iconographic upheaval of banknotes during the transition from national
+  currencies to euros (1960-2020)
+these_start: 2022
+these_soutenue: false
+these_end: 0
+tags:
+  - Design graphique
+  - confiance
+  - images
+  - identité
+  - esthétique
+  - matérialité
+  - légitimité
+  - institutions
+  - valeur
+contact:
+  mail: ' louisewambergue@gmail.com '
+  site: ''
+  telephone: ''
+  twitter: ''
+  linkedin: ''
+  instagram: ' @el.bam'
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
+url_thesesfr: ''
+url_hal: ''
 instagram_1:
   post1: ''
   post2: ''
@@ -26,55 +56,24 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
   post1link: ''
+  img1: ''
   post2link: ''
+  img2: ''
   post3link: ''
+  img3: ''
   post4link: ''
+  img4: ''
   post5link: ''
+  img5: ''
   post6link: ''
+  img6: ''
   post7link: ''
+  img7: ''
   post8link: ''
+  img8: ''
   post9link: ''
-membre_actif: true
-membre_bureau: false
-name: Wambergue-Gouble
-photo: /images/unnamed-1.png
-section_cnu: 18 Arts appliqués
-tags:
-  - Design graphique
-  - confiance
-  - images
-  - identité
-  - esthétique
-  - matérialité
-  - légitimité
-  - institutions
-  - valeur
-these_end: 0
-these_soutenue: false
-these_start: 2022
-title: Louise Wambergue-Gouble
-titrethese: >-
-  Le graphisme fiduciaire : l’imagerie officielle entre esthétique et confiance.
-  Le bouleversement iconographique des billets de banque lors du passage des
-  monnaies nationales à l’euro (1960-2020).
-titretheseEn: >-
-  Fiduciary graphic design: official imagery, between aesthetic and trust. The
-  iconographic upheaval of banknotes during the transition from national
-  currencies to euros (1960-2020)
-type_page: membres
-url_hal: ''
-url_thesesfr: ''
-_template: membres
+  img9: ''
 ---
 
 <!-- Supprimer les parties non remplies. Tu es libre d'ajouter ce que tu veux à cette partie -->
