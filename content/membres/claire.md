@@ -1,20 +1,41 @@
 ---
+title: Claire Richard
+name: Richard
+membre_actif: true
+membre_bureau: false
 bureau: ''
-contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: ''
-  linkedin: ''
-  mail: clairicha@gmail.com
-  medium: ''
-  site: ''
-  telephone: ''
-  twitter: ''
+type_page: membres
+photo: /images/claire-richard.jpeg
 etablissement: >-
   STMS / UMR 9912 IRCAM, Centre de recherche en design ENSCI / ENS Paris-Saclay,
   Actronika
+section_cnu: ''
+titrethese: 'Le son portable: Design intégratif pour l’écoute et le ressenti de vibrations'
+titretheseEn: 'Wearable Sound: Integrative design for hearing and feeling vibrations'
+these_start: 2020
+these_soutenue: false
+these_end: 0
+tags:
+  - technologie portable
+  - design intégratif
+  - design sonore
+  - multimodalité
+  - inclusivité
+  - acceptabilité de nouvelles technologies
+contact:
+  mail: clairicha@gmail.com
+  site: ''
+  telephone: ''
+  twitter: ''
+  linkedin: ''
+  instagram: ''
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
+url_thesesfr: ''
+url_hal: ''
 instagram_1:
   post1: ''
   post2: ''
@@ -26,46 +47,24 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
   post1link: ''
+  img1: ''
   post2link: ''
+  img2: ''
   post3link: ''
+  img3: ''
   post4link: ''
+  img4: ''
   post5link: ''
+  img5: ''
   post6link: ''
+  img6: ''
   post7link: ''
+  img7: ''
   post8link: ''
+  img8: ''
   post9link: ''
-membre_actif: true
-membre_bureau: false
-name: Richards
-photo: /images/claire-richard.jpeg
-section_cnu: ''
-tags:
-  - technologie portable
-  - design intégratif
-  - design sonore
-  - multimodalité
-  - inclusivité
-  - acceptabilité de nouvelles technologies
-these_end: 0
-these_soutenue: false
-these_start: 2020
-title: Claire Richards
-titrethese: 'Le son portable: Design intégratif pour l’écoute et le ressenti de vibrations'
-titretheseEn: 'Wearable Sound: Integrative design for hearing and feeling vibrations'
-type_page: membres
-url_hal: ''
-url_thesesfr: ''
-_template: membres
+  img9: ''
 ---
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
@@ -110,5 +109,5 @@ Claire Richards est une chercheuse américaine spécialisée dans le design et l
 
 {{% lang class="en" %}}
 
-Claire Richards is an American design-researcher with a background in ergonomics. She is interested in how we can question the limits of human sensory perception through the design of novel wearable technology.  
+Claire Richards is an American design-researcher with a background in ergonomics. She is interested in how we can question the limits of human sensory perception through the design of novel wearable technology.\
 {{% /lang %}}
