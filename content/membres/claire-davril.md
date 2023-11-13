@@ -1,17 +1,31 @@
 ---
+title: Claire Davril
+name: davril
+membre_actif: false
+type_page: membres
+photo: /images/default-profil.jpg
+etablissement: 'Université de Strasbourg, ACCRA'
+section_cnu: 18 Sciences de l'art
+titrethese: ' Une conception ouverte chez Adolf Loos et Louis Henry Sullivan. Étude d''un fonctionnalisme hors de l''utilitaire.'
+titretheseEn: ''
+these_start: 2019
+these_soutenue: false
+these_end: 0
+tags: []
 contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: ''
-  linkedin: ''
   mail: ''
-  medium: ''
   site: ''
   telephone: ''
   twitter: ''
-etablissement: 'Université de Strasbourg, ACCRA'
+  linkedin: ''
+  instagram: ''
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
+url_thesesfr: 'http://www.theses.fr/s233341'
+url_hal: ''
 instagram_1:
   post1: ''
   post2: ''
@@ -23,41 +37,25 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
   post1link: ''
+  img1: ''
   post2link: ''
+  img2: ''
   post3link: ''
+  img3: ''
   post4link: ''
+  img4: ''
   post5link: ''
+  img5: ''
   post6link: ''
+  img6: ''
   post7link: ''
+  img7: ''
   post8link: ''
+  img8: ''
   post9link: ''
-membre_actif: true
-name: davril
-photo: /images/default-profil.jpg
-section_cnu: 18 Sciences de l'art
-tags: []
-these_end: 0
-these_soutenue: false
-these_start: 2019
-title: Claire Davril
-titrethese: ' Une conception ouverte chez Adolf Loos et Louis Henry Sullivan. Étude d''un fonctionnalisme hors de l''utilitaire.'
-titretheseEn: ''
-type_page: membres
-url_hal: ''
-url_thesesfr: 'http://www.theses.fr/s233341'
-_template: membres
+  img9: ''
 ---
-
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
