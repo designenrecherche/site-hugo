@@ -12,6 +12,10 @@ these_start: 2015
 these_soutenue: true
 these_end: 2022
 tags:
+  - Programme
+  - Imprimé
+  - Ecriture
+  - Littératie
   - Enseignement
   - Methode
   - Manifeste
