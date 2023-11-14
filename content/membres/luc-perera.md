@@ -1,19 +1,42 @@
 ---
+title: Luc Perera
+name: perera
+membre_actif: true
+type_page: membres
+photo: /images/luc-perera.JPG
+etablissement: 'MINES Paris, EnsAD, EnsadLab'
+section_cnu: 18 Arts appliqués
+titrethese: >-
+  Tala Sound. Une projet pluridisciplinaire en design sonore carnatique pour
+  patient Alzheimer. 
+titretheseEn: >-
+  Tala Sound : a multidisciplinary social project Carnatic sound design for
+  Alzheimer patients
+these_start: 2017
+these_soutenue: true
+these_end: 2022
+tags:
+  - Critique
+  - Expérience patient
+  - Social
+  - Médical
+  - Sonore
+  - Interdisciplinaire
+  - Mécatronique
 contact:
-  facebook: 'https://www.facebook.com/profile.php?id=1044193231'
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: ''
-  linkedin: ''
-  mail: luc.perera@ensad.fr
-  medium: ''
-  site: ''
+  mail: lperera@cyu.fr
+  site: 'https://symbiose.ensadlab.fr/author/luc/ '
   telephone: ''
   twitter: ''
-etablissement: >-
-  Ecole nationale supérieur des Arts Décoratifs de Paris (EnsAD)&nbsp;/
-  EnsadLab&nbsp;/ MINES ParisTech /&nbsp;CRI
+  linkedin: 'https://www.linkedin.com/in/luc-perera-999a6697/ '
+  instagram: ''
+  facebook: 'https://www.facebook.com/profile.php?id=1044193231'
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
+url_thesesfr: 'https://www.theses.fr/fr/2022UPSLE004'
+url_hal: 'https://hal.science/search/index/?q=*&authIdPerson_i=1090648'
 instagram_1:
   post1: ''
   post2: ''
@@ -25,51 +48,25 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
   post1link: ''
+  img1: ''
   post2link: ''
+  img2: ''
   post3link: ''
+  img3: ''
   post4link: ''
+  img4: ''
   post5link: ''
+  img5: ''
   post6link: ''
+  img6: ''
   post7link: ''
+  img7: ''
   post8link: ''
+  img8: ''
   post9link: ''
-membre_actif: true
-name: perera
-photo: /images/luc-perera.JPG
-section_cnu: 18 Arts appliqués
-tags:
-  - 'Carnatique, Alzheimer, Interdisciplinaire, Mécatronique et Pédagogie.'
-  - Carnatique
-  - Alzheimer
-  - Interdisciplinaire
-  - Mécatronique
-  - Pédagogie
-these_end: 0
-these_soutenue: false
-these_start: 2017
-title: Luc Perera
-titrethese: >-
-  Tâlas médical : Esthétiques des sons carnatiques contemporains et dispositifs
-  interactifs de design sonore médical.
-titretheseEn: >-
-  Medical Tâla : The Aesthetics of contemporary Carnatic sounds with interactive
-  devices in Medical sound design.
-type_page: membres
-url_hal: ''
-url_thesesfr: ''
-_template: membres
+  img9: ''
 ---
-
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
@@ -77,13 +74,13 @@ _template: membres
 
 {{% lang class="fr" %}}
 
-La thèse englobe différents domaines scientifiques et artistiques. Il est au cœur d'une préoccupation politique et social. C'est à travers le design sonore médical que nous recherchons à répondre à des problématiques liés à la démence de type Alzheimer. L'utilisation de la musique dans les hôpitaux existe depuis les années soixante. A présent, la musicothérapie est devenue une science pédagogique pour les patients et pour le corps médical. Cependant la création en design de produit sonore n'est pas du tout développée, surtout en y intégrant des sonorités de musique Indienne (elle est thérapeutique depuis des siècles). Ce travail sera en lien avec la musique classique indienne du Sud (Tâla), comme une réécriture des (a)modales de la composition classique en utilisant des dispositifs numériques et interactifs en arts et en design.
+L'axe de recherche proposé dans cette thèse pluridisciplinaire ouvre sur diverses méthodologies du domaine de l'innovation en design sonore dans les champs des arts appliqués et du design d'objet. Notre objectif est de participer à l'apaisement de patients atteints de la maladie d'Alzheimer à l'aide de rythmes ancestraux carnatiques, issus de l'Inde du Sud. Pour atteindre cet objectif, nous avons d'abord effectué - dans trois lieux et auprès de publics différents - des sondages portant sur l'apaisement ressenti à l'écoute de la musique indienne. À partir de ces résultats indiquant une perception globalement positive, nous avons par la suite testé cette même musique avec succès auprès de patients Alzheimer de l'AP-HP Paul Brousse à Villejuif, en France. Ces expériences d'écoutes ont également suggéré l'élaboration d'un dispositif médical lié à notre approche : la Tala Box. Pour que l'objet envisagé soit valide, nous devions inclure à la partie extra-culturelle de notre proposition, ces rythmes indiens véhiculant divers symboles culturels, métriques et un rapport au temps, une méthodologie d'usage devant respecter des règles sanitaires strictes. Pour concevoir la Tala Box, nous l'avons contextualisée sous forme de cette nouvelle discipline universitaire qu'est la recherche par et sur le design. Pour sa réalisation mécatronique, nous l'avons projetée sous formes collaborative et participative du niveau secondaire jusqu'à l'enseignement supérieur, en nous questionnant sur la méthodologie pédagogique dans son ensemble et sur les écarts de niveaux de compétences entre les passerelles d'enseignement. Nous avons également testé différentes approches pour questionner les types d'innovation comme la théorie CK, l'effectual, le jugaad et le frugal, ainsi que la notion de proof of concept. Autre de la Tala Box se dessine également un projet en design social qui questionne la place de l'utilisateur, la notion de besoins et la valeur d'usage à l'hôpital. Nous avons ainsi essayé de créer un lien fédérateur intergénérationnel autour d'un projet très largement auto-financé.
 
 {{% /lang %}}
 
 {{% lang class="en" %}}
 
-My thesis project includes various scientific and artistic domains. It is at the heart of a political and social preoccupation. I am looking to address these issues through medical acoustic design for neurodegenerative. Music has been used in hospitals since the sixties. Music therapy has now become an educational science for patients and for medical staff. However, the creation for a sound design product is not at all developed, in particular involving sounds from Indian music ( it has been therapeutic for centuries). My research focuses on medical sound design specializing in geriatrics. My work is in relation with classical Indian music from the South ( Tâla), rewriting (modeless) the modals of the classical compositions by using numeric and interactive devices both in art and design.
+The research axis proposed in this multidisciplinary thesis opens up on various methodologies in the field of innovation in sound design in the fields of applied arts and object design. Our goal is to participate in the appeasement of patients with Alzheimer's disease using carnatic ancestral rhythms, from South India. To achieve this objective, we first carried out - in three places and with different audiences - surveys on the appeasement felt when listening to Indian music. Based on these results indicating a generally positive perception, we subsequently tested this same music successfully with patients of the Alzheimer at the AP-HP Paul Brousse in Villejuif, France. These listening experiences also suggested the development of a medical device related to our approach: the Tala Box. For the object envisaged to be valid, we had to include in the extra-cultural part of our proposal, these Indian rhythms conveying various cultural symbols, metrics and a relationship to time, a methodology of use that must respect strict health rules. To design the Tala Box, we contextualized it in the form of this new academic discipline that is research by and on design. For its mechatronic realization, we projected it in collaborative and participative forms from secondary level to higher education, by questioning ourselves on the teaching methodology as a whole and on the differences in skill levels between the teaching gateways. We also tested different approaches, such as CK theory, effectual, jugaad and frugal, as well as the notion of proof of concept. Other from the Tala Box is also taking shape in a social design project that questions the place of the user, the notion of needs and the use value in the hospital. We have thus tried to create a unifying intergenerational link around a project that is largely self-funded.
 
 {{% /lang %}}
 
@@ -96,12 +93,27 @@ My thesis project includes various scientific and artistic domains. It is at the
 
 {{% lang class="fr" %}}
 
-Designer sonore, compositeur et arrangeur spécialisé en musique contemporaine indienne, le sujet d’étude de Luc Perera porte sur la composition polyrythmique fondée sur des structures micros-tonales à partir des tâlas du sud de l’Inde. Depuis trois ans, il mène une recherche sur les bienfaits potentiels de ces rythmiques carnatiques sur la santé de patients atteints de démence. Deux années de thèse en Esthétique et sciences des arts en musicologie, sous la direction de [Costin Miereanu](http://www.cdmc.asso.fr/fr/ressources/compositeurs/biographies/miereanu-costin-1943) à Paris 1 Sorbonne, et un diplôme d’Etudes approfondie auprès de [Horia Surianu](https://fr.wikipedia.org/wiki/Horia_Surianu), sur la structure musicale des partitions plastiques indiennes, ont posé les bases de cette recherche. Fort d’une expérience de 20 ans en arts appliqués au sein de l’Education nationale, Mr Perera a réalisé de nombreux projets pluridisciplinaires en collaboration avec des structures territoriales dans les domaines des sciences, des technologies, de la santé et de l’environnement. Aujourd’hui, son étude se déploie en partenariat avec divers acteurs. Tout d’abord, c’est avec des musiciens tel que Jean Simon Fréderic, Phaure Christian et [John Boswel](https://fr.linkedin.com/in/john-boswell-1863a28a) que son approche de la composition sonore continue de se construire. Puis, dans le domaine médical, c’est en collaboration avec le Pôle Gériatrie de l’hôpital Paul Brousse qu’un protocole de test sur patient est mis en place.
+Luc Perera est un enseignant designer au CY Tech à l’Université de Cergy dans le département Humanité Design. Docteur, Design, de l’EnsAD de l’Université SACRe PSL dans le domaine sonore, santé et service. Il est compositeur et arrangeur spécialisé en musique contemporaine indienne. Il mène une recherche sur les bienfaits potentiels de ces rythmiques carnatiques sur la santé de patient.e.s atteints de démence autour d’objet mécatronique et Il est également critique sur l’interculturalités contemporaines sociales.
 
 {{% /lang %}}
 
 {{% lang class="en" %}}
 
-Sound designer, composer and arranger specializing in contemporary Indian music, Luc Perera's subject of study is polyrhythmic composition based on micros-tonal structures from talas from southern India. For the past three years, he has been researching the potential benefits of these carnatic rhythms on the health of patients with dementia. Two years of a thesis in Aesthetics and Arts Sciences in Musicology, under the supervision of Costin Miereanu at Paris 1 Sorbonne, and a Diploma in Advanced Studies with Horia Surianu, on the musical structure of Indian plastic scores, laid the foundations for this research. With 20 years of experience in applied arts within the National Education, Mr Perera has carried out many multidisciplinary projects in collaboration with territorial structures in the fields of science, technology, health and the environment . Today, his study is being deployed in partnership with various actors. First of all, it is with musicians such as Jean Simon Fréderic, Phaure Christian and John Boswel that his approach to sound composition continues to be built. Then, in the medical field, it is in collaboration with the Geriatrics Pole of Paul Brousse Hospital that a patient test protocol is put in place.
+Luc Perera is a designer teacher at CY Tech at the University of Cergy in the Humanity Design department. Doctor, Design, from EnsAD of SACRe PSL University in the field of sound, health and service. He is a composer and arranger specialising in contemporary Indian music. He is conducting research on the potential benefits of these Carnatic rhythms on the health of dementia patients and critical position on contemporary social interculturality.
 
 {{% /lang %}}
+
+# Soutenance de thèse
+
+## Composition du jury
+
+* Sandra BERTEZENE(examinatrice),Professeur, directrice de l'Équipe pédagogique nationale santé & solidarité, Cnam Paris.
+* Pierre JOUVELOT(directeur),Directeur de recherche, Centre de recherche informatique, Mines Paris, Université PSL. 
+* Gilles GUERRIER(rapporteur),Professeur associé en anesthésie réanimation, centre de recherche Cordeliers à Paris.
+* Anne Sophie RIGAUD(examinatrice),Professeur des universités praticien hospitalier, Université Paris Descartes.
+* Frank PECQUET(rapporteur),Maître de conférences HDR, Design sonore, Université Paris 1 Sorbonne.
+* Patrick RENAUD(co-encadrant),Enseignant et designer, Ecole nationale supérieure des Arts Décoratifs de Paris. 
+* Brigitte FLAMAND(invitée),IGÉSR Education nationale, Enseignement supérieur, MEN, Paris.
+
+
+
