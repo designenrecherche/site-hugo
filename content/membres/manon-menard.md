@@ -1,18 +1,42 @@
 ---
+title: Manon Ménard
+name: menard
+membre_actif: true
+membre_bureau: false
 bureau: Secrétaire et vice trésorière
+type_page: membres
+photo: /images/phpto_insta1-1.jpg
+etablissement: 'Université de Nîmes (Unîmes), laboratoire PROJEKT'
+section_cnu: 18 Arts appliqués
+titrethese: >-
+  De la culture des singularités à l'inclusion sociale et pédagogique par le
+  design
+titretheseEn: ''
+these_start: 2019
+these_soutenue: true
+these_end: 2023
+tags:
+  - Design
+  - Singularité
+  - Diversité
+  - Inclusion
+  - Design graphique
+  - Autisme
+  - Pédagogie
 contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: ''
-  linkedin: ''
   mail: manon.menard13@gmail.com
-  medium: ''
   site: www.manonmenard.com
   telephone: ''
   twitter: ''
-etablissement: 'Université de Nîmes (Unîmes), laboratoire PROJEKT'
+  linkedin: ''
+  instagram: ''
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
+url_thesesfr: 'http://www.theses.fr/s215740'
+url_hal: ''
 instagram_1:
   post1: ''
   post2: ''
@@ -24,49 +48,24 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
   post1link: ''
+  img1: ''
   post2link: ''
+  img2: ''
   post3link: ''
+  img3: ''
   post4link: ''
+  img4: ''
   post5link: ''
+  img5: ''
   post6link: ''
+  img6: ''
   post7link: ''
+  img7: ''
   post8link: ''
+  img8: ''
   post9link: ''
-membre_actif: true
-membre_bureau: false
-name: menard
-photo: /images/phpto_insta1-1.jpg
-section_cnu: 18 Arts appliqués
-tags:
-  - Design
-  - Singularité
-  - Diversité
-  - Inclusion
-  - Design graphique
-  - Autisme
-  - Pédagogie
-these_end: 0
-these_soutenue: false
-these_start: 2019
-title: Manon Ménard
-titrethese: >-
-  De la culture des singularités à l'inclusion sociale et pédagogique par le
-  design
-titretheseEn: ''
-type_page: membres
-url_hal: ''
-url_thesesfr: 'http://www.theses.fr/s215740'
-_template: membres
+  img9: ''
 ---
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
