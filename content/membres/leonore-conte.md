@@ -19,6 +19,7 @@ tags:
   - Design graphique
 contact:
   mail: leonoreconte@gmail.com
+  site: 'http://leonoreconte.com/'
   instagram: 'https://www.instagram.com/conte.le/'
 url_thesesfr: 'https://www.theses.fr/2022PA080006'
 ---
@@ -48,24 +49,32 @@ This thesis offers to give historical and theoretical analysis of manifestos in 
 
 {{% lang class="fr" %}}
 
-Ici la biographie en français
+Diplômée de l’École Estienne, de l’ENS de Cachan et agrégée d’Arts Appliqués, Léonore Conte est aujourd’hui enseignante à l’Esaat de Roubaix et docteure en design graphique, associée au laboratoire AIAC (Université Paris 8). Sa thèse porte sur la double réflexivité du manifeste en design graphique au xxe et xxie siècle et sa contribution à la culture disciplinaire en formation. Elle s’intéresse plus généralement aux pratiques de l’écrit des artistes et des designers graphiques et à leurs formes de publication et de diffusion.
 
 {{% /lang %}}
 
 {{% lang class="en" %}}
 
-Ici la biographie en anglais
+Léonore Conte is a teacher at Esaat Roubaix and a doctor in graphic design, associated with the AIAC laboratory (Paris 8 University). Her thesis focuses on the double reflexivity of the manifesto in graphic design in the 20th and 21st centuries and its contribution to the disciplinary culture in formation. She is more generally interested in the writing practices of graphic designers and their forms of publication and dissemination.
 
 {{% /lang %}}
 
 # Soutenance de thèse
 
-**Date** – lieu
-
-Pour en savoir plus : [lien vers article de design en recherche]()
+7 mars 2022 – Université Paris 8
 
 ## Composition du jury
 
-* **Prénom Nom**, laboratoire de rattachement (rapporteur)
-* **Prénom Nom**, laboratoire de rattachement
-* **Prénom Nom**, laboratoire de rattachement
+* Jean-Philippe Antoine, professeur, université Paris 8 – Vincennes-Saint-Denis
+*  Béatrice Fraenkel (rapporteuse), directrice d’études émérite de l’École des hautes études en sciences sociales 
+* Valérie Mavridorakis (présidente du jury, rapporteuse), professeur, Sorbonne université
+* Vivien Philizot, maître de conférences, université de Strasbourg
+* Catherine de Smet, professeur, université Paris 8 – Vincennes-Saint-Denis.
+
+## Publications
+
+Léonore CONTE, « Les États Généraux de la culture de 1987, un appel tardif à la modernité pour le graphisme français », Une émergence du design, France 20e siècle, octobre 2019, p. 144‑163, en ligne, \[https\://univ-paris8.academia.edu/L%C3%A9onoreConte]
+
+Léonore CONTE, « En écrivant. Réflexions sur les pratiques de l’écrit chez les designers graphiques », Graphisme en France, Écrire le design graphique, n°26, septembre 2020, en ligne, \[https\://www\.cnap.fr/graphisme-en-france/ecrire-le-design-graphique].
+
+Léonore CONTE, « Manifeste », Design in Translation, 2022 en ligne, \[https\://dit.dampress.org/glossary/manifeste]
