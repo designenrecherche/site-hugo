@@ -8,7 +8,11 @@ L'association est ouvertes à tous les doctorant·es et docteur·es depuis moins
 
 Pour adhérer, c'est simple, fais un don sur HelloAsso.
 
-<button><a target="_blank" href="[https://www.helloasso.com/associations/design-en-recherche-le-reseau-des-jeunes-chercheurs-en-design/adhesions/adhesion-2023-2024](https://www.helloasso.com/associations/design-en-recherche-le-reseau-des-jeunes-chercheurs-en-design/adhesions/adhesion-2022-2023 "https://www.helloasso.com/associations/design-en-recherche-le-reseau-des-jeunes-chercheurs-en-design/adhesions/adhesion-2022-2023")">Adhérer (HelloAsso)</a></button>
+<div>
+  <button>
+    <a target="_blank" href="https://www.helloasso.com/associations/design-en-recherche-le-reseau-des-jeunes-chercheurs-en-design/adhesions/adhesion-2023-2024">Adhérer (HelloAsso)</a>
+  </button>
+</div>
 
 ### Wannabe Doctorant·e en design
 
