@@ -84,3 +84,13 @@ Joffrey Paillard has a PhD in Architecture and City, and is a design researcher 
 * Thibaut Besozzi, (examinateur) Université de Lorraine
 * Florence Bouillon, (examinatrice) Université Paris 8 Vincennes–Saint-Denis
 * Catherine Chomarat-Ruiz, (examinatrice) Université Paris 1 Panthéon-Sorbonne
+
+## Publications
+
+Joffrey Paillard, « Le design urbain : un dispositif disciplinaire et sécuritaire “interstitiel” ? », Sciences du Design \[en ligne], [https://www.cairn.info/revue-sciences-du-design-2023-1-page-38.htm?wt.mc\_id=crn-mel-a749457\&u=56570030-9eab-4784-8b21-370f38d00e1e\&wt.tsrc=email](https://www.cairn.info/revue-sciences-du-design-2023-1-page-38.htm?wt.mc_id=crn-mel-a749457\&u=56570030-9eab-4784-8b21-370f38d00e1e\&wt.tsrc=email), juillet 2023, Designs urbains et territoires, n°17, pp.38-62.
+
+Joffrey Paillard, « Le dispositif-design : quand la technique devient disciplinaire », Appareil \[en ligne], [https://journals.openedition.org/appareil/6156](https://journals.openedition.org/appareil/6156), 25 | 2023, mis en ligne le 06 février 2023.
+
+Florian Bulou Fezard et Joffrey Paillard, « L’inconscient disciplinaire : architecture et design d’espace », In-Between : hybridation des pratiques artistiques et nouveaux formats de la recherche, Éditions Loco, 2022 ([https://hal.science/hal-04042002](https://hal.science/hal-04042002))
+
+
