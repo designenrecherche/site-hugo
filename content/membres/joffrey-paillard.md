@@ -2,6 +2,7 @@
 title: Joffrey Paillard
 name: paillard
 membre_actif: true
+type_page: membres
 photo: /paillard-j.jpeg
 etablissement: >-
   Université Paris Nanterre - École Nationale Supérieure d’Architecture de Paris
@@ -92,5 +93,3 @@ Joffrey Paillard, « Le design urbain : un dispositif disciplinaire et sécurita
 Joffrey Paillard, « Le dispositif-design : quand la technique devient disciplinaire », Appareil \[en ligne], [https://journals.openedition.org/appareil/6156](https://journals.openedition.org/appareil/6156), 25 | 2023, mis en ligne le 06 février 2023.
 
 Florian Bulou Fezard et Joffrey Paillard, « L’inconscient disciplinaire : architecture et design d’espace », In-Between : hybridation des pratiques artistiques et nouveaux formats de la recherche, Éditions Loco, 2022 ([https://hal.science/hal-04042002](https://hal.science/hal-04042002))
-
-
