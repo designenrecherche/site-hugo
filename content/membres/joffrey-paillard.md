@@ -1,5 +1,5 @@
 ---
-title: Joffrey Paillard
+title: joffrey-paillard
 name: paillard
 membre_actif: true
 type_page: membres
