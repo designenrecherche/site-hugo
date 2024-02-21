@@ -21,9 +21,15 @@ cd path/to/files/site-hugo
 npx @tinacms/cli@latest init
 ```
 
-Démarrage du serveur local : 
+Démarrage du serveur local :
 
 ```
 cd path/to/files/site-hugo
 npx tinacms dev -c "hugo server"
+```
+
+Et si ça ne marche pas, essayer avec `@tinacms/cli`:
+
+```
+npx @tinacms/cli server:start
 ```
