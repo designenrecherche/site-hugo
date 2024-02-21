@@ -3,7 +3,6 @@ bureau: ''
 contact:
   mail: contact@julie-blanc.fr
   site: 'https://julie-blanc.fr/'
-  telephone: ''
   twitter: 'https://twitter.com/julieblancfr'
   linkedin: 'https://www.linkedin.com/in/julie-blanc-550227232/'
   instagram: 'https://www.instagram.com/julieblancfr/'

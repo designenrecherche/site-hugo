@@ -10,7 +10,6 @@ contact:
   mail: dorian.reunkrilerk@gmail.com
   medium: ''
   site: ''
-  telephone: ''
   twitter: 'https://twitter.com/DReunkrilerk'
 etablissement: 'Institut Polytechnique de Paris, CoDesign Lab'
 instagram_1:

@@ -11,7 +11,6 @@ contact:
   mail: ''
   medium: ''
   site: ''
-  telephone: ''
   twitter: ''
 etablissement: >-
   Paris Seine Graduate School Humanités, Création et Patrimoine, LAREP

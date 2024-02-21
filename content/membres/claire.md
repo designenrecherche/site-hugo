@@ -25,7 +25,6 @@ tags:
 contact:
   mail: clairicha@gmail.com
   site: ''
-  telephone: ''
   twitter: ''
   linkedin: ''
   instagram: ''

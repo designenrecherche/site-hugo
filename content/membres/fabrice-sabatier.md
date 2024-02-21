@@ -9,7 +9,6 @@ contact:
   mail: fabrice.sabatier@ulb.be
   medium: ''
   site: www.corp-lab.com/researchsabatier/
-  telephone: ''
   twitter: '@FabriceSabatier'
 etablissement: 'Ecole polytechnique de Bruxelles, Laboratoire Iridia, ULB + ERG Bruxelles '
 instagram_1:

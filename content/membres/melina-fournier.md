@@ -10,7 +10,6 @@ contact:
   mail: melinafournier.pro@gmail.com
   medium: ''
   site: ''
-  telephone: ''
   twitter: ''
 etablissement: >-
   Ecole doctorale Bordeaux Montaigne Humanité / Laboratoire MICA (Médiations,

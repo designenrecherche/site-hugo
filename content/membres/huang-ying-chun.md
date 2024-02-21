@@ -10,11 +10,10 @@ contact:
   mail: ychuang0528@gmail.com
   medium: ''
   site: ''
-  telephone: ''
   twitter: ''
 etablissement: >-
   Université Paris 1 Panthéon-Sorbonne. Arts plastiques, esthétique et sciences
-  de l’art, Institut ACTE 
+  de l’art, Institut ACTE
 instagram_1:
   post1: ''
   post2: ''

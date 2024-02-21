@@ -9,7 +9,6 @@ contact:
   mail: annelyse.renon@gmail.com
   medium: ''
   site: 'http://lias.ehess.fr/index.php?822'
-  telephone: ''
   twitter: ''
 etablissement: 'EHESS Paris & LIAS, Institut Marcel Mauss (Paris)'
 instagram_1:
@@ -67,7 +66,7 @@ Le rôle grandissant des techniques modernes de présentation et d’imagerie da
 
 ## Direction de thèse
 
-* **Victor Rosenthal**, Chargé de recherche, INSERM, IMM-LIAS 
+* **Victor Rosenthal**, Chargé de recherche, INSERM, IMM-LIAS
 
 # Soutenance de thèse
 

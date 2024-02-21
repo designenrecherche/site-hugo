@@ -10,7 +10,6 @@ contact:
   mail: bonnardot.z@gmail.com
   medium: ''
   site: ''
-  telephone: ''
   twitter: ''
 etablissement: 'Université de Nîmes (Unîmes), laboratoire PROJEKT'
 instagram_1:
@@ -95,11 +94,11 @@ One of the main aspects of the energy transition is the development of renewable
 * **Elise Prieur,** Ingénieure-chercheure et Chef de projet, EDF, R&D, _Co-encadrante_
 * **Yvon Haradji,** Chercheur Sénior, EDF R&D, _Co-encadrant_
 
-# Soutenance de Thèse 
+# Soutenance de Thèse
 
 Le 7 octobre 2021 à l'Université de Nîmes et sur Zoom
 
-## Composition du Jury 
+## Composition du Jury
 
 * **Mme Sylvie Grosjean,** Full Professor à l’Université d’Ottawa, _Rapporteure_ 
 * **Mme Sophie Pène,** Professeure à l’Université Paris Descartes, _Rapporteure_
@@ -110,7 +109,7 @@ Le 7 octobre 2021 à l'Université de Nîmes et sur Zoom
 
 {{% lang class="fr" %}}
 
-Formée au design de service à l'Université de Nîmes et au design urbain à l'école des Beaux-Arts du Mans, j'ai également passé 5 mois au sein du master Codesign de l'école KADK à Copenhague. Après avoir mené ma thèse de doctorat en CIFRE entre EDF R&D, l'Université de Technologie de Troyes, et l'Université de Nîmes, je suis désormais docteure en Sciences de l'Information et de la Communication, avec une spécialité Design. 
+Formée au design de service à l'Université de Nîmes et au design urbain à l'école des Beaux-Arts du Mans, j'ai également passé 5 mois au sein du master Codesign de l'école KADK à Copenhague. Après avoir mené ma thèse de doctorat en CIFRE entre EDF R&D, l'Université de Technologie de Troyes, et l'Université de Nîmes, je suis désormais docteure en Sciences de l'Information et de la Communication, avec une spécialité Design.
 
 {{% /lang %}}
 

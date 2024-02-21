@@ -24,7 +24,6 @@ tags:
 contact:
   mail: 'https://medialab.sciencespo.fr/equipe/robin-de-mourat/ '
   site: ''
-  telephone: ''
   twitter: 'https://twitter.com/robindemourat'
   linkedin: ''
   instagram: ''

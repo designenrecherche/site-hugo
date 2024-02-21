@@ -10,7 +10,6 @@ contact:
   mail: voillotmarion@gmail.com
   medium: ''
   site: 'https://www.marionvoillot.com'
-  telephone: ''
   twitter: 'https://twitter.com/marion_voillot'
 etablissement: IRCAM-STMS
 instagram_1:
@@ -57,7 +56,7 @@ these_start: 2018
 title: Marion Voillot
 titrethese: >-
   Le corps au coeur de l’apprentissage grâce au numérique. Exploration d’un
-  nouveau paradigme pour l’éducation à la petite enfance 
+  nouveau paradigme pour l’éducation à la petite enfance
 titretheseEn: 'Exploring embodied learning for early childhood education. '
 type_page: membres
 url_hal: ''

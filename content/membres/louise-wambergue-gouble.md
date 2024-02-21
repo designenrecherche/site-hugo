@@ -8,7 +8,7 @@ type_page: membres
 photo: /images/unnamed-1.png
 etablissement: >-
   Université de Strasbourg UR 3402 - Approche Contemporaine de la Réflexion et
-  de la Création Artistiques (ACCRA) 
+  de la Création Artistiques (ACCRA)
 section_cnu: 18 Arts appliqués
 titrethese: >-
   Le graphisme fiduciaire : l’imagerie officielle entre esthétique et confiance.
@@ -34,7 +34,6 @@ tags:
 contact:
   mail: ' louisewambergue@gmail.com '
   site: ''
-  telephone: ''
   twitter: ''
   linkedin: ''
   instagram: ' @el.bam'

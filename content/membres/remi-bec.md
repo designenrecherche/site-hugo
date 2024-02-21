@@ -9,7 +9,6 @@ contact:
   mail: remibec@gmail.com
   medium: ''
   site: ''
-  telephone: ''
   twitter: '@Rob_zone83'
 etablissement: 'Lab4Living, Sheffield Hallam University, UK'
 instagram_1:

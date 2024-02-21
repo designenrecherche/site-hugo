@@ -9,7 +9,6 @@ contact:
   mail: ''
   medium: ''
   site: ''
-  telephone: ''
   twitter: ''
 etablissement: 'Centrale Nantes, ELICC'
 instagram_1:

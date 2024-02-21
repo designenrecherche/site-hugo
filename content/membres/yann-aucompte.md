@@ -9,7 +9,6 @@ contact:
   mail: ''
   medium: ''
   site: ''
-  telephone: ''
   twitter: ''
 etablissement: 'TEAMeD, EDESTA, PARIS VIII'
 instagram_1:

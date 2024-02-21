@@ -18,7 +18,6 @@ tags: []
 contact:
   mail: ''
   site: 'http://aureliedaanen.com/'
-  telephone: ''
   twitter: ''
   linkedin: ''
   instagram: ''

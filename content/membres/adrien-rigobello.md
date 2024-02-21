@@ -23,7 +23,6 @@ tags:
 contact:
   mail: ''
   site: 'https://thr34d5.org/adrien'
-  telephone: ''
   twitter: 'https://twitter.com/tubuscas'
   linkedin: ''
   instagram: 'https://www.instagram.com/adrien_finalv2.cpp'

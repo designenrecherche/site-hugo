@@ -27,7 +27,6 @@ tags:
 contact:
   mail: renaudmignerey@gmail.com
   site: ''
-  telephone: ''
   twitter: ''
   linkedin: 'https://www.linkedin.com/in/renaudmignerey/'
   instagram: ''

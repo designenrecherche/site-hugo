@@ -10,7 +10,6 @@ contact:
   mail: ''
   medium: ''
   site: ''
-  telephone: ''
   twitter: ''
 etablissement: >-
   Université Paris 1, Arts plastiques, esthétique et sciences de l'art, Institut

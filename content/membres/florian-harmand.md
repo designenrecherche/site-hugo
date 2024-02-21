@@ -9,7 +9,6 @@ contact:
   mail: ''
   medium: ''
   site: ''
-  telephone: ''
   twitter: ''
 etablissement: 'Université Bordeaux Montaigne, MICA, Axe IDEM'
 instagram_1:

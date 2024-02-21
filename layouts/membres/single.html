@@ -7,13 +7,13 @@
 
 <div class="container-main" id="container-single-membres">
 
-  
+
 
 
 <section class="section" id="section-membre-single">
   <div class="container">
-        
-    
+
+
     <header>
       <figure>
           <a href="{{.Permalink}}">
@@ -31,7 +31,6 @@
            <ul class="contact">
             {{ if .Params.contact.mail }}<li class="mail"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.mail | safeHTML }}</span>{{ .Params.contact.mail }}</li>{{ end }}
             {{ if .Params.contact.site }}<li class="site"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.site | safeHTML }}</span><a target="_blank" href="{{ .Params.contact.site | safeHTML }}">{{ .Params.contact.site }}</a></li>{{ end }}
-            {{ if .Params.contact.telephone }}<li class="site"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.phone | safeHTML }}</span>{{ .Params.contact.telephone }}</li>{{ end }}
            </ul>
            <ul class="socials">
             {{ if .Params.contact.twitter }}<li class="twitter"><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.twitter | safeHTML }}</span><a target="_blank" href="{{ .Params.contact.twitter }}">Twitter</a></li>{{ end }}
@@ -42,19 +41,19 @@
             {{ if .Params.contact.github }}<li><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.github | safeHTML }}</span><a target="_blank" href="{{ .Params.contact.github }}">GitHub</a></li>{{ end }}
             {{ if .Params.contact.gitlab }}<li><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.gitlab | safeHTML }}</span><a target="_blank" href="{{ .Params.contact.gitlab }}">GitLab</a></li>{{ end }}
             {{ if .Params.contact.mastodon }}<li><span class="icon-svg" aria-hidden="true">{{ $.Site.Data.icons.mastodon | safeHTML }}</span><a target="_blank" href="{{ .Params.contact.mastodon }}">Mastodon</a></li>{{ end }}
-            
+
            </ul>
 
           </div>
-  
 
-         
+
+
     </header>
-  
-    
+
+
 
         <div class="these-infos">
-          
+
            <p class="title-thesis-fr">{{ if .Params.titretheseEn }}<span class="lang"></span>{{ end }}{{ .Params.titrethese | safeHTML }}</p>
           {{ if .Params.titretheseEn }} <p class="title-thesis-en" lang="en"><span class="lang"></span>{{ .Params.titretheseEn | safeHTML }}</p> {{ end }}
 
@@ -65,7 +64,7 @@
                {{range .Params.tags}}<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li> {{end}}
           </ul>
           {{end}}
-          
+
           <ul class="infos">
             {{ if .Params.these_start }}
           <li><span class="these-start">Inscription en thèse en {{ .Params.these_start }}</span>
@@ -85,10 +84,10 @@
 
 
         </div>
-  
-       
-     
-      
+
+
+
+
 
 
 
@@ -96,7 +95,7 @@
           {{.Content }}
         </div>
 
-     
+
 
   </div>
 </section>

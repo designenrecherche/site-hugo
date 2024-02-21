@@ -3,7 +3,6 @@ bureau: ''
 contact:
   mail: 'valentin.auboisliogier@univ-tours.fr '
   site: 'https://vaulio.fr/'
-  telephone: ''
   twitter: 'https://twitter.com/v_aulio/'
   linkedin: 'www.linkedin.com/in/valentin-aubois-liogier '
   instagram: 'https://www.instagram.com/v.aulio/'

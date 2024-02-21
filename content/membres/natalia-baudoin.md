@@ -10,7 +10,6 @@ contact:
   mail: 'studio@nataliabaudoin.com '
   medium: ''
   site: www.nataliabaudoin.com
-  telephone: ''
   twitter: ''
 etablissement: 'Programme SACRe, EnsadLab, ENSAD-Université PSL'
 instagram_1:
@@ -107,7 +106,7 @@ Natalia Baudoin est une designer bolivienne et vénézuélienne travaillant entr
 
 {{% lang class="en" %}}
 
-Natalia Baudoin is a Bolivian and Venezuelan designer working between Paris and the south of France in connection with Latin America. After obtaining her product design degree at the National School of Fine Arts in Lyon, she is now a doctoral student at EnsadLab, within the SACRe program of PSL University. Her work focuses on how design can enhance traditional indigenous craftsmanship through its hybridization with other techniques and knowledge while respecting the cosmology of artisans. In partnership with a solidarity bank, her research also considers the development of financial services adapted to the needs of productive communities.  
+Natalia Baudoin is a Bolivian and Venezuelan designer working between Paris and the south of France in connection with Latin America. After obtaining her product design degree at the National School of Fine Arts in Lyon, she is now a doctoral student at EnsadLab, within the SACRe program of PSL University. Her work focuses on how design can enhance traditional indigenous craftsmanship through its hybridization with other techniques and knowledge while respecting the cosmology of artisans. In partnership with a solidarity bank, her research also considers the development of financial services adapted to the needs of productive communities.
 Her work has been exhibited in Argentina, France and Spain.
 
 {{% /lang %}}

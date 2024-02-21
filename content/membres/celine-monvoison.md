@@ -10,7 +10,6 @@ contact:
   mail: ''
   medium: ''
   site: ''
-  telephone: ''
   twitter: ''
 etablissement: Université du Québec à Montréal (UQAM)
 instagram_1:

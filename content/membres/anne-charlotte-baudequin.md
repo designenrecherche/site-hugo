@@ -9,7 +9,6 @@ contact:
   mail: ''
   medium: ''
   site: ''
-  telephone: ''
   twitter: ''
 etablissement: 'Université Toulouse-Jean Jaurès, ALLPH@, LARA-SEPPIA'
 instagram_1:

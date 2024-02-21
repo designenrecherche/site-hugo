@@ -271,11 +271,6 @@ export function membresFields() {
         },
         {
           type: "string",
-          name: "telephone",
-          label: "Téléphone",
-        },
-        {
-          type: "string",
           name: "twitter",
           label: "Twitter",
         },

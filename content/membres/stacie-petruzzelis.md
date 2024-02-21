@@ -29,7 +29,6 @@ tags:
 contact:
   mail: ''
   site: ''
-  telephone: ''
   twitter: ''
   linkedin: ''
   instagram: ''

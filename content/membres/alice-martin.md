@@ -22,7 +22,6 @@ tags:
 contact:
   mail: alif.martin@gmail.com
   site: ''
-  telephone: ''
   twitter: ''
   linkedin: 'https://www.linkedin.com/in/alice-martin-a18303152/'
   instagram: ''

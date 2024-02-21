@@ -26,7 +26,6 @@ tags:
 contact:
   mail: manon.menard13@gmail.com
   site: www.manonmenard.com
-  telephone: ''
   twitter: ''
   linkedin: ''
   instagram: ''

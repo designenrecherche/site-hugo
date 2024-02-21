@@ -9,7 +9,6 @@ contact:
   mail: anthonymasure@gmail.com
   medium: ''
   site: 'http://www.anthonymasure.com/'
-  telephone: +33 (0)6.86.98.49.26
   twitter: 'https://twitter.com/anthonymasure'
 etablissement: 'Université Paris1, Panthéon-Sorbonne  – UFR Arts Plastiques'
 instagram_1:

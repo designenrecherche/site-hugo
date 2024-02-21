@@ -10,7 +10,6 @@ contact:
   mail: ''
   medium: ''
   site: ''
-  telephone: ''
   twitter: ''
 etablissement: 'Télécom Paristech, Institut Polytechnique de Paris'
 instagram_1:

@@ -25,7 +25,6 @@ tags:
 contact:
   mail: nadja.gaudilliere@gmail.com
   site: ''
-  telephone: ''
   twitter: ''
   linkedin: ''
   instagram: ''

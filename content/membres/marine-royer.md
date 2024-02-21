@@ -9,7 +9,6 @@ contact:
   mail: marine.royer@unimes.fr
   medium: ''
   site: 'https://www.linkedin.com/in/marine-royer-13744083/'
-  telephone: ''
   twitter: ''
 etablissement: 'Université de Nîmes (Unîmes), laboratoire PROJEKT'
 instagram_1:

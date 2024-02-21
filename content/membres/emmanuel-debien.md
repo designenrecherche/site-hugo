@@ -10,7 +10,6 @@ contact:
   mail: emmanuel.debien@gmail.com
   medium: ''
   site: 'http://emmanueldebien.info'
-  telephone: ''
   twitter: ''
 etablissement: 'Paris 8, EDESTA Labo EA4010 '
 instagram_1:

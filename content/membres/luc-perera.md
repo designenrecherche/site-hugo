@@ -8,7 +8,7 @@ etablissement: 'MINES Paris, EnsAD, EnsadLab'
 section_cnu: 18 Arts appliqués
 titrethese: >-
   Tala Sound. Une projet pluridisciplinaire en design sonore carnatique pour
-  patient Alzheimer. 
+  patient Alzheimer.
 titretheseEn: >-
   Tala Sound : a multidisciplinary social project Carnatic sound design for
   Alzheimer patients
@@ -26,7 +26,6 @@ tags:
 contact:
   mail: lperera@cyu.fr
   site: 'https://symbiose.ensadlab.fr/author/luc/ '
-  telephone: ''
   twitter: ''
   linkedin: 'https://www.linkedin.com/in/luc-perera-999a6697/ '
   instagram: ''

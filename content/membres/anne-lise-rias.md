@@ -9,7 +9,6 @@ contact:
   mail: ''
   medium: ''
   site: ''
-  telephone: ''
   twitter: 'https://twitter.com/AnneliseRias'
 etablissement: >-
   Laboratoire de Conception Produits et Innovation, École Nationale Supérieure
@@ -97,12 +96,12 @@ Emphasizing the integration of Additive Manufacturing (AM) into big industrial c
 
 {{% lang class="fr" %}}
 
-Designer d’objets intermédiaires et Chercheure en Sciences de la conception. Avec une appétence pour la technique, l’ingénierie et les enjeux industriels. Je travaille le plus souvent au contact de, pour, ou dans l’industrie. Je conçois des dispositifs, des objets, des expériences comme média pour atteindre des objectifs variables selon les projets :   
-\-Imaginer les usages d’une nouvelle technologie,   
-\-Soutenir la capacité créative des parties prenantes,  
-\-Se projeter sur des thématiques où l’incertitude règne,   
-\-Créer un langage commun pour une équipe multi-disciplinaire,   
-\-Frictionner pour faire émerger des questions pertinentes sur des sujets complexes  
+Designer d’objets intermédiaires et Chercheure en Sciences de la conception. Avec une appétence pour la technique, l’ingénierie et les enjeux industriels. Je travaille le plus souvent au contact de, pour, ou dans l’industrie. Je conçois des dispositifs, des objets, des expériences comme média pour atteindre des objectifs variables selon les projets :
+\-Imaginer les usages d’une nouvelle technologie,
+\-Soutenir la capacité créative des parties prenantes,
+\-Se projeter sur des thématiques où l’incertitude règne,
+\-Créer un langage commun pour une équipe multi-disciplinaire,
+\-Frictionner pour faire émerger des questions pertinentes sur des sujets complexes
 En Recherche-action, j’étudie les effets de ces objets intermédiaires dans le cadre de méthodologies d’innovation et de désinnovation.
 
 {{% /lang %}}

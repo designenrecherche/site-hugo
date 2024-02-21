@@ -32,7 +32,6 @@ tags:
 contact:
   mail: lorene.picard@protonmail.com
   site: 'http://lrcn.fr/'
-  telephone: ''
   twitter: 'https://twitter.com/lorene_picard'
   linkedin: ''
   instagram: 'https://www.instagram.com/lorene_ceccon/'

@@ -20,7 +20,6 @@ tags:
 contact:
   mail: ''
   site: 'http://eliserigot.com/#/'
-  telephone: ''
   twitter: ''
   linkedin: ''
   instagram: ''

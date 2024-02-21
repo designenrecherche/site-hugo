@@ -10,7 +10,6 @@ contact:
   mail: carolnah@gmail.com
   medium: ''
   site: ''
-  telephone: ''
   twitter: ''
 etablissement: >-
   Université Paris 8 Vincennes - Saint-Denis      École Doctorale Esthétique,

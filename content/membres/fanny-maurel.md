@@ -25,7 +25,6 @@ tags:
 contact:
   mail: f.f.maurel@gmail.com
   site: f.f.maurel@gmail.com
-  telephone: ''
   twitter: 'https://twitter.com/fannymau_'
   linkedin: 'https://www.linkedin.com/in/fanny-maurel-7b20b4122/'
   instagram: 'https://www.instagram.com/fannyfmaurel/?hl=fr'

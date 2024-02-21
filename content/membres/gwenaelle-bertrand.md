@@ -9,7 +9,6 @@ contact:
   mail: ''
   medium: ''
   site: 'http://www.maxwen-studio.com'
-  telephone: ''
   twitter: 'https://twitter.com/Gwenaelle_b'
 etablissement: >-
   Université de Strasbourg, Laboratoire ACCRA (Approches Contemporaines de la

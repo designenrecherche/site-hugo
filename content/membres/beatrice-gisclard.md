@@ -9,7 +9,6 @@ contact:
   mail: 'beatrice.gisclard@unimes.fr '
   medium: ''
   site: ''
-  telephone: ''
   twitter: ''
 etablissement: 'Université de Nîmes (Unîmes), laboratoire PROJEKT'
 instagram_1:

@@ -27,7 +27,6 @@ tags:
 contact:
   mail: ''
   site: 'https://davidbenque.com'
-  telephone: ''
   twitter: ''
   linkedin: 'https://twitter.com/davidbenque'
   instagram: 'https://www.instagram.com/diagram.studies'

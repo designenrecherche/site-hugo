@@ -9,7 +9,6 @@ contact:
   mail: maxbonhomme@protonmail.com
   medium: ''
   site: ''
-  telephone: ''
   twitter: ''
 etablissement: >-
   Université Gustave-Eiffel, Champs-sur-Marne, Laboratoire Littératures, Savoirs

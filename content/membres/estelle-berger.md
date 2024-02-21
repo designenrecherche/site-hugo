@@ -8,7 +8,6 @@ contact:
   linkedin: ""
   mail: ""
   site: http://www.yume-studio.fr
-  telephone: 33601056061
   twitter: ""
 discipline: ""
 etablissement: Toulouse Jean Jaurès, LARA - Laboratoire de Recherche en Arts

@@ -10,7 +10,6 @@ contact:
   mail: ''
   medium: ''
   site: ''
-  telephone: ''
   twitter: ''
 etablissement: 'Université de Nîmes (Unîmes), Laboratoire PROJEKT'
 instagram_1:

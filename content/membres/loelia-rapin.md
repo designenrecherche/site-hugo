@@ -11,7 +11,6 @@ contact:
   mail: loelia.rapin@gmail.com
   medium: ''
   site: ''
-  telephone: 0662497447
   twitter: ''
 etablissement: 'Université de Nantes, Équipe DuKe au LS2N'
 instagram_1:
@@ -61,7 +60,7 @@ these_start: 2021
 title: Loélia Rapin
 titrethese: >-
   Méthodologie d’évaluation de l’expérience patient par le design et le
-  numérique  
+  numérique
 titretheseEn: ''
 type_page: membres
 url_hal: ''
