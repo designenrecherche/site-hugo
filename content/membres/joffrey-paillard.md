@@ -14,7 +14,7 @@ titrethese: >-
 titretheseEn: >-
   Spatial devices of the "hostile city" and urbans tactics of resistance :
   boundaries, situations, interstices
-these_start: 2015
+these_start: 2018
 these_soutenue: true
 these_end: 2023
 tags:
