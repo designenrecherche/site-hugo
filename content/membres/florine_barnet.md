@@ -8,7 +8,7 @@ etablissement: 'Université d’Artois, CREHS, ED n°586'
 section_cnu: 22 Histoire de l'art
 titrethese: 'Philippe Starck et la vente par correspondance : un design pour tous ?'
 titretheseEn: 'Philippe Starck and mail-order selling in France : design for everyone ?'
-these_start: 11102018
+these_start: 11102023
 these_soutenue: false
 these_end: 0
 tags:
