@@ -2,7 +2,7 @@
 title: Florine Barnet
 name: Barnet
 membre_actif: true
-type_page: Membre
+type_page: membres
 photo: /BARNET-Photo ID.jpg
 etablissement: 'Université d’Artois, CREHS, ED n°586'
 section_cnu: 22 Histoire de l'art
