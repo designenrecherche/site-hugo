@@ -1,5 +1,31 @@
 ---
+title: Valentin Aubois-Liogier
+name: Aubois-Liogier
+membre_actif: true
+membre_bureau: true
 bureau: ''
+type_page: membres
+photo: /images/photo_valentinauboisliogier.jpg
+etablissement: 'Université de Tours, CITERES/DATE'
+section_cnu: '24 Aménagement de l''espace, urbanisme'
+titrethese: >-
+  Accepter le changement ? Relation des usagers et acteurs aux projets et
+  dispositifs de recyclage agricole des urines humaines.
+titretheseEn: >-
+  Embracing change? Users' and stakeholders' relations to human urine recycling
+  projects and systems.
+these_start: 2021
+these_soutenue: false
+these_end: 0
+tags:
+  - Recyclage des urines
+  - Assainissement écologique
+  - Acceptabilité sociale
+  - Sensibilités
+  - Changement social
+  - Toilettes
+  - Design
+  - Urbanisme
 contact:
   mail: 'valentin.auboisliogier@univ-tours.fr '
   site: 'https://vaulio.fr/'
@@ -12,7 +38,8 @@ contact:
   hypotheses: ''
   github: ''
   gitlab: ''
-etablissement: 'Université de Tours, CITERES/DATE'
+url_thesesfr: 'http://theses.fr/s297123'
+url_hal: ''
 instagram_1:
   post1: ''
   post2: ''
@@ -42,33 +69,6 @@ instagram_files:
   img8: ''
   post9link: ''
   img9: ''
-membre_actif: true
-membre_bureau: false
-name: Aubois-Liogier
-photo: /images/photo_valentinauboisliogier.jpg
-section_cnu: '24 Aménagement de l''espace, urbanisme'
-tags:
-  - Recyclage des urines
-  - Assainissement écologique
-  - Acceptabilité sociale
-  - Sensibilités
-  - Changement social
-  - Toilettes
-  - Design
-  - Urbanisme
-these_end: 0
-these_soutenue: false
-these_start: 2021
-title: Valentin Aubois-Liogier
-titrethese: >-
-  Accepter le changement ? Relation des usagers et acteurs aux projets et
-  dispositifs de recyclage agricole des urines humaines.
-titretheseEn: >-
-  Embracing change? Users' and stakeholders' relations to human urine recycling
-  projects and systems.
-type_page: membres
-url_hal: ''
-url_thesesfr: 'http://theses.fr/s297123'
 ---
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
