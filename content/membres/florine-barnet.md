@@ -2,12 +2,14 @@
 title: Florine Barnet
 name: Barnet
 membre_actif: true
+type_page: Membre
 photo: /BARNET-Photo ID.jpg
 etablissement: 'Université d’Artois, CREHS, ED n°586'
 section_cnu: 22 Histoire de l'art
 titrethese: 'Philippe Starck et la vente par correspondance : un design pour tous ?'
 titretheseEn: 'Philippe Starck and mail-order selling in France : design for everyone ?'
 these_start: 2023
+these_soutenue: false
 these_end: 0
 tags:
   - créateur
@@ -41,8 +43,8 @@ The aim of this research project is to go deeper about the work of French design
 
 ## Liens vers articles/communications
 
-Article : « Ray Hollis de Philippe Starck : la mise en scène de l’ubiquité de l’objet », Les Cahiers de l’École du Louvre \[En ligne], 22 | 2024, mis en ligne le 23 mai 2024, consulté le 10 octobre 2024. URL : http\://journals.openedition.org/cel/30423  ; DOI : https\://doi.org/10.4000/11w6m 
+Article : « Ray Hollis de Philippe Starck : la mise en scène de l’ubiquité de l’objet », Les Cahiers de l’École du Louvre \[En ligne], 22 | 2024, mis en ligne le 23 mai 2024, consulté le 10 octobre 2024. URL : [http://journals.openedition.org/cel/30423](http://journals.openedition.org/cel/30423)  ; DOI : [https://doi.org/10.4000/11w6m](https://doi.org/10.4000/11w6m)
 
-Communication : https\://umrausser.hypotheses.org/files/2023/03/Rencontres\_Arts\_Decoratifs\_2023.pdf 
+Communication : [https://umrausser.hypotheses.org/files/2023/03/Rencontres\_Arts\_Decoratifs\_2023.pdf](https://umrausser.hypotheses.org/files/2023/03/Rencontres_Arts_Decoratifs_2023.pdf)
 
-A venir : https\://hlli.univ-littoral.fr/wp-content/uploads/2024/09/Colloque-A2U-JL-2024-09-19.pdf 
+A venir : [https://hlli.univ-littoral.fr/wp-content/uploads/2024/09/Colloque-A2U-JL-2024-09-19.pdf](https://hlli.univ-littoral.fr/wp-content/uploads/2024/09/Colloque-A2U-JL-2024-09-19.pdf)
