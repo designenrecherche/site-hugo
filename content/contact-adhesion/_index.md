@@ -35,7 +35,7 @@ Nous permettons aux doctorant·es en design de se fédérer et de se rencontrer 
 Nos membres peuvent également participer et organiser des évènements:
 
 * des journées d'études et ateliers thématiques organisés par une petite équipe de membres (et vous ?!) ;
-* des apéros de doctorants pour nous retrouver et échanger ;
-* des réunions dédiés aux étudiants de master qui souhaitent en savoir plus sur le doctorat en design ;
+* des apéros de doctorant·es pour nous retrouver et échanger ;
+* des réunions dédiées aux étudiant·es de Master qui souhaitent en savoir plus sur le doctorat en design ;
 * ...
 * et bien d'autres à créer !
