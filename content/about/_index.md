@@ -1,15 +1,16 @@
 ---
-date: "2019-05-12T12:14:34.000+06:00"
+date: '2019-05-12T12:14:34.000+06:00'
 description: This is meta description.
 title: About
 ---
+
 ## Contexte
 
-Depuis quelques années, sous l’impulsion des études anglo-saxonnes et de la réforme des écoles d’art, on assiste en France à l’émergence d’un important champ de recherche sur le design. Cela se manifeste notamment par une augmentation très significative des travaux de recherches académiques sur les différentes formes de design, leurs histoires et leurs implications dans la société, et ce à travers toute la francophonie. Nous avons cependant fait le constat d’un manque patent de moyens d’interconnaissance et de coopération entre ces jeunes chercheur-e-s travaillant pour la plupart de manière relativement isolée au sein de leurs laboratoires respectifs. À travers ce groupe de travail, nous souhaitons donc contribuer à réduire cette fragmentation en favorisant la circulation d’informations, la capitalisation des expériences, ainsi que la réflexion collective entre jeunes chercheur-e-s dont les travaux portent sur le design. Nous pensons que le travail en équipe est un moteur essentiel de la recherche et un lieu favorable au déploiement de projets transdisciplinaires.
+Depuis quelques années, sous l’impulsion des études anglo-saxonnes et de la réforme des écoles d’art, on assiste en France à l’émergence d’un important champ de recherche sur le design. Cela se manifeste notamment par une augmentation très significative des travaux de recherches académiques sur les différentes formes de design, leurs histoires et leurs implications dans la société, et ce à travers toute la francophonie. Nous avons cependant fait le constat d’un manque patent de moyens d’interconnaissance et de coopération entre ces jeunes chercheur·es travaillant pour la plupart de manière relativement isolée au sein de leurs laboratoires respectifs. À travers ce groupe de travail, nous souhaitons donc contribuer à réduire cette fragmentation en favorisant la circulation d’informations, la mise en commun des expériences, ainsi que la réflexion collective entre jeunes chercheur·es dont les travaux portent sur le design. Nous pensons que le travail en équipe est un moteur essentiel de la recherche et un lieu favorable au déploiement de projets transdisciplinaires.
 
 ## Accomplissements
 
-À l’heure actuelle, notre groupe réunit déjà plus d’une quarantaine de membres, doctorant-e-s, jeunes docteur-e-s et aspirant-e-s doctorant-e-s, sur un éventail disciplinaire large : sociologie, histoire, anthropologie, esthétique, philosophie, ingénierie, sciences de gestion, sciences de l’information et de la communication, arts plastiques. Plusieurs axes thématiques transdisciplinaires se dégagent de nos travaux, notamment autour des convergences et divergences méthodologiques, du rôle de la recherche en design vis-à-vis du monde dit « professionnel », du projet comme concept fédérateur pour les problématiques de recherche en design. Une telle diversité se retrouve également sur le plan géographique puisque les membres du groupe sont rattachés à des écoles doctorales et laboratoires partout en France (Paris, Toulouse, Nancy, Rennes, Avignon, Tours et Grenoble). Nous serions d’ailleurs heureux que d’autres jeunes chercheurs nous rejoignent, notamment des pays francophones. Il est capital de cultiver cette ouverture dans nos différentes initiatives.
+À l’heure actuelle, notre groupe réunit déjà plus d’une quarantaine de membres, doctorant·es, jeunes docteur·es et aspirant·es doctorant·es, sur un éventail disciplinaire large : sociologie, histoire, anthropologie, esthétique, philosophie, ingénierie, sciences de gestion, sciences de l’information et de la communication, arts plastiques. Plusieurs axes thématiques transdisciplinaires se dégagent de nos travaux, notamment autour des convergences et divergences méthodologiques, du rôle de la recherche en design vis-à-vis du monde dit « professionnel », du projet comme concept fédérateur pour les problématiques de recherche en design. Une telle diversité se retrouve également sur le plan géographique puisque les membres du groupe sont rattachés à des écoles doctorales et laboratoires partout en France (Paris, Toulouse, Nancy, Rennes, Avignon, Tours et Grenoble). Nous serions d’ailleurs heureux que d’autres jeunes chercheurs nous rejoignent, notamment des pays francophones. Il est capital de cultiver cette ouverture dans nos différentes initiatives.
 
 ## Questions
 
@@ -20,6 +21,15 @@ Si le design est traversé par des enjeux sociaux, économiques et politiques ma
 <section id="bureaux">
 <h1>Composition des bureaux</h1>
 <div class="title"><div>
+
+{{% bureau year="2024-2025" %}}
+
+* [Fanny Maurel](https://designenrecherche.org/membres/fanny-maurel/), présidente
+* Margaux Moussinet, trésorière
+* [Valentin Aubois-Liogier](https://designenrecherche.org/membres/valentin-auboisliogier/), secrétaire
+* [Joffrey Paillard](https://designenrecherche.org/membres/joffrey-paillard/)
+
+{{% /bureau %}}
 
 {{% bureau year="2021-2022" %}}
 
@@ -37,7 +47,6 @@ Si le design est traversé par des enjeux sociaux, économiques et politiques ma
 * [Julie Blanc](https://designenrecherche.org/membres/julie-blanc/), trésorière
 * [Marion Voillot](https://designenrecherche.org/membres/marion-voillot/), secrétaire
 * [Manon Ménard,](https://designenrecherche.org/membres/manon-menard/) secrétaire
-  
 
 {{% /bureau %}}
 
@@ -47,7 +56,7 @@ Si le design est traversé par des enjeux sociaux, économiques et politiques ma
 * [Aurélie Daanen,](https://designenrecherche.org/membres/aurelie-daanen/) trésorière
 * [Zoé Bonnardot](https://designenrecherche.org/membres/zoe-bonnardot/), secrétaire
 * [Julie Blanc](https://designenrecherche.org/membres/julie-blanc/), chargée des outils numériques
-* [Marion Voillot](https://designenrecherche.org/membres/marion-voillot/), Chargée de communication 
+* [Marion Voillot](https://designenrecherche.org/membres/marion-voillot/), Chargée de communication
 
 {{% /bureau %}}
 
