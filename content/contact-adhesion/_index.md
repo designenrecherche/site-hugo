@@ -10,7 +10,7 @@ Pour adhérer, c'est simple, fais un don sur HelloAsso.
 
 <div>
   <button>
-    <a target="_blank" href="https://www.helloasso.com/associations/design-en-recherche-le-reseau-des-jeunes-chercheurs-en-design/adhesions/adhesion-2023-2024">Adhérer (HelloAsso)</a>
+    <a target="_blank" href="https://www.helloasso.com/associations/design-en-recherche-le-reseau-des-jeunes-chercheurs-en-design/adhesions/adhesion-2024-2025">Adhérer (HelloAsso)</a>
   </button>
 </div>
 
