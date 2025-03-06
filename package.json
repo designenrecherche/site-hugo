@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/designenrecherche/site-hugo#readme",
   "dependencies": {
-    "@tinacms/cli": "^1.5.29",
-    "tinacms": "^1.5.20"
+    "@tinacms/cli": "^1.9.2",
+    "tinacms": "^2.7.2"
   }
 }
