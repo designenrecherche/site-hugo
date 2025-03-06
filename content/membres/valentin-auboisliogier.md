@@ -5,7 +5,7 @@ membre_actif: true
 membre_bureau: true
 bureau: 'Secrétaire '
 type_page: membres
-photo: /_portrait v2.jpg
+photo: /AUBOISLIOGIER-Photo-ID.jpg
 etablissement: 'Université de Tours, CITERES'
 section_cnu: '24 Aménagement de l''espace, urbanisme'
 titrethese: >-
