@@ -26,13 +26,13 @@ Pour celles et ceux qui sont déjà doctorant·es en design. Vous aurez la possi
 
 Pour celles et ceux qui sont déjà les heureux·ses détenteur·ices d'un doctorat en design depuis moins de 3 ans. <span class="montant">20,00 €</span>
 
-Toute adhésion donne accès à notre groupe communauté, permettant de rester en contact avec les autres membres du réseau en permanence. Tu auras aussi un accès privilégié aux journées d'études, ateliers thématiques et autres évènements du réseau (inclus des apéros).
+Toute adhésion donne accès à notre communauté, permettant de rester en contact avec les autres membres du réseau en permanence. Tu auras aussi un accès privilégié aux journées d'études, ateliers thématiques et autres évènements du réseau (inclus des apéros).
 
 {{% /div %}}
 
 Nous permettons aux doctorant·es en design de se fédérer et de se rencontrer pour discuter ou pour engager des projets ensemble. Nous avons un groupe WhatsApp (ouvert seulement aux membres de l'association) dont nous nous servons également pour faire de la veille.<br>
 
-Nos membres peuvent également participer et organiser des évènements:
+Nos membres peuvent également participer et organiser des évènements :
 
 * des journées d'études et ateliers thématiques organisés par une petite équipe de membres (et vous ?!) ;
 * des apéros de doctorant·es pour nous retrouver et échanger ;
