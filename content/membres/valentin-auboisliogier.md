@@ -99,7 +99,7 @@ The agricultural recycling of human urine addresses modern ecological challenges
 
 {{% lang class="fr" %}}
 
-Valentin Aubois-Liogier est un·e designer, artiste et chercheur·e basé·e à Paris. Depuis 2021, iel poursuit un doctorat en Design et Aménagement urbain au laboratoire CITERES (UMR 7324) et enseigne dans ces domaines (agrégé·e d’arts appliqués\*). Iel explore les transformations socioécologiques dans les espaces domestiques et urbains. Sa recherche doctorale vise à comprendre les perceptions des usager·e·s et des acteur·rice·s concerné·e·s par les systèmes de recyclage de l’urine humaine, en particulier celui conçu pour le projet Urocyclus. Iel écrit également de courts textes et de la poésie, performe, danse et dessine.
+Valentin Aubois-Liogier est un·e designer, artiste et chercheur·e basé·e à Paris. Depuis 2021, iel poursuit un doctorat en Design et Aménagement urbain au laboratoire CITERES (UMR 7324) et enseigne dans ces domaines (agrégé·e d’arts appliqués\*). Iel explore les transformations socioécologiques dans les espaces domestiques et urbains. Sa recherche doctorale vise à comprendre les perceptions des usager·es et des acteur·ices concerné·es par les systèmes de recyclage de l’urine humaine, en particulier celui conçu pour le projet Urocyclus. Iel écrit également de courts textes et de la poésie, performe, danse et dessine.
 
 {{% /lang %}}
 
