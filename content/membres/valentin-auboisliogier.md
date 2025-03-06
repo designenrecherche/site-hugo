@@ -3,22 +3,25 @@ title: Valentin Aubois-Liogier
 name: Aubois-Liogier
 membre_actif: true
 membre_bureau: true
-bureau: ''
+bureau: 'Secrétaire '
 type_page: membres
-photo: /images/photo_valentinauboisliogier.jpg
-etablissement: 'Université de Tours, CITERES/DATE'
+photo: /_portrait v2.jpg
+etablissement: 'Université de Tours, CITERES'
 section_cnu: '24 Aménagement de l''espace, urbanisme'
 titrethese: >-
-  Accepter le changement ? Relation des usagers et acteurs aux projets et
-  dispositifs de recyclage agricole des urines humaines.
+  Accepter le changement ? Approche par le projet de la perception des acteurs
+  aux dispositifs de recyclage agricole de l'urine humaine
 titretheseEn: >-
-  Embracing change? Users' and stakeholders' relations to human urine recycling
-  projects and systems.
+  Embracing Change? Accepting Change? A Project-Based Approach to Stakeholders'
+  Perception of Human Urine Recycling Systems in Agriculture
 these_start: 2021
 these_soutenue: false
 these_end: 0
 tags:
-  - Recyclage des urines
+  - Recherche-création
+  - Recherche-projet
+  - Sensibilité
+  - Recyclage de l'urine
   - Assainissement écologique
   - Acceptabilité sociale
   - Sensibilités
@@ -29,11 +32,11 @@ tags:
 contact:
   mail: 'valentin.auboisliogier@univ-tours.fr '
   site: 'https://vaulio.fr/'
-  twitter: 'https://twitter.com/v_aulio/'
+  twitter: ''
   linkedin: 'www.linkedin.com/in/valentin-aubois-liogier '
   instagram: 'https://www.instagram.com/v.aulio/'
   facebook: ''
-  mastodon: 'https://mastodon.social/@vaulio'
+  mastodon: ''
   medium: ''
   hypotheses: ''
   github: ''
@@ -96,12 +99,12 @@ Human urine recycling addresses ecological problems such as pollution of ecosyst
 
 {{% lang class="fr" %}}
 
-Valentin Aubois-Liogier est un designer français, doctorant en Design et Urbanisme au laboratoire CNRS CITERES, normalien et enseignant agrégé d'arts appliqués. Il s'intéresse aux enjeux socioécologiques liés aux espaces domestiques et urbains. Son doctorat vise principalement l'analyse des relations des usagers et acteurs avec un système de recyclage des urines humaines qu'il a conçu, ainsi qu'avec d'autres systèmes similaires. Plus généralement, son travail est à la croisée de différents champs et disciplines.
+Valentin Aubois-Liogier est un·e designer, artiste et chercheur·e basé·e à Paris. Depuis 2021, iel poursuit un doctorat en Design et Aménagement urbain au laboratoire CITERES (UMR 7324) et enseigne dans ces domaines (agrégé·e d’arts appliqués\*). Iel explore les transformations socioécologiques dans les espaces domestiques et urbains. Sa recherche doctorale vise à comprendre les perceptions des usager·e·s et des acteur·rice·s concerné·e·s par les systèmes de recyclage de l’urine humaine, en particulier celui conçu pour le projet Urocyclus. Iel écrit également de courts textes et de la poésie, performe, danse et dessine.
 
 {{% /lang %}}
 
 {{% lang class="en" %}}
 
-Valentin Aubois-Liogier is a French designer, PhD student in Design & Urban planning at the CNRS CITERES laboratory, normalien\*, and teacher agrégé d'arts appliqués\*. He is interested in socioecological issues related to domestic and urban spaces. His PhD aims principally to study users' and stakeholders' relations with a human urine recycling system he designed, and with other similar systems. Overall, his work is crossing different disciplines and fields.
+Valentin Aubois-Liogier is a French designer, artist and researcher based in Paris. Since 2021, they have been pursuing a PhD in Design & Urban planning at the CITERES lab (UMR 7324), and lecturing/teaching (agrégé d'arts appliqués\*) in these fields. They explore socioecological transformations in domestic and urban spaces. Their PhD aims to understand users' and stakeholders' perceptions of human urine recycling systems, particularly the one designed for the Urocyclus project. They also write short texts and poetry, perform, dance, and draw.
 
 {{% /lang %}}
