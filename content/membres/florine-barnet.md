@@ -3,7 +3,7 @@ title: Florine Barnet
 name: Barnet
 membre_actif: true
 type_page: membres
-photo: /BARNET-Photo ID.jpg
+photo: /BARNET-Photo_ID.jpg
 etablissement: 'Université d’Artois, CREHS, ED n°586'
 section_cnu: 22 Histoire de l'art
 titrethese: 'Philippe Starck et la vente par correspondance : un design pour tous ?'
