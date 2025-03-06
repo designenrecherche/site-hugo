@@ -2,7 +2,7 @@
 # Adhésion
 
 Design en Recherche est une association de loi 1901 crée en 2013 par et pour les doctorant·es en design.
-L'association est ouvertes à tous les doctorant·es et docteur·es depuis moins de 3 ans qui souhaitent partager leur intérêt scientifique pour le design. Nous sommes également ouverts à tous ceux qui envisagent de faire une thèse en design.
+L'association est ouvertes à tous les doctorant·es et docteur·es depuis moins de 3 ans qui souhaitent partager leur intérêt scientifique pour le design. Nous sommes également ouvert·es à tous celles et ceux qui envisagent de faire une thèse en design.
 
 {{% div class="helloasso" %}}
 
