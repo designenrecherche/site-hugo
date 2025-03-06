@@ -21,11 +21,6 @@ name = "Annuaire des membres"
 summary = ""
 weight = 4
 [[menu.main]]
-URL = "breves"
-name = "Brèves"
-summary = ""
-weight = 5
-[[menu.main]]
 URL = "tags"
 name = "Mot-clés"
 summary = ""
