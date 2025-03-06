@@ -9,7 +9,7 @@ etablissement: >-
   Université Paris 1 Panthéon-Sorbonne, Institut ACTE (Arts, Créations,
   Théories, Esthétique), équipe Design, Arts, Médias
 section_cnu: 18 Sciences de l'art
-titrethese: 'L''opacité typographique: plasticité et autonomie du texte et de la lettre '
+titrethese: 'L''opacité typographique: plasticité et autonomie du texte et de la lettre'
 these_start: 2019
 these_soutenue: true
 these_end: 2024
@@ -20,7 +20,7 @@ tags:
   - texte
   - typographie
   - design graphique
-  - '#opacité typographique'
+  - opacité typographique
 contact:
   mail: margaux.moussinet@outlook.fr
   linkedin: 'https://www.linkedin.com/in/margaux-moussinet/'
