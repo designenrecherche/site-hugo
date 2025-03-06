@@ -38,4 +38,4 @@ Nos membres peuvent également participer et organiser des évènements:
 * des apéros de doctorants pour nous retrouver et échanger ;
 * des réunions dédiés aux étudiants de master qui souhaitent en savoir plus sur le doctorat en design ;
 * ...
-* et bien d'autres à créer !
+* et bien d'autres à créer !
