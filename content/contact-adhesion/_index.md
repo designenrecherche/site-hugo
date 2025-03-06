@@ -16,25 +16,26 @@ Pour adhérer, c'est simple, fais un don sur HelloAsso.
 
 ### Wannabe Doctorant·e en design
 
-Pour ceux qui envisagent d'entamer un doctorat.  <span class="montant">10,00 €</span>
+Pour celles et ceux qui envisagent d'entamer un doctorat.  <span class="montant">10,00 €</span>
 
 ### Doctorant·e en design
 
-Pour ceux qui sont déjà doctorant·es en design. Vous aurez la possibilité de prendre en charge l'organisation d'évènements avec le soutien de l'association ! <span class="montant">20,00 €</span>
+Pour celles et ceux qui sont déjà doctorant·es en design. Vous aurez la possibilité de prendre en charge l'organisation d'évènements avec le soutien de l'association ! <span class="montant">20,00 €</span>
 
-### Jeunes docteur·es
+### Jeune docteur·e
 
-Pour ceux qui sont déjà les heureux détenteurs d'un doctorat en design depuis moins de 3 ans. <span class="montant">20,00 €</span>
+Pour celles et ceux qui sont déjà les heureux·ses détenteur·ices d'un doctorat en design depuis moins de 3 ans. <span class="montant">20,00 €</span>
 
-Toute adhésion donne accès à notre Slack, permettant de rester en contact avec les autres membres du réseau en permanence. Tu auras aussi un accès privilégié aux journées d'études, ateliers thématiques et autres évènements du réseau (inclus des apéros).
+Toute adhésion donne accès à notre groupe communauté, permettant de rester en contact avec les autres membres du réseau en permanence. Tu auras aussi un accès privilégié aux journées d'études, ateliers thématiques et autres évènements du réseau (inclus des apéros).
 
 {{% /div %}}
 
-Nous faisons de la veille sur la recherche en design que nous sur notre [site web](/breves) (ouvert au public) ou sur le slack (ouvert seulement aux membres de l'association). Nous permettons aux doctorant·es en design de se fédérer et de se rencontrer pour discuter ou pour engager des projets ensemble.<br>
+Nous permettons aux doctorant·es en design de se fédérer et de se rencontrer pour discuter ou pour engager des projets ensemble. Nous avons un groupe WhatsApp (ouvert seulement aux membres de l'association) dont nous nous servons également pour faire de la veille.<br>
 
 Nos membres peuvent également participer et organiser des évènements:
 
 * des journées d'études et ateliers thématiques organisés par une petite équipe de membres (et vous ?!) ;
 * des apéros de doctorants pour nous retrouver et échanger ;
 * des réunions dédiés aux étudiants de master qui souhaitent en savoir plus sur le doctorat en design ;
-* et d'autres sont à créer !
+* ...
+* et bien d'autres à créer !
