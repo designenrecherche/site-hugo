@@ -2,7 +2,7 @@
 title: Louise Wambergue-Gouble
 name: Wambergue-Gouble
 membre_actif: true
-membre_bureau: true
+membre_bureau: false
 bureau: ''
 type_page: membres
 photo: /images/unnamed-1.png
