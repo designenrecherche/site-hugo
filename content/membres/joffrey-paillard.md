@@ -2,6 +2,7 @@
 title: Joffrey Paillard
 name: paillard
 membre_actif: true
+membre_bureau: true
 type_page: membres
 photo: /paillard-j.jpeg
 etablissement: >-
