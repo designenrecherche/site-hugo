@@ -1,6 +1,6 @@
 ---
-title: 'En bref ! '
+title: 'Entraide, travail collectif et diffusion'
 display: true
 ---
 
-**Entraide, travail collectif et diffusion ! **Les trois mots d'ordre de l'association !
+Les trois mots d'ordre de l'association !
