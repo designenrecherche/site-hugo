@@ -1,17 +1,37 @@
 ---
+title: Marion Voillot
+name: voillot
+membre_actif: false
+membre_bureau: false
 bureau: Responsable Com Événements
+type_page: membres
+photo: /images/unnamed.jpg
+etablissement: IRCAM-STMS
+section_cnu: 18 Arts appliqués
+titrethese: >-
+  Le corps au coeur de l’apprentissage grâce au numérique. Exploration d’un
+  nouveau paradigme pour l’éducation à la petite enfance
+titretheseEn: 'Exploring embodied learning for early childhood education. '
+these_start: 2018
+these_soutenue: true
+these_end: 2022
+tags:
+  - Éducation à la petite enfance
+  - Culture numérique
+  - Embodiment
 contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: ''
-  linkedin: 'https://www.linkedin.com/in/marion-voillot-23b1a4124/'
   mail: voillotmarion@gmail.com
-  medium: ''
   site: 'https://www.marionvoillot.com'
   twitter: 'https://twitter.com/marion_voillot'
-etablissement: IRCAM-STMS
+  linkedin: 'https://www.linkedin.com/in/marion-voillot-23b1a4124/'
+  instagram: ''
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
+url_thesesfr: ''
+url_hal: ''
 instagram_1:
   post1: ''
   post2: ''
@@ -23,45 +43,24 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
   post1link: ''
+  img1: ''
   post2link: ''
+  img2: ''
   post3link: ''
+  img3: ''
   post4link: ''
+  img4: ''
   post5link: ''
+  img5: ''
   post6link: ''
+  img6: ''
   post7link: ''
+  img7: ''
   post8link: ''
+  img8: ''
   post9link: ''
-membre_actif: true
-membre_bureau: false
-name: voillot
-photo: /images/unnamed.jpg
-section_cnu: 18 Arts appliqués
-tags:
-  - Éducation à la petite enfance
-  - Culture numérique
-  - Embodiment
-these_end: 2022
-these_soutenue: true
-these_start: 2018
-title: Marion Voillot
-titrethese: >-
-  Le corps au coeur de l’apprentissage grâce au numérique. Exploration d’un
-  nouveau paradigme pour l’éducation à la petite enfance
-titretheseEn: 'Exploring embodied learning for early childhood education. '
-type_page: membres
-url_hal: ''
-url_thesesfr: ''
-_template: membres
+  img9: ''
 ---
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
@@ -70,17 +69,17 @@ _template: membres
 
 {{% lang class="fr" %}}
 
-Face à l’arrivée massive des écrans dans la vie des tout-petits, les préoccupations des professionnel.le.s de petite enfance se multiplient. _Comment favoriser le développement de l’enfant à l’ère du numérique ? Comment promouvoir des interactions numériques qui encouragent les apprentissages du jeune enfant ?_ ou encore, _comment promouvoir la culture numérique en maternelle ?_
+Face à l’arrivée massive des écrans dans la vie des tout-petits, les préoccupations des professionnel.le.s de petite enfance se multiplient. *Comment favoriser le développement de l’enfant à l’ère du numérique ? Comment promouvoir des interactions numériques qui encouragent les apprentissages du jeune enfant ?* ou encore, *comment promouvoir la culture numérique en maternelle ?*
 
 Ce projet de thèse à la croisée du design, de l'IHM (Interface Humain-Machine) et de l'éducation, propose de repenser l’éducation au numérique pour la petite enfance. Dans un processus de recherche en design, nous développons des interfaces tangibles et numériques, sans écran, pour les enfants de maternelle.
 
-Ces dispositifs permettent de placer le corps comme médium d'interaction avec la technologie. Ils encouragent ainsi une interaction incarnée (ou _embodied interaction)_ grâce au développement d’interactions multimodales, c'est-à-dire la mobilisation commune des sens (ouïe, vue, toucher) ainsi que du mouvement et des gestes. Ils favorisent l’exploration active de l’enfant par la manipulation, le jeu et le développement de l’autonomie. Conçus comme des démonstrateurs de littératie numérique, ils sont également vecteurs des compétences dites du XXIème siècle que sont la communication, la collaboration, l’esprit critique et la créativité.
+Ces dispositifs permettent de placer le corps comme médium d'interaction avec la technologie. Ils encouragent ainsi une interaction incarnée (ou *embodied interaction)* grâce au développement d’interactions multimodales, c'est-à-dire la mobilisation commune des sens (ouïe, vue, toucher) ainsi que du mouvement et des gestes. Ils favorisent l’exploration active de l’enfant par la manipulation, le jeu et le développement de l’autonomie. Conçus comme des démonstrateurs de littératie numérique, ils sont également vecteurs des compétences dites du XXIème siècle que sont la communication, la collaboration, l’esprit critique et la créativité.
 
 Ces dispositifs sont inclus dans des scénarios pédagogiques, co-conçus avec des professionnel.le.s de la petite enfance; des spécialistes du développement de l’enfant, ainsi que des designers et des ingénieurs. Dans une démarche de recherche écologique, les trois scénarios sont testés au sein de plusieurs écoles maternelle.
 
-* _CoMo.education,_ une application permettant de raconter des histoires sonores en mouvement grâce au couplage geste-son développé sur smartphone (en collaboration avec l'équipe Interaction Son Musique Mouvement de l'IRCAM-STMS)
-* _Learning Matters,_ des dispositifs en textile électronique permettant d’appréhender les systèmes de traitement de l’information — energie, information, signal — grâce à la manipulation et un l’assemblage de circuits interactifs (en collaboration avec Claire Eliot, designer e-textile)
-* Et enfin, _l’egloo,_ un espace numérique et tangible pour les jeunes enfants, laboratoire mobile et espace expérientiel d’interaction tangible (en collaboration avec l’équipe Premiers Cris et OVAOM).
+* *CoMo.education,* une application permettant de raconter des histoires sonores en mouvement grâce au couplage geste-son développé sur smartphone (en collaboration avec l'équipe Interaction Son Musique Mouvement de l'IRCAM-STMS)
+* *Learning Matters,* des dispositifs en textile électronique permettant d’appréhender les systèmes de traitement de l’information — energie, information, signal — grâce à la manipulation et un l’assemblage de circuits interactifs (en collaboration avec Claire Eliot, designer e-textile)
+* Et enfin, *l’egloo,* un espace numérique et tangible pour les jeunes enfants, laboratoire mobile et espace expérientiel d’interaction tangible (en collaboration avec l’équipe Premiers Cris et OVAOM).
 
 {{% /lang %}}
 
@@ -112,7 +111,7 @@ Marion Voillot est architecte et designer, diplômée de l’ENSA Paris-Val de S
 
 Dans une démarche interdisciplinaire, elle crée son écosystème de recherche à la frontière du design, de l’Interaction Homme-Machine et de l’éducation, et commence sa thèse en décembre 2018, entre le CRI (Université de Paris/INSERM), l’IRCAM-STMS et le Centre de Recherche en Design (ENS Paris Saclay / ENSCI-Les Ateliers).
 
-En 2018, elle co-fonde _Premiers Cris_ avec Lisa Jacquey, collaboratoire de recherche sur la petite enfance du CRI.
+En 2018, elle co-fonde *Premiers Cris* avec Lisa Jacquey, collaboratoire de recherche sur la petite enfance du CRI.
 
 En 2019, Marion Voillot est co-finaliste de la Bourse Agora de Recherche en design et lauréate du Prix de Recherche-Action de la Fondation Mustela.
 
@@ -124,7 +123,7 @@ Marion Voillot is an architect and designer, graduated from ENSA Paris-Val de Se
 
 In an interdisciplinary approach, she creates her research ecosystem at the crossroads of Design, Human-Computer Interaction and Education, and begins her thesis in December 2018, between the CRI (University of Paris/INSERM), the IRCAM-STMS and the Centre de Recherche en Design (ENS Paris Saclay / ENSCI-Les Ateliers).
 
-In 2018, she co-founded _Premiers Cris_ with Lisa Jacquey, a research collaboratory on early childhood, at CRI.
+In 2018, she co-founded *Premiers Cris* with Lisa Jacquey, a research collaboratory on early childhood, at CRI.
 
 In 2019, Marion Voillot is a co-finalist, with Claire Eliot, of the Agora Research Grant in Design and laureate of the Mustela Foundation's Research-Action Prize.
 
