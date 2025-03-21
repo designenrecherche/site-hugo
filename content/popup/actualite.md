@@ -1,13 +1,6 @@
 ---
-display: false
-publishDate: '2021-04-13T13:01:00Z'
-title: Actualité
-_template: popup
+title: 'En bref ! '
+display: true
 ---
 
-**AG de l'association 15 juin, 19h**
-
-AG de l'association : il est temps d'élire un nouveau bureau !
-
-* Visio BigBlueButton: [https://visio.octopuce.fr/b/des-cl6-eih-sfj](https://visio.octopuce.fr/b/des-cl6-eih-sfj "https://visio.octopuce.fr/b/des-cl6-eih-sfj")
-* Au Grand Bréguet : 17 rue Bréguet, 75011, Paris
+**Entraide, travail collectif et diffusion ! Les trois mots d'ordre de l'association !**
