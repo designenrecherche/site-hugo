@@ -1,5 +1,28 @@
 ---
+title: Julie Blanc
+name: blanc
+membre_actif: false
+membre_bureau: false
 bureau: ''
+type_page: membres
+photo: /images/julie-blanc.jpg
+etablissement: EUR ArTeC / Université Paris 8 - EA349 / EnsadLab
+section_cnu: '16 Psychologie, Ergonomie'
+titrethese: >-
+  Composer avec les technologies du web. Genèses instrumentales collectives pour
+  le développement d'une communauté de pratique de designers graphiques
+titretheseEn: ''
+these_start: 2018
+these_soutenue: true
+these_end: 2023
+tags:
+  - design graphique
+  - activité
+  - approche instrumentale
+  - technologies du web
+  - code
+  - édition
+  - pratique
 contact:
   mail: contact@julie-blanc.fr
   site: 'https://julie-blanc.fr/'
@@ -12,7 +35,8 @@ contact:
   hypotheses: ''
   github: 'https://github.com/JulieBlanc'
   gitlab: 'https://gitlab.com/JulieBlanc'
-etablissement: EUR ArTeC / Université Paris 8 - EA349 / EnsadLab
+url_thesesfr: 'http://theses.fr/s218120'
+url_hal: ''
 instagram_1:
   post1: ''
   post2: ''
@@ -42,30 +66,6 @@ instagram_files:
   img8: ''
   post9link: ''
   img9: ''
-membre_actif: true
-membre_bureau: false
-name: blanc
-photo: /images/julie-blanc.jpg
-section_cnu: '16 Psychologie, Ergonomie'
-tags:
-  - design graphique
-  - activité
-  - approche instrumentale
-  - technologies du web
-  - code
-  - édition
-  - pratique
-these_end: 2023
-these_soutenue: true
-these_start: 2018
-title: Julie Blanc
-titrethese: >-
-  Composer avec les technologies du web. Genèses instrumentales collectives pour
-  le développement d'une communauté de pratique de designers graphiques
-titretheseEn: ''
-type_page: membres
-url_hal: ''
-url_thesesfr: 'http://theses.fr/s218120'
 ---
 
 # Résumé de thèse
@@ -87,7 +87,6 @@ Over the past decade, graphic designers have been using web technologies for typ
 The study adopts an anthropocentric understanding of technique, using cultural-historical theory of activity and the instrumental approach to investigate the composition activity and it sdevelopment, as well as the associated socio-technical system changes. Moreover, in a research perspective carried by practice, we mobilize our own experience of graphic designer registered within a community of actors leading these transformations.
 
 Through three empirical studies and the collective design of a tool called paged.js, which enables the creation of printed books from web browsers, the study examines the composition activity from multiple perspectives. The results are analyzed in relation to broader questions about the socio-technical transformations brought about by the integration of open source software practices in graphic design. The study argues that the use of web technologies in the graphic design process supports the creative and aesthetic practices of designers, and opens up new opportunities for collective activity, enabling the community to develop its own tools and practices.
-
 
 {{% /lang %}}
 
