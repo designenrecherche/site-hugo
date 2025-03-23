@@ -12,10 +12,6 @@ name = "L’association"
 weight = 2
 summary = ""
 [[menu.main]]
-URL = "actions"
-name = "Nos actions"
-weight = 3
-[[menu.main]]
 URL = "membres"
 name = "Annuaire des membres"
 summary = ""
@@ -32,7 +28,7 @@ summary = ""
 weight = 7
 
 [params]
-subtitle = "le&nbsp;réseau des&nbsp;jeunes&nbsp;chercheur·e·s en&nbsp;design"
+subtitle = "le&nbsp;réseau des&nbsp;jeunes&nbsp;chercheur·es en&nbsp;design"
 mail = "designenrecherche@gmail.com"
 credits = "Association loi 1901 à but non-lucratif."
 author = "Design en Recherche"

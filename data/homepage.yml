@@ -19,7 +19,7 @@ aboutHome:
 
 # Évènements de l'association
 actions:
-  enable : true
+  enable : false
   title : "Nos actions"
   URL : "actions"
   button: "Toutes nos actions"
