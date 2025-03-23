@@ -1,7 +1,7 @@
 # banner
 banner:
   title : "Design en recherche"
-  subtitle : "le&nbsp;réseau des&nbsp;jeunes&nbsp;chercheur·e·s en&nbsp;design"
+  subtitle : "le&nbsp;réseau des&nbsp;jeunes&nbsp;chercheur·es en&nbsp;design"
   mail: "designenrecherche@gmail.com"
 
 
@@ -11,7 +11,7 @@ aboutHome:
   enable : true
   title : "L'association"
   URL : "À propos"
-  content : "Le groupe de travail «&#8239;Design en recherche&#8239;», formé en mars&nbsp;2013, est&nbsp;un&nbsp;réseau de doctorant·e·s et&nbsp;jeunes docteur·e·s dont les&nbsp;recherches portent sur les&nbsp;thématiques émergentes d’étude et&nbsp;de&nbsp;pratique du&nbsp;design. Constituée en&nbsp;association (loi&nbsp;1901) depuis décembre&nbsp;2013, nous&nbsp;sommes persuadé·e·s de&nbsp;l’intérêt scientifique des espaces de collaboration entre les jeunes chercheur·se·s issu·e·s d’horizons disciplinaires, institutionnels et géographiques divers, mais travaillant sur des thèmes communs."
+  content : "Le groupe de travail «&#8239;Design en recherche&#8239;», formé en mars&nbsp;2013, est&nbsp;un&nbsp;réseau de doctorant·es et&nbsp;jeunes docteur·es dont les&nbsp;recherches portent sur les&nbsp;thématiques émergentes d’étude et&nbsp;de&nbsp;pratique du&nbsp;design. Constituée en&nbsp;association (loi&nbsp;1901) depuis décembre&nbsp;2013, nous&nbsp;sommes persuadé·es de&nbsp;l’intérêt scientifique des espaces de collaboration entre les jeunes chercheur·se·s issu·es d’horizons disciplinaires, institutionnels et géographiques divers, mais travaillant sur des thèmes communs."
   socials:
     enable: true
     baseline: "Retrouvez-nous sur les réseaux sociaux:"

@@ -23,10 +23,10 @@ type_page: actions
 _template: actions
 ---
 
-La table ronde vise, à travers la diversité des parcours de ses invité·e·s, à dresser un état des lieux non exhaustif des opportunités pour un docteur en design mais aussi à comprendre comment l’expérience de thèse a pu être structurante dans leurs parcours professionnels respectifs.  
-La première partie de la soirée est dédiée à la présentation par chacun·e des intervenant·e·s de son travail de recherche doctoral et de son parcours depuis la soutenance de thèse de doctorat. Elle est suivie d’un moment d’échanges avec le public et entre les invité·e·s.
+La table ronde vise, à travers la diversité des parcours de ses invité·es, à dresser un état des lieux non exhaustif des opportunités pour un docteur en design mais aussi à comprendre comment l’expérience de thèse a pu être structurante dans leurs parcours professionnels respectifs.  
+La première partie de la soirée est dédiée à la présentation par chacun·e des intervenant·es de son travail de recherche doctoral et de son parcours depuis la soutenance de thèse de doctorat. Elle est suivie d’un moment d’échanges avec le public et entre les invité·es.
 
-Les intervenant·e·s :
+Les intervenant·es :
 
 * **Estelle Berger** : designer, ses axes de recherche sont les objets technologiques, l’économie durable et le management de l’innovation par le design. Elle enseigne à Strate Ecole de design et travaille au sein du laboratoire de recherche Exalt Design Lab (valorisation du design en entreprise et à la création de valeur par l'expérience).
 * **Apolline Le Gall** : enseignante et chercheuse à l’Université Grenoble – Alpes, ses recherches portent sur le rôle et les effets du design dans des dispositifs de formation à l’innovation par ou avec le design, le design des organisations, le design du droit, la représentation et la modélisation de modèles économiques et visions stratégiques.
