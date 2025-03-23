@@ -27,6 +27,8 @@
     @include for-size(desktop){
         margin-left: calc(var(--unit)*4.5);
         margin-bottom: calc(var(--baseline)*2);
+        position: fixed;
+        bottom: 0;
     }
 
     @include for-size(phone){
