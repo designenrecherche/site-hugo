@@ -27,7 +27,7 @@ Si le design est traversé par des enjeux sociaux, écologiques, économiques et
 * [Fanny Maurel](https://designenrecherche.org/membres/fanny-maurel/), présidente
 * [Margaux Moussinet](https://designenrecherche.org/membres/margaux-moussinet/), trésorière
 * [Valentin Aubois-Liogier](https://designenrecherche.org/membres/valentin-auboisliogier/), secrétaire
-* [Joffrey Paillard](https://designenrecherche.org/membres/joffrey-paillard/), trésorier/secrétaire
+* [Joffrey Paillard](https://designenrecherche.org/membres/joffrey-paillard/), vice trésorier/secrétaire
 
 {{% /bureau %}}
 
