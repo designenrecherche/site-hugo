@@ -12,14 +12,15 @@ titrethese: >-
   Accepter le changement ? Approche par le projet de la perception des acteurs
   aux dispositifs de recyclage agricole de l'urine humaine
 titretheseEn: >-
-  Embracing Change? Accepting Change? A Project-Based Approach to Stakeholders'
-  Perception of Human Urine Recycling Systems in Agriculture
+  Embracing Change? A Project-Based Approach to Stakeholders' Perception of
+  Human Urine Recycling Systems in Agriculture
 these_start: 2021
 these_soutenue: false
 these_end: 0
 tags:
-  - Urinoirs
   - Recherche-création
+  - Objet technique
+  - Urinoirs
   - Recherche-projet
   - Sensibilité
   - Recyclage de l'urine
@@ -81,7 +82,7 @@ instagram_files:
 
 {{% lang class="fr" %}}
 
-Le recyclage agricole de l'urine humaine répond à des défis écologiques contemporains, tels que la pollution et le gaspillage des ressources. Toutefois, la mise en uvre de dispositifs adaptés soulève des questions quant à leur relation avec les acteurs. L'acceptabilité sociale est ainsi identifiée comme conditionnant pour la pérennité sans être cadrée dans son approche. À travers d'un projet de design conçu pour cette recherche, les perceptions et représentations des acteurs sont étudiées afin de comprendre leur rôle dans le processus d'acceptation. Le projet prend place dans deux établissements universitaires français. L'analyse met à jour des enjeux socioculturels sous-jacents et renseigne sur le changement de paradigme en cours. Des enquêtes et études de projets similaires complètent ce travail.
+Le recyclage agricole de l'urine humaine répond à des défis écologiques contemporains, tels que la pollution et le gaspillage des ressources. Toutefois, la mise en œuvre de dispositifs adaptés soulève des questions quant à leur relation avec les acteurs. L'acceptabilité sociale est ainsi identifiée comme conditionnant pour la pérennité sans être cadrée dans son approche. À travers d'un projet de design conçu pour cette recherche, les perceptions et représentations des acteurs sont étudiées afin de comprendre leur rôle dans le processus d'acceptation. Le projet prend place dans deux établissements universitaires français. L'analyse met à jour des enjeux socioculturels sous-jacents et renseigne sur le changement de paradigme en cours. Des enquêtes et études de projets similaires complètent ce travail.
 
 {{% /lang %}}
 
