@@ -22,6 +22,15 @@ Si le design est traversé par des enjeux sociaux, écologiques, économiques et
 <h1>Composition des bureaux</h1>
 <div class="title"><div>
 
+{{% bureau year="2025-2026" %}}
+
+* [Margaux Moussinet](https://designenrecherche.org/membres/margaux-moussinet/), présidente
+* [Valentin Aubois-Liogier](https://designenrecherche.org/membres/valentin-auboisliogier/), secrétaire
+* \[Dylan Fluzin], trésorière
+* \[Emilie Huc], community manager
+
+{{% /bureau %}}
+
 {{% bureau year="2024-2025" %}}
 
 * [Fanny Maurel](https://designenrecherche.org/membres/fanny-maurel/), présidente
