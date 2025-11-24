@@ -27,7 +27,7 @@ Si le design est traversé par des enjeux sociaux, écologiques, économiques et
 * [Margaux Moussinet](https://designenrecherche.org/membres/margaux-moussinet/), présidente
 * [Valentin Aubois-Liogier](https://designenrecherche.org/membres/valentin-auboisliogier/), secrétaire
 * \[Dylan Fluzin], trésorière
-* \[Emilie Huc], responsable com.
+* \[Émilie Huc], responsable com.
 
 {{% /bureau %}}
 
