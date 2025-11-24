@@ -1,5 +1,5 @@
 ---
-title: 'Margaux '
+title: Margaux Moussinet
 name: Moussinet
 membre_actif: true
 membre_bureau: true
