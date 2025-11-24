@@ -1,5 +1,5 @@
 ---
-title: Fanny Maurel
+title: Fanny
 name: Maurel
 membre_actif: true
 membre_bureau: false
