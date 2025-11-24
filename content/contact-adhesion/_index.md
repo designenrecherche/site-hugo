@@ -10,7 +10,7 @@ Pour adhérer, c'est simple, fais un don sur HelloAsso.
 
 <div>
   <button>
-    <a target="_blank" href="https://www.helloasso.com/associations/design-en-recherche-le-reseau-des-jeunes-chercheurs-en-design/adhesions/adhesion-2024-2025">Adhérer (HelloAsso)</a>
+    <a target="_blank" href="https://www.helloasso.com/associations/design-en-recherche-le-reseau-des-jeunes-chercheurs-en-design/adhesions/adhesion-2025-2026">Adhérer (HelloAsso)</a>
   </button>
 </div>
 
@@ -38,4 +38,4 @@ Nos membres peuvent également participer et organiser des évènements :
 * des apéros de doctorant·es pour nous retrouver et échanger ;
 * des réunions dédiées aux étudiant·es de Master qui souhaitent en savoir plus sur le doctorat en design ;
 * ...
-* et bien d'autres à créer !
+*
