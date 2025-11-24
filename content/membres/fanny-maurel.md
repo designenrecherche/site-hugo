@@ -2,7 +2,7 @@
 title: Fanny Maurel
 name: Maurel
 membre_actif: true
-membre_bureau: true
+membre_bureau: false
 bureau: ''
 type_page: membres
 photo: /csm_Fanny_MAUREL_-_Photo_d55d0e766e.jpg
