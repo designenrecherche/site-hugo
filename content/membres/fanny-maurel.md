@@ -3,7 +3,7 @@ title: Fanny Maurel
 name: Maurel
 membre_actif: true
 membre_bureau: true
-bureau: Présidente
+bureau: ''
 type_page: membres
 photo: /csm_Fanny_MAUREL_-_Photo_d55d0e766e.jpg
 etablissement: ' Laboratoire ACCRA (Approches contemporaines de la création et de la réflexion artistiques, Université de Strasbourg), Centre de Recherches en Histoire des Idées (CHRI, Université Côte-d''Azur) '
