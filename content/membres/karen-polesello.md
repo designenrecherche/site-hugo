@@ -1,17 +1,39 @@
 ---
+title: Karen Polesello
+name: polesello
+membre_actif: false
+membre_bureau: false
 bureau: ''
+type_page: membres
+photo: /images/default-profil.jpg
+etablissement: 'Université de Nîmes (Unîmes), laboratoire PROJEKT'
+section_cnu: 18 Arts appliqués
+titrethese: >-
+  Le design à l'école : Une recherche pratique avec La Ruche et le Turbolabo
+  pour questionner les enjeux de l'enseignement du design d'objet à l'école
+  élémentaire
+titretheseEn: ''
+these_start: 2017
+these_soutenue: true
+these_end: 2021
+tags:
+  - Créativité
+  - Méthodologie
+  - Apprentissage
+  - Innovation
 contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: ''
-  linkedin: ''
   mail: ''
-  medium: ''
   site: ''
   twitter: ''
-etablissement: 'Université de Nîmes (Unîmes), laboratoire PROJEKT'
+  linkedin: ''
+  instagram: ''
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
+url_thesesfr: 'http://www.theses.fr/s193599'
+url_hal: ''
 instagram_1:
   post1: ''
   post2: ''
@@ -23,48 +45,24 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
   post1link: ''
+  img1: ''
   post2link: ''
+  img2: ''
   post3link: ''
+  img3: ''
   post4link: ''
+  img4: ''
   post5link: ''
+  img5: ''
   post6link: ''
+  img6: ''
   post7link: ''
+  img7: ''
   post8link: ''
+  img8: ''
   post9link: ''
-membre_actif: false
-membre_bureau: false
-name: polesello
-photo: /images/default-profil.jpg
-section_cnu: 18 Arts appliqués
-tags:
-  - Créativité
-  - Méthodologie
-  - Apprentissage
-  - Innovation
-these_end: 0
-these_soutenue: false
-these_start: 2017
-title: Karen Polesello
-titrethese: >-
-  L'innovation pédagogique par le design en milieu élémentaire : la pratique
-  comme nouvelle forme d'apprentissage.
-titretheseEn: >-
-  Educational innovation through design in elementary school : learning by
-  doing.
-type_page: membres
-url_hal: ''
-url_thesesfr: 'http://www.theses.fr/s193599'
-_template: membres
+  img9: ''
 ---
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
@@ -87,3 +85,15 @@ The research aims at challenging conventional teaching methods by using the desi
 
 * **Michela Deni**, Université de Nîmes, laboratoire PROJEKT
 * **Brice Genre**, Université Toulouse - Jean Jaurès, laboratoire LLA CREATIS
+
+# Soutenance de thèse
+
+Thèse soutenue le 15/10/2021
+
+## Composition du jury
+
+* **Joël Lebeaume**, (président du jury et rapporteur)
+* **Hayla Meddeb**, (rapporteuse)
+* Gwenaëlle Bertrand, (examinatrice)
+* **Eric Tortochot**, (examinateur)
+* **Jérôme Dupont**, (examinateur)
