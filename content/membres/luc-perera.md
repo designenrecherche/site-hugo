@@ -1,7 +1,7 @@
 ---
 title: Luc Perera
 name: perera
-membre_actif: true
+membre_actif: false
 type_page: membres
 photo: /images/luc-perera.JPG
 etablissement: 'MINES Paris, EnsAD, EnsadLab'
@@ -113,6 +113,3 @@ Luc Perera is a designer teacher at CY Tech at the University of Cergy in the Hu
 * Frank PECQUET(rapporteur),Maître de conférences HDR, Design sonore, Université Paris 1 Sorbonne.
 * Patrick RENAUD(co-encadrant),Enseignant et designer, Ecole nationale supérieure des Arts Décoratifs de Paris. 
 * Brigitte FLAMAND(invitée),IGÉSR Education nationale, Enseignement supérieur, MEN, Paris.
-
-
-
