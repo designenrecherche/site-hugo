@@ -3,7 +3,7 @@ title: Anne-Charlotte Baudequin
 name: baudequin
 membre_actif: true
 type_page: membres
-photo: /images/default-profil.jpg
+photo: /Baudequinannecharlotte.jpg
 etablissement: 'Université Toulouse II Jean Jaurès, LLA-CREATIS'
 section_cnu: 18 Sciences de l'art
 titrethese: 'Expériences olfactives et osmopoétique, pour un design sensoriel situé'
