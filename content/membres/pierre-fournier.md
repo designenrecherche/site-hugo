@@ -1,17 +1,43 @@
 ---
+title: Pierre Fournier
+name: Fournier
+membre_actif: false
+membre_bureau: false
 bureau: ''
+type_page: membres
+photo: /images/unnamed-3.jpg
+etablissement: 'Université de Nîmes (Unîmes), Laboratoire PROJEKT'
+section_cnu: 71 Sciences de l'information et de la communication
+titrethese: >-
+  L'écriture hiéroglyphique au prisme du design typographique : Un observatoire
+  critique de l'égyptologie
+titretheseEn: >-
+  Type design as a prism for the analysis of egyptological practices : the study
+  of hieroglyphic typefaces, an observatory of the methodological and
+  epistemological evolutions of egyptology.
+these_start: 2019
+these_soutenue: true
+these_end: 2023
+tags:
+  - Dessin typographique
+  - Égyptologie
+  - Épistémologie
+  - Consistency
+  - Discours scientifique
+  - Standardisation
 contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: ''
-  linkedin: ''
   mail: ''
-  medium: ''
   site: ''
   twitter: ''
-etablissement: 'Université de Nîmes (Unîmes), Laboratoire PROJEKT'
+  linkedin: ''
+  instagram: ''
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
+url_thesesfr: 'http://www.theses.fr/s228764'
+url_hal: ''
 instagram_1:
   post1: ''
   post2: ''
@@ -23,49 +49,24 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
   post1link: ''
+  img1: ''
   post2link: ''
+  img2: ''
   post3link: ''
+  img3: ''
   post4link: ''
+  img4: ''
   post5link: ''
+  img5: ''
   post6link: ''
+  img6: ''
   post7link: ''
+  img7: ''
   post8link: ''
+  img8: ''
   post9link: ''
-membre_actif: true
-membre_bureau: false
-name: Fournier
-photo: /images/unnamed-3.jpg
-section_cnu: 71 Sciences de l'information et de la communication
-tags:
-  - Dessin typographique
-  - Égyptologie
-  - Épistémologie
-  - Consistency
-  - Discours scientifique
-  - Standardisation
-these_end: 0
-these_soutenue: false
-these_start: 2019
-title: Pierre Fournier
-titrethese: ' Le dessin typographique comme prisme d''analyse des pratiques égyptologiques : l''étude des caractères typographiques pour la transcription des hiéroglyphes égyptiens, un observatoire des évolutions méthodologiques et épistémologiques de l''égyptologie.'
-titretheseEn: >-
-  Type design as a prism for the analysis of egyptological practices : the study
-  of hieroglyphic typefaces, an observatory of the methodological and
-  epistemological evolutions of egyptology.
-type_page: membres
-url_hal: ''
-url_thesesfr: 'http://www.theses.fr/s228764'
-_template: membres
+  img9: ''
 ---
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
@@ -87,4 +88,15 @@ For our Phd research, our questionnings take place in the fields of design graph
 ## Direction de thèse
 
 * **Alessandro Zinna**, Université Toulouse-Jean Jaurès, Laboratoire LARA-SEPPIA
-* **Co-directeur•ice de thèse**, Université Montpellier III, Laboratoire Archéologie des Sociétés Méditerranéennes
+* **Frédéric Servajean**, Université Montpellier III, Laboratoire Archéologie des Sociétés Méditerranéennes
+
+# Soutenance de thèse
+
+Thèse soutenue le 30/11/2023
+
+## Composition du jury
+
+* **Maria Giulia Dondero**, (présidente du jury et rapporteuse)
+* **Sydney Hervé Aufrère**, (rapporteur)
+* **Beatrice Fraenkel**, (examinatrice)
+* **Alice Savoie**, (examinatrice)
