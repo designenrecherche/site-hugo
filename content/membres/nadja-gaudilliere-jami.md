@@ -13,8 +13,8 @@ titretheseEn: >-
   Automating Architecture? Knowledge & Computability in the Computational Field,
   1965-2020
 these_start: 2016
-these_soutenue: false
-these_end: 0
+these_soutenue: true
+these_end: 2022
 tags:
   - architecture computationnelle
   - algorithmes
@@ -104,3 +104,16 @@ instagram_files:
 *Nadja Gaudillière-Jami holds a Master of Architecture from the ENSA Paris-Malaquais, is co-founder of* *[XtreeE the large-scale 3D](https://xtreee.com/), vice-president of the NGO* *[thr34d5](https://thr34d5.org/)* *and a Ph.D. researcher at the* *[GSA Laboratory](https://paris-malaquais.archi.fr/la-recherche/p/laboratoire-gsa/). After working several years as a project manager at XtreeE and as a Graduate Research and Teaching Assistant at the ENSA Paris-Malaquais, she is now a researcher at the* *[Digital Design Unit](https://www.dg.architektur.tu-darmstadt.de/fachgebiet_ddu/index.de.jsp)* *(TU Darmstadt). A specialist of the digital in architecture, she focuses on two main research axes : the industrialisation and environmental impact of architectural robotics and the history and epistemology of the computational field in architecture.*
 
 {{% /lang %}}
+
+# Soutenance de thèse
+
+Thèse soutenue le 04/02/2022
+
+## Composition du jury
+
+* **Antonella Tufano**, (présidente du jury)
+* **Pierre Leclercq**, (rapporteur)
+* Henriette Bier, (rapporteuse)
+* **Olivier Coutard**, (examinateur)
+* Olivier Tessmann, (examinateur)
+* Jean-Aimé Shu, (examinateur)
