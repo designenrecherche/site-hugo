@@ -1,54 +1,24 @@
 ---
+title: Mélina Fournier
+name: Fournier
+membre_actif: false
+membre_bureau: false
 bureau: ''
-contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: ''
-  linkedin: ''
-  mail: melinafournier.pro@gmail.com
-  medium: ''
-  site: ''
-  twitter: ''
+type_page: membres
+photo: /images/profil-2.jpg
 etablissement: >-
   Ecole doctorale Bordeaux Montaigne Humanité / Laboratoire MICA (Médiations,
   Informations, Communication, Arts) / Laboratoire Digital Design Lab de l’Ecole
   de design Nantes Atlantique
-instagram_1:
-  post1: ''
-  post2: ''
-  post3: ''
-  post4: ''
-  post5: ''
-  post6: ''
-  post7: ''
-  post8: ''
-  post9: ''
-instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
-  post1link: ''
-  post2link: ''
-  post3link: ''
-  post4link: ''
-  post5link: ''
-  post6link: ''
-  post7link: ''
-  post8link: ''
-  post9link: ''
-membre_actif: true
-membre_bureau: false
-name: Fournier
-photo: /images/profil-2.jpg
 section_cnu: 71 Sciences de l'information et de la communication
+titrethese: >-
+  L’approche User eXperience (UX) design dans la conception industrielle des
+  technologies innovantes pour l’aéronautique : autonomie, connectivité et
+  collaboration
+titretheseEn: ''
+these_start: 0
+these_soutenue: true
+these_end: 2025
 tags:
   - Expérience utilisateur
   - Design process
@@ -60,24 +30,49 @@ tags:
   - Connectivité
   - Innovation
   - Disruptif
-these_end: 2021
-these_soutenue: false
-these_start: 0
-title: Mélina Fournier
-titrethese: >-
-  Le processus User eXperience (UX) design dans la conception industrielle des
-  technologies innovantes pour l’aéronautique : autonomie, connectivité et
-  collaboration.
-titretheseEn: >-
-  The User eXperience (UX) design process design in the industrial design of
-  innovative technologies for aeronautics field : autonomy, connectivity and
-  collaboration.
-type_page: membres
-url_hal: ''
+contact:
+  mail: melinafournier.pro@gmail.com
+  site: ''
+  twitter: ''
+  linkedin: ''
+  instagram: ''
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
 url_thesesfr: ''
-_template: membres
+url_hal: ''
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  post1link: ''
+  img1: ''
+  post2link: ''
+  img2: ''
+  post3link: ''
+  img3: ''
+  post4link: ''
+  img4: ''
+  post5link: ''
+  img5: ''
+  post6link: ''
+  img6: ''
+  post7link: ''
+  img7: ''
+  post8link: ''
+  img8: ''
+  post9link: ''
+  img9: ''
 ---
-
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
@@ -129,3 +124,14 @@ UX designer spécialisée dans le domaine aéronautique, Mélina Fournier est ti
 En novembre 2021, elle a débuté sa thèse de doctorat en contrat CIFRE avec l’entreprise Thales sous la direction d’Alain Kiyindou, professeur à l'université de Bordeaux 3 et responsable de la Chaire Unesco Pratiques émergentes en technologies et communication pour le développement, et la co-direction de Frédérique Krupa, directrice du laboratoire Digital Design Lab.
 
 {{% /lang %}}
+
+# Soutenance de thèse
+
+Thèse soutenue le 19/05/2025
+
+## Composition du jury
+
+* **Anne Beyaert-Geslin**,(présidente du jury)
+* **Nicolas Maranzana**, (rapporteur)
+* **Céline Jost**, (rapporteuse)
+* **Catherine Pascal**, (examinatrice)
