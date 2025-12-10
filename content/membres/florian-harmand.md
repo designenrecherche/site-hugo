@@ -1,16 +1,31 @@
 ---
+title: Florian Harmand
+name: harmand
+membre_actif: false
+type_page: membres
+photo: /images/default-profil.jpg
+etablissement: 'Université Bordeaux Montaigne, MICA, Axe IDEM'
+section_cnu: 71 Sciences de l'information et de la communication
+titrethese: 'Ecologie d''un système homme-machine : design et éthique pour un projet R & D'
+titretheseEn: 'Ecology of a man-machine system : design and ethic in a R&D project'
+these_start: 2016
+these_soutenue: true
+these_end: 2022
+tags:
+  - Sciences de l'hommes et des humanités
 contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: ''
-  linkedin: ''
   mail: ''
-  medium: ''
   site: ''
   twitter: ''
-etablissement: 'Université Bordeaux Montaigne, MICA, Axe IDEM'
+  linkedin: ''
+  instagram: ''
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
+url_thesesfr: 'http://www.theses.fr/s171785'
+url_hal: ''
 instagram_1:
   post1: ''
   post2: ''
@@ -22,40 +37,24 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
   post1link: ''
+  img1: ''
   post2link: ''
+  img2: ''
   post3link: ''
+  img3: ''
   post4link: ''
+  img4: ''
   post5link: ''
+  img5: ''
   post6link: ''
+  img6: ''
   post7link: ''
+  img7: ''
   post8link: ''
+  img8: ''
   post9link: ''
-membre_actif: true
-name: harmand
-photo: /images/default-profil.jpg
-section_cnu: 71 Sciences de l'information et de la communication
-tags:
-  - Sciences de l'hommes et des humanités
-these_end: 0
-these_soutenue: false
-these_start: 2016
-title: Florian Harmand
-titrethese: 'Ecologie d''un système homme-machine : design et éthique pour un projet R & D'
-titretheseEn: 'Ecology of a man-machine system : design and ethic in a R&D project'
-type_page: membres
-url_hal: ''
-url_thesesfr: 'http://www.theses.fr/s171785'
-_template: membres
+  img9: ''
 ---
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
@@ -86,3 +85,14 @@ Ecology as the study of the relationships between living beings and their enviro
 Designer/ingénieur chez iQSpot, doctorant en design au MICA (Bordeaux Montaigne), chargé de cours en Design et cofondateur de Controverse.co
 
 {{% /lang %}}
+
+# Soutenance de thèse
+
+Thèse soutenue le 16/12/2022
+
+## Composition du jury
+
+* **Annie Gentès**, (présidente du jury et rapporteuse)
+* Manuel Zacklad, (rapporteur)
+* **David Pucheu**, (examinateur)
+* **Nolwenn Maudet**, (examinatrice)
