@@ -72,8 +72,8 @@ Thèse soutenue le 2 décembre 2024 au Centre Panthéon de l'Université Paris 1
 
 ## Composition du jury
 
-* Céline Caumon, Professeure des universités, laboratoire SEPPIA, Université Toulouse Jean-Jaurès (présidente du jury)
+* **Céline Caumon**, Professeure des universités, laboratoire SEPPIA, Université Toulouse Jean-Jaurès (présidente du jury)
 * **Pierre Baumann**, Professeur des universités, laboratoire ARTES, Université Bordeaux-Montaigne (rapporteur)
 * **Marc Perelman**, Professeur émérite, Université Paris Nanterre (rapporteur)
-* Nolwenn Maudet, Maîtresse de conférences, laboratoire ACCRA, Université de Strasbourg (examinatrice)
-* Anne-Lyse Renon, Maîtresse de conférences, laboratoire PTAC, Université Rennes 2 (examinatrice)
+* **Nolwenn Maudet**, Maîtresse de conférences, laboratoire ACCRA, Université de Strasbourg (examinatrice)
+* **Anne-Lyse Renon**, Maîtresse de conférences, laboratoire PTAC, Université Rennes 2 (examinatrice)
