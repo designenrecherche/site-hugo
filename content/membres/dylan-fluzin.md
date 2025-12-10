@@ -26,7 +26,7 @@ tags:
 contact:
   mail: dylan.fluzin@lecnam.net
   site: ' fluzindylan@hotmail.com'
-  twitter: ' 07·77·75·38·05'
+  twitter: ''
   linkedin: 'https://www.linkedin.com/in/dylan-fluzin-391837108/'
   instagram: 'https://www.instagram.com/gonorrhee_de_balzacx/ '
 ---
