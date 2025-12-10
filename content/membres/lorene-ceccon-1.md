@@ -8,11 +8,11 @@ type_page: membres
 photo: /images/profil.jpg
 etablissement: 'ECLLA, Études du Contemporain en Littératures, Langues et Arts, EA n°3068 '
 section_cnu: 18 Sciences de l'art
-titrethese: Transparence(s). Déconstruction artistique de l’« immatérialité » du Web
-titretheseEn: Transparences. How artists deconstruct The Web
+titrethese: ' Web et transparence : Conscience critique en art et design (1995-2019)'
+titretheseEn: ''
 these_start: 2015
-these_soutenue: false
-these_end: 0
+these_soutenue: true
+these_end: 2024
 tags:
   - Transparence
   - Base de données
@@ -87,3 +87,14 @@ instagram_files:
 Actuellement doctorante, j’ai appris mon métier de designer graphique dans les écoles d’arts appliquées (La Martinière, Estienne) et Écoles Supérieures d’Art et Design (Valence, Saint-Étienne). Je suis engagée dans une approche élargie du design et développe à ce titre une pratique artistique. J’enseigne le design graphique, les cultures numériques et assure les suivis mémoires des étudiants.
 
 {{% /lang %}}
+
+# Soutenance de thèse
+
+Thèse soutenue le 16/11/2024
+
+## Composition du jury
+
+* **Nicolas Thély**, (président du jury et rapporteur)
+* **Andrea Urlberger**, (rapporteuse)
+* **Jean-Paul Fourmentraux**, (examinateur)
+* **Cécile Croce**, (examinatrice)
