@@ -1,16 +1,30 @@
 ---
+title: Dominique Deuff
+name: deuff
+membre_actif: false
+type_page: membres
+photo: /images/default-profil.jpg
+etablissement: 'Centrale Nantes, ELICC'
+section_cnu: 16 Psychologie
+titrethese: ' Vivre avec les machines sociales : Approche pluridisciplinaire pour questionner, modéliser et proposer une nouvelle écologie pour les jeunes retraités.'
+titretheseEn: ''
+these_start: 2018
+these_soutenue: false
+these_end: 0
+tags: []
 contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: ''
-  linkedin: ''
   mail: ''
-  medium: ''
   site: ''
   twitter: ''
-etablissement: 'Centrale Nantes, ELICC'
+  linkedin: ''
+  instagram: ''
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
+url_thesesfr: 'http://www.theses.fr/s196794'
+url_hal: ''
 instagram_1:
   post1: ''
   post2: ''
@@ -22,41 +36,25 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
   post1link: ''
+  img1: ''
   post2link: ''
+  img2: ''
   post3link: ''
+  img3: ''
   post4link: ''
+  img4: ''
   post5link: ''
+  img5: ''
   post6link: ''
+  img6: ''
   post7link: ''
+  img7: ''
   post8link: ''
+  img8: ''
   post9link: ''
-membre_actif: true
-name: deuff
-photo: /images/default-profil.jpg
-section_cnu: 16 Psychologie
-tags: []
-these_end: 0
-these_soutenue: false
-these_start: 2018
-title: Dominique Deuff
-titrethese: ' Vivre avec les machines sociales : Approche pluridisciplinaire pour questionner, modéliser et proposer une nouvelle écologie pour les jeunes retraités.'
-titretheseEn: ''
-type_page: membres
-url_hal: ''
-url_thesesfr: 'http://www.theses.fr/s196794'
-_template: membres
+  img9: ''
 ---
-
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
@@ -64,3 +62,14 @@ _template: membres
 
 * **Isabelle Milleville**, Centrale Nantes, LS2N
 * **Ioana Ocnarescu**, Strate, École de design
+
+# Soutenance de thèse
+
+Thèse soutenue le 24 janvier 2023
+
+## Composition du jury
+
+* **Jean-Marie Burkhardt**, (président du jury et rapporteur)
+* **Samuel Bianchini**, (rapporteur)
+* ** Gentiane Venture**, (examinatrice)
+*  **Pierre Lévy**, (examinateur)
