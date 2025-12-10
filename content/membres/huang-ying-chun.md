@@ -1,19 +1,43 @@
 ---
+title: Huang Ying-Chun
+name: Ying-Chun
+membre_actif: false
+membre_bureau: false
 bureau: ''
-contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: ''
-  linkedin: ''
-  mail: ychuang0528@gmail.com
-  medium: ''
-  site: ''
-  twitter: ''
+type_page: membres
+photo: /images/default-profil.jpg
 etablissement: >-
   Université Paris 1 Panthéon-Sorbonne. Arts plastiques, esthétique et sciences
   de l’art, Institut ACTE
+section_cnu: 18 Architecture
+titrethese: 'Design d’interaction sonore dans l’espace urbain et dispositif wearable '
+titretheseEn: ''
+these_start: 2021
+these_soutenue: false
+these_end: 0
+tags:
+  - Sonification
+  - Art interactif
+  - Smart city
+  - Design procedural
+  - Système homme-machine
+  - Dispositif wearable
+  - Esthétique des données
+  - Espace urbain
+  - Cognition environnementale
+contact:
+  mail: ychuang0528@gmail.com
+  site: ''
+  twitter: ''
+  linkedin: ''
+  instagram: ''
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
+url_thesesfr: ''
+url_hal: ''
 instagram_1:
   post1: ''
   post2: ''
@@ -25,51 +49,25 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
   post1link: ''
+  img1: ''
   post2link: ''
+  img2: ''
   post3link: ''
+  img3: ''
   post4link: ''
+  img4: ''
   post5link: ''
+  img5: ''
   post6link: ''
+  img6: ''
   post7link: ''
+  img7: ''
   post8link: ''
+  img8: ''
   post9link: ''
-membre_actif: true
-membre_bureau: false
-name: Ying-Chun
-photo: /images/default-profil.jpg
-section_cnu: 18 Architecture
-tags:
-  - Sonification
-  - Art interactif
-  - Smart city
-  - Design procedural
-  - Système homme-machine
-  - Dispositif wearable
-  - Esthétique des données
-  - Espace urbain
-  - Cognition environnementale
-these_end: 0
-these_soutenue: false
-these_start: 2021
-title: Huang Ying-Chun
-titrethese: 'Design d’interaction sonore dans l’espace urbain et dispositif wearable '
-titretheseEn: ''
-type_page: membres
-url_hal: ''
-url_thesesfr: ''
-_template: membres
+  img9: ''
 ---
-
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
