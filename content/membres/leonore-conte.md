@@ -1,7 +1,7 @@
 ---
 title: Léonore Conte
 name: conte-leonore
-membre_actif: true
+membre_actif: false
 membre_bureau: false
 etablissement: 'Université Paris 8, EDESTA, Laboratoire AIAIC, équipes TEAMed et EPHA'
 section_cnu: 18 Arts plastiques
@@ -77,8 +77,8 @@ Léonore Conte is a teacher at Esaat Roubaix and a doctor in graphic design, ass
 
 ## Publications
 
-Léonore CONTE, « Les États Généraux de la culture de 1987, un appel tardif à la modernité pour le graphisme français », Une émergence du design, France 20e siècle, octobre 2019, p. 144‑163, en ligne, \[https\://univ-paris8.academia.edu/L%C3%A9onoreConte]
+Léonore CONTE, « Les États Généraux de la culture de 1987, un appel tardif à la modernité pour le graphisme français », Une émergence du design, France 20e siècle, octobre 2019, p. 144‑163, en ligne, \[[https://univ-paris8.academia.edu/L%C3%A9onoreConte](https://univ-paris8.academia.edu/L%C3%A9onoreConte)]
 
-Léonore CONTE, « En écrivant. Réflexions sur les pratiques de l’écrit chez les designers graphiques », Graphisme en France, Écrire le design graphique, n°26, septembre 2020, en ligne, \[https\://www\.cnap.fr/graphisme-en-france/ecrire-le-design-graphique].
+Léonore CONTE, « En écrivant. Réflexions sur les pratiques de l’écrit chez les designers graphiques », Graphisme en France, Écrire le design graphique, n°26, septembre 2020, en ligne, \[[https://www.cnap.fr/graphisme-en-france/ecrire-le-design-graphique](https://www.cnap.fr/graphisme-en-france/ecrire-le-design-graphique)].
 
-Léonore CONTE, « Manifeste », Design in Translation, 2022 en ligne, \[https\://dit.dampress.org/glossary/manifeste]
+Léonore CONTE, « Manifeste », Design in Translation, 2022 en ligne, \[[https://dit.dampress.org/glossary/manifeste](https://dit.dampress.org/glossary/manifeste)]
