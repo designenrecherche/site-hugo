@@ -1,17 +1,44 @@
 ---
+title: Zoé Bonnardot
+name: bonnardot
+membre_actif: false
+membre_bureau: false
 bureau: ''
+type_page: membres
+photo: /images/capture-d-ecran-2020-09-13-a-19-38-40.png
+etablissement: 'Université de Nîmes (Unîmes), laboratoire PROJEKT'
+section_cnu: 71 Sciences de l'information et de la communication
+titrethese: >-
+  Anticiper l’expérience de systèmes de partage d’énergies renouvelables : un
+  dispositif de simulation ludique pour l’exploration des futurs
+titretheseEn: >-
+  Anticipate future experiences of renewable energy : a playful and
+  participatory simulation tool for futures exploration
+these_start: 2018
+these_soutenue: true
+these_end: 2021
+tags:
+  - expérience
+  - transition énergétique
+  - engagement
+  - anticipation
+  - simulation
+  - ludicité
+  - ergonomie
+  - transition design
 contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: ''
-  linkedin: 'https://www.linkedin.com/in/zo%C3%A9-bonnardot-1082969a/'
   mail: bonnardot.z@gmail.com
-  medium: ''
   site: ''
   twitter: ''
-etablissement: 'Université de Nîmes (Unîmes), laboratoire PROJEKT'
+  linkedin: 'https://www.linkedin.com/in/zo%C3%A9-bonnardot-1082969a/'
+  instagram: ''
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
+url_thesesfr: 'http://theses.fr/s193598'
+url_hal: 'https://tel.archives-ouvertes.fr/tel-03528096'
 instagram_1:
   post1: ''
   post2: ''
@@ -23,52 +50,24 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: /images/capture-d-ecran-2020-09-13-a-19-38-40.png
-  img2: /images/capture-d-ecran-2020-09-13-a-19-38-48.png
-  img3: /images/capture-d-ecran-2020-09-13-a-19-39-14.png
-  img4: /images/capture-d-ecran-2020-09-13-a-19-39-26.png
-  img5: /images/capture-d-ecran-2020-09-13-a-19-39-53.png
-  img6: /images/capture-d-ecran-2020-09-13-a-19-40-07.png
-  img7: /images/capture-d-ecran-2020-09-13-a-19-40-21.png
-  img8: /images/capture-d-ecran-2020-09-13-a-19-40-36.png
-  img9: /images/capture-d-ecran-2020-09-13-a-19-40-49.png
   post1link: 'https://www.instagram.com/p/B5k0xszBcIw/'
+  img1: /images/capture-d-ecran-2020-09-13-a-19-38-40.png
   post2link: 'https://www.instagram.com/p/B5p8bjyo-BQ/'
+  img2: /images/capture-d-ecran-2020-09-13-a-19-38-48.png
   post3link: 'https://www.instagram.com/p/B52b8TKCRqi/'
+  img3: /images/capture-d-ecran-2020-09-13-a-19-39-14.png
   post4link: 'https://www.instagram.com/p/B58FAMgik1V/'
+  img4: /images/capture-d-ecran-2020-09-13-a-19-39-26.png
   post5link: 'https://www.instagram.com/p/B6IKzLBiUnv/'
+  img5: /images/capture-d-ecran-2020-09-13-a-19-39-53.png
   post6link: 'https://www.instagram.com/p/B6NXiBpCtln/'
+  img6: /images/capture-d-ecran-2020-09-13-a-19-40-07.png
   post7link: 'https://www.instagram.com/p/B6TO1OhCvy4/'
+  img7: /images/capture-d-ecran-2020-09-13-a-19-40-21.png
   post8link: 'https://www.instagram.com/p/B6dTxLjCnpM/'
+  img8: /images/capture-d-ecran-2020-09-13-a-19-40-36.png
   post9link: 'https://www.instagram.com/p/B6krvOcikAL/'
-membre_actif: true
-membre_bureau: false
-name: bonnardot
-photo: /images/capture-d-ecran-2020-09-13-a-19-38-40.png
-section_cnu: 71 Sciences de l'information et de la communication
-tags:
-  - expérience
-  - transition énergétique
-  - engagement
-  - anticipation
-  - simulation
-  - ludicité
-  - ergonomie
-  - transition design
-these_end: 2021
-these_soutenue: true
-these_start: 2018
-title: Zoé Bonnardot
-titrethese: >-
-  Anticiper l’expérience de systèmes de partage d’énergies renouvelables : un
-  dispositif de simulation ludique pour l’exploration des futurs
-titretheseEn: >-
-  Anticipate future experiences of renewable energy : a playful and
-  participatory simulation tool for futures exploration
-type_page: membres
-url_hal: 'https://tel.archives-ouvertes.fr/tel-03528096'
-url_thesesfr: 'http://theses.fr/s193598'
-_template: membres
+  img9: /images/capture-d-ecran-2020-09-13-a-19-40-49.png
 ---
 
 <!-- Supprimer les parties non remplies. Tu es libre d'ajouter ce que tu veux à cette partie -->
@@ -89,10 +88,10 @@ One of the main aspects of the energy transition is the development of renewable
 
 ## Direction de thèse
 
-* **Stéphane Vial,** Professeur à l’École de design de l’UQAM, _Directeur HDR pour l’ED 583_
-* **Pascal Salembier,** Professeur, Université de technologie de Troyes, _Co-directeur_
-* **Elise Prieur,** Ingénieure-chercheure et Chef de projet, EDF, R&D, _Co-encadrante_
-* **Yvon Haradji,** Chercheur Sénior, EDF R&D, _Co-encadrant_
+* **Stéphane Vial,** Professeur à l’École de design de l’UQAM, *Directeur HDR pour l’ED 583*
+* **Pascal Salembier,** Professeur, Université de technologie de Troyes, *Co-directeur*
+* **Elise Prieur,** Ingénieure-chercheure et Chef de projet, EDF, R\&D, *Co-encadrante*
+* **Yvon Haradji,** Chercheur Sénior, EDF R\&D, *Co-encadrant*
 
 # Soutenance de Thèse
 
@@ -100,21 +99,21 @@ Le 7 octobre 2021 à l'Université de Nîmes et sur Zoom
 
 ## Composition du Jury
 
-* **Mme Sylvie Grosjean,** Full Professor à l’Université d’Ottawa, _Rapporteure_ 
-* **Mme Sophie Pène,** Professeure à l’Université Paris Descartes, _Rapporteure_
-*  **Mme Marie-Julie Catoir-Brisson,** Professeure à Audencia SciencesCom, _Examinatrice_
-*  **M. Daniel Schmitt,** Professeur à l’Université polytechnique des Hauts-de-France, _Examinateur_
+* **Mme Sylvie Grosjean,** Full Professor à l’Université d’Ottawa, *Rapporteure* 
+* **Mme Sophie Pène,** Professeure à l’Université Paris Descartes, *Rapporteure*
+*  **Mme Marie-Julie Catoir-Brisson,** Professeure à Audencia SciencesCom, *Examinatrice*
+*  **M. Daniel Schmitt,** Professeur à l’Université polytechnique des Hauts-de-France, *Examinateur*
 
 # Biographie
 
 {{% lang class="fr" %}}
 
-Formée au design de service à l'Université de Nîmes et au design urbain à l'école des Beaux-Arts du Mans, j'ai également passé 5 mois au sein du master Codesign de l'école KADK à Copenhague. Après avoir mené ma thèse de doctorat en CIFRE entre EDF R&D, l'Université de Technologie de Troyes, et l'Université de Nîmes, je suis désormais docteure en Sciences de l'Information et de la Communication, avec une spécialité Design.
+Formée au design de service à l'Université de Nîmes et au design urbain à l'école des Beaux-Arts du Mans, j'ai également passé 5 mois au sein du master Codesign de l'école KADK à Copenhague. Après avoir mené ma thèse de doctorat en CIFRE entre EDF R\&D, l'Université de Technologie de Troyes, et l'Université de Nîmes, je suis désormais docteure en Sciences de l'Information et de la Communication, avec une spécialité Design.
 
 {{% /lang %}}
 
 {{% lang class="en" %}}
 
-Trained as a social designer (university of Nîmes), and as a urban designer (fine art school of Le Mans), I also made a stop by the co-design master program of KADK, Copenhagen. After leading my doctoral thesis in CIFRE between EDF R&D, the University of Technology of Troyes, and the University of Nimes, I am now a doctor in Information and Communication Sciences, with a specialization in Design.
+Trained as a social designer (university of Nîmes), and as a urban designer (fine art school of Le Mans), I also made a stop by the co-design master program of KADK, Copenhagen. After leading my doctoral thesis in CIFRE between EDF R\&D, the University of Technology of Troyes, and the University of Nimes, I am now a doctor in Information and Communication Sciences, with a specialization in Design.
 
 {{% /lang %}}
