@@ -33,7 +33,7 @@ contact:
   hypotheses: ''
   github: ''
   gitlab: ''
-url_thesesfr: ''
+url_thesesfr: 'https://theses.fr/2022PESC1002'
 url_hal: ''
 instagram_1:
   post1: ''
