@@ -1,16 +1,18 @@
 ---
 title: Olivier Troff
 name: troff
-membre_actif: true
+membre_actif: false
 photo: /unnamed (1).jpg
 etablissement: >-
   Centre de recherche en Design - École Normale supérieure Paris-Saclay - ENSCI
   Les Ateliers
 section_cnu: 18 Arts appliqués
-titrethese: ' Cultures paysagères populaires en design : prototyper l’interaction'
-titretheseEn: 'Shared environmental culture in design: prototyping interaction'
+titrethese: ' Guider, sonder, agencer. Prototyper l''étude collective des paysages du XXIe siècle.'
+titretheseEn: >-
+  Guiding, Probing, Rearranging. Prototyping the Collective Study of the 21st
+  Century Landscapes
 these_start: 2020
-these_soutenue: false
+these_soutenue: true
 these_end: 2025
 tags:
   - Instrument d'observation
@@ -46,8 +48,6 @@ The ever-increasing amount of information available about landscapes curtails th
 
 * Directeur•ice de thèse : James Auger, Centre de recherche en Design, École normale supérieure Paris-Saclay
 * Co-directeur•ice de thèse : Claire Brunet, Centre de recherche en Design, École normale supérieure Paris-Saclay
-*
-
 
 # Biographie
 
@@ -62,3 +62,14 @@ Olivier Troff est designer-chercheur et travaille actuellement à une thèse au 
 Olivier Troff is a researcher in Design at the Centre de recherche en Design (ENS Paris-Saclay - ENSCI Les Ateliers) and an instructor in a BA in scenography and exhibition design. He is currently conducting a practice-based dissertation which explores interaction design and landscape research. His research merges the fields of design, landscape design and photography via a practice that aimed at being itinerant, experimental, and radical. He is published in the 2018 collective book Notre-Dame-des-Landes ou le métier de vivre featuring an architectural anthropology of protest movements’ settlements in France. More recently in 2023, he was published in Les Carnets du Paysages and in the exhibition catalogue of the Croatian Pavilion at the Venice Biennale of Architecture.
 
 {{% /lang %}}
+
+# Soutenance de thèse
+
+Thèse soutenue le 05/11/2025
+
+## Composition du jury
+
+* Mike Michael, (rapporteur)
+* **Emanuele Quinz**, (rapporteur)
+* **Sarah Teasley**, (examinatrice)
+* **Sonia Keravel**, (examinatrice)
