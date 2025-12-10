@@ -69,3 +69,5 @@ Dylan Fluzin worked for about ten years in various design roles within the fashi
 # Informations complémentaires
 
 [https://cv.hal.science/dylan-fluzin](https://cv.hal.science/dylan-fluzin)
+
+Contact : 07·77·75·38·05
