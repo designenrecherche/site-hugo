@@ -1,17 +1,42 @@
 ---
+title: Céline Monvoison
+name: Monvoisin
+membre_actif: false
+membre_bureau: false
 bureau: ''
+type_page: membres
+photo: /images/unnamed-4.jpg
+etablissement: Université du Québec à Montréal (UQAM)
+section_cnu: ''
+titrethese: >-
+  Les pédagogies (néo)matérielles du design à l’ère anthropocène : une recherche
+  sur les écologies corporelles, matérielles et environnementales dans l’acte du
+  design
+titretheseEn: >-
+  The (neo)material pedagogies of design in the Anthropocene era: a research on
+  bodily, material and environmental ecologies in the design act
+these_start: 2019
+these_soutenue: false
+these_end: 0
+tags:
+  - Pédagogie du design
+  - Matérialité
+  - Anthropocène
+  - Pédagogie incarnée
+  - Pédagogie expérientielle
 contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: ''
-  linkedin: 'https://www.linkedin.com/in/c%C3%A9line-monvoisin-4988a0169/'
   mail: ''
-  medium: ''
   site: ''
   twitter: ''
-etablissement: Université du Québec à Montréal (UQAM)
+  linkedin: 'https://www.linkedin.com/in/c%C3%A9line-monvoisin-4988a0169/'
+  instagram: ''
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
+url_thesesfr: ''
+url_hal: ''
 instagram_1:
   post1: ''
   post2: ''
@@ -23,52 +48,25 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
   post1link: ''
+  img1: ''
   post2link: ''
+  img2: ''
   post3link: ''
+  img3: ''
   post4link: ''
+  img4: ''
   post5link: ''
+  img5: ''
   post6link: ''
+  img6: ''
   post7link: ''
+  img7: ''
   post8link: ''
+  img8: ''
   post9link: ''
-membre_actif: true
-membre_bureau: false
-name: Monvoisin
-photo: /images/unnamed-4.jpg
-section_cnu: ''
-tags:
-  - Pédagogie du design
-  - Matérialité
-  - Anthropocène
-  - Pédagogie incarnée
-  - Pédagogie expérientielle
-these_end: 0
-these_soutenue: false
-these_start: 2019
-title: Céline Monvoison
-titrethese: >-
-  Les pédagogies (néo)matérielles du design à l’ère anthropocène : une recherche
-  sur les écologies corporelles, matérielles et environnementales dans l’acte du
-  design
-titretheseEn: >-
-  The (neo)material pedagogies of design in the Anthropocene era: a research on
-  bodily, material and environmental ecologies in the design act
-type_page: membres
-url_hal: ''
-url_thesesfr: ''
-_template: membres
+  img9: ''
 ---
-
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
