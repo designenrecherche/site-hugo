@@ -2,6 +2,7 @@
 title: Fanny Ehl
 name: Ehl
 membre_actif: true
+type_page: membres
 photo: /Ehlfanny.JPG
 etablissement: 'Université Lyon 2, laboratoire Triangle'
 section_cnu: '24 Aménagement de l''espace, urbanisme'
@@ -39,7 +40,7 @@ Cette recherche doctorale croise les enjeux critiques de l’écologie, de l’u
 
 Menée dans le cadre d’une recherche-action, cette thèse vise à questionner les pratiques individuelles, les comportements et les manières d’habiter la ville métropolitaine et les territoires ruraux au regard des enjeux écologiques et du processus de métropolisation actuellement à l’œuvre à l‘échelle de l’ensemble des milieux de vie.
 
-Pour ce faire, il est question d’articuler une pratique plastique par le biais d’un design critique et expérientiel questionnant la production matérielle, propre au design, à une recherche théorique démontrant les ravages de la métropolisation. 
+Pour ce faire, il est question d’articuler une pratique plastique par le biais d’un design critique et expérientiel questionnant la production matérielle, propre au design, à une recherche théorique démontrant les ravages de la métropolisation.
 
 Plus précisément, cette thèse fait l’objet d’expériences désurbanisantes à l’échelle individuelle visant à projeter la possibilité tangible d’une émancipation idéologique partielle et/ou totale du corps métropolitain.
 
@@ -67,3 +68,11 @@ Cette quête presqu’illusoire d’une autonomie en milieu urbain remet en per
 A la suite d’un DNSEP à l’ESAD Orléans en 2018 et d’une année pré-doctorale à l’ENSAD Paris, Fanny Ehl s’est engagée dans une recherche doctorale visant à interroger le processus de métropolisation à l’œuvre au sein de tous les territoires tout en résidant paradoxalement à Paris. Parallèlement à cette recherche doctorale (Université Lyon 2, laboratoire Triangle), Fanny travaille au sein de deux tiers-lieux parisiens (Ground Control Paris 12e et Communale Saint-Ouen) en tant que scénographe et cheffe de projet. Ces ambivalences entre des convictions et des choix de vie contraires aux valeurs défendues par ses projets lui permettent néanmoins de nourrir sa pratique et sa recherche doctorale tout en étant au plus près des réalités vécues.
 
 {{% /lang %}}
+
+# Informations complémentaires
+
+[https://shs.cairn.info/revue-ecorev-2024-1-page-95?lang=fr](https://shs.cairn.info/revue-ecorev-2024-1-page-95?lang=fr)
+
+[https://www.revuesurmesure.fr/contributions/desobeir-et-revegetaliser](https://www.revuesurmesure.fr/contributions/desobeir-et-revegetaliser)
+
+[https://laisse-beton.fr/mots-dexpert-es/](https://laisse-beton.fr/mots-dexpert-es/)
