@@ -6,11 +6,11 @@ type_page: membres
 photo: /images/default-profil.jpg
 etablissement: 'Université Jean Monnet - Saint-Étienne, CIEREC & ESADSE, laboratoire DDL'
 section_cnu: 18 Arts appliqués
-titrethese: ' Design mésologique : Prendre en compte les récits et pratiques de la nature dans l''aménagement du territoire en temps de crise écologique'
+titrethese: ' Espaces sauvages, paysans arriérés : Modernisation et destruction de la paysannerie'
 titretheseEn: ''
 these_start: 2019
-these_soutenue: false
-these_end: 0
+these_soutenue: true
+these_end: 2024
 tags:
   - Sciences humaines et sociales
 contact:
@@ -62,3 +62,15 @@ instagram_files:
 ## Direction de thèse
 
 * **Danièle Méaux**, Université Jean Monnet - Saint-Étienne, CIEREC
+
+# Soutenance de thèse
+
+Thèse soutenue le 21/11/2024
+
+## Composition du jury
+
+* **Antonella Tufano**, (présidente du jury et rapporteuse)
+* **Kenny Cupers**, (rapporteur)
+* **Gwenaëlle Bertrand**, (examinatrice)
+* **Corinne Jaquand**, (examinatrice)
+* **Olivier Peyricot**, (examinateur)
