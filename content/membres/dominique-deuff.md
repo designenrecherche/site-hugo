@@ -9,8 +9,8 @@ section_cnu: 16 Psychologie
 titrethese: ' Vivre avec les machines sociales : Approche pluridisciplinaire pour questionner, modéliser et proposer une nouvelle écologie pour les jeunes retraités.'
 titretheseEn: ''
 these_start: 2018
-these_soutenue: false
-these_end: 0
+these_soutenue: true
+these_end: 2023
 tags: []
 contact:
   mail: ''
