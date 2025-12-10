@@ -1,7 +1,7 @@
 ---
-title: Claire Richard
-name: Richard
-membre_actif: true
+title: Claire Richards
+name: Richards
+membre_actif: false
 membre_bureau: false
 bureau: ''
 type_page: membres
@@ -13,8 +13,8 @@ section_cnu: ''
 titrethese: 'Le son portable: Design intégratif pour l’écoute et le ressenti de vibrations'
 titretheseEn: 'Wearable Sound: Integrative design for hearing and feeling vibrations'
 these_start: 2020
-these_soutenue: false
-these_end: 0
+these_soutenue: true
+these_end: 2023
 tags:
   - technologie portable
   - design intégratif
@@ -110,3 +110,14 @@ Claire Richards est une chercheuse américaine spécialisée dans le design et l
 
 Claire Richards is an American design-researcher with a background in ergonomics. She is interested in how we can question the limits of human sensory perception through the design of novel wearable technology.\
 {{% /lang %}}
+
+# Soutenance de thèse
+
+Thèse soutenue le 23/02/2023
+
+## Composition du jury
+
+* **Stefania Serafin**, (présidente du jury et rapporteuse)
+* **Bruce Walker**, (rapporteur)
+* **Jean-Loïc Le Carrou**, (examinateur)
+* **James Auger**, (examinateur)
