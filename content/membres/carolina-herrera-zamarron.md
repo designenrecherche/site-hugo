@@ -1,19 +1,38 @@
 ---
+title: Carolina Herrera Zamarrón
+name: Herrera Zamarrón
+membre_actif: false
+membre_bureau: false
 bureau: ''
-contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: ''
-  linkedin: ''
-  mail: carolnah@gmail.com
-  medium: ''
-  site: ''
-  twitter: ''
+type_page: membres
+photo: /images/carolina.jpg
 etablissement: >-
   Université Paris 8 Vincennes - Saint-Denis      École Doctorale Esthétique,
   Sciences et Technologie des Arts
+section_cnu: 18 Esthétique
+titrethese: Esthétique de l’œuvre-livre de photographie
+titretheseEn: Aesthetics of the photobookwork
+these_start: 2016
+these_soutenue: true
+these_end: 2021
+tags:
+  - Histoire du livre et de l’édition
+  - Histoire culturelle
+  - Livre d’images et le texte non verbal
+  - Culture matérielle
+contact:
+  mail: carolnah@gmail.com
+  site: ''
+  twitter: ''
+  linkedin: ''
+  instagram: ''
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
+url_thesesfr: 'https://www.theses.fr/s167591'
+url_hal: ''
 instagram_1:
   post1: ''
   post2: ''
@@ -25,46 +44,25 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
   post1link: ''
+  img1: ''
   post2link: ''
+  img2: ''
   post3link: ''
+  img3: ''
   post4link: ''
+  img4: ''
   post5link: ''
+  img5: ''
   post6link: ''
+  img6: ''
   post7link: ''
+  img7: ''
   post8link: ''
+  img8: ''
   post9link: ''
-membre_actif: true
-membre_bureau: false
-name: Herrera Zamarrón
-photo: /images/carolina.jpg
-section_cnu: 18 Esthétique
-tags:
-  - Histoire du livre et de l’édition
-  - Histoire culturelle
-  - Livre d’images et le texte non verbal
-  - Culture matérielle
-these_end: 2021
-these_soutenue: true
-these_start: 2016
-title: Carolina Herrera Zamarrón
-titrethese: Esthétique de l’œuvre-livre de photographie
-titretheseEn: Aesthetics of the photobookwork
-type_page: membres
-url_hal: ''
-url_thesesfr: 'https://www.theses.fr/s167591'
-_template: membres
+  img9: ''
 ---
-
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
