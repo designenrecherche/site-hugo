@@ -1,18 +1,17 @@
 ---
 title: Nawelle Zaidi
 name: zaidi
-membre_actif: true
+membre_actif: false
 photo: /Photo-Nawelle.jpg
 etablissement: >-
   Université de Nîmes, UPR Projekt / Strate Ecole de Design, Robotics By Design
   Lab, Strate Research
 section_cnu: 71 Sciences de l'information et de la communication
-titrethese: >-
-  Les futurs des écologies du vieillissement : une exploration du potentiel de
-  la robotique sociale en EHPAD
-titretheseEn: 'The future of ecologies of ageing: exploring social robotics in nursing homes'
+titrethese: ' Des robots sociaux en EHPAD : de l’observation au design des futurs du soin au grand âge'
+titretheseEn: ''
 these_start: 2018
-these_end: 2025
+these_soutenue: true
+these_end: 2024
 tags:
   - Robotique sociale
   - EHPAD
@@ -60,10 +59,21 @@ Après une formation initiale d’ingénieure à l’Ecole Centrale Marseille, o
 
 Zaidi, N. & Wrembel, J. (2023). Prendre en compte l’influence des imaginaires dans le codesign de technologies en santé : une réflexion empirique dans les domaines des troubles du sommeil et du vieillissement, Sciences du Design, 16. En ligne : [https://doi.org/10.3917/sdd.016.0046](https://doi.org/10.3917/sdd.016.0046)
 
-Deuff, D., Zaidi, N., Sartore, M., Auton, A., & Zilelioglu, H. (2022). Réflexion sur la robotique sociale par les doctorants du RbD Lab. Face-à-face avec les altérités technologiques—Regards et expériences croisés au sein d’un laboratoire commun de recherche-action (Strate Ecole de Design, p. 54‑81). Sous la direction de I. Ocnarescu et E. Kamoun. En ligne : [https://www.roboticslab.design/news/livre-blanc](https://www.roboticslab.design/news/livre-blanc) 
+Deuff, D., Zaidi, N., Sartore, M., Auton, A., & Zilelioglu, H. (2022). Réflexion sur la robotique sociale par les doctorants du RbD Lab. Face-à-face avec les altérités technologiques—Regards et expériences croisés au sein d’un laboratoire commun de recherche-action (Strate Ecole de Design, p. 54‑81). Sous la direction de I. Ocnarescu et E. Kamoun. En ligne : [https://www.roboticslab.design/news/livre-blanc](https://www.roboticslab.design/news/livre-blanc)
 
 ZAIDI, N., OSORIO, P., TIBBLES, A. (2022, 13 décembre) Design for debate: futuring robots for Healthcare \[workshop].
 International Conference of Social Robotics (ISCR) 2022, Florence, Italie, en ligne : [https://sites.google.com/view/icsr22-designfordebateworkshop/](https://sites.google.com/view/icsr22-designfordebateworkshop/)
 
 ZAIDI, N. (2023), « Les grands projets de Korian Solutions qui intègrent des IA. Témoignage terrain sur
-l’intégration de robots sociaux en institution gériatrique », in PIATTI, Marie-Christine ; VIOLET, Franck (dir.), Pour des Intelligences artificielles au service du corps vulnérable. Actes de la Journée d’étude du 3 décembre 2021., Éditions des archives contemporaines, France, pp. 23-32, en ligne : [https://eac.ac/articles/5922](https://eac.ac/articles/5922) 
+l’intégration de robots sociaux en institution gériatrique », in PIATTI, Marie-Christine ; VIOLET, Franck (dir.), Pour des Intelligences artificielles au service du corps vulnérable. Actes de la Journée d’étude du 3 décembre 2021., Éditions des archives contemporaines, France, pp. 23-32, en ligne : [https://eac.ac/articles/5922](https://eac.ac/articles/5922)
+
+# Soutenance de thèse
+
+Thèse soutenue le 21/05/2024
+
+## Composition du jury
+
+* Manuel Zacklad, (président du jury)
+* **Dany Baillargeon**, (rapporteur)
+* Gentiane Venture, (rapporteuse)
+* **James Auger**, (examinateur)
