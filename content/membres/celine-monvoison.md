@@ -1,5 +1,5 @@
 ---
-title: Céline Monvoison
+title: Céline Monvoisin
 name: Monvoisin
 membre_actif: false
 membre_bureau: false
