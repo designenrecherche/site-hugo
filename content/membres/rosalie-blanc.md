@@ -10,7 +10,7 @@ etablissement: >-
 section_cnu: 18 Sciences de l'art
 titrethese: Accessibilité du langage par le design graphique
 titretheseEn: Accessibility of Language through Graphic Design
-these_start: 2021
+these_start: 2022
 these_end: 0
 tags:
   - alphabétisation
