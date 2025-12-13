@@ -3,6 +3,7 @@ title: Elise Goutagny
 name: Goutagny
 membre_actif: true
 type_page: membres
+photo: /images/default-profil.jpg
 titrethese: 'Les recueillant·es, pratiques graphiques féministes en France (2012-2022)'
 titretheseEn: 'The Gatherers : Feminist Graphic Design Practices in France (2012-2022)'
 these_start: 2020
