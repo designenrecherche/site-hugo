@@ -3,7 +3,7 @@ title: Emilie Huc
 name: Huc
 membre_actif: true
 membre_bureau: true
-bureau: Co-secrétaire
+bureau: Vice-secrétaire
 type_page: membres
 photo: /hucemilie.jpg
 etablissement: >-
@@ -61,12 +61,12 @@ In this context, a central question emerges: through sensitive translations, is 
 
 {{% lang class="fr" %}}
 
-Emilie Huc est designer et doctorante en Arts et Sciences de l’art mention design à l’université Paris 1 Panthéon-Sorbonne. Sous la direction de Catherine Chomarat-Ruiz, elle travaille sur l’exploration des traductions sensibles possibles du design à travers sa théorisation critique dans le but d’améliorer sa connaissance auprès d’un large public. Elle enseigne à l’Université Paris 1 Panthéon-Sorbonne. 
+Emilie Huc est designer et doctorante en Arts et Sciences de l’art mention design à l’université Paris 1 Panthéon-Sorbonne. Sous la direction de Catherine Chomarat-Ruiz, elle travaille sur l’exploration des traductions sensibles possibles du design à travers sa théorisation critique dans le but d’améliorer sa connaissance auprès d’un large public. Elle enseigne à l’Université Paris 1 Panthéon-Sorbonne.
 
 {{% /lang %}}
 
 {{% lang class="en" %}}
 
-Emilie Huc is a graphic designer and a PhD researcher in Arts and art sciences with a focus on design at Paris 1 Panthéon-Sorbonne University. Under the supervision of Catherine Chomarat-Ruiz, her research explores the possible sensitive translations of design through its critical theorization, with the aim of improving his understanding among a broad public. She teaches at Paris 1 Panthéon-Sorbonne University. 
+Emilie Huc is a graphic designer and a PhD researcher in Arts and art sciences with a focus on design at Paris 1 Panthéon-Sorbonne University. Under the supervision of Catherine Chomarat-Ruiz, her research explores the possible sensitive translations of design through its critical theorization, with the aim of improving his understanding among a broad public. She teaches at Paris 1 Panthéon-Sorbonne University.
 
 {{% /lang %}}
