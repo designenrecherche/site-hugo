@@ -22,7 +22,7 @@ tags:
   - esthétiques des objectivités scientifiques
 contact:
   mail: simonefehlinger@gmail.com ; simone.fehlinger@esadse.fr
-  site: simonefehlinger.com
+  site: 'https://simonefehlinger.tumblr.com/'
 ---
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
@@ -39,7 +39,7 @@ Au-delà d’une recherche relevant des histoires et des techniques de la repré
 
 {{% lang class="en" %}}
 
-By exploring our current ecological crisis as a cultural artifact, I am questioning the images of the mainstream weather report, which seem to enact, on a daily basis, modern visions of (scientific) reason and (technical) progress — thus motivating the domination and exploitation of nature. My hypothesis is that the style of current mainstream weather images co-contributes to climate change by mobilizing a modern history of material and discursive practices that emerged with the Renaissance and the scientific revolution — maintaining an artificial separation between Western Man and Nature. While techno-scientific weather observation and forecast technologies play a significant role in understanding the Earth as relational nature-culture processes and becomings, they also seem to actualize a specifically European style which puts nature at a distance. 
+By exploring our current ecological crisis as a cultural artifact, I am questioning the images of the mainstream weather report, which seem to enact, on a daily basis, modern visions of (scientific) reason and (technical) progress — thus motivating the domination and exploitation of nature. My hypothesis is that the style of current mainstream weather images co-contributes to climate change by mobilizing a modern history of material and discursive practices that emerged with the Renaissance and the scientific revolution — maintaining an artificial separation between Western Man and Nature. While techno-scientific weather observation and forecast technologies play a significant role in understanding the Earth as relational nature-culture processes and becomings, they also seem to actualize a specifically European style which puts nature at a distance.
 
 Beyond research relating to the histories and techniques of meteorological representation, I pose the following questions: If weather images not only represent the climate but also do or undo it, then what (new) images should meteorological knowledge equip itself with in the context of climate change?
 
