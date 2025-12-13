@@ -23,7 +23,7 @@ tags:
   - co-création
 contact:
   mail: blanc.rosalie@gmail.com
-  site: rosalieblanc.com
+  site: 'https://rosalieblanc.com/'
 ---
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
@@ -32,7 +32,7 @@ contact:
 
 {{% lang class="fr" %}}
 
-Cette thèse en recherche-création porte sur les manières dont le design graphique peut faciliter et accompagner l’apprentissage de la lecture pour les adultes peu ou non alphabétisés. À partir d’une étude historique des méthodes de lecture, d’une analyse de manuels d’alphabétisation contemporains et d’une observation des pratiques de formatrices, la recherche identifie et analyse les choix graphiques mobilisés dans les supports d’apprentissage. 
+Cette thèse en recherche-création porte sur les manières dont le design graphique peut faciliter et accompagner l’apprentissage de la lecture pour les adultes peu ou non alphabétisés. À partir d’une étude historique des méthodes de lecture, d’une analyse de manuels d’alphabétisation contemporains et d’une observation des pratiques de formatrices, la recherche identifie et analyse les choix graphiques mobilisés dans les supports d’apprentissage.
 
 La thèse s’ancre dans le terrain et un travail de coopération avec des formatrices a été mis en place, dans le but de créer des supports de cours d'alphabétisation prenant en compte les diverses situations d’enseignement, les besoins des formatrices et ceux des apprenants.
 
