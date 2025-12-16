@@ -4,7 +4,7 @@ name: Gourguechon
 membre_actif: true
 bureau: ''
 type_page: membres
-photo: /images/default-profil.jpg
+photo: /images/coraliegourguechon.png
 etablissement: Design Friction Lab
 titrethese: 'White Box : déconstruire les boîtes noires et leurs imaginaires'
 these_start: 2025
