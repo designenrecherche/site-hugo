@@ -3,6 +3,7 @@ title: Ainhoa Nicolas
 name: nicolas
 membre_actif: true
 type_page: membres
+photo: /images/default-profil.jpg
 etablissement: 'Université de Nimes, Unimes, laboratoire Projekt'
 section_cnu: 18 Arts appliqués
 titrethese: >-
