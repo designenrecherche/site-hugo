@@ -3,6 +3,7 @@ title: Léonore Conte
 name: conte-leonore
 membre_actif: false
 membre_bureau: false
+photo: /images/default-profil.jpg
 etablissement: 'Université Paris 8, EDESTA, Laboratoire AIAIC, équipes TEAMed et EPHA'
 section_cnu: 18 Arts plastiques
 titrethese: >-
