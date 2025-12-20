@@ -4,9 +4,7 @@ name: bonhomme
 membre_actif: false
 type_page: membres
 photo: /Max_Bonhomme.jpg
-etablissement: >-
-  Université Gustave-Eiffel, Champs-sur-Marne, Laboratoire Littératures, Savoirs
-  et Arts (LISAA).
+etablissement: 'Université Paris Nanterre, Histoire des arts et des représentations (HAR)'
 section_cnu: 22 Histoire de l'art
 titrethese: >-
   Propagande graphique : le photomontage dans la culture visuelle de la gauche
