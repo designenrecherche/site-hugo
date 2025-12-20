@@ -16,7 +16,7 @@ titrethese: >-
   technologies innovantes pour l’aéronautique : autonomie, connectivité et
   collaboration
 titretheseEn: ''
-these_start: 0
+these_start: 2021
 these_soutenue: true
 these_end: 2025
 tags:
