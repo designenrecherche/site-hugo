@@ -1,18 +1,41 @@
 ---
-contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: ''
-  linkedin: ''
-  mail: maxbonhomme@protonmail.com
-  medium: ''
-  site: ''
-  twitter: ''
+title: Max Bonhomme
+name: bonhomme
+membre_actif: false
+type_page: membres
+photo: /Max_Bonhomme.jpg
 etablissement: >-
   Université Gustave-Eiffel, Champs-sur-Marne, Laboratoire Littératures, Savoirs
   et Arts (LISAA).
+section_cnu: 22 Histoire de l'art
+titrethese: >-
+  Propagande graphique : le photomontage dans la culture visuelle de la gauche
+  française (1925-1939)
+titretheseEn: >-
+  Graphic Propaganda : Photomontage and the Visual Culture of the Left in France
+  (1925-1939)
+these_start: 2015
+these_soutenue: true
+these_end: 2020
+tags:
+  - Histoire de la photographie
+  - Histoire de la presse illustrée
+  - Culture visuelle
+  - Iconographie politique
+  - histoire du design graphique
+contact:
+  mail: ''
+  site: ''
+  twitter: ''
+  linkedin: ''
+  instagram: ''
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
+url_thesesfr: 'http://theses.fr/s240542'
+url_hal: ''
 instagram_1:
   post1: ''
   post2: ''
@@ -24,48 +47,24 @@ instagram_1:
   post8: ''
   post9: ''
 instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
   post1link: ''
+  img1: ''
   post2link: ''
+  img2: ''
   post3link: ''
+  img3: ''
   post4link: ''
+  img4: ''
   post5link: ''
+  img5: ''
   post6link: ''
+  img6: ''
   post7link: ''
+  img7: ''
   post8link: ''
+  img8: ''
   post9link: ''
-membre_actif: false
-name: bonhomme
-photo: /images/bonhomme-max.jpg
-section_cnu: 22 Histoire de l'art
-tags:
-  - Histoire de la photographie
-  - Histoire de la presse illustrée
-  - Culture visuelle
-  - Iconographie politique
-  - histoire du design graphique
-these_end: 2020
-these_soutenue: true
-these_start: 2015
-title: Max Bonhomme
-titrethese: >-
-  Propagande graphique : le photomontage dans la culture visuelle de la gauche
-  française (1925-1939)
-titretheseEn: >-
-  Graphic Propaganda : Photomontage and the Visual Culture of the Left in France
-  (1925-1939)
-type_page: membres
-url_hal: ''
-url_thesesfr: 'http://theses.fr/s240542'
-_template: membres
+  img9: ''
 ---
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
@@ -93,13 +92,13 @@ This study examines the place of photomontage in French graphic design between t
 
 {{% lang class="fr" %}}
 
-Diplômé de l’École du Louvre et doctorant en histoire de l’art à l’Université Paris-Nanterre, sous la direction de Rémi Labrusse et Christian Joschke. Il soutient en novembre 2020 une thèse intitulée « Propagande graphique. Le photomontage dans la culture visuelle de la gauche française (1925-1939). » Entre histoire du graphisme et histoire de la photographie, ses travaux interrogent le rôle des réseaux militants transnationaux dans la propagation de nouvelles stratégies graphiques, qui détournent le document photographique pour en faire un outil de critique idéologique. Il a publié des articles dans les revues _Études photographiques_, _SHIFT: Graduate Journal of Visual and Material Culture_, _Image\[&\]Narrative_, _Artefact_, ainsi que dans le catalogue de l’exposition _Photographie arme de classe_ (Centre Pompidou, 2018). Plus récemment, il a contribué au volume collectif Technique & design graphique, dirigé par Vivien Philizot et Jérôme Saint-Loubert Bié (éditions B42, 2020).
+Diplômé de l’École du Louvre et doctorant en histoire de l’art à l’Université Paris-Nanterre, sous la direction de Rémi Labrusse et Christian Joschke. Il soutient en novembre 2020 une thèse intitulée « Propagande graphique. Le photomontage dans la culture visuelle de la gauche française (1925-1939). » Entre histoire du graphisme et histoire de la photographie, ses travaux interrogent le rôle des réseaux militants transnationaux dans la propagation de nouvelles stratégies graphiques, qui détournent le document photographique pour en faire un outil de critique idéologique. Il a publié des articles dans les revues *Études photographiques*, *SHIFT: Graduate Journal of Visual and Material Culture*, *Image\[&]Narrative*, *Artefact*, ainsi que dans le catalogue de l’exposition *Photographie arme de classe* (Centre Pompidou, 2018). Plus récemment, il a contribué au volume collectif Technique & design graphique, dirigé par Vivien Philizot et Jérôme Saint-Loubert Bié (éditions B42, 2020).
 
 {{% /lang %}}
 
 {{% lang class="en" %}}
 
-Graduate of the Ecole du Louvre and PhD student in art history at the University of Paris Nanterre, under the supervision of Rémi Labrusse and Christian Joschke. In November 2020, he will defend a dissertation entitled "Graphic Propaganda : Photomontage and the Visual Culture of the Left in France (1925-1939)". Between the history of graphic design and the history of photography, his work questions the role of transnational militant networks in the propagation of new graphic strategies, which subvert the photographic document to turn it into a tool for ideological criticism. He has published articles in the journals _Études photographiques_, _SHIFT: Graduate Journal of Visual and Material Culture_, _Image\[&\]Narrative_, _Artefact_, as well as in the catalogue of the exhibition _Photographie, arme de classe_ (Centre Pompidou, 2018). More recently, he contributed to the collective volume _Technique & design graphique_, edited by Vivien Philizot and Jérôme Saint-Loubert Bié (B42 editions, 2020).
+Graduate of the Ecole du Louvre and PhD student in art history at the University of Paris Nanterre, under the supervision of Rémi Labrusse and Christian Joschke. In November 2020, he will defend a dissertation entitled "Graphic Propaganda : Photomontage and the Visual Culture of the Left in France (1925-1939)". Between the history of graphic design and the history of photography, his work questions the role of transnational militant networks in the propagation of new graphic strategies, which subvert the photographic document to turn it into a tool for ideological criticism. He has published articles in the journals *Études photographiques*, *SHIFT: Graduate Journal of Visual and Material Culture*, *Image\[&]Narrative*, *Artefact*, as well as in the catalogue of the exhibition *Photographie, arme de classe* (Centre Pompidou, 2018). More recently, he contributed to the collective volume *Technique & design graphique*, edited by Vivien Philizot and Jérôme Saint-Loubert Bié (B42 editions, 2020).
 
 {{% /lang %}}
 
