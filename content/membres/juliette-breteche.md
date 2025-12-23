@@ -1,14 +1,26 @@
 ---
 title: Juliette Bretéché
 name: Bretéché
+membre_actif: true
 type_page: membres
-photo: /images/default-profil.jpg
-etablissement: 'Université Paris-Saclay, RITM'
+photo: /Juliette_Breteche.png
+etablissement: Université Paris Saclay - Laboratoire RITM
+section_cnu: 06 Sciences de gestion
 titrethese: >-
-  L'acceptation et l'adoption par les consommateurs d'alternatives durables aux
-  protéines conventionnelles d'origine animale
+  Identité culturelle et transition protéique : une perspective de design sur
+  l’appropriation des pratiques alimentaires par les mangeurs
+titretheseEn: >-
+  Cultural Identity and the Protein Transition: A Design Perspective on Eaters’
+  Appropriation of Food Practices
 these_start: 2023
 these_end: 0
+tags:
+  - Pratiques alimentaires
+  - Transition protéique
+  - Identités culturelles
+contact:
+  mail: juliette.breteche@universite-paris-saclay.fr
+  linkedin: 'https://www.linkedin.com/in/juliette-bret%C3%A9ch%C3%A9-03851b71/'
 url_thesesfr: 'https://theses.fr/s367343'
 ---
 
@@ -16,5 +28,6 @@ url_thesesfr: 'https://theses.fr/s367343'
 
 ## Direction de thèse
 
-* **Valérie Nicolas-Hemar**
-* **Céline Gallen**
+* **Valérie Nicolas-Hemar**, RITM, Université Paris Saclay
+* **Céline Gallen**, LEMNA, Université de Nantes
+* **Julia Kunkel**, Food design Lab, Ecole de design Nantes atlantique
