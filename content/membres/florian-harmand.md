@@ -1,13 +1,13 @@
 ---
 title: Florian Harmand
 name: harmand
-membre_actif: false
+membre_actif: true
 type_page: membres
 photo: /images/default-profil.jpg
 etablissement: 'Université Bordeaux Montaigne, MICA, Axe IDEM'
 section_cnu: 71 Sciences de l'information et de la communication
-titrethese: 'Ecologie d''un système homme-machine : design et éthique pour un projet R & D'
-titretheseEn: 'Ecology of a man-machine system : design and ethic in a R&D project'
+titrethese: Du design d'interaction humain-algorithme
+titretheseEn: ''
 these_start: 2016
 these_soutenue: true
 these_end: 2022
@@ -93,6 +93,6 @@ Thèse soutenue le 16/12/2022
 ## Composition du jury
 
 * **Annie Gentès**, (présidente du jury et rapporteuse)
-* Manuel Zacklad, (rapporteur)
+* **Manuel Zacklad**, (rapporteur)
 * **David Pucheu**, (examinateur)
 * **Nolwenn Maudet**, (examinatrice)
