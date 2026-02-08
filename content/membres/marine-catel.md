@@ -1,14 +1,12 @@
 ---
 title: Marine Catel
 name: Catel
+membre_actif: true
 type_page: membres
-photo: /images/default-profil.jpg
-etablissement: >-
-  Hautes Ecoles Sorbonne Arts et Métiers Université, laboratoire LCPI
-  (Laboratoire Innovation et Conception)
-titrethese: >-
-  Création d'une méthode outillée d'innovation organisationnelle permettant de
-  co-concevoir l'Expérience Employé (Design for EE)
+photo: /Capture d’écran 2026-02-08 à 20.24.28.jpg
+etablissement: 'Hautes Ecoles Sorbonne Arts et Métiers Université, laboratoire LCPI (Laboratoire Innovation et Conception)'
+section_cnu: '62 Energétique, génie des procédés'
+titrethese: Création d'une méthode outillée d'innovation organisationnelle permettant de co-concevoir l'Expérience Employé (Design for EE)
 titretheseEn: ' Creation of an organizational innovation method and tools for co-designing the Employee Experience (Design for EE)'
 these_start: 2021
 these_soutenue: true
@@ -20,6 +18,11 @@ tags:
   - expérience employé
   - co-design
   - ressources humaines
+contact:
+  mail: marine.catel@fildinspiration.com
+  linkedin: www.linkedin.com/in/marine-catel-3a447988
+url_thesesfr: 'https://theses.fr/2024HESAE023'
+url_hal: 'https://pastel.hal.science/tel-04886138/'
 ---
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
@@ -40,17 +43,43 @@ Employees' expectations of work are changing. Organizations need to take these n
 
 ## Direction de thèse
 
-* **Améziane Aoussat**
-* **Fabrice Mantelet**
-* **Frédéric Segonds**
+* **Améziane Aoussat**, Laboratoire Conception de Produits et Innovation (LCPI), Arts et Métiers ParisTech
+* **Fabrice Mantelet**, LCPI, Arts et Métiers ParisTech
+* **Frédéric Segonds**, LCPI, Arts et Métiers ParisTech
+
+# Biographie
+
+{{% lang class="fr" %}}
+
+Marine Catel est docteure en génie industriel, spécialisée en innovation organisationnelle par le design et dans la co-conception de l’expérience employé. Ses travaux de recherche portent sur le transfert des méthodes de conception issues du design vers les transformations du travail et les pratiques des Ressources Humaines.
+
+Elle développe une approche de recherche-action outillée, au croisement du design, de l’ingénierie de la conception et du management, visant à structurer des processus de co-conception des organisations avec les salariés et les utilisateurs.
+
+À la suite de sa thèse, elle a fondé Fil d’Inspiration, une Jeune Entreprise Universitaire, afin de poursuivre et déployer ses travaux de recherche à travers des dispositifs de recherche-action, ancrés dans les organisations et les territoires.
+
+{{% /lang %}}
+
+{{% lang class="en" %}}
+
+Marine Catel holds a PhD in Industrial Engineering, specializing in organizational innovation through design and in the co-design of the employee experience. Her research focuses on transferring design-based methods to workplace transformation and Human Resources practices.
+
+She develops a tool-based action-research approach at the intersection of design, engineering design and management, aimed at structuring processes for the co-design of organizations with employees and users.
+
+Following her PhD, she founded Fil d’Inspiration, a University Spin-off, in order to pursue and deploy her research through action-research programs rooted in organizations and territories.
+
+{{% /lang %}}
 
 # Soutenance de thèse
 
-Thèse soutenue de 4 juin 2024
+Thèse soutenue le 4 juin 2024
 
 ## Composition du jury
 
-* **Jean-Claude Sagot**, (président du jury)
-* **Xavier Fischer**, (rapporteur)
-* **Thierry Gidel**, (rapporteur)
-* **Elena Koriajnova**, (examinatrice)
+* **Jean-Claude Sagot**, Professeur des universités, ELIAD, Université de Technologie de Belfort-Montbéliard (UTBM) (président du jury)
+* **Xavier Fischer**, Professeur, ESTIA Recherche, ESTIA (rapporteur)
+* **Thierry Gidel**, Maître de conférences, HDR, COSTECH, Université de Technologie de Compiègne (UTC) (rapporteur)
+* **Elena Koriajnova**, Maître de conférences, Université de Lorraine, IUT d’Épinal (examinatrice)
+* **Améziane Aoussat**, Professeur des universités, LCPI, Arts et Métiers (examinateur)
+* **Fabrice Mantelet**, Maître de conférences, HDR, LCPI, Arts et Métiers (examinateur)
+* **Frédéric Segonds**, Professeur des universités, LCPI, Arts et Métiers (examinateur)
+* **Pamela Caillens**, Directrice Innovation Collaborative, Cartier (Invitée, représentante de l’entreprise partenaire)
