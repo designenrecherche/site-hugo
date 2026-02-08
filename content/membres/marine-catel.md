@@ -83,3 +83,7 @@ Thèse soutenue le 4 juin 2024
 * **Fabrice Mantelet**, Maître de conférences, HDR, LCPI, Arts et Métiers (examinateur)
 * **Frédéric Segonds**, Professeur des universités, LCPI, Arts et Métiers (examinateur)
 * **Pamela Caillens**, Directrice Innovation Collaborative, Cartier (Invitée, représentante de l’entreprise partenaire)
+
+# Informations complémentaires
+
+[https://link.springer.com/chapter/10.1007/978-981-19-4472-7\_37](https://link.springer.com/chapter/10.1007/978-981-19-4472-7_37)
