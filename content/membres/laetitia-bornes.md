@@ -3,7 +3,7 @@ title: Laetitia Bornes
 name: Bornes
 membre_actif: true
 type_page: membres
-photo: /images/default-profil.jpg
+photo: /leatitiabones.jpg
 etablissement: ENAC (LII) & Université Toulouse Capitole (IDETCOM)
 section_cnu: 27 Informatique
 titrethese: Méthodes et outils systémiques concrets pour faire face à la complexité environnementale et aux effets rebond pendant un processus de design ou de décision
