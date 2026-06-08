@@ -26,8 +26,8 @@ Si le design est traversé par des enjeux sociaux, écologiques, économiques et
 
 * [Margaux Moussinet](https://designenrecherche.org/membres/margaux-moussinet/), présidente
 * [Valentin Aubois-Liogier](https://designenrecherche.org/membres/valentin-auboisliogier/), secrétaire
-* \[Dylan Fluzin], trésorière
-* \[Émilie Huc], responsable com. réseaux
+* [Dylan Fluzin](https://designenrecherche.org/membres/dylan-fluzin/), trésorière
+* [Émilie Huc](https://designenrecherche.org/membres/emilie-huc/), responsable com. réseaux
 
 {{% /bureau %}}
 
@@ -40,13 +40,28 @@ Si le design est traversé par des enjeux sociaux, écologiques, économiques et
 
 {{% /bureau %}}
 
+{{% bureau year="2023-2024" %}}
+
+* [Fanny Maurel](https://designenrecherche.org/membres/fanny-maurel/), présidente
+* [Séphanie Hémon](https://designenrecherche.org/membres/stephanie-hemon/), trésorière
+
+{{% /bureau %}}
+
+{{% bureau year="2022-2023" %}}
+
+* [Fanny Maurel](https://designenrecherche.org/membres/fanny-maurel/), présidente
+* [Séphanie Hémon](https://designenrecherche.org/membres/stephanie-hemon/), trésorière
+* Éloïse Vo, secrétaire
+
+{{% /bureau %}}
+
 {{% bureau year="2021-2022" %}}
 
 * [Julie Blanc](https://designenrecherche.org/membres/julie-blanc/), présidente
 * [Manon Ménard,](https://designenrecherche.org/membres/manon-menard/) secrétaire et vice trésorière
 * [Dorian Reunkrilerk](https://designenrecherche.org/membres/dorian-reunkrilerk/), trésorier et vice secrétaire
 * [Marion Voillot](https://designenrecherche.org/membres/marion-voillot/), responsable Com Événements (“chief emotion officer”)
-* Élise Goutagny, responsable Com Réseaux (“chief memes officer”)
+* [Élise Goutagny](https://designenrecherche.org/membres/elise-goutagny/), responsable Com Réseaux (“chief memes officer”)
 
 {{% /bureau %}}
 
