@@ -27,7 +27,7 @@ tags:
   - Changement sociosensible
   - Ecologie territoriale
 contact:
-  mail: 'valentin.auboisliogier@univ-tours.fr '
+  mail: valentinauboisliogier@gmail.com
   site: 'https://vaulio.fr/'
   twitter: ''
   linkedin: 'www.linkedin.com/in/valentin-aubois-liogier '
