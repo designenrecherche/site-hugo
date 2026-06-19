@@ -96,3 +96,16 @@ As part of a national program for the inclusion of students with autism at the u
 Manon Ménard maîtresse de conférences en design à l’université Toulouse - Jean Jaurès au sein du laboratoire LLA-CREATIS et designer graphique. Ses travaux de recherche portent sur l'approche critique et politique du design participatif par la pratique graphique, et les enjeux de justice sociale concernant l'inclusion en et par le design. Elle s'appuie sur les études en feminist & critical disability studies, et en pédagogiques critiques afin d’interroger les relations savoir-pouvoir au sein des pratiques en design et de son enseignement. Elle développe une réflexion sur les enjeux pédagogiques de la communication par la conception graphique, la cartographie, le dessin, et l’archivage numérique, considérant ces pratiques comme de potentiels formats pour l’émergence de savoirs marginalisés.
 
 {{% /lang %}}
+
+# Soutenance de thèse
+
+## Composition du jury
+
+* **Anne Bationo-Tillon**, Professeure ordinaire, Haute École Pédagogique Vaud (HEP Vaud, HES-SO) (rapporteure)
+* **Antonella Tufano**, Professeure, Université Paris 1 Panthéon-Sorbonne (rapporteure)
+* **Ruedi Baur**, Designer-chercheur, École nationale supérieure des Arts Décoratifs (examinateur)
+* **Marion Coville**, Maîtresse de conférences, Université de Poitiers (examinatrice)
+* **Marianne Guarino-Huet**, Professeure associée, Haute école d’art et de design de Genève (HEAD – Genève, HES-SO) (examinatrice)
+* **Saul Pandelakis**, Maître de conférences, Université Toulouse – Jean Jaurès (examinateur)
+* **Michela Deni**, Professeure des universités, Université de Nîmes, PROJEKT (directrice)
+* **Anthony Masure**, Professeur associé et responsable de la recherche, la HEAD-Genève (co-directeur)
