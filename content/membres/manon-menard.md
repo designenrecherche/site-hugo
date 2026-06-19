@@ -76,6 +76,14 @@ Inscrite dans le cadre d’un programme national pour l’inclusion des étudian
 
 {{% /lang %}}
 
+{{% lang class="en" %}}
+
+The deployment of public policies in favor of social and educational inclusion over the last twenty years, in France (2005 and 2013 laws) and internationally (UN Convention in 2006), is usually highlighted as a positive paradigm shift regarding social justice rights for disability. However, the consensus around the definition of inclusion questions the political stakes and the socio-economic systems underlying the different spheres where discourses and actions in its favor are held (institutional, academic, associative, private). This contextual disparity shows that the conceptualization of inclusion applied to the field of human affairs draws divergent societal ideals, as well as ways of understanding the experiences of people with disabilities. In this regard, work in design and its Western historicity is significant in how issues of inclusion are problematized and translated into design practices for bodies (psychological and physical) with disabilities. This observation questions the modalities of inclusion as an instrument of power and normalization and how design is embodied in these processes of control as a support or transformer.
+
+As part of a national program for the inclusion of students with autism at the university (NCU program «Aspie-Friendly, building an inclusive university»), this thesis in design, studies the socio-cultural and political stakes of a design said to be for inclusion and the way in which the implementation of design frameworks puts people with disabilities, and more specifically people with autism, to the test of «normality». From our experience as a graphic designer integrated within a participatory research program (Aspie-Friendly), we propose to account for the existing interrelations between the consideration of the individualization of people with autism, that of their participation within a design project, and that of the figure of the designer, called to solve social problems in a pedagogical context. According to the critical analysis of the concept of inclusion and through a first field study linked to an «Aspie-Friendly» hackathon, we propose to go beyond the «solutionist» approach of design while underlining the persistent «ableism» blind spots. In this respect, our argument is supported by theoretical contributions in feminist and critical disability studies in order to reconsider participatory design practices as «problematizing» and «dialogic» as they are envisaged in Freirean critical pedagogy. It is from this perspective that we developed the participatory design project «I am autistic and...» with autistic students from the association La Bulle ! This initiative brings perspectives of participative methodologies within projects linked to the themes of lives damaged by the dominant culture, privileging a solidary praxis in design, and moving from a design for inclusion to a design for plurality.
+
+{{% /lang %}}
+
 ## Direction de thèse
 
 * **Michela Deni**, Université de Nîmes, PROJEKT
@@ -85,6 +93,6 @@ Inscrite dans le cadre d’un programme national pour l’inclusion des étudian
 
 {{% lang class="fr" %}}
 
-Manon Ménard est designer graphique de formation (BTS et DSAA) et travaille depuis 2015 sur des thématiques pédagogiques, d'inclusions sociales et culturelles. Lauréate en 2017 de l'appel à projet Création en cours des Ateliers Médicis, ses recherches se situent en étroit lien avec différents établissements scolaires et éducatifs. Elle est également doctorante associée du laboratoire LLA-CRÉATIS et est chargée d’enseignement en Licence Design, Prospective et Société à l’Université Toulouse – Jean Jaurès.
+Manon Ménard maîtresse de conférences en design à l’université Toulouse - Jean Jaurès au sein du laboratoire LLA-CREATIS et designer graphique. Ses travaux de recherche portent sur l'approche critique et politique du design participatif par la pratique graphique, et les enjeux de justice sociale concernant l'inclusion en et par le design. Elle s'appuie sur les études en feminist & critical disability studies, et en pédagogiques critiques afin d’interroger les relations savoir-pouvoir au sein des pratiques en design et de son enseignement. Elle développe une réflexion sur les enjeux pédagogiques de la communication par la conception graphique, la cartographie, le dessin, et l’archivage numérique, considérant ces pratiques comme de potentiels formats pour l’émergence de savoirs marginalisés.
 
 {{% /lang %}}
