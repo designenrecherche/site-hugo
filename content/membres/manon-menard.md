@@ -22,7 +22,7 @@ tags:
   - Validisme
 contact:
   mail: manon.menard13@gmail.com
-  site: www.manonmenard.com
+  site: 'http://www.manonmenard.com/'
   twitter: ''
   linkedin: ''
   instagram: ''
