@@ -1,28 +1,25 @@
 ---
 title: Manon Ménard
 name: menard
-membre_actif: true
+membre_actif: false
 membre_bureau: false
 bureau: Secrétaire et vice trésorière
 type_page: membres
-photo: /images/phpto_insta1-1.jpg
+photo: /manon_menard.jpg
 etablissement: 'Université de Nîmes (Unîmes), laboratoire PROJEKT'
 section_cnu: 18 Arts appliqués
-titrethese: >-
-  De la culture des singularités à l'inclusion sociale et pédagogique par le
-  design
-titretheseEn: ''
+titrethese: ' De l''inclusion à la pluralité : le design à l''épreuve de la normalité. Vers une recherche-projet située depuis l''autisme à l''université'
+titretheseEn: 'From inclusion to plurality: design to the test of normality. Towards a project-grounded research situated from autism to the university'
 these_start: 2019
 these_soutenue: true
 these_end: 2023
 tags:
   - Design
-  - Singularité
-  - Diversité
   - Inclusion
-  - Design graphique
   - Autisme
-  - Pédagogie
+  - Pratiques participatives
+  - Normalité
+  - Validisme
 contact:
   mail: manon.menard13@gmail.com
   site: www.manonmenard.com
@@ -73,7 +70,9 @@ instagram_files:
 
 {{% lang class="fr" %}}
 
-Reconnues comme ayant des troubles d'interactions sociales et de la communication (classifications CIM-11 et DSM 5), les personnes autistes mettent en lumière de nombreuses problématiques sociales interférant avec des systèmes conventionnels préétablis et normés. Dans le contexte universitaire, ces interférences ont également des répercussions d’ordre pédagogique qui viennent perturber d’autant plus le bien-être des étudiants pour qui la sur-adaptation est déjà très familière. À partir du prisme de l’autisme et considérant le modèle social du handicap, cette recherche vise à soulever dans un premier temps les enjeux concernant l'acceptation des différentes identités sociales et neurodiversifiées à l’université. Proposant un nouveau cadre d’expression dans un contexte d'apprentissage, le design opère comme un révélateur de pratiques apprenantes parfois insoupçonnées. Dans un deuxième temps, il s’agit de passer de l’inclusion sociale vers l’inclusion pédagogique, par la mise en place de dispositifs adaptés à l’expression de toutes pratiques et la valorisation de la culture des singularités.
+Le déploiement de politiques publiques en faveur de l’inclusion sociale et pédagogique depuis une vingtaine d’années, en France (lois de 2005 et 2013) et à l’international (Convention de l’ONU en 2006), est habituellement souligné comme un changement de paradigme positif concernant les droits en matière de justice sociale pour le handicap. Le consensus autour de la notion d’inclusion interroge cependant les enjeux politiques et les systèmes socio-économiques que sous-tendent les différentes sphères où sont tenus les discours et les actions en sa faveur (institutionnelle, académique, associative, privée). Cette disparité contextuelle montre que la conceptualisation de l’inclusion appliquée au domaine des affaires humaines dessine des idéaux sociétaux divergents, ainsi que des façons d’appréhender les expériences des personnes handicapées. À cet égard, les travaux en design et leur historicité occidentale sont significatifs de la façon dont les enjeux en termes d’inclusion se problématisent et se traduisent au sein des pratiques de conception des corps (psychique et physique) handicapés. Ce constat questionne les modalités d’inclusion en tant qu’instruments de pouvoir et de normalisation et la manière dont le design s’incarne dans ces processus de contrôle comme support ou transformateur.
+
+Inscrite dans le cadre d’un programme national pour l’inclusion des étudiants et étudiantes autistes à l’université (programme NCU « Aspie-Friendly, construire une université inclusive »), cette thèse en design étudie les enjeux socioculturels et politiques d’un design dit pour l’inclusion et la manière dont la mise en place des cadres de conception met les personnes en situation de handicap, et plus spécifiquement les personnes autistes, à l’épreuve de la « normalité ». Depuis notre expérience en tant que designer graphique intégrée au sein d’un programme de recherche participatif (Aspie-Friendly), nous proposons de rendre compte des interrelations existantes entre la considération de l’individualisation des personnes autistes, celle de leur participation au sein d’un projet de conception, et celle de la figure du designer, appelé pour résoudre des problématiques sociales en contexte pédagogique. Selon l’analyse critique du concept d’inclusion et par une première étude de terrain liée à un hackathon « Aspie-Friendly », nous proposons de dépasser l’approche « solutionniste » du design tout en soulignant des angles morts « validistes » persistants. À cet égard, notre argumentaire est soutenu par des apports théoriques en feminist et critical disability studies afin de reconsidérer les pratiques participatives en design comme « problématisantes » et « dialogiques » telles qu’elles sont envisagées en pédagogie critique freirienne. C’est selon cette perspective que nous avons développé le projet de design participatif « Je suis autiste et… » avec des étudiantes et des étudiants autistes de l’association La Bulle !. Cette initiative apporte des perspectives de méthodologies participatives au sein de projets liés aux thématiques de vies lésées par la culture dominante, en privilégiant une praxis solidaire en design, et en passant d’un design pour l’inclusion à un design pour la pluralité.
 
 {{% /lang %}}
 
