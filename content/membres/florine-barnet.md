@@ -53,7 +53,7 @@ o « Le catalogue "Good Goods by Starck", outil de traduction sensible de théor
 
 Communications :
 
-o « Le Bureau du théâtre du monde de Philippe Starck : une démocratisation utopique ? », Les Rencontres des arts décoratifs : Années 80. Mode, design et graphisme en France, jeudi 9 mars 2023, Musée des Arts Décoratifs, Paris. URL :[https://umrausser.hypotheses.org/files/2023/03/Rencontres\_Arts\_Decoratifs\_2023.pdf](https://umrausser.hypotheses.org/files/2023/03/Rencontres_Arts_Decoratifs_2023.pdf)
+o « Le Bureau du théâtre du monde de Philippe Starck : une démocratisation utopique ? », Les Rencontres des arts décoratifs : Années 80. Mode, design et graphisme en France, jeudi 9 mars 2023, Musée des Arts Décoratifs, Paris. URL : [https://umrausser.hypotheses.org/files/2023/03/Rencontres\_Arts\_Decoratifs\_2023.pdf](https://umrausser.hypotheses.org/files/2023/03/Rencontres_Arts_Decoratifs_2023.pdf)
 
 o « Créer pour être collectionné : exemples de "vie" d'objets créés par Philippe Starck », 6ème colloque de la SFR Territoires Historiques : L'objet des collections, jeudi 5 décembre 2024, ULCO, Boulogne-sur-mer. URL : [https://www.google.com/url?sa=t\&source=web\&rct=j\&opi=89978449\&url=http://crehs.univ-artois.fr/content/download/990/4086/file/Colloque-A2U-JL-2024-10-01%2520programme.pdf\&ved=2ahUKEwiT\_tTRkbaVAxWIUKQEHeOEF9UQFnoECDEQAQ\&usg=AOvVaw3r0b1-YQDCuhNiI\_1ElYdB](https://www.google.com/url?sa=t\&source=web\&rct=j\&opi=89978449\&url=http://crehs.univ-artois.fr/content/download/990/4086/file/Colloque-A2U-JL-2024-10-01%2520programme.pdf\&ved=2ahUKEwiT_tTRkbaVAxWIUKQEHeOEF9UQFnoECDEQAQ\&usg=AOvVaw3r0b1-YQDCuhNiI_1ElYdB)
 
