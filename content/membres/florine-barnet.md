@@ -43,17 +43,17 @@ The aim of this research project is to go deeper about the work of French design
 
 ## Liens vers articles/communications
 
-Articles : 
+Articles :
 
-o « Ray Hollis de Philippe Starck : la mise en scène de l’ubiquité de l’objet », Les Cahiers de l’École du Louvre \[En ligne], 22 | 2024, mis en ligne le 23 mai 2024, consulté le 10 octobre 2024. URL : [http://journals.openedition.org/cel/30423](http://journals.openedition.org/cel/30423) ; DOI : https\://doi.org/10.4000/11w6m 
+o « Ray Hollis de Philippe Starck : la mise en scène de l’ubiquité de l’objet », Les Cahiers de l’École du Louvre \[En ligne], 22 | 2024, mis en ligne le 23 mai 2024, consulté le 10 octobre 2024. URL : [http://journals.openedition.org/cel/30423](http://journals.openedition.org/cel/30423) ; DOI : [https://doi.org/10.4000/11w6m](https://doi.org/10.4000/11w6m)
 
 o « Good Goods by Starck, un catalogue manifeste. Entretien avec Philippe Starck », La Redoute, un temps d'avance. Mode, design, publicité, éditions Norma, Paris, 2026, p. 135-141.
 
-o « Le catalogue "Good Goods by Starck", outil de traduction sensible de théorie du design ? », Design Arts Médias \[En ligne], 06/2026, consulté le 3 juillet 2026. URL : [https://journal.dampress.org/issues/theories-critiques-du-design-pensees-critiques-traductions-sensibles/le-catalogue-good-goods-by-starck-outil-de-traduction-sensible-de-theories-du-design](https://journal.dampress.org/issues/theories-critiques-du-design-pensees-critiques-traductions-sensibles/le-catalogue-good-goods-by-starck-outil-de-traduction-sensible-de-theories-du-design) 
+o « Le catalogue "Good Goods by Starck", outil de traduction sensible de théorie du design ? », Design Arts Médias \[En ligne], 06/2026, consulté le 3 juillet 2026. URL : [https://journal.dampress.org/issues/theories-critiques-du-design-pensees-critiques-traductions-sensibles/le-catalogue-good-goods-by-starck-outil-de-traduction-sensible-de-theories-du-design](https://journal.dampress.org/issues/theories-critiques-du-design-pensees-critiques-traductions-sensibles/le-catalogue-good-goods-by-starck-outil-de-traduction-sensible-de-theories-du-design)
 
-Communications : 
+Communications :
 
-o « Le Bureau du théâtre du monde de Philippe Starck : une démocratisation utopique ? », Les Rencontres des arts décoratifs : Années 80. Mode, design et graphisme en France, jeudi 9 mars 2023, Musée des Arts Décoratifs, Paris. URL : [https://umrausser.hypotheses.org/files/2023/03/Rencontres\_Arts\_Decoratifs\_2023.pdf](https://umrausser.hypotheses.org/files/2023/03/Rencontres_Arts_Decoratifs_2023.pdf)
+o « Le Bureau du théâtre du monde de Philippe Starck : une démocratisation utopique ? », Les Rencontres des arts décoratifs : Années 80. Mode, design et graphisme en France, jeudi 9 mars 2023, Musée des Arts Décoratifs, Paris. URL :[https://umrausser.hypotheses.org/files/2023/03/Rencontres\_Arts\_Decoratifs\_2023.pdf](https://umrausser.hypotheses.org/files/2023/03/Rencontres_Arts_Decoratifs_2023.pdf)
 
 o « Créer pour être collectionné : exemples de "vie" d'objets créés par Philippe Starck », 6ème colloque de la SFR Territoires Historiques : L'objet des collections, jeudi 5 décembre 2024, ULCO, Boulogne-sur-mer. URL : [https://www.google.com/url?sa=t\&source=web\&rct=j\&opi=89978449\&url=http://crehs.univ-artois.fr/content/download/990/4086/file/Colloque-A2U-JL-2024-10-01%2520programme.pdf\&ved=2ahUKEwiT\_tTRkbaVAxWIUKQEHeOEF9UQFnoECDEQAQ\&usg=AOvVaw3r0b1-YQDCuhNiI\_1ElYdB](https://www.google.com/url?sa=t\&source=web\&rct=j\&opi=89978449\&url=http://crehs.univ-artois.fr/content/download/990/4086/file/Colloque-A2U-JL-2024-10-01%2520programme.pdf\&ved=2ahUKEwiT_tTRkbaVAxWIUKQEHeOEF9UQFnoECDEQAQ\&usg=AOvVaw3r0b1-YQDCuhNiI_1ElYdB)
 
