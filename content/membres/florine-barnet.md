@@ -53,8 +53,12 @@ o « Le catalogue "Good Goods by Starck", outil de traduction sensible de théor
 
 Communications :
 
-o « Le Bureau du théâtre du monde de Philippe Starck : une démocratisation utopique ? », Les Rencontres des arts décoratifs : Années 80. Mode, design et graphisme en France, jeudi 9 mars 2023, Musée des Arts Décoratifs, Paris. URL : [https://umrausser.hypotheses.org/files/2023/03/Rencontres\_Arts\_Decoratifs\_2023.pdf](https://umrausser.hypotheses.org/files/2023/03/Rencontres_Arts_Decoratifs_2023.pdf)
+o « Le Bureau du théâtre du monde de Philippe Starck : une démocratisation utopique ? », Les Rencontres des arts décoratifs : Années 80. Mode, design et graphisme en France, jeudi 9 mars 2023, Musée des Arts Décoratifs, Paris. 
+
+URL : [https://umrausser.hypotheses.org/files/2023/03/Rencontres\_Arts\_Decoratifs\_2023.pdf](https://umrausser.hypotheses.org/files/2023/03/Rencontres_Arts_Decoratifs_2023.pdf)
 
 o « Créer pour être collectionné : exemples de "vie" d'objets créés par Philippe Starck », 6ème colloque de la SFR Territoires Historiques : L'objet des collections, jeudi 5 décembre 2024, ULCO, Boulogne-sur-mer.
 
-o « Des non-objets pour des non-consommateurs. Relecture du catalogue Good Goods by Starck pour La Redoute (1998) », Journées d'étude : Traductions sensibles de théories du design, jeudi 15 mai 2025, Institut ACTE, Université Paris 1 Panthéon-Sorbonne, École des Arts de la Sorbonne, Paris. URL : [https://institut-acte.pantheonsorbonne.fr/sites/default/files/2025-04/brochure\_traductionssensibles\_version\_electronique.pdf](https://institut-acte.pantheonsorbonne.fr/sites/default/files/2025-04/brochure_traductionssensibles_version_electronique.pdf)
+o « Des non-objets pour des non-consommateurs. Relecture du catalogue Good Goods by Starck pour La Redoute (1998) », Journées d'étude : Traductions sensibles de théories du design, jeudi 15 mai 2025, Institut ACTE, Université Paris 1 Panthéon-Sorbonne, École des Arts de la Sorbonne, Paris. 
+
+URL : [https://institut-acte.pantheonsorbonne.fr/sites/default/files/2025-04/brochure\_traductionssensibles\_version\_electronique.pdf](https://institut-acte.pantheonsorbonne.fr/sites/default/files/2025-04/brochure_traductionssensibles_version_electronique.pdf)
