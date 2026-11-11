@@ -3,20 +3,13 @@ title: Emilie Huc
 name: Huc
 membre_actif: true
 membre_bureau: true
-bureau: Vice-secrétaire
+bureau: Présidente
 type_page: membres
 photo: /hucemilie.jpg
-etablissement: >-
-  Université Paris 1 Panthéon-Sorbonne, Institut ACTE (Arts, Créations,
-  Théories, Esthétique), équipe Design, Arts, Médias
+etablissement: 'Université Paris 1 Panthéon-Sorbonne, Institut ACTE (Arts, Créations, Théories, Esthétique), équipe Design, Arts, Médias'
 section_cnu: 18 Sciences de l'art
-titrethese: >-
-  Exploration des traductions sensibles possibles du design à travers sa
-  théorisation critique dans le but d'améliorer sa connaissance auprès d'un
-  large public
-titretheseEn: >-
-  Exploring the possible sensitive translations of design through its critical
-  theorization, with the aim of broadening public understanding.
+titrethese: Exploration des traductions sensibles possibles du design à travers sa théorisation critique dans le but d'améliorer sa connaissance auprès d'un large public
+titretheseEn: 'Exploring the possible sensitive translations of design through its critical theorization, with the aim of broadening public understanding.'
 these_start: 2024
 these_end: 0
 tags:
@@ -25,8 +18,7 @@ tags:
   - traduction sensible
 contact:
   mail: emilie3120@gmail.com
-  instagram: >-
-    https://www.instagram.com/elphtrf?igsh=MW8ycjE2aXQ0eHNzYg%3D%3D&utm_source=qr
+  instagram: 'https://www.instagram.com/elphtrf?igsh=MW8ycjE2aXQ0eHNzYg%3D%3D&utm_source=qr'
 ---
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
