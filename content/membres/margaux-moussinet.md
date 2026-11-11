@@ -2,12 +2,10 @@
 title: Margaux Moussinet
 name: Moussinet
 membre_actif: true
-membre_bureau: true
-bureau: Présidente
+membre_bureau: false
+bureau: ''
 photo: /margaux.jpg
-etablissement: >-
-  Université Paris 1 Panthéon-Sorbonne, Institut ACTE (Arts, Créations,
-  Théories, Esthétique), équipe Design, Arts, Médias
+etablissement: 'Université Paris 1 Panthéon-Sorbonne, Institut ACTE (Arts, Créations, Théories, Esthétique), équipe Design, Arts, Médias'
 section_cnu: 18 Sciences de l'art
 titrethese: 'L''opacité typographique: plasticité et autonomie du texte et de la lettre'
 these_start: 2019
