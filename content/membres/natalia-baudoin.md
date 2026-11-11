@@ -1,51 +1,18 @@
 ---
-bureau: ''
-contact:
-  facebook: ''
-  github: ''
-  gitlab: ''
-  hypotheses: ''
-  instagram: 'https://www.instagram.com/nataliabaudoin/?hl=es'
-  linkedin: ''
-  mail: 'studio@nataliabaudoin.com '
-  medium: ''
-  site: www.nataliabaudoin.com
-  twitter: ''
-etablissement: 'Programme SACRe, EnsadLab, ENSAD-Université PSL'
-instagram_1:
-  post1: ''
-  post2: ''
-  post3: ''
-  post4: ''
-  post5: ''
-  post6: ''
-  post7: ''
-  post8: ''
-  post9: ''
-instagram_files:
-  img1: ''
-  img2: ''
-  img3: ''
-  img4: ''
-  img5: ''
-  img6: ''
-  img7: ''
-  img8: ''
-  img9: ''
-  post1link: ''
-  post2link: ''
-  post3link: ''
-  post4link: ''
-  post5link: ''
-  post6link: ''
-  post7link: ''
-  post8link: ''
-  post9link: ''
-membre_actif: true
-membre_bureau: false
+title: Natalia Baudoin
 name: Baudoin
+membre_actif: true
+membre_bureau: true
+bureau: Secrétaire
+type_page: membres
 photo: /images/unnamed.png
+etablissement: 'Programme SACRe, EnsadLab, ENSAD-Université PSL'
 section_cnu: ''
+titrethese: 'Design Convergent, Bricologies symbiotiques'
+titretheseEn: 'Convergent Design, Symbiotic bricologies'
+these_start: 2019
+these_soutenue: false
+these_end: 2024
 tags:
   - Design
   - Artisanat
@@ -57,18 +24,49 @@ tags:
   - Chaîne technique
   - Microfinance
   - Matériaux
-these_end: 2024
-these_soutenue: false
-these_start: 2019
-title: Natalia Baudoin
-titrethese: 'Design Convergent, Bricologies symbiotiques'
-titretheseEn: 'Convergent Design, Symbiotic bricologies'
-type_page: membres
-url_hal: ''
+contact:
+  mail: 'studio@nataliabaudoin.com '
+  site: www.nataliabaudoin.com
+  twitter: ''
+  linkedin: ''
+  instagram: 'https://www.instagram.com/nataliabaudoin/?hl=es'
+  facebook: ''
+  medium: ''
+  hypotheses: ''
+  github: ''
+  gitlab: ''
 url_thesesfr: 'http://www.theses.fr/s229931'
-_template: membres
+url_hal: ''
+instagram_1:
+  post1: ''
+  post2: ''
+  post3: ''
+  post4: ''
+  post5: ''
+  post6: ''
+  post7: ''
+  post8: ''
+  post9: ''
+instagram_files:
+  post1link: ''
+  img1: ''
+  post2link: ''
+  img2: ''
+  post3link: ''
+  img3: ''
+  post4link: ''
+  img4: ''
+  post5link: ''
+  img5: ''
+  post6link: ''
+  img6: ''
+  post7link: ''
+  img7: ''
+  post8link: ''
+  img8: ''
+  post9link: ''
+  img9: ''
 ---
-
 
 <!-- Supprimer les parties non remplies (supprimer les blocks de lang s'il n'y a pas deux langues). Tu es libre d'ajouter ce que tu veux à cette partie -->
 
@@ -76,7 +74,7 @@ _template: membres
 
 {{% lang class="fr" %}}
 
-Design convergent, Bricologies symbiotiques est une thèse par le design qui s’intéresse à comment et pourquoi une pratique du design en lien avec le _Jayu Kiwakirakisa_ (artisanat du sel de Bolivie) permettrait de révéler, à l’intérieur et à extérieur de la communauté, la cosmologie inhérente à cette pratique artisanale.
+Design convergent, Bricologies symbiotiques est une thèse par le design qui s’intéresse à comment et pourquoi une pratique du design en lien avec le *Jayu Kiwakirakisa* (artisanat du sel de Bolivie) permettrait de révéler, à l’intérieur et à extérieur de la communauté, la cosmologie inhérente à cette pratique artisanale.
 
 Elle pose comme hypothèse que la collaboration entre designers et artisans permettrait de créer un maillage complexe de données sociales, religieuses, techniques, économiques et esthétiques qui se cristalliseraient dans les objets produits ensemble et sur un pied d’égalité. Le fruit de cet échange serait peut-être une intersection générative donnant lieu à une culture de l’objet renouvelée au croisement de l’art, de la science et de l’artisanat, élargissant en particulier la chaîne technique des artisans et par la même leur pouvoir économique.
 
