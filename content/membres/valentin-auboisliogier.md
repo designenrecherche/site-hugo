@@ -3,7 +3,7 @@ title: Valentin Aubois-Liogier
 name: Aubois-Liogier
 membre_actif: true
 membre_bureau: false
-bureau: 'Secrétaire '
+bureau: ''
 type_page: membres
 photo: /AUBOISLIOGIER-Photo-ID.jpg
 etablissement: 'Université de Tours, CITERES'
