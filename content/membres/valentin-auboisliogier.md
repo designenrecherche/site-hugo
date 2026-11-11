@@ -2,7 +2,7 @@
 title: Valentin Aubois-Liogier
 name: Aubois-Liogier
 membre_actif: true
-membre_bureau: true
+membre_bureau: false
 bureau: 'Secrétaire '
 type_page: membres
 photo: /AUBOISLIOGIER-Photo-ID.jpg
